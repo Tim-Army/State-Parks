@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>State Parks</title>
+<style>
+  :root{
+    --bg:#f7f7f5; --card:#fff; --text:#1c1c1a; --muted:#666; --line:#e2e2dd;
+    --accent:#2f6f4f; --accent-soft:#e8f1eb;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#16181a; --card:#1e2124; --text:#eceae5; --muted:#9d9d97; --line:#2e3236;
+      --accent:#7dc4a0; --accent-soft:#22302a;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:960px;margin:0 auto;padding:2rem 1rem 4rem}
+  h1{margin:0 0 .25rem;font-size:1.9rem;letter-spacing:-.02em}
+  .sub{color:var(--muted);margin:0 0 1.5rem}
+  .controls{display:flex;gap:.75rem;flex-wrap:wrap;align-items:center;margin-bottom:1rem}
+  input[type=search]{flex:1 1 260px;padding:.6rem .8rem;font-size:1rem;color:var(--text);
+    background:var(--card);border:1px solid var(--line);border-radius:8px}
+  input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .count{color:var(--muted);font-size:.9rem}
+  .tablewrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:10px}
+  table{border-collapse:collapse;width:100%;min-width:520px}
+  th,td{text-align:left;padding:.7rem .9rem;border-bottom:1px solid var(--line);vertical-align:top}
+  thead th{position:sticky;top:0;background:var(--card);cursor:pointer;user-select:none;
+    font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);white-space:nowrap}
+  thead th:hover{color:var(--text)}
+  thead th .arrow{opacity:.35;font-size:.75em;margin-left:.35em}
+  thead th[aria-sort] .arrow{opacity:1;color:var(--accent)}
+  tbody tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:var(--accent-soft)}
+  a{color:var(--accent)}
+  td.state{white-space:nowrap;font-weight:600}
+  .empty{padding:2rem;text-align:center;color:var(--muted)}
+  footer{margin-top:1.25rem;color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>State Parks</h1>
+  <p class="sub">Official state park system websites for all 50 states. Click a column heading to sort; type to filter.</p>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search state or park system…" autocomplete="off" aria-label="Search">
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th data-key="state" scope="col">State <span class="arrow">&#9650;&#9660;</span></th>
+          <th data-key="name" scope="col">Park System <span class="arrow">&#9650;&#9660;</span></th>
+          <th data-key="url" scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
+        </tr>
+      </thead>
+      <tbody id="body"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No matches.</div>
+  </div>
+
+  <footer>50 entries &middot; data in <code>parks.csv</code></footer>
+</div>
+
+<script>
+const DATA = [
+  {
+    "state": "Alabama",
+    "name": "Alabama State Parks",
+    "url": "https://www.alapark.com/"
+  },
+  {
+    "state": "Alaska",
+    "name": "Alaska State Parks",
+    "url": "https://dnr.alaska.gov/parks/"
+  },
+  {
+    "state": "Arizona",
+    "name": "Arizona State Parks & Trails",
+    "url": "https://azstateparks.com/"
+  },
+  {
+    "state": "Arkansas",
+    "name": "Arkansas State Parks",
+    "url": "https://www.arkansas.com/state-parks"
+  },
+  {
+    "state": "California",
+    "name": "California State Parks",
+    "url": "https://www.parks.ca.gov/"
+  },
+  {
+    "state": "Colorado",
+    "name": "Colorado Parks & Wildlife",
+    "url": "https://cpw.state.co.us/"
+  },
+  {
+    "state": "Connecticut",
+    "name": "Connecticut State Parks",
+    "url": "https://portal.ct.gov/deep/state-parks/connecticut-state-parks-and-forests"
+  },
+  {
+    "state": "Delaware",
+    "name": "Delaware State Parks",
+    "url": "https://destateparks.com/"
+  },
+  {
+    "state": "Florida",
+    "name": "Florida State Parks",
+    "url": "https://www.floridastateparks.org/"
+  },
+  {
+    "state": "Georgia",
+    "name": "Georgia State Parks & Historic Sites",
+    "url": "https://gastateparks.org/"
+  },
+  {
+    "state": "Hawaii",
+    "name": "Hawaii State Parks",
+    "url": "https://dlnr.hawaii.gov/dsp/"
+  },
+  {
+    "state": "Idaho",
+    "name": "Idaho Parks & Recreation",
+    "url": "https://parksandrecreation.idaho.gov/"
+  },
+  {
+    "state": "Illinois",
+    "name": "Illinois State Parks",
+    "url": "https://dnr.illinois.gov/parks.html"
+  },
+  {
+    "state": "Indiana",
+    "name": "Indiana State Parks",
+    "url": "https://www.in.gov/dnr/state-parks/"
+  },
+  {
+    "state": "Iowa",
+    "name": "Iowa State Parks",
+    "url": "https://www.iowadnr.gov/places-to-go/state-parks"
+  },
+  {
+    "state": "Kansas",
+    "name": "Kansas State Parks",
+    "url": "https://www.ksoutdoors.gov/State-Parks"
+  },
+  {
+    "state": "Kentucky",
+    "name": "Kentucky State Parks",
+    "url": "https://parks.ky.gov/"
+  },
+  {
+    "state": "Louisiana",
+    "name": "Louisiana State Parks",
+    "url": "https://www.lastateparks.com/"
+  },
+  {
+    "state": "Maine",
+    "name": "Maine State Parks & Public Lands",
+    "url": "https://www.maine.gov/dacf/parks/"
+  },
+  {
+    "state": "Maryland",
+    "name": "Maryland State Parks",
+    "url": "https://dnr.maryland.gov/publiclands/Pages/default.aspx"
+  },
+  {
+    "state": "Massachusetts",
+    "name": "Massachusetts State Parks (DCR)",
+    "url": "https://www.mass.gov/topics/massachusetts-state-parks"
+  },
+  {
+    "state": "Michigan",
+    "name": "Michigan State Parks",
+    "url": "https://www.michigan.gov/dnr/places/state-parks"
+  },
+  {
+    "state": "Minnesota",
+    "name": "Minnesota State Parks & Recreation Areas",
+    "url": "https://www.dnr.state.mn.us/state_parks/index.html"
+  },
+  {
+    "state": "Mississippi",
+    "name": "Mississippi State Parks",
+    "url": "https://www.mdwfp.com/parks-destinations/"
+  },
+  {
+    "state": "Missouri",
+    "name": "Missouri State Parks",
+    "url": "https://mostateparks.com/"
+  },
+  {
+    "state": "Montana",
+    "name": "Montana State Parks",
+    "url": "https://fwp.mt.gov/stateparks/"
+  },
+  {
+    "state": "Nebraska",
+    "name": "Nebraska State Parks",
+    "url": "https://outdoornebraska.gov/"
+  },
+  {
+    "state": "Nevada",
+    "name": "Nevada State Parks",
+    "url": "https://parks.nv.gov/"
+  },
+  {
+    "state": "New Hampshire",
+    "name": "New Hampshire State Parks",
+    "url": "https://www.nhstateparks.org/"
+  },
+  {
+    "state": "New Jersey",
+    "name": "New Jersey State Parks & Forests",
+    "url": "https://dep.nj.gov/parksandforests/"
+  },
+  {
+    "state": "New Mexico",
+    "name": "New Mexico State Parks",
+    "url": "https://www.emnrd.nm.gov/spd/"
+  },
+  {
+    "state": "New York",
+    "name": "New York State Parks",
+    "url": "https://parks.ny.gov/"
+  },
+  {
+    "state": "North Carolina",
+    "name": "North Carolina State Parks",
+    "url": "https://www.ncparks.gov/"
+  },
+  {
+    "state": "North Dakota",
+    "name": "North Dakota Parks & Recreation",
+    "url": "https://www.parkrec.nd.gov/"
+  },
+  {
+    "state": "Ohio",
+    "name": "Ohio State Parks",
+    "url": "https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property"
+  },
+  {
+    "state": "Oklahoma",
+    "name": "Oklahoma State Parks",
+    "url": "https://www.travelok.com/state-parks"
+  },
+  {
+    "state": "Oregon",
+    "name": "Oregon State Parks",
+    "url": "https://stateparks.oregon.gov/"
+  },
+  {
+    "state": "Pennsylvania",
+    "name": "Pennsylvania State Parks",
+    "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks"
+  },
+  {
+    "state": "Rhode Island",
+    "name": "Rhode Island State Parks",
+    "url": "https://riparks.ri.gov/"
+  },
+  {
+    "state": "South Carolina",
+    "name": "South Carolina State Parks",
+    "url": "https://southcarolinaparks.com/"
+  },
+  {
+    "state": "South Dakota",
+    "name": "South Dakota State Parks",
+    "url": "https://gfp.sd.gov/parks/"
+  },
+  {
+    "state": "Tennessee",
+    "name": "Tennessee State Parks",
+    "url": "https://tnstateparks.com/"
+  },
+  {
+    "state": "Texas",
+    "name": "Texas State Parks",
+    "url": "https://tpwd.texas.gov/state-parks"
+  },
+  {
+    "state": "Utah",
+    "name": "Utah State Parks",
+    "url": "https://stateparks.utah.gov/"
+  },
+  {
+    "state": "Vermont",
+    "name": "Vermont State Parks",
+    "url": "https://vtstateparks.com/"
+  },
+  {
+    "state": "Virginia",
+    "name": "Virginia State Parks",
+    "url": "https://www.dcr.virginia.gov/state-parks/"
+  },
+  {
+    "state": "Washington",
+    "name": "Washington State Parks",
+    "url": "https://www.parks.wa.gov/"
+  },
+  {
+    "state": "West Virginia",
+    "name": "West Virginia State Parks",
+    "url": "https://wvstateparks.com/"
+  },
+  {
+    "state": "Wisconsin",
+    "name": "Wisconsin State Parks",
+    "url": "https://dnr.wisconsin.gov/topic/parks"
+  },
+  {
+    "state": "Wyoming",
+    "name": "Wyoming State Parks",
+    "url": "https://wyoparks.wyo.gov/"
+  }
+];
+const body = document.getElementById('body');
+const empty = document.getElementById('empty');
+const countEl = document.getElementById('count');
+const q = document.getElementById('q');
+let sortKey = 'state', sortDir = 1;
+
+function host(u){ try { return new URL(u).host.replace(/^www\./,''); } catch(e){ return u; } }
+
+function render(){
+  const term = q.value.trim().toLowerCase();
+  let rows = DATA.filter(r =>
+    !term || r.state.toLowerCase().includes(term) || r.name.toLowerCase().includes(term) || r.url.toLowerCase().includes(term));
+  rows.sort((a,b) => a[sortKey].localeCompare(b[sortKey]) * sortDir);
+  body.innerHTML = rows.map(r =>
+    `<tr><td class="state">${r.state}</td><td>${r.name}</td>` +
+    `<td><a href="${r.url}" target="_blank" rel="noopener noreferrer">${host(r.url)}</a></td></tr>`).join('');
+  empty.hidden = rows.length > 0;
+  countEl.textContent = rows.length + (rows.length === 1 ? ' state' : ' states');
+  document.querySelectorAll('thead th').forEach(th => {
+    if (th.dataset.key === sortKey) th.setAttribute('aria-sort', sortDir === 1 ? 'ascending' : 'descending');
+    else th.removeAttribute('aria-sort');
+  });
+}
+
+document.querySelectorAll('thead th').forEach(th => {
+  th.addEventListener('click', () => {
+    const k = th.dataset.key;
+    if (k === sortKey) sortDir = -sortDir; else { sortKey = k; sortDir = 1; }
+    render();
+  });
+});
+q.addEventListener('input', render);
+render();
+</script>
+</body>
+</html>
