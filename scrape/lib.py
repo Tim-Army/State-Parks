@@ -88,3 +88,15 @@ def all_locs(state, root, limit=40, filt=None):
     return out
 
 PARKISH = re.compile(r'^[A-Z][^|]{2,70}?\s(State Park|State Park Museum|State Forest|State Beach|State Trail|State Recreation Area|State Recreation Site|State Historic Site|State Historical Site|State Historic Park|State Historical Park|State Natural Area|State Wayside|State Marine Park|State Preserve|State Monument|State Heritage Area|Recreation Area|Wayside|Preserve|Reservoir)$')
+
+def slugify(s):
+    return re.sub(r'^-|-$','',re.sub(r'[^a-z0-9]+','-',s.lower()))
+
+def from_names(state, prefix, blob, suffix=''):
+    rows=[]
+    for line in blob.strip().split('\n'):
+        line=line.strip()
+        if not line: continue
+        n,_,s = line.partition('|')
+        rows.append((n, prefix + (s or slugify(n)) + suffix))
+    return write(state, rows)
