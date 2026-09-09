@@ -5,7 +5,7 @@ A searchable, sortable table of **every individual park in all 50 state park sys
 - **[View the table](https://tim-army.github.io/State-Parks/)** — search across all 50 states, filter to one state, sort any column.
 - **[`parks.csv`](parks.csv)** — `State`, `Park Name`, `Official Website` (one row per park).
 - **[`state-park-systems.csv`](state-park-systems.csv)** — one row per state: the park system and its main website.
-- **[`index.html`](index.html)** — self-contained page; data is embedded, no build step, no dependencies.
+- **[`index.html`](index.html)** — self-contained page; data is embedded, no build step, no dependencies. Two tabs: all parks, and RV rules by state.
 
 ## Parks per state
 
@@ -47,6 +47,49 @@ Counts reflect what each agency lists today, so a few states include units beyon
 "state park" proper — Maine's public lands, New Jersey's state forests and marinas,
 Massachusetts's reservations, Wisconsin's state trails — because the agencies list them
 alongside their parks.
+
+## RV and tow-vehicle rules
+
+- **[`rv-policies.csv`](rv-policies.csv)** — one row per state: maximum RV length, whether the tow vehicle counts toward it, vehicles allowed per site, where extra vehicles park, whether site sizes are published, and the source URL.
+- **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's per-park breakdown: 22 parks, 838 RV sites, counted by size.
+- The **RV rules by state** tab on the [live page](https://tim-army.github.io/State-Parks/) renders both.
+
+### What the research found
+
+**No state publishes a single system-wide maximum RV length.** The limit is set per campsite and lives in each
+state's reservation system. Statewide pages give vehicle *counts* (usually one camping unit plus one or two
+vehicles), not lengths.
+
+**Does the tow vehicle count?** Four states answer plainly, and all four say yes:
+
+| State | Wording |
+|---|---|
+| Oregon | "you must also be able to fit your tow vehicle onto the paved driveway" — a 25 ft RV behind a 22 ft vehicle needs a 47 ft site |
+| Wisconsin | the listed length "indicates the maximum driveway length you have to fit all your equipment on the site (your trailer or RV, including the tow vehicle)" |
+| Arkansas | "combined length … may not exceed the capacity of the camping spur" |
+| Missouri | "All wheeled equipment/vehicles must fit on the parking pad/area" |
+
+Florida gets there indirectly ("consider the overall length and width of your camper or RV **and your tow
+vehicle**"), and Utah counts them as one unit for vehicle limits ("a vehicle and attached in tow equipment is
+considered one vehicle"). Everywhere else it is unstated — so assume the whole rig has to fit on the pad.
+
+**Average site length and site-size counts** are only computable where a state publishes per-site data.
+Virginia publishes a complete per-park table; Maine classifies every site S/M/L/X/U (to 20/25/30/35/over 35 ft);
+Wisconsin buckets sites into 5 ft intervals in its reservation filter. The rest keep it per-site inside the
+booking system.
+
+**Where the tow vehicle parks** varies: Ohio sends extras to the camp office lot, Pennsylvania to a second-car
+lot or onto the spur for a fee, Indiana to designated campground lots, Oregon and Texas to overflow areas.
+Colorado issues a free towed-vehicle pass; Arizona waives the extra-vehicle fee for a towed car; Rhode Island's
+single vehicle pass covers either the motorhome or the vehicle towing the trailer.
+
+### Limits of this table
+
+Sourced from each state agency's own camping rules, regulations, and FAQ pages in September 2026 — every row
+cites the page it came from. Rows reading "Not stated" mean the state does not publish that fact, not that no
+limit exists. Georgia, New Mexico, and New Hampshire each publish an RV guide as a scanned graphic PDF whose
+per-park numbers could not be extracted. ReserveCalifornia's API (which also serves Florida, Texas, Utah, Ohio
+and Washington) was unreachable during collection, so per-site lengths for those states were not harvested.
 
 ## Updating
 
