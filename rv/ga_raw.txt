@@ -1,0 +1,34 @@
+Crooked River State Park|63|20|130|59|55|2|2|5|26|28
+Dames Ferry|28|20|50|40|40|1|4|14|9|0
+Don Carter State Park|46|36|100|65|62|0|0|7|10|29
+Elijah Clark State Park|77|30|50|42|40|0|13|39|25|0
+F. D. Roosevelt State Park|55|14|70|44|43|4|13|12|16|10
+Florence Marina State Park|41|55|180|100|80|0|0|0|1|40
+Fort McAllister State Historic Site|67|10|50|41|50|12|0|7|48|0
+Fort Mountain State Park|62|11|50|43|50|9|4|0|49|0
+Fort Yargo State Park|46|25|50|42|40|0|11|14|21|0
+General Coffee State Park|50|20|50|40|40|4|11|15|20|0
+George L Smith State Park|52|24|80|64|80|1|0|19|0|32
+George T Bagby State Park|31|30|50|35|30|0|17|11|3|0
+Hamburg State Park|32|20|40|37|40|1|7|24|0|0
+Hard Labor Creek State Park|42|15|45|38|45|6|7|0|29|0
+High Falls State Park|87|25|50|47|50|0|10|0|77|0
+Indian Springs State Park|70|15|100|52|50|3|4|7|39|17
+Jack Hill State Park|23|40|60|43|40|0|0|19|2|2
+James H. (Sloppy) Floyd State Park|24|30|50|47|50|0|1|4|19|0
+Kolomoki Mounds State Historic Park|25|41|135|60|57|0|0|2|13|10
+Laura S Walker State Park|44|25|40|39|40|0|3|41|0|0
+Magnolia Springs State Park|26|25|40|39|40|0|1|25|0|0
+Mistletoe State Park|76|20|50|41|40|6|9|32|29|0
+Moccasin Creek State Park|53|15|50|36|40|2|15|33|3|0
+Okefenokee State Park|55|15|50|35|35|19|8|3|25|0
+Red Top Mountain State Park|53|10|40|25|20|28|7|18|0|0
+Reed Bingham State Park|46|50|50|50|50|0|0|0|46|0
+Richard B Russell State Park|27|35|35|35|35|0|0|27|0|0
+Seminole State Park|51|30|100|47|40|0|5|23|14|9
+Skidaway Island State Park|85|35|70|50|50|0|0|22|43|20
+Tallulah Gorge State Park|52|25|50|30|25|0|41|0|11|0
+Tugaloo State Park|71|20|50|35|35|1|30|26|14|0
+Victoria Bryant State Park|27|30|50|43|40|0|3|14|10|0
+Vogel State Park|42|25|40|34|40|0|18|24|0|0
+Watson Mill Bridge State Park|30|30|50|44|45|0|3|7|20|0

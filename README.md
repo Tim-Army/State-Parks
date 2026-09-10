@@ -51,7 +51,7 @@ alongside their parks.
 ## RV and tow-vehicle rules
 
 - **[`rv-policies.csv`](rv-policies.csv)** — one row per state: published length limit, measured average and longest site where I could measure it, whether the tow vehicle counts, vehicles per site, where extras park, and a source URL.
-- **[`campsite-rv-lengths.csv`](campsite-rv-lengths.csv)** — **23,839 individual campsites across 249 parks in 5 states**, each park summarised: site count, shortest, longest, average, median, and a count of sites in each size band.
+- **[`campsite-rv-lengths.csv`](campsite-rv-lengths.csv)** — **44,446 individual campsites across 481 parks in 11 states**, each park summarised: site count, shortest, longest, average, median, and a count of sites in each size band.
 - **[`campsite-rv-summary.csv`](campsite-rv-summary.csv)** — the same rolled up per state.
 - **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's own published per-park breakdown (22 parks, 838 sites).
 - The **RV rules by state** tab on the [live page](https://tim-army.github.io/State-Parks/) renders all of it.
@@ -62,23 +62,42 @@ alongside their parks.
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Arizona | 15 | 1,444 | 58 ft | 172 ft | 26 | 89 | 236 | 484 | 609 |
 | California | 100 | 10,562 | 38 ft | 100 ft | 2,286 | 4,083 | 2,576 | 582 | 1,035 |
+| Delaware | 5 | 707 | 36 ft | 128 ft | 156 | 84 | 315 | 141 | 11 |
 | Florida | 64 | 3,293 | 38 ft | 125 ft | 405 | 796 | 1,063 | 795 | 234 |
+| Georgia | 34 | 1,659 | 45 ft | 180 ft | 99 | 247 | 494 | 622 | 197 |
 | Nevada | 18 | 665 | 47 ft | 145 ft | 95 | 73 | 149 | 150 | 198 |
+| New York | 99 | 10,138 | 31 ft | 426 ft | 2,798 | 3,858 | 2,498 | 960 | 24 |
 | Ohio | 52 | 7,875 | 44 ft | 130 ft | 170 | 817 | 3,110 | 3,347 | 431 |
+| Oregon | 40 | 5,110 | 41 ft | 135 ft | 521 | 1,018 | 1,522 | 1,640 | 409 |
+| Utah | 30 | 1,643 | 52 ft | 250 ft | 126 | 294 | 375 | 297 | 551 |
+| Virginia | 24 | 1,350 | 41 ft | 183 ft | 263 | 261 | 340 | 298 | 188 |
 
-California and Florida average 38 ft — and in California nearly a quarter of all sites are under 25 ft. Arizona is the
-outlier: 42% of its sites take 60 ft or more.
+**New York is the tightest system measured** — 31 ft average, and more than a third of its 10,138 sites are under
+25 ft. Arizona is the loosest at 58 ft, with 42% of sites taking 60 ft or more. California and Florida both sit at
+38 ft. (New York's 426 ft "longest" is a single bad record at Fair Haven Beach; its real ceiling is 65 ft.)
 
 ### How the measurement works
 
-Five states run their reservations on US eDirect / Tyler, whose API exposes a `VehicleLength` on every bookable unit.
-[`rv/scrape_usedirect.py`](rv/scrape_usedirect.py) documents the shape; the actual collection ran through a browser
-because the API rate-limits scripted clients hard (a 403 after ~90 rapid calls, clearing in about five minutes).
+Two different reservation platforms, two different scrapers, both driven through a browser.
 
-Two corrections matter. Units are deduped by `UnitId`, because the same site is returned by both the park-level and the
-loop-level facility. And Ohio is filtered to camping facilities only — its system sells marina dock and mooring
-inventory through the same endpoint, with vehicle lengths attached, which inflated the raw count from 7,875 sites to
-nearly 17,000. California's "boat-in" facilities are genuine campgrounds and are kept.
+**US eDirect / Tyler** (California, Florida, Ohio, Arizona, Nevada, Virginia) exposes a JSON API with a
+`VehicleLength` on every bookable unit — see [`rv/scrape_usedirect.py`](rv/scrape_usedirect.py) for the endpoint
+shape. Units are deduped by `UnitId`, because the same site comes back from both the park-level and the loop-level
+facility. Ohio is filtered to camping facilities only: its system sells marina dock and mooring inventory through the
+same endpoint with vehicle lengths attached, which inflated the raw count from 7,875 sites to nearly 17,000.
+
+**ReserveAmerica** (New York, Georgia, Oregon, Utah, Delaware) has no JSON API. Each campground's site list is
+server-rendered HTML with an "Equip length / Driveway" column, paged 25 sites at a time through `campsitePaging.do`.
+Two traps there: the pager silently repeats the last page instead of returning empty, so pages are deduped by site ID
+and the loop stops when a page adds nothing new — without that, Georgia's High Falls reported 1,300 sites instead of
+87. And the max-people cell can contain an accessibility icon, which breaks a naive column regex and silently drops
+half the sites. Delaware's Indian River Marina is excluded as boat slips.
+
+Spot-checked against published counts: Anastasia 139 (Florida says 139), Topsail Hill 155 (156), Fort Yargo 46 (47),
+Skidaway Island 85 (87), Fort Stevens 509 (~470).
+
+Virginia turned up on both platforms — its ReserveAmerica host now 401s and the state has moved to a Tyler-hosted
+US eDirect instance at `reservevaparks.com`.
 
 ### What the states themselves publish
 
@@ -107,10 +126,14 @@ either the motorhome or the vehicle towing the trailer.
 Policy rows are sourced from each state agency's own camping rules in September 2026, and every row cites its page.
 "Not stated" means the state does not publish that fact, not that no limit exists.
 
-The measured table covers 5 states because only 5 run a reachable US eDirect instance. Texas, Utah, Washington and
-Oregon have dead `*rdr.usedirect.com` hostnames — they have migrated to ReserveAmerica, Camis or their own systems,
-each of which needs a different scraper. New York, Michigan, Pennsylvania and the rest of ReserveAmerica remain
-unmeasured. Georgia, New Mexico and New Hampshire publish RV guides as scanned graphic PDFs that yield no text.
+The measured table covers the 11 states whose reservation backends are reachable and parseable. The rest are spread
+across Camis/GoingToCamp (Washington), Aspira, and in-house systems (Texas, Michigan, Pennsylvania, Minnesota,
+Missouri and others), each needing its own scraper. Georgia, New Mexico and New Hampshire publish RV guides as scanned
+graphic PDFs that yield no text.
+
+Both platforms rate-limit hard — US eDirect returns 403 after roughly 90 rapid calls and clears in about five minutes
+— so collection ran in throttled bursts with progress checkpointed to `localStorage`, which saved the run more than
+once when a page reloaded mid-scrape.
 
 ## Updating
 

@@ -1,0 +1,40 @@
+Bullards Beach State Park|206|20|66|41|42|7|49|63|82|5
+Cape Blanco State Park|70|30|95|54|54|0|6|9|35|20
+Cape Lookout State Park|222|20|63|38|40|55|20|82|62|3
+Carl G. Washburne Memorial State Park|66|20|53|32|25|28|7|17|14|0
+Champoeg State Heritage Area|98|16|81|47|45|18|9|22|17|32
+Clyde Holliday State Recreation Site|31|25|90|59|56|0|3|4|10|14
+Collier Memorial State Park|67|25|65|40|43|0|20|20|26|1
+Cottonwood Canyon State Park|4|25|25|25|25|0|4|0|0|0
+Cove Palisades State Park|272|15|52|36|37|41|68|91|72|0
+Deschutes River State Recreation Area|34|23|62|39|40|2|14|3|12|3
+Detroit Lake State Recreation Area|360|18|65|32|29|111|122|71|53|3
+Devils Lake State Recreation Area|108|24|55|35|35|12|37|49|10|0
+Emigrant Springs State Heritage Area|65|15|90|39|40|2|21|21|19|2
+Farewell Bend State Recreation Area|110|30|90|47|46|0|15|15|62|18
+Fort Stevens State Park|509|15|69|47|48|25|13|142|285|44
+Goose Lake State Recreation Area|48|37|60|44|44|0|0|26|21|1
+Harris Beach State Park|154|15|55|36|35|15|59|45|35|0
+Humbug Mountain State Park|95|15|95|43|40|2|19|47|20|7
+Jasper Point State Park|29|25|65|44|43|0|4|13|9|3
+Jessie M. Honeyman Memorial State Park|355|16|60|39|38|19|95|134|106|1
+L.L. Stub Stewart Memorial State Park|113|16|96|58|63|15|0|0|2|96
+LaPine State Park|141|29|95|46|43|0|12|66|45|18
+Lake Owyhee State Park|64|21|65|40|44|10|15|10|25|4
+Memaloose State Park|109|28|59|45|47|0|6|33|70|0
+Milo McIver State Park|46|36|86|56|60|0|0|20|2|24
+Nehalem Bay State Park|306|20|65|38|44|125|3|34|140|4
+Nehalem Falls Campground|15|25|50|38|35|0|2|9|4|0
+Northrup Creek Horse Camp|11|30|50|42|40|0|3|3|5|0
+Prineville Reservoir State Park|104|16|60|37|36|4|47|25|27|1
+Silver Falls State Park|113|26|85|51|50|0|12|31|31|39
+South Beach State Park|324|20|56|40|41|3|97|134|90|0
+Sunset Bay State Park|130|18|100|34|35|4|61|54|10|1
+Tumalo State Park|84|24|56|37|36|1|37|34|12|0
+Umpqua Lighthouse State Park|52|20|56|34|34|9|18|18|7|0
+Unity Lake State Recreation Site|37|25|135|51|46|0|6|9|16|6
+Valley of the Rogue State Park|170|30|100|52|47|0|21|39|67|43
+Viento State Park|60|18|56|37|37|9|12|25|14|0
+Wallowa Lake State Park|209|24|86|42|42|1|34|96|67|11
+Willamette Mission State Park|4|65|65|65|65|0|0|0|0|4
+William M. Tugman State Park|115|23|60|40|43|3|47|8|56|1

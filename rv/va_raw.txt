@@ -1,0 +1,24 @@
+Bear Creek Lake State Park|44|15|35|24|20|33|0|11|0|0
+Belle Isle State Park|28|36|148|78|72|0|0|2|6|20
+Breaks Interstate Park|123|20|62|39|38|8|32|49|30|4
+Chippokes State Park|50|16|50|34|30|14|18|0|18|0
+Claytor Lake State Park|106|20|40|30|30|36|30|40|0|0
+Douthat State Park|86|30|100|53|45|0|13|25|26|22
+Fairy Stone State Park|57|18|48|28|25|21|16|16|4|0
+First Landing State Park|105|20|50|33|30|45|24|0|36|0
+Grayson Highlands State Park|90|20|55|32|35|27|7|47|9|0
+Holliday Lake State Park|36|18|50|27|22|22|7|6|1|0
+Hungry Mother State Park|67|22|85|38|35|3|30|21|8|5
+James River State Park|46|40|100|51|40|0|0|27|6|13
+Kiptopeke State Park|93|20|91|49|50|8|0|9|65|11
+Lake Anna State Park|46|35|183|65|61|0|0|11|5|30
+Machicomoco State Park|14|60|60|60|60|0|0|0|0|14
+Natural Tunnel State Park|34|38|45|42|45|0|0|16|18|0
+Occoneechee State Park|57|30|100|45|30|0|33|13|0|11
+Powhatan State Park|29|52|143|69|67|0|0|0|3|26
+Shenandoah River State Park|31|25|60|54|60|0|2|6|0|23
+Sky Meadows State Park|2|1|1|1|1|2|0|0|0|0
+Smith Mountain Lake State Park|24|35|70|48|45|0|0|8|11|5
+Staunton River State Park|57|20|55|31|20|29|11|0|17|0
+Twin Lakes State Park|27|20|36|27|25|4|19|4|0|0
+Westmoreland State Park|98|20|65|39|40|11|19|29|35|4

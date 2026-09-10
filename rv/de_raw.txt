@@ -1,0 +1,5 @@
+Cape Henlopen State Park|120|15|128|36|35|32|14|61|2|11
+Delaware Seashore State Park|343|18|54|35|42|119|1|106|117|0
+Killens Pond State Park|56|20|40|34|35|3|24|29|0|0
+Lums Pond State Park|63|35|50|41|40|0|0|57|6|0
+Trap Pond State Park|125|20|57|35|35|2|45|62|16|0
