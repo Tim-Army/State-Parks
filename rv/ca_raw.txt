@@ -1,0 +1,100 @@
+Anza-Borrego Desert SP|150|18|35|28|25|57|29|64|0|0
+Auburn SRA|21|20|60|29|27|7|10|3|0|1
+Benbow SRA|73|30|30|30|30|0|73|0|0|0
+Big Basin Redwoods SP|4|24|24|24|24|4|0|0|0|0
+Bolsa Chica SB|56|30|40|35|40|0|28|28|0|0
+Bothe-Napa Valley SP|60|20|31|24|24|56|4|0|0|0
+Brannan Island SRA|128|32|36|36|36|0|4|124|0|0
+Butano SP|41|12|24|15|12|41|0|0|0|0
+Calaveras Big Trees SP|128|1|30|29|30|3|125|0|0|0
+Carnegie SVRA|26|75|75|75|75|0|0|0|0|26
+Carpinteria SB|236|16|40|26|24|136|37|63|0|0
+Castle Crags SP|74|15|32|26|25|25|49|0|0|0
+Caswell Memorial SP|60|18|24|24|24|60|0|0|0|0
+China Camp SP|4|18|35|27|35|2|0|2|0|0
+Chino Hills SP|20|28|28|28|28|0|20|0|0|0
+Clear Lake SP|145|30|35|30|30|0|143|2|0|0
+Colonel Allensworth SHP|99|35|70|41|40|0|0|97|0|2
+Colusa-Sacramento River SRA|24|30|30|30|30|0|24|0|0|0
+Crystal Cove SP Moro Campground|52|25|25|25|25|0|52|0|0|0
+Cuyamaca Rancho SP|155|1|45|26|30|65|84|5|1|0
+D.L. Bliss SP|133|15|18|18|18|133|0|0|0|0
+Del Norte Coast Redwood SP Mill Creek Campground|101|15|24|24|24|101|0|0|0|0
+Doheny SB|113|16|75|24|20|90|6|11|4|2
+Donner Memorial SP|138|28|28|28|28|0|138|0|0|0
+El Capitan SB|132|1|42|41|42|3|1|128|0|0
+Emerald Bay SP|92|18|18|18|18|92|0|0|0|0
+Emma Wood SB|101|20|65|41|40|3|18|32|43|5
+Folsom Lake SRA Glamping|6|31|31|31|31|0|6|0|0|0
+Folsom Lake SRA|154|23|69|35|31|4|92|47|10|1
+Fremont Peak SP|22|15|31|21|20|12|10|0|0|0
+Gaviota SP|52|24|24|24|24|52|0|0|0|0
+George J. Hatfield SRA|23|30|30|30|30|0|23|0|0|0
+Grizzly Creek Redwoods SP|28|24|24|24|24|28|0|0|0|0
+Grover Hot Springs SP|46|1|24|23|24|46|0|0|0|0
+Half Moon Bay SB|47|25|40|40|40|0|1|46|0|0
+Hearst San Simeon SP|200|31|35|35|35|0|2|198|0|0
+Hendy Woods SP|83|35|35|35|35|0|0|83|0|0
+Henry Cowell Redwoods SP|105|16|35|35|35|1|3|101|0|0
+Henry W Coe SP|21|1|22|19|20|21|0|0|0|0
+Hollister Hills SVRA|503|20|50|50|50|3|2|0|498|0
+Humboldt Redwoods SP|253|15|24|24|24|253|0|0|0|0
+Hungry Valley SVRA|178|40|40|40|40|0|0|178|0|0
+Indian Grinding Rock SHP|22|27|27|27|27|0|22|0|0|0
+Jedediah Smith Redwoods SP|73|11|24|20|21|73|0|0|0|0
+Lake Oroville SRA Loafer Creek Glamping|4|40|40|40|40|0|0|4|0|0
+Lake Oroville SRA|279|15|40|39|40|2|10|267|0|0
+Lake Perris SRA|453|18|31|31|31|9|444|0|0|0
+Leo Carrillo SP|144|31|31|31|31|0|144|0|0|0
+Limekiln SP|29|18|30|21|18|28|1|0|0|0
+Little Basin State Park|1|16|16|16|16|1|0|0|0|0
+Mackerricher SP|119|20|35|32|35|22|0|97|0|0
+Malakoff Diggins SHP|35|19|19|19|19|35|0|0|0|0
+Malibu Creek SP|59|18|30|27|30|26|33|0|0|0
+Mcarthur-Burney Falls Memorial SP|141|32|32|32|32|0|141|0|0|0
+Mcconnell SRA|15|18|18|18|18|15|0|0|0|0
+Millerton Lake SRA|144|36|36|36|36|0|0|144|0|0
+Montana De Oro SP|51|27|27|27|27|0|51|0|0|0
+Morro Bay SP|136|20|40|33|35|8|34|94|0|0
+Morro Strand SB|82|24|40|30|24|53|1|28|0|0
+Mount Diablo SP|62|20|20|20|20|62|0|0|0|0
+Mt. San Jacinto SP|123|1|24|22|24|123|0|0|0|0
+New Brighton SB|122|20|38|35|36|3|8|111|0|0
+Oceano Dunes SVRA|1000|40|100|100|100|0|0|2|0|998
+Palomar Mountain SP|35|15|31|22|24|32|3|0|0|0
+Pfeiffer Big Sur SP|205|24|32|32|32|2|203|0|0|0
+Picacho SRA|7|20|35|29|35|3|0|4|0|0
+Pismo SB|167|21|36|35|36|19|0|148|0|0
+Plumas-Eureka SP|47|14|24|22|24|47|0|0|0|0
+Point Mugu SP|140|25|31|31|31|0|140|0|0|0
+Portola Redwoods SP|74|10|24|23|24|74|0|0|0|0
+Prairie Creek Redwoods SP Elk Prairie Campground|70|16|27|27|27|4|66|0|0|0
+Prairie Creek Redwoods SP Gold Bluffs Beach Camp|28|24|24|24|24|28|0|0|0|0
+Providence Mountains SRA|6|23|31|25|23|4|2|0|0|0
+Red Rock Canyon SP|6|25|30|28|28|0|6|0|0|0
+Refugio SB|69|30|30|30|30|0|69|0|0|0
+Richardson Grove SP|167|18|30|24|18|84|83|0|0|0
+Russian Gulch SP|31|18|24|24|24|31|0|0|0|0
+Saddleback Butte SP|1|21|21|21|21|1|0|0|0|0
+Salt Point SP|127|18|36|31|31|1|123|3|0|0
+Salton Sea SRA|213|30|35|35|35|0|2|211|0|0
+Samuel P. Taylor SP|56|18|31|30|31|6|50|0|0|0
+San Clemente SB (The Holidays Vintage Trailers)|1|18|18|18|18|1|0|0|0|0
+San Clemente SB|142|20|30|30|30|1|141|0|0|0
+San Elijo SB|7|33|33|33|33|0|7|0|0|0
+San Luis Reservoir SRA|259|20|30|29|30|2|257|0|0|0
+San Onofre SB|321|25|36|25|25|0|312|9|0|0
+Seacliff SB|83|30|45|40|40|0|3|54|26|0
+Silver Strand SB|121|30|40|38|40|0|6|115|0|0
+Silverwood Lake SRA|138|31|32|31|31|0|138|0|0|0
+Sonoma Coast State Park|131|31|31|31|31|0|131|0|0|0
+Standish-Hickey SRA|156|14|27|24|27|50|106|0|0|0
+Sue-meg SP|104|15|31|25|25|42|62|0|0|0
+Sugar Pine Point SP|137|26|41|32|32|0|131|6|0|0
+Sugarloaf Ridge SP|46|24|30|29|30|5|41|0|0|0
+Sunset SB|90|15|31|29|31|11|79|0|0|0
+Tahoe SRA|24|21|21|21|21|24|0|0|0|0
+Turlock Lake SRA|37|21|24|24|24|37|0|0|0|0
+Van Damme SP|74|20|35|33|35|6|7|61|0|0
+Westport-Union Landing SB|19|24|35|27|24|13|0|6|0|0
+Woodson Bridge SRA|42|31|31|31|31|0|42|0|0|0

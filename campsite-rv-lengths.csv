@@ -1,0 +1,250 @@
+State,Park,RV Sites,Shortest (ft),Longest (ft),Average (ft),Median (ft),Under 25 ft,25-34 ft,35-44 ft,45-59 ft,60 ft+
+Arizona,Alamo Lake,196,15,90,57,56,4,14,23,63,92
+Arizona,Buckskin Mountain,84,30,86,55,55,0,3,22,29,30
+Arizona,Catalina,152,25,155,66,69,0,19,0,14,119
+Arizona,Cattail Cove,61,32,69,45,44,0,2,30,23,6
+Arizona,Dead Horse Ranch,149,24,150,57,60,1,6,22,44,76
+Arizona,Fool Hollow Lake,121,24,129,56,54,2,4,22,51,42
+Arizona,Homolovi,53,50,150,67,50,0,0,0,44,9
+Arizona,Kartchner Caverns,62,24,78,53,56,1,5,11,26,19
+Arizona,Lake Havasu,54,48,125,59,55,0,0,0,37,17
+Arizona,Lost Dutchman,163,30,172,70,66,0,10,35,21,97
+Arizona,Lyman Lake,56,40,100,62,60,0,0,1,22,33
+Arizona,Patagonia Lake,107,22,55,38,40,6,25,61,15,0
+Arizona,Picacho Peak,85,53,109,72,62,0,0,0,26,59
+Arizona,River Island,37,24,57,47,54,8,0,0,29,0
+Arizona,Roper Lake,64,15,70,48,48,4,1,9,40,10
+California,Anza-Borrego Desert SP,150,18,35,28,25,57,29,64,0,0
+California,Auburn SRA,21,20,60,29,27,7,10,3,0,1
+California,Benbow SRA,73,30,30,30,30,0,73,0,0,0
+California,Big Basin Redwoods SP,4,24,24,24,24,4,0,0,0,0
+California,Bolsa Chica SB,56,30,40,35,40,0,28,28,0,0
+California,Bothe-Napa Valley SP,60,20,31,24,24,56,4,0,0,0
+California,Brannan Island SRA,128,32,36,36,36,0,4,124,0,0
+California,Butano SP,41,12,24,15,12,41,0,0,0,0
+California,Calaveras Big Trees SP,128,1,30,29,30,3,125,0,0,0
+California,Carnegie SVRA,26,75,75,75,75,0,0,0,0,26
+California,Carpinteria SB,236,16,40,26,24,136,37,63,0,0
+California,Castle Crags SP,74,15,32,26,25,25,49,0,0,0
+California,Caswell Memorial SP,60,18,24,24,24,60,0,0,0,0
+California,China Camp SP,4,18,35,27,35,2,0,2,0,0
+California,Chino Hills SP,20,28,28,28,28,0,20,0,0,0
+California,Clear Lake SP,145,30,35,30,30,0,143,2,0,0
+California,Colonel Allensworth SHP,99,35,70,41,40,0,0,97,0,2
+California,Colusa-Sacramento River SRA,24,30,30,30,30,0,24,0,0,0
+California,Crystal Cove SP Moro Campground,52,25,25,25,25,0,52,0,0,0
+California,Cuyamaca Rancho SP,155,1,45,26,30,65,84,5,1,0
+California,D.L. Bliss SP,133,15,18,18,18,133,0,0,0,0
+California,Del Norte Coast Redwood SP Mill Creek Campground,101,15,24,24,24,101,0,0,0,0
+California,Doheny SB,113,16,75,24,20,90,6,11,4,2
+California,Donner Memorial SP,138,28,28,28,28,0,138,0,0,0
+California,El Capitan SB,132,1,42,41,42,3,1,128,0,0
+California,Emerald Bay SP,92,18,18,18,18,92,0,0,0,0
+California,Emma Wood SB,101,20,65,41,40,3,18,32,43,5
+California,Folsom Lake SRA,154,23,69,35,31,4,92,47,10,1
+California,Folsom Lake SRA Glamping,6,31,31,31,31,0,6,0,0,0
+California,Fremont Peak SP,22,15,31,21,20,12,10,0,0,0
+California,Gaviota SP,52,24,24,24,24,52,0,0,0,0
+California,George J. Hatfield SRA,23,30,30,30,30,0,23,0,0,0
+California,Grizzly Creek Redwoods SP,28,24,24,24,24,28,0,0,0,0
+California,Grover Hot Springs SP,46,1,24,23,24,46,0,0,0,0
+California,Half Moon Bay SB,47,25,40,40,40,0,1,46,0,0
+California,Hearst San Simeon SP,200,31,35,35,35,0,2,198,0,0
+California,Hendy Woods SP,83,35,35,35,35,0,0,83,0,0
+California,Henry Cowell Redwoods SP,105,16,35,35,35,1,3,101,0,0
+California,Henry W Coe SP,21,1,22,19,20,21,0,0,0,0
+California,Hollister Hills SVRA,503,20,50,50,50,3,2,0,498,0
+California,Humboldt Redwoods SP,253,15,24,24,24,253,0,0,0,0
+California,Hungry Valley SVRA,178,40,40,40,40,0,0,178,0,0
+California,Indian Grinding Rock SHP,22,27,27,27,27,0,22,0,0,0
+California,Jedediah Smith Redwoods SP,73,11,24,20,21,73,0,0,0,0
+California,Lake Oroville SRA,279,15,40,39,40,2,10,267,0,0
+California,Lake Oroville SRA Loafer Creek Glamping,4,40,40,40,40,0,0,4,0,0
+California,Lake Perris SRA,453,18,31,31,31,9,444,0,0,0
+California,Leo Carrillo SP,144,31,31,31,31,0,144,0,0,0
+California,Limekiln SP,29,18,30,21,18,28,1,0,0,0
+California,Little Basin State Park,1,16,16,16,16,1,0,0,0,0
+California,Mackerricher SP,119,20,35,32,35,22,0,97,0,0
+California,Malakoff Diggins SHP,35,19,19,19,19,35,0,0,0,0
+California,Malibu Creek SP,59,18,30,27,30,26,33,0,0,0
+California,Mcarthur-Burney Falls Memorial SP,141,32,32,32,32,0,141,0,0,0
+California,Mcconnell SRA,15,18,18,18,18,15,0,0,0,0
+California,Millerton Lake SRA,144,36,36,36,36,0,0,144,0,0
+California,Montana De Oro SP,51,27,27,27,27,0,51,0,0,0
+California,Morro Bay SP,136,20,40,33,35,8,34,94,0,0
+California,Morro Strand SB,82,24,40,30,24,53,1,28,0,0
+California,Mount Diablo SP,62,20,20,20,20,62,0,0,0,0
+California,Mt. San Jacinto SP,123,1,24,22,24,123,0,0,0,0
+California,New Brighton SB,122,20,38,35,36,3,8,111,0,0
+California,Oceano Dunes SVRA,1000,40,100,100,100,0,0,2,0,998
+California,Palomar Mountain SP,35,15,31,22,24,32,3,0,0,0
+California,Pfeiffer Big Sur SP,205,24,32,32,32,2,203,0,0,0
+California,Picacho SRA,7,20,35,29,35,3,0,4,0,0
+California,Pismo SB,167,21,36,35,36,19,0,148,0,0
+California,Plumas-Eureka SP,47,14,24,22,24,47,0,0,0,0
+California,Point Mugu SP,140,25,31,31,31,0,140,0,0,0
+California,Portola Redwoods SP,74,10,24,23,24,74,0,0,0,0
+California,Prairie Creek Redwoods SP Elk Prairie Campground,70,16,27,27,27,4,66,0,0,0
+California,Prairie Creek Redwoods SP Gold Bluffs Beach Camp,28,24,24,24,24,28,0,0,0,0
+California,Providence Mountains SRA,6,23,31,25,23,4,2,0,0,0
+California,Red Rock Canyon SP,6,25,30,28,28,0,6,0,0,0
+California,Refugio SB,69,30,30,30,30,0,69,0,0,0
+California,Richardson Grove SP,167,18,30,24,18,84,83,0,0,0
+California,Russian Gulch SP,31,18,24,24,24,31,0,0,0,0
+California,Saddleback Butte SP,1,21,21,21,21,1,0,0,0,0
+California,Salt Point SP,127,18,36,31,31,1,123,3,0,0
+California,Salton Sea SRA,213,30,35,35,35,0,2,211,0,0
+California,Samuel P. Taylor SP,56,18,31,30,31,6,50,0,0,0
+California,San Clemente SB,142,20,30,30,30,1,141,0,0,0
+California,San Clemente SB (The Holidays Vintage Trailers),1,18,18,18,18,1,0,0,0,0
+California,San Elijo SB,7,33,33,33,33,0,7,0,0,0
+California,San Luis Reservoir SRA,259,20,30,29,30,2,257,0,0,0
+California,San Onofre SB,321,25,36,25,25,0,312,9,0,0
+California,Seacliff SB,83,30,45,40,40,0,3,54,26,0
+California,Silver Strand SB,121,30,40,38,40,0,6,115,0,0
+California,Silverwood Lake SRA,138,31,32,31,31,0,138,0,0,0
+California,Sonoma Coast State Park,131,31,31,31,31,0,131,0,0,0
+California,Standish-Hickey SRA,156,14,27,24,27,50,106,0,0,0
+California,Sue-meg SP,104,15,31,25,25,42,62,0,0,0
+California,Sugar Pine Point SP,137,26,41,32,32,0,131,6,0,0
+California,Sugarloaf Ridge SP,46,24,30,29,30,5,41,0,0,0
+California,Sunset SB,90,15,31,29,31,11,79,0,0,0
+California,Tahoe SRA,24,21,21,21,21,24,0,0,0,0
+California,Turlock Lake SRA,37,21,24,24,24,37,0,0,0,0
+California,Van Damme SP,74,20,35,33,35,6,7,61,0,0
+California,Westport-Union Landing SB,19,24,35,27,24,13,0,6,0,0
+California,Woodson Bridge SRA,42,31,31,31,31,0,42,0,0,0
+Florida,Alafia River State Park,30,55,55,55,55,0,0,0,30,0
+Florida,Anastasia State Park,139,10,38,24,26,61,52,26,0,0
+Florida,Bahia Honda State Park,78,15,48,31,30,35,12,22,9,0
+Florida,Big Lagoon State Park,75,20,40,29,30,15,38,22,0,0
+Florida,Bill Baggs Cape Florida State Park,1,50,50,50,50,0,0,0,1,0
+Florida,Blackwater River State Park,30,15,50,35,35,2,10,13,5,0
+Florida,Blue Spring State Park,50,20,45,33,35,4,14,29,3,0
+Florida,Caladesi Island State Park,108,40,75,42,40,0,0,93,9,6
+Florida,Catfish Creek Preserve State Park,2,25,25,25,25,0,2,0,0,0
+Florida,Collier-Seminole State Park,105,14,50,29,30,27,50,20,8,0
+Florida,Colt Creek State Park,48,33,93,55,68,0,20,0,0,28
+Florida,Curry Hammock State Park,28,35,70,57,60,0,0,1,12,15
+Florida,Dr. Julian G. Bruce St. George Island State Park,73,20,43,35,36,9,22,42,0,0
+Florida,Falling Waters State Park,23,16,40,33,35,3,7,13,0,0
+Florida,Faver-Dykes State Park,1,20,20,20,20,1,0,0,0,0
+Florida,Florida Caverns State Park,37,25,40,32,32,0,34,3,0,0
+Florida,Fort Clinch State Park,61,18,48,38,40,4,11,31,15,0
+Florida,Fred Gannon Rocky Bayou State Park,42,20,45,33,30,6,17,18,1,0
+Florida,Gamble Rogers Memorial State Recreation Area at Flagler Beach,68,15,90,47,40,10,6,21,8,23
+Florida,Grayton Beach State Park,60,20,40,34,36,3,22,35,0,0
+Florida,Henderson Beach State Park,58,30,60,44,45,0,3,26,22,7
+Florida,Highlands Hammock State Park,150,15,50,31,30,35,59,30,26,0
+Florida,Hillsborough River State Park,116,23,108,43,40,1,18,53,31,13
+Florida,Hontoon Island State Park,40,25,25,25,25,0,40,0,0,0
+Florida,Hugh Taylor Birch State Park,1,10,10,10,10,1,0,0,0,0
+Florida,John Pennekamp Coral Reef State Park,48,18,62,47,46,1,2,15,27,3
+Florida,Jonathan Dickinson State Park,150,15,88,44,48,32,21,13,55,29
+Florida,Kissimmee Prairie Preserve State Park,40,17,65,36,38,5,9,18,7,1
+Florida,Koreshan State Park,8,40,40,40,40,0,0,8,0,0
+Florida,Lafayette Blue Springs State Park,1,40,40,40,40,0,0,1,0,0
+Florida,Lake Griffin State Park,40,20,40,31,30,6,18,16,0,0
+Florida,Lake Kissimmee State Park,63,25,45,39,40,0,16,21,26,0
+Florida,Lake Louisa State Park,71,30,115,50,45,0,11,7,40,13
+Florida,Lake Manatee State Park,60,45,65,54,54,0,0,0,50,10
+Florida,Little Manatee River State Park,39,25,75,45,46,0,9,8,18,4
+Florida,Little Talbot Island State Park,20,15,30,20,20,15,5,0,0,0
+Florida,Lower Wekiva River State Park,30,50,50,50,50,0,0,0,30,0
+Florida,Manatee Springs State Park,51,15,40,28,30,11,23,17,0,0
+Florida,Mike Roess Gold Head Branch State Park,50,16,55,36,36,8,4,27,11,0
+Florida,Myakka River State Park,86,15,45,34,35,5,32,39,10,0
+Florida,O'Leno State Park,56,15,50,33,30,5,24,22,5,0
+Florida,Ochlockonee River State Park,28,20,40,31,30,4,13,11,0,0
+Florida,Oleta River State Park,3,16,16,16,16,3,0,0,0,0
+Florida,Oscar Scherer State Park,105,15,36,30,36,19,31,55,0,0
+Florida,Paynes Prairie Preserve State Park,35,45,70,55,55,0,0,0,24,11
+Florida,Rainbow Springs State Park,53,40,103,61,60,0,0,4,15,34
+Florida,Rock Springs Run State Reserve,15,50,50,50,50,0,0,0,15,0
+Florida,Rodman Campground,42,22,40,39,40,1,2,39,0,0
+Florida,Ross Prairie Trailhead and Campground,15,20,86,50,61,6,0,0,1,8
+Florida,Ruth B. Kirby Gilchrist Blue Springs State Park,6,30,40,38,40,0,1,5,0,0
+Florida,Santos Trailhead and Campground,25,20,62,45,47,1,1,10,12,1
+Florida,Sebastian Inlet State Park,60,30,50,38,40,0,16,39,5,0
+Florida,Shangri-La Trailhead and Campground,24,50,50,50,50,0,0,0,24,0
+Florida,Silver Springs State Park,59,38,50,49,50,0,0,4,55,0
+Florida,St. Andrews State Park,149,21,50,36,35,1,31,76,41,0
+Florida,St. Sebastian River Preserve State Park,8,20,35,24,20,6,0,2,0,0
+Florida,Stephen Foster Folk Culture Center State Park,47,26,125,59,56,0,5,7,17,18
+Florida,Suwannee River State Park,30,12,55,37,40,2,9,9,10,0
+Florida,T.H. Stone Memorial St. Joseph Peninsula State Park,3,50,50,50,50,0,0,0,3,0
+Florida,Three Rivers State Park,31,15,50,43,50,4,1,5,21,0
+Florida,Tomoka State Park,101,20,34,25,25,45,56,0,0,0
+Florida,Topsail Hill Preserve State Park,155,20,45,41,40,5,17,61,72,0
+Florida,Torreya State Park,33,20,60,42,40,3,2,19,4,5
+Florida,Wekiwa Springs State Park,29,40,70,50,50,0,0,7,17,5
+Nevada,Beaver Dam State Park,31,22,90,38,22,16,3,2,4,6
+Nevada,Berlin-Ichthyosaur State Park,14,25,70,32,25,0,11,0,2,1
+Nevada,Big Bend of the Colorado State Recreation Area,56,20,70,41,45,24,0,1,11,20
+Nevada,Cathedral Gorge State Park,28,18,60,35,30,9,7,5,2,5
+Nevada,Cave Lake State Park,6,35,120,74,80,0,0,1,2,3
+Nevada,Dayton State Park,10,29,75,49,48,0,1,4,1,4
+Nevada,Echo Canyon State Park,53,40,80,59,60,0,0,1,21,31
+Nevada,Fort Churchill State Historic Park,21,25,45,38,45,0,9,0,12,0
+Nevada,Kershaw Ryan State Park,20,10,65,52,65,4,1,0,0,15
+Nevada,Lahontan State Recreation Area,36,25,60,42,40,0,11,10,4,11
+Nevada,Rye Patch State Recreation Area,67,22,75,49,48,22,0,3,16,26
+Nevada,South Fork State Recreation Area,50,1,40,38,40,1,2,47,0,0
+Nevada,Spring Valley State Park,47,15,100,45,50,8,7,8,8,16
+Nevada,Valley of Fire State Park,73,30,125,54,48,0,3,22,26,22
+Nevada,Walker River State Recreation Area,52,20,40,35,40,8,8,36,0,0
+Nevada,Ward Charcoal Ovens State Historic Park,16,25,45,39,45,0,5,1,10,0
+Nevada,Washoe Lake State Park,48,23,100,60,60,2,5,4,13,24
+Nevada,Wild Horse State Recreation Area,37,20,145,71,55,1,0,4,18,14
+Ohio,A.W. Marion State Park,58,32,54,45,45,0,1,16,41,0
+Ohio,Alum Creek State Park,299,40,65,49,48,0,0,1,294,4
+Ohio,Barkcamp State Park,135,21,80,46,45,1,1,60,71,2
+Ohio,Beaver Creek State Park,58,25,60,39,35,0,18,19,19,2
+Ohio,Blue Rock State Park,84,14,125,46,41,8,20,23,21,12
+Ohio,Buck Creek State Park,105,31,60,44,40,0,47,16,0,42
+Ohio,Burr Oak State Park,61,22,78,38,38,3,15,34,7,2
+Ohio,Caesar Creek State Park,278,37,40,40,40,0,0,278,0,0
+Ohio,Cowan Lake State Park,221,30,59,41,38,0,11,144,66,0
+Ohio,Deer Creek State Park,235,41,45,45,45,0,0,2,233,0
+Ohio,Delaware State Park,212,42,88,51,49,0,0,4,189,19
+Ohio,Dillon State Park,203,25,64,40,40,0,15,155,30,3
+Ohio,East Fork State Park,416,37,56,46,46,0,0,71,345,0
+Ohio,East Harbor State Park,562,3,93,44,36,4,183,223,31,121
+Ohio,Findley State Park,257,31,70,46,45,0,2,117,133,5
+Ohio,Geneva State Park,100,40,45,45,45,0,0,7,93,0
+Ohio,Grand Lake St. Marys State Park,198,25,62,43,40,0,26,94,68,10
+Ohio,Great Seal State Park,10,48,58,54,56,0,0,0,10,0
+Ohio,Guilford Lake State Park,84,24,85,57,70,1,7,26,0,50
+Ohio,Harrison Lake State Park,159,24,68,50,50,1,1,8,147,2
+Ohio,Hocking Hills State Park,156,27,44,39,40,0,16,140,0,0
+Ohio,Hueston Woods State Park,309,10,64,31,25,73,166,4,59,7
+Ohio,Indian Lake State Park,451,29,50,42,42,0,20,324,107,0
+Ohio,Jackson Lake State Park,23,35,65,48,48,0,0,5,17,1
+Ohio,Jefferson Lake State Park,6,39,51,46,49,0,0,2,4,0
+Ohio,John Bryan State Park,32,35,51,39,40,0,0,28,4,0
+Ohio,Kelleys Island State Park,117,15,50,38,41,16,1,71,29,0
+Ohio,Kiser Lake State Park,22,20,117,75,80,1,1,1,2,17
+Ohio,Lake Alma State Park,66,18,54,37,36,3,23,25,15,0
+Ohio,Lake Hope State Park,43,20,50,40,40,2,1,26,14,0
+Ohio,Lake Loramie State Park,173,33,70,50,50,0,1,4,165,3
+Ohio,Malabar Farm State Park,1,60,60,60,60,0,0,0,0,1
+Ohio,Mary Jane Thurston State Park,23,50,50,50,50,0,0,0,23,0
+Ohio,Maumee Bay State Park,256,50,50,50,50,0,0,0,256,0
+Ohio,Mohican State Park,151,35,61,46,45,0,0,63,87,1
+Ohio,Mosquito Lake State Park,232,30,50,39,40,0,2,212,18,0
+Ohio,Mt Gilead State Park,60,30,55,41,40,0,7,41,12,0
+Ohio,Muskingum River State Park,18,30,30,30,30,0,18,0,0,0
+Ohio,Paint Creek State Park,207,35,56,45,46,0,0,72,135,0
+Ohio,Pike Lake State Park,79,25,55,38,39,0,30,34,15,0
+Ohio,Punderson State Park,146,25,65,46,46,0,2,36,103,5
+Ohio,Pymatuning State Park,500,25,97,45,43,0,4,290,200,6
+Ohio,Rocky Fork State Park,164,19,69,42,39,14,34,70,1,45
+Ohio,Salt Fork State Park,84,18,60,40,44,12,21,10,40,1
+Ohio,Scioto Trail State Park,55,21,79,46,43,1,10,17,17,10
+Ohio,Shawnee State Park,182,20,130,47,42,16,40,43,57,26
+Ohio,South Bass Island State Park,73,27,56,38,38,0,14,53,6,0
+Ohio,Stonelick State Park,113,23,54,39,39,5,25,56,27,0
+Ohio,Tar Hollow State Park,28,30,52,44,46,0,2,9,17,0
+Ohio,Van Buren State Park,60,30,55,44,45,0,1,22,37,0
+Ohio,West Branch State Park,180,37,100,49,45,0,0,86,63,31
+Ohio,Wolf Run State Park,130,14,63,37,38,9,31,68,19,3

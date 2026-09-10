@@ -1,0 +1,64 @@
+Alafia River State Park|30|55|55|55|55|0|0|0|30|0
+Anastasia State Park|139|10|38|24|26|61|52|26|0|0
+Bahia Honda State Park|78|15|48|31|30|35|12|22|9|0
+Big Lagoon State Park|75|20|40|29|30|15|38|22|0|0
+Bill Baggs Cape Florida State Park|1|50|50|50|50|0|0|0|1|0
+Blackwater River State Park|30|15|50|35|35|2|10|13|5|0
+Blue Spring State Park|50|20|45|33|35|4|14|29|3|0
+Caladesi Island State Park|108|40|75|42|40|0|0|93|9|6
+Catfish Creek Preserve State Park|2|25|25|25|25|0|2|0|0|0
+Collier-Seminole State Park|105|14|50|29|30|27|50|20|8|0
+Colt Creek State Park|48|33|93|55|68|0|20|0|0|28
+Curry Hammock State Park|28|35|70|57|60|0|0|1|12|15
+Dr. Julian G. Bruce St. George Island State Park|73|20|43|35|36|9|22|42|0|0
+Falling Waters State Park|23|16|40|33|35|3|7|13|0|0
+Faver-Dykes State Park|1|20|20|20|20|1|0|0|0|0
+Florida Caverns State Park|37|25|40|32|32|0|34|3|0|0
+Fort Clinch State Park|61|18|48|38|40|4|11|31|15|0
+Fred Gannon Rocky Bayou State Park|42|20|45|33|30|6|17|18|1|0
+Gamble Rogers Memorial State Recreation Area at Flagler Beach|68|15|90|47|40|10|6|21|8|23
+Grayton Beach State Park|60|20|40|34|36|3|22|35|0|0
+Henderson Beach State Park|58|30|60|44|45|0|3|26|22|7
+Highlands Hammock State Park|150|15|50|31|30|35|59|30|26|0
+Hillsborough River State Park|116|23|108|43|40|1|18|53|31|13
+Hontoon Island State Park|40|25|25|25|25|0|40|0|0|0
+Hugh Taylor Birch State Park|1|10|10|10|10|1|0|0|0|0
+John Pennekamp Coral Reef State Park|48|18|62|47|46|1|2|15|27|3
+Jonathan Dickinson State Park|150|15|88|44|48|32|21|13|55|29
+Kissimmee Prairie Preserve State Park|40|17|65|36|38|5|9|18|7|1
+Koreshan State Park|8|40|40|40|40|0|0|8|0|0
+Lafayette Blue Springs State Park|1|40|40|40|40|0|0|1|0|0
+Lake Griffin State Park|40|20|40|31|30|6|18|16|0|0
+Lake Kissimmee State Park|63|25|45|39|40|0|16|21|26|0
+Lake Louisa State Park|71|30|115|50|45|0|11|7|40|13
+Lake Manatee State Park|60|45|65|54|54|0|0|0|50|10
+Little Manatee River State Park|39|25|75|45|46|0|9|8|18|4
+Little Talbot Island State Park|20|15|30|20|20|15|5|0|0|0
+Lower Wekiva River State Park|30|50|50|50|50|0|0|0|30|0
+Manatee Springs State Park|51|15|40|28|30|11|23|17|0|0
+Mike Roess Gold Head Branch State Park|50|16|55|36|36|8|4|27|11|0
+Myakka River State Park|86|15|45|34|35|5|32|39|10|0
+O'Leno State Park|56|15|50|33|30|5|24|22|5|0
+Ochlockonee River State Park|28|20|40|31|30|4|13|11|0|0
+Oleta River State Park|3|16|16|16|16|3|0|0|0|0
+Oscar Scherer State Park|105|15|36|30|36|19|31|55|0|0
+Paynes Prairie Preserve State Park|35|45|70|55|55|0|0|0|24|11
+Rainbow Springs State Park|53|40|103|61|60|0|0|4|15|34
+Rock Springs Run State Reserve|15|50|50|50|50|0|0|0|15|0
+Rodman Campground|42|22|40|39|40|1|2|39|0|0
+Ross Prairie Trailhead and Campground|15|20|86|50|61|6|0|0|1|8
+Ruth B. Kirby Gilchrist Blue Springs State Park|6|30|40|38|40|0|1|5|0|0
+Santos Trailhead and Campground|25|20|62|45|47|1|1|10|12|1
+Sebastian Inlet State Park|60|30|50|38|40|0|16|39|5|0
+Shangri-La Trailhead and Campground|24|50|50|50|50|0|0|0|24|0
+Silver Springs State Park|59|38|50|49|50|0|0|4|55|0
+St. Andrews State Park|149|21|50|36|35|1|31|76|41|0
+St. Sebastian River Preserve State Park|8|20|35|24|20|6|0|2|0|0
+Stephen Foster Folk Culture Center State Park|47|26|125|59|56|0|5|7|17|18
+Suwannee River State Park|30|12|55|37|40|2|9|9|10|0
+T.H. Stone Memorial St. Joseph Peninsula State Park|3|50|50|50|50|0|0|0|3|0
+Three Rivers State Park|31|15|50|43|50|4|1|5|21|0
+Tomoka State Park|101|20|34|25|25|45|56|0|0|0
+Topsail Hill Preserve State Park|155|20|45|41|40|5|17|61|72|0
+Torreya State Park|33|20|60|42|40|3|2|19|4|5
+Wekiwa Springs State Park|29|40|70|50|50|0|0|7|17|5

@@ -50,15 +50,40 @@ alongside their parks.
 
 ## RV and tow-vehicle rules
 
-- **[`rv-policies.csv`](rv-policies.csv)** — one row per state: maximum RV length, whether the tow vehicle counts toward it, vehicles allowed per site, where extra vehicles park, whether site sizes are published, and the source URL.
-- **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's per-park breakdown: 22 parks, 838 RV sites, counted by size.
-- The **RV rules by state** tab on the [live page](https://tim-army.github.io/State-Parks/) renders both.
+- **[`rv-policies.csv`](rv-policies.csv)** — one row per state: published length limit, measured average and longest site where I could measure it, whether the tow vehicle counts, vehicles per site, where extras park, and a source URL.
+- **[`campsite-rv-lengths.csv`](campsite-rv-lengths.csv)** — **23,839 individual campsites across 249 parks in 5 states**, each park summarised: site count, shortest, longest, average, median, and a count of sites in each size band.
+- **[`campsite-rv-summary.csv`](campsite-rv-summary.csv)** — the same rolled up per state.
+- **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's own published per-park breakdown (22 parks, 838 sites).
+- The **RV rules by state** tab on the [live page](https://tim-army.github.io/State-Parks/) renders all of it.
 
-### What the research found
+### Measured site lengths
 
-**No state publishes a single system-wide maximum RV length.** The limit is set per campsite and lives in each
-state's reservation system. Statewide pages give vehicle *counts* (usually one camping unit plus one or two
-vehicles), not lengths.
+| State | Parks | RV sites | Average | Longest | <25 ft | 25–34 | 35–44 | 45–59 | 60+ |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Arizona | 15 | 1,444 | 58 ft | 172 ft | 26 | 89 | 236 | 484 | 609 |
+| California | 100 | 10,562 | 38 ft | 100 ft | 2,286 | 4,083 | 2,576 | 582 | 1,035 |
+| Florida | 64 | 3,293 | 38 ft | 125 ft | 405 | 796 | 1,063 | 795 | 234 |
+| Nevada | 18 | 665 | 47 ft | 145 ft | 95 | 73 | 149 | 150 | 198 |
+| Ohio | 52 | 7,875 | 44 ft | 130 ft | 170 | 817 | 3,110 | 3,347 | 431 |
+
+California and Florida average 38 ft — and in California nearly a quarter of all sites are under 25 ft. Arizona is the
+outlier: 42% of its sites take 60 ft or more.
+
+### How the measurement works
+
+Five states run their reservations on US eDirect / Tyler, whose API exposes a `VehicleLength` on every bookable unit.
+[`rv/scrape_usedirect.py`](rv/scrape_usedirect.py) documents the shape; the actual collection ran through a browser
+because the API rate-limits scripted clients hard (a 403 after ~90 rapid calls, clearing in about five minutes).
+
+Two corrections matter. Units are deduped by `UnitId`, because the same site is returned by both the park-level and the
+loop-level facility. And Ohio is filtered to camping facilities only — its system sells marina dock and mooring
+inventory through the same endpoint, with vehicle lengths attached, which inflated the raw count from 7,875 sites to
+nearly 17,000. California's "boat-in" facilities are genuine campgrounds and are kept.
+
+### What the states themselves publish
+
+**No state publishes a system-wide maximum RV length.** The limit is set per campsite and lives in the reservation
+system — which is exactly why the measured table above exists. Statewide pages give vehicle *counts*, not lengths.
 
 **Does the tow vehicle count?** Four states answer plainly, and all four say yes:
 
@@ -69,27 +94,23 @@ vehicles), not lengths.
 | Arkansas | "combined length … may not exceed the capacity of the camping spur" |
 | Missouri | "All wheeled equipment/vehicles must fit on the parking pad/area" |
 
-Florida gets there indirectly ("consider the overall length and width of your camper or RV **and your tow
-vehicle**"), and Utah counts them as one unit for vehicle limits ("a vehicle and attached in tow equipment is
-considered one vehicle"). Everywhere else it is unstated — so assume the whole rig has to fit on the pad.
+Florida gets there indirectly ("consider the overall length and width of your camper or RV **and your tow vehicle**"),
+and Utah counts them as one unit for vehicle limits. Everywhere else it is unstated — so assume the whole rig has to fit.
 
-**Average site length and site-size counts** are only computable where a state publishes per-site data.
-Virginia publishes a complete per-park table; Maine classifies every site S/M/L/X/U (to 20/25/30/35/over 35 ft);
-Wisconsin buckets sites into 5 ft intervals in its reservation filter. The rest keep it per-site inside the
-booking system.
+**Where the tow vehicle parks** varies: Ohio sends extras to the camp office lot, Pennsylvania to a second-car lot or
+onto the spur for a fee, Indiana to designated campground lots, Oregon and Texas to overflow areas. Colorado issues a
+free towed-vehicle pass; Arizona waives the extra-vehicle fee for a towed car; Rhode Island's single vehicle pass covers
+either the motorhome or the vehicle towing the trailer.
 
-**Where the tow vehicle parks** varies: Ohio sends extras to the camp office lot, Pennsylvania to a second-car
-lot or onto the spur for a fee, Indiana to designated campground lots, Oregon and Texas to overflow areas.
-Colorado issues a free towed-vehicle pass; Arizona waives the extra-vehicle fee for a towed car; Rhode Island's
-single vehicle pass covers either the motorhome or the vehicle towing the trailer.
+### Limits
 
-### Limits of this table
+Policy rows are sourced from each state agency's own camping rules in September 2026, and every row cites its page.
+"Not stated" means the state does not publish that fact, not that no limit exists.
 
-Sourced from each state agency's own camping rules, regulations, and FAQ pages in September 2026 — every row
-cites the page it came from. Rows reading "Not stated" mean the state does not publish that fact, not that no
-limit exists. Georgia, New Mexico, and New Hampshire each publish an RV guide as a scanned graphic PDF whose
-per-park numbers could not be extracted. ReserveCalifornia's API (which also serves Florida, Texas, Utah, Ohio
-and Washington) was unreachable during collection, so per-site lengths for those states were not harvested.
+The measured table covers 5 states because only 5 run a reachable US eDirect instance. Texas, Utah, Washington and
+Oregon have dead `*rdr.usedirect.com` hostnames — they have migrated to ReserveAmerica, Camis or their own systems,
+each of which needs a different scraper. New York, Michigan, Pennsylvania and the rest of ReserveAmerica remain
+unmeasured. Georgia, New Mexico and New Hampshire publish RV guides as scanned graphic PDFs that yield no text.
 
 ## Updating
 

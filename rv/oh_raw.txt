@@ -1,0 +1,52 @@
+A.W. Marion State Park|58|32|54|45|45|0|1|16|41|0
+Alum Creek State Park|299|40|65|49|48|0|0|1|294|4
+Barkcamp State Park|135|21|80|46|45|1|1|60|71|2
+Beaver Creek State Park|58|25|60|39|35|0|18|19|19|2
+Blue Rock State Park|84|14|125|46|41|8|20|23|21|12
+Buck Creek State Park|105|31|60|44|40|0|47|16|0|42
+Burr Oak State Park|61|22|78|38|38|3|15|34|7|2
+Caesar Creek State Park|278|37|40|40|40|0|0|278|0|0
+Cowan Lake State Park|221|30|59|41|38|0|11|144|66|0
+Deer Creek State Park|235|41|45|45|45|0|0|2|233|0
+Delaware State Park|212|42|88|51|49|0|0|4|189|19
+Dillon State Park|203|25|64|40|40|0|15|155|30|3
+East Fork State Park|416|37|56|46|46|0|0|71|345|0
+East Harbor State Park|562|3|93|44|36|4|183|223|31|121
+Findley State Park|257|31|70|46|45|0|2|117|133|5
+Geneva State Park|100|40|45|45|45|0|0|7|93|0
+Grand Lake St. Marys State Park|198|25|62|43|40|0|26|94|68|10
+Great Seal State Park|10|48|58|54|56|0|0|0|10|0
+Guilford Lake State Park|84|24|85|57|70|1|7|26|0|50
+Harrison Lake State Park|159|24|68|50|50|1|1|8|147|2
+Hocking Hills State Park|156|27|44|39|40|0|16|140|0|0
+Hueston Woods State Park|309|10|64|31|25|73|166|4|59|7
+Indian Lake State Park|451|29|50|42|42|0|20|324|107|0
+Jackson Lake State Park|23|35|65|48|48|0|0|5|17|1
+Jefferson Lake State Park|6|39|51|46|49|0|0|2|4|0
+John Bryan State Park|32|35|51|39|40|0|0|28|4|0
+Kelleys Island State Park|117|15|50|38|41|16|1|71|29|0
+Kiser Lake State Park|22|20|117|75|80|1|1|1|2|17
+Lake Alma State Park|66|18|54|37|36|3|23|25|15|0
+Lake Hope State Park|43|20|50|40|40|2|1|26|14|0
+Lake Loramie State Park|173|33|70|50|50|0|1|4|165|3
+Malabar Farm State Park|1|60|60|60|60|0|0|0|0|1
+Mary Jane Thurston State Park|23|50|50|50|50|0|0|0|23|0
+Maumee Bay State Park|256|50|50|50|50|0|0|0|256|0
+Mohican State Park|151|35|61|46|45|0|0|63|87|1
+Mosquito Lake State Park|232|30|50|39|40|0|2|212|18|0
+Mt Gilead State Park|60|30|55|41|40|0|7|41|12|0
+Muskingum River State Park|18|30|30|30|30|0|18|0|0|0
+Paint Creek State Park|207|35|56|45|46|0|0|72|135|0
+Pike Lake State Park|79|25|55|38|39|0|30|34|15|0
+Punderson State Park|146|25|65|46|46|0|2|36|103|5
+Pymatuning State Park|500|25|97|45|43|0|4|290|200|6
+Rocky Fork State Park|164|19|69|42|39|14|34|70|1|45
+Salt Fork State Park|84|18|60|40|44|12|21|10|40|1
+Scioto Trail State Park|55|21|79|46|43|1|10|17|17|10
+Shawnee State Park|182|20|130|47|42|16|40|43|57|26
+South Bass Island State Park|73|27|56|38|38|0|14|53|6|0
+Stonelick State Park|113|23|54|39|39|5|25|56|27|0
+Tar Hollow State Park|28|30|52|44|46|0|2|9|17|0
+Van Buren State Park|60|30|55|44|45|0|1|22|37|0
+West Branch State Park|180|37|100|49|45|0|0|86|63|31
+Wolf Run State Park|130|14|63|37|38|9|31|68|19|3

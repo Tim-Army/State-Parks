@@ -1,0 +1,18 @@
+Beaver Dam State Park|31|22|90|38|22|16|3|2|4|6
+Berlin-Ichthyosaur State Park|14|25|70|32|25|0|11|0|2|1
+Big Bend of the Colorado State Recreation Area|56|20|70|41|45|24|0|1|11|20
+Cathedral Gorge State Park|28|18|60|35|30|9|7|5|2|5
+Cave Lake State Park|6|35|120|74|80|0|0|1|2|3
+Dayton State Park|10|29|75|49|48|0|1|4|1|4
+Echo Canyon State Park|53|40|80|59|60|0|0|1|21|31
+Fort Churchill State Historic Park|21|25|45|38|45|0|9|0|12|0
+Kershaw Ryan State Park|20|10|65|52|65|4|1|0|0|15
+Lahontan State Recreation Area|36|25|60|42|40|0|11|10|4|11
+Rye Patch State Recreation Area|67|22|75|49|48|22|0|3|16|26
+South Fork State Recreation Area|50|1|40|38|40|1|2|47|0|0
+Spring Valley State Park|47|15|100|45|50|8|7|8|8|16
+Valley of Fire State Park|73|30|125|54|48|0|3|22|26|22
+Walker River State Recreation Area|52|20|40|35|40|8|8|36|0|0
+Ward Charcoal Ovens State Historic Park|16|25|45|39|45|0|5|1|10|0
+Washoe Lake State Park|48|23|100|60|60|2|5|4|13|24
+Wild Horse State Recreation Area|37|20|145|71|55|1|0|4|18|14
