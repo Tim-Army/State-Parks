@@ -1,0 +1,31 @@
+Buffalo Bill Ranch State Recreation Area|23|20|40|35|40|6|0|17|0|0
+Calamus SRA|73|50|50|50|50|0|0|0|73|0
+Chadron SP|50|40|65|52|50|0|0|2|41|7
+Enders SRA|40|30|40|40|40|0|1|39|0|0
+Eugene T. Mahoney SP|148|36|72|47|47|0|0|54|85|9
+Fort Kearny SRA|44|24|54|43|42|1|3|20|20|0
+Fort Robinson SP|149|60|70|61|60|0|0|0|0|149
+Fremont SRA|165|32|110|53|51|0|1|16|128|20
+Indian Cave SP|63|41|66|54|53|0|0|2|44|17
+Johnson Lake SRA|65|30|50|40|42|0|8|55|2|0
+Lake McConaughy SRA|264|35|60|54|60|0|0|1|102|161
+Lake Minatare SRA|37|37|63|51|53|0|0|4|32|1
+Lake Ogallala SRA|82|45|45|45|45|0|0|0|82|0
+Lewis and Clark SRA|130|20|50|48|50|6|4|0|120|0
+Louisville SRA|129|39|77|57|57|0|0|4|78|47
+Medicine Creek SRA|50|30|48|39|40|0|9|35|6|0
+Merritt Reservoir|74|34|88|57|58|0|1|10|28|35
+Mormon Island SRA|17|40|55|44|40|0|0|13|4|0
+Niobrara State Park|60|45|68|55|55|0|0|0|57|3
+Pawnee SRA|31|45|53|50|51|0|0|0|31|0
+Platte River SP|24|18|55|47|55|5|0|0|19|0
+Ponca SP|50|40|60|56|60|0|0|1|18|31
+Red Willow State Recreation Area|36|40|40|40|40|0|0|36|0|0
+Rock Creek Station SHP|13|42|58|52|53|0|0|1|12|0
+Sherman Reservoir State Recreation Area|29|60|60|60|60|0|0|0|0|29
+Summit Lake State Recreation Area|31|65|65|65|65|0|0|0|0|31
+Swanson SRA|38|40|40|40|40|0|0|38|0|0
+Two Rivers SRA|103|36|77|53|50|0|0|7|76|20
+Victoria Springs SRA|10|50|50|50|50|0|0|0|10|0
+Willow Creek SRA|79|34|70|46|44|0|1|39|29|10
+Windmill SRA|33|35|80|59|60|0|0|13|1|19

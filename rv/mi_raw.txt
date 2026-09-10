@@ -1,0 +1,96 @@
+Algonac State Park|294|29|60|43|43|0|2|189|101|2
+Aloha State Park|286|26|120|49|50|0|15|55|178|38
+Bald Mountain Recreation Area|2|40|40|40|40|0|0|2|0|0
+Baraga State Park|105|34|100|54|48|0|2|29|42|32
+Bay City State Park|197|16|120|50|50|1|25|36|63|72
+Bewabic State Park|131|20|83|45|46|9|11|34|62|15
+Brighton Recreation Area|214|25|125|51|50|0|10|37|126|41
+Brimley State Park|239|15|95|40|40|10|38|107|79|5
+Burt Lake State Park|307|20|85|47|45|1|21|115|120|50
+Cheboygan State Park|83|20|60|37|35|4|32|32|5|10
+Clear Lake State Park|178|13|60|42|40|1|21|71|84|1
+Craig Lake State Park|2|25|25|25|25|0|2|0|0|0
+Duck Lake State Park|1|40|40|40|40|0|0|1|0|0
+East Tawas State Harbor|78|30|60|45|45|0|16|0|46|16
+Elk Hill Horse Campground|10|31|180|77|67|0|1|0|2|7
+Fayette Historic State Park|62|20|100|44|40|5|17|21|8|11
+Fisherman's Island State Park|79|23|150|53|50|1|3|14|42|19
+Fort Custer Recreation Area|228|20|132|67|67|2|2|6|61|157
+Fort Wilkins Historic State Park|145|30|107|49|42|0|22|58|30|35
+Harrisville State Park|191|20|100|45|42|3|19|76|71|22
+Hartwick Pines State Park|99|40|95|72|70|0|0|2|0|97
+Hayes State Park|177|20|80|44|42|1|4|116|42|14
+Headquarters Lake State Forest|9|25|70|42|40|0|3|2|3|1
+Highland Recreation Area|28|25|83|66|70|0|2|1|2|23
+Hoeft State Park|133|20|109|41|36|2|41|48|27|15
+Hoffmaster State Park|1|60|60|60|60|0|0|0|0|1
+Holland State Park|214|16|80|43|43|7|18|110|75|4
+Holly Recreation Area|163|23|120|50|50|1|3|11|142|6
+Indian Lake State Park|213|15|90|44|42|7|37|67|76|26
+Interlochen State Park|443|20|90|42|40|7|21|321|61|33
+Ionia Recreation Area|159|18|100|55|55|7|7|10|69|66
+Island Lake Recreation Area|8|31|50|43|44|0|1|6|1|0
+Lake Gogebic State Park|115|15|90|49|45|1|13|38|29|34
+Lake Hudson Recreation Area|1|20|20|20|20|1|0|0|0|0
+Lakeport State Park|226|14|90|59|50|1|0|32|127|66
+Leelanau State Park|51|15|50|35|35|9|14|17|11|0
+Lime Island State Park|10|16|16|16|16|10|0|0|0|0
+Little Presque Isle State Forest|6|12|12|12|12|6|0|0|0|0
+Ludington State Park|11|40|50|49|50|0|0|1|10|0
+Maybury State Park|6|44|160|69|60|0|0|3|0|3
+McLain State Park|81|30|100|51|50|0|2|24|34|21
+Mears State Park|174|25|60|43|40|0|6|96|67|5
+Metamora-Hadley Recreation Area|217|20|60|36|35|8|85|85|38|1
+Mitchell State Park|220|45|100|55|50|0|0|0|169|51
+Muskallonge Lake State Park|159|20|90|43|40|3|43|43|53|17
+Muskegon State Park|254|10|125|54|50|4|29|53|71|97
+Newaygo State Park|99|30|62|48|49|0|3|18|72|6
+North Higgins Lake State Park|176|21|95|43|42|2|55|47|56|16
+Onaway State Park|81|20|65|44|45|1|13|23|31|13
+Orchard Beach State Park|157|32|95|48|46|0|1|49|101|6
+Ortonville Recreational Area|17|35|100|75|75|0|0|2|3|12
+Otsego Lake State Park|162|20|80|49|50|1|5|37|91|28
+Petoskey State Park|179|20|70|40|40|5|19|91|62|2
+Pinckney Recreation Area|198|15|109|47|50|7|17|24|135|15
+Pontiac Lake Recreation Area|213|20|200|35|35|3|32|176|0|2
+Porcupine Mountains Wilderness State Park|1|24|24|24|24|1|0|0|0|0
+Port Crescent State Park|145|14|70|40|40|5|37|61|40|2
+Proud Lake Recreation Area|130|23|74|45|44|2|14|56|45|13
+Rifle River Recreation Area|176|24|90|54|60|1|4|4|73|94
+SFC Arbutus Lake|24|13|64|36|35|3|8|6|5|2
+SFC Black Lake|50|25|70|51|50|0|2|7|28|13
+SFC Bray Creek|9|30|60|44|40|0|1|4|2|2
+SFC Forks|9|15|55|33|30|1|4|3|1|0
+SFC Garey Lake|12|45|105|67|66|0|0|0|2|10
+SFC Houghton Lake|50|35|81|55|56|0|0|10|22|18
+SFC Lake Ann|30|30|78|58|60|0|1|1|13|15
+SFC Lake Dubonnet|50|51|120|76|75|0|0|0|2|48
+SFC Lake Margrethe|37|18|100|56|55|1|3|4|14|15
+SFC Little Brevort Lake|20|40|70|54|55|0|0|2|12|6
+SFC Platte River|26|54|90|71|75|0|0|0|2|24
+SFC Reedsburg Dam|48|30|107|66|63|0|1|8|10|29
+SFC Scheck's Place|30|25|80|48|40|0|4|13|2|11
+SFC Veterans Memorial|24|45|78|60|60|0|0|0|5|19
+Saugatuck Dunes State Park|1|50|50|50|50|0|0|0|1|0
+Seven Lakes State Park|75|40|50|49|50|0|0|5|70|0
+Silver Lake State Park|200|30|100|50|50|0|3|9|184|4
+Sleeper State Park|226|20|105|48|45|2|28|63|93|40
+Sleepy Hollow State Park|3|44|44|44|44|0|0|3|0|0
+South Higgins Lake State Park|406|28|120|54|50|0|1|15|291|99
+Sterling State Park|2|15|15|15|15|2|0|0|0|0
+Straits State Park|274|2|100|34|30|43|120|61|24|26
+Tahquamenon Falls State Park|282|20|200|51|49|1|18|89|110|64
+Tawas Point State Park|192|14|100|51|50|3|8|15|151|15
+Thompson Harbor State Park|1|32|32|32|32|0|1|0|0|0
+Tippy Dam Recreation Area|39|20|60|39|40|1|6|20|11|1
+Traverse City State Park|347|15|75|37|35|7|92|173|68|7
+Twin Lakes State Park|2|30|31|31|31|0|2|0|0|0
+Van Buren State Park|221|24|60|42|42|1|16|99|103|2
+Van Riper State Park|187|15|95|41|40|11|44|67|51|14
+Warren Dunes State Park|182|20|64|37|34|10|83|47|30|12
+Waterloo Recreation Area|358|25|120|50|48|0|19|95|174|70
+Wells State Park|160|20|100|54|54|5|2|16|87|50
+Wilderness State Park|261|20|96|50|50|2|6|40|177|36
+Wilson State Park|1|44|44|44|44|0|0|1|0|0
+Yankee Springs Recreation Area|308|17|100|44|45|4|27|121|111|45
+Young State Park|239|18|80|49|50|4|7|30|180|18

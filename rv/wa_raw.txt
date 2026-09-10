@@ -1,0 +1,59 @@
+Alta Lake State Park|124|20|55|33|32|12|62|27|23|0
+Battle Ground Lake State Park|35|30|100|59|55|0|1|7|11|16
+Bay View State Park|6|8|12|9|8|6|0|0|0|0
+Beacon Rock State Park|5|40|62|53|55|0|0|1|3|1
+Beebe Bridge Park|46|40|112|73|73|0|0|1|6|39
+Belfair State Park|132|20|60|37|40|46|14|12|40|20
+Birch Bay State Park|167|25|97|46|43|0|25|66|56|20
+Bogachiel State Park|30|18|56|32|30|6|17|3|4|0
+Bridgeport State Park|30|34|48|40|40|0|1|23|6|0
+Brooks Memorial State Park|38|9|58|39|50|10|1|3|24|0
+Camano Island State Park (Cabins)|5|30|30|30|30|0|5|0|0|0
+Camano Island State Park|80|15|135|65|60|3|7|14|12|44
+Columbia Hills State Park|16|20|39|30|33|5|8|3|0|0
+Conconully State Park|54|24|100|55|56|1|4|4|29|16
+Curlew Lake State Park|13|15|40|38|40|1|0|12|0|0
+Daroga State Park|28|35|95|53|50|0|0|2|19|7
+Dash Point State Park|124|10|90|33|27|42|42|16|11|13
+Deception Pass State Park|311|10|99|44|41|19|57|111|81|43
+Dosewallips State Park|104|20|60|37|40|20|23|19|36|6
+Fields Spring State Park|20|27|47|36|35|0|3|16|1|0
+Fort Casey State Park|35|55|55|55|55|0|0|0|35|0
+Fort Ebey State Park|50|15|50|42|45|6|0|4|40|0
+Fort Townsend State Park|38|15|35|29|32|12|14|12|0|0
+Fort Worden State Park|80|30|70|54|50|0|1|3|56|20
+Grayland Beach State Park|116|40|115|52|40|0|0|60|11|45
+Ike Kinswa State Park|101|40|88|60|60|0|0|2|38|61
+Jarrell Cove State Park|8|18|70|45|40|1|2|2|0|3
+Joemma Beach|19|24|100|57|49|1|1|1|11|5
+Kanaskat-Palmer State Park|50|8|18|12|12|50|0|0|0|0
+Kitsap Memorial State Park|8|40|40|40|40|0|0|8|0|0
+Lake Chelan State Park|149|8|45|19|10|118|2|12|17|0
+Lake Easton State Park|135|16|80|32|30|51|28|26|22|8
+Lake Sylvia State Park|35|20|57|36|35|1|8|21|5|0
+Lake Wenatchee State Park|197|17|57|42|42|8|39|75|75|0
+Larrabee State Park|51|23|58|39|38|4|14|17|16|0
+Lewis and Clark Trail State Park (SE Washington)|25|30|60|44|40|0|1|13|9|2
+Lincoln Rock State Park|100|30|70|57|58|0|2|10|42|46
+Manchester State Park|50|34|90|56|50|0|1|5|27|17
+Moran State Park|125|16|100|40|39|15|31|35|34|10
+Mount Spokane State Park|8|14|65|35|30|2|3|0|2|1
+Ocean City State Park|137|15|88|39|35|22|46|29|25|15
+Pacific Beach State Park|53|40|55|46|45|0|0|16|37|0
+Paradise Point State Park|67|30|69|47|48|0|2|14|47|4
+Pearrygin Lake State Park|129|25|70|49|50|0|19|1|79|30
+Penrose Point State Park|81|24|100|51|45|2|10|25|25|19
+Potholes State Park|115|30|50|43|45|0|4|38|73|0
+Potlatch State Park|75|16|78|33|32|14|37|15|8|1
+Rainbow Falls State Park|50|20|67|40|41|3|14|18|13|2
+Rasar State Park|48|39|90|57|54|0|0|3|25|20
+Riverside State Park - Lake Spokane|10|25|60|44|40|0|2|4|1|3
+Schafer State Park|47|15|147|50|41|1|7|17|17|5
+Seaquest State Park|4|30|45|34|30|0|3|0|1|0
+Sequim Bay State Park|60|21|52|30|27|4|38|16|2|0
+Steamboat Rock State Park|192|30|70|53|50|0|26|6|100|60
+Twanoh State Park|39|24|75|39|36|2|16|9|10|2
+Twenty-Five Mile Creek State Park|36|12|35|23|24|23|12|1|0|0
+Twin Harbors State Park|157|10|60|26|20|89|48|9|4|7
+Wanapum State Park|50|37|80|55|55|0|0|3|36|11
+Yakima Sportsman State Park|75|30|60|46|50|0|26|0|28|21

@@ -1,0 +1,27 @@
+Caballo Lake|60|40|95|47|50|0|0|23|36|1
+Cimarron Canyon|73|10|45|27|25|24|36|0|13|0
+City of Rocks|43|15|50|38|40|4|7|24|8|0
+Clayton Lake State Park and Dinosaur Trackways|27|20|50|42|50|2|7|2|16|0
+Conchas Lake|57|25|57|45|50|0|8|10|39|0
+Coyote Creek|15|18|40|35|35|1|0|14|0|0
+Eagle Nest Lake|19|35|107|48|40|0|0|13|3|3
+El Vado Lake|19|30|50|41|40|0|3|9|7|0
+Elephant Butte Lake|129|20|67|37|40|6|18|104|0|1
+Fenton Lake State Park|32|15|60|39|40|7|5|5|14|1
+Heron Lake|181|15|65|32|25|32|84|21|37|7
+Hyde Memorial|29|20|50|29|25|11|11|0|7|0
+Leasburg Dam|24|15|40|33|35|4|7|13|0|0
+Manzano Mountains|27|20|64|37|36|5|7|9|5|1
+Navajo Lake|205|20|55|33|30|34|82|61|28|0
+Oasis|28|40|100|60|59|0|0|5|10|13
+Oliver Lee Memorial|42|20|60|34|35|1|20|15|5|1
+Pancho Villa|63|20|50|39|40|4|2|52|5|0
+Pecos Canyon State Park|29|19|50|34|32|5|13|6|5|0
+Percha Dam|30|40|95|47|50|0|0|15|14|1
+Rockhound|28|20|45|37|40|1|6|20|1|0
+Santa Rosa Lake|76|20|50|38|30|3|41|0|32|0
+Storrie Lake|23|26|40|38|40|0|4|19|0|0
+Sugarite Canyon|33|30|70|54|60|0|3|8|2|20
+Sumner Lake|33|30|120|60|54|0|1|6|11|15
+Ute Lake|112|19|181|59|48|1|35|17|35|24
+Villanueva|24|20|70|44|50|1|7|2|10|4

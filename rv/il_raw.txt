@@ -1,0 +1,62 @@
+Adeline Jay Geo-Karis Illinois Beach State Park|221|20|221|54|53|1|0|3|191|26
+Apple River Canyon State Park|55|20|40|25|25|6|48|1|0|0
+Argyle Lake State Park|138|10|42|39|40|8|0|130|0|0
+Beaver Dam State Park|66|15|40|35|40|14|0|52|0|0
+Big River State Forest|2|15|15|15|15|2|0|0|0|0
+Buffalo Rock State Park|1|15|15|15|15|1|0|0|0|0
+Castle Rock State Park|2|15|15|15|15|2|0|0|0|0
+Chain O' Lakes State Park|259|15|40|36|40|12|70|177|0|0
+Clinton Lake State Recreation Area|296|20|75|53|54|2|14|27|183|70
+Delabar State Park|1|15|15|15|15|1|0|0|0|0
+Dixon Springs State Park|27|12|55|34|45|12|0|1|14|0
+Eagle Creek State Recreation Area|151|15|80|51|52|2|4|23|92|30
+Edward Madigan State Fish & Wildlife Area|5|15|15|15|15|5|0|0|0|0
+Eldon Hazlet State Recreation Area|364|15|55|38|40|35|1|325|3|0
+Ferne Clyffe State Park|41|20|70|50|54|5|0|2|29|5
+Fort Kaskaskia State Historic Site|39|15|40|35|40|7|3|29|0|0
+Fort Massac State Park|56|15|72|55|60|6|0|0|22|28
+Fox Ridge State Park|2|20|40|30|40|1|0|1|0|0
+Frank Holten State Recreation Area|7|15|15|15|15|7|0|0|0|0
+Franklin Creek State Natural Area|5|15|40|20|15|4|0|1|0|0
+Gebhard Woods State Park|1|15|15|15|15|1|0|0|0|0
+Giant City State Park|114|15|40|39|40|5|0|109|0|0
+Goose Lake Prairie State Natural Area|3|15|15|15|15|3|0|0|0|0
+Hamilton County State Fish & Wildlife Area|77|15|45|38|40|8|0|66|3|0
+Hidden Springs State Forest|2|15|20|18|20|2|0|0|0|0
+Horseshoe Lake-Alexander State Fish & Wildlife Area|2|15|15|15|15|2|0|0|0|0
+Horseshoe Lake-Madison State Park|6|15|20|18|20|6|0|0|0|0
+Illini State Park|106|15|40|28|20|58|7|41|0|0
+Jim Edgar Panther Creek State Fish & Wildlife Area|143|15|65|40|40|9|0|123|0|11
+Lincoln's New Salem State Historic Site|86|15|40|39|40|3|0|83|0|0
+Lowden State Park|120|15|40|39|40|3|0|117|0|0
+Marshall State Fish & Wildlife Area|19|42|42|42|42|0|0|19|0|0
+Mississippi Palisades State Park|249|10|40|25|12|130|3|116|0|0
+Moraine Hills State Park|4|15|20|18|20|4|0|0|0|0
+Moraine View State Recreation Area|139|15|46|43|46|6|0|31|102|0
+Morrison Rockwood State Park|122|15|40|39|40|6|0|116|0|0
+Nauvoo State Park|33|15|80|43|43|4|1|15|11|2
+Pere Marquette State Park|88|15|62|40|40|10|3|61|2|12
+Prophetstown State Park|45|15|40|39|40|1|0|44|0|0
+Ramsey Lake State Recreation Area|93|15|70|41|40|4|2|58|23|6
+Randolph County State Recreation Area|65|15|42|39|42|7|0|58|0|0
+Red Hills State Park|106|15|40|39|40|3|0|103|0|0
+Rock Cut State Park|315|15|40|33|35|14|133|168|0|0
+Sam Dale Lake State Fish & Wildlife Area|72|15|64|43|42|4|12|30|22|4
+Sam Parr State Fish & Wildlife Area|34|15|42|39|42|4|0|30|0|0
+Sand Ridge State Forest|47|15|40|37|40|4|5|38|0|0
+Sangchris Lake State Park|183|15|40|39|40|6|0|177|0|0
+Shabbona Lake State Park|152|20|40|36|35|3|0|149|0|0
+Siloam Springs State Park|103|15|45|37|40|4|18|73|8|0
+Spitler Woods State Natural Area|1|20|20|20|20|1|0|0|0|0
+Starved Rock State Park|140|15|50|35|35|9|43|70|18|0
+Stephen A Forbes State Recreation Area|140|5|60|30|30|47|58|15|6|14
+Trail of Tears State Forest|14|20|20|20|20|14|0|0|0|0
+Walnut Point State Park|65|20|40|32|40|25|0|40|0|0
+Washington County State Recreation Area|54|15|40|38|40|4|0|50|0|0
+Wayne Fitzgerrell State Recreation Area|253|15|40|40|40|4|0|249|0|0
+Weinberg-King State Park|55|15|75|55|58|7|0|1|21|26
+Weldon Springs State Park|80|15|80|45|43|1|6|40|25|8
+White Pines Forest State Park|126|15|40|36|40|22|0|104|0|0
+William W Powers State Recreation Area|4|15|15|15|15|4|0|0|0|0
+Wolf Creek State Park|223|20|73|53|54|8|1|17|152|45
+World Shooting & Recreation Complex|897|50|50|50|50|0|0|0|897|0

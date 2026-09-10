@@ -1,0 +1,41 @@
+Annie and Abel Van Meter State Park|22|36|60|52|54|0|0|3|18|1
+Arrow Rock State Historic Site|48|31|67|46|48|0|3|12|31|2
+Battle of Athens State Historic Site|28|40|68|54|54|0|0|2|20|6
+Bennett Spring State Park|192|18|86|55|55|3|1|10|141|37
+Big Lake State Park|65|42|73|55|54|0|0|3|50|12
+Crowder State Park|41|12|69|51|56|4|0|4|26|7
+Cuivre River State Park|106|35|65|51|52|0|0|10|92|4
+Dr. Edmund A. Babler Memorial SP|75|26|54|45|46|0|10|21|44|0
+Echo Bluff State Park|74|16|63|51|57|12|0|0|57|5
+Finger Lakes State Park|37|28|81|48|47|0|1|12|23|1
+Graham Cave State Park|53|29|62|42|42|0|6|29|17|1
+Harry S Truman State Park|186|45|71|55|55|0|0|0|155|31
+Hawn State Park|45|31|58|54|55|0|1|0|44|0
+Johnsons Shut-Ins State Park|79|15|92|58|61|14|0|0|17|48
+Knob Noster State Park|60|42|68|56|57|0|0|2|45|13
+Lake Wappapello State Park|75|33|87|52|53|0|1|17|46|11
+Lake of the Ozarks State Park|169|27|90|56|56|0|1|10|122|36
+Lewis and Clark State Park|70|26|96|58|61|0|7|3|15|45
+Long Branch State Park|67|26|75|55|55|0|3|6|38|20
+Mark Twain State Park|95|46|74|58|58|0|0|0|59|36
+Meramec State Park|212|35|90|57|56|0|0|17|131|64
+Montauk State Park|145|38|77|56|56|0|0|3|113|29
+Onondaga Cave State Park|66|38|84|59|60|0|0|6|26|34
+Pershing State Park|39|23|85|51|51|1|0|7|26|5
+Pomme de Terre State Park|241|25|77|54|54|0|2|13|197|29
+Prairie State Park|4|40|65|50|56|0|0|2|1|1
+Roaring River State Park|173|41|80|56|56|0|0|7|109|57
+Robertsville State Park|27|44|86|59|56|0|0|1|15|11
+Sam A. Baker State Park|200|27|77|56|55|0|1|12|131|56
+St. Francois State Park|110|18|89|52|49|4|11|25|41|29
+St. Joe State Park|99|42|126|80|73|0|0|2|15|82
+Stockton State Park|68|44|80|57|57|0|0|1|58|9
+Table Rock State Park|159|1|74|53|55|7|2|13|76|61
+Thousand Hills State Park|51|36|82|54|51|0|0|9|25|17
+Trail of Tears State Park|54|27|102|57|55|0|4|13|17|20
+Viney Creek Recreation Area|45|1|66|38|37|7|8|18|9|3
+Wakonda State Park|98|20|173|68|69|4|11|0|18|65
+Wallace State Park|79|20|99|42|44|36|0|4|21|18
+Washington State Park|50|23|99|57|47|1|0|23|4|22
+Watkins Mill SP and SHS|94|38|65|53|53|0|0|4|79|11
+Weston Bend State Park|50|40|128|59|58|0|0|2|26|22

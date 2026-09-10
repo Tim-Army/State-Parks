@@ -1,0 +1,13 @@
+Beaver Lake State Park|33|18|100|66|65|1|0|0|5|27
+Cross Ranch State Park|91|10|165|43|38|14|17|27|8|25
+Fort Abraham Lincoln State Park|102|23|86|51|51|1|3|28|50|20
+Fort Ransom State Park|75|30|81|52|45|0|13|22|7|33
+Fort Stevenson State Park|133|12|95|42|48|40|1|6|61|25
+Grahams Island State Park|149|40|210|91|90|0|0|2|3|144
+Icelandic State Park|143|16|82|49|48|2|0|33|95|13
+Lake Metigoshe State Park|131|18|110|37|36|8|47|54|19|3
+Lake Sakakawea State Park|196|20|225|63|50|1|0|4|133|58
+Lewis and Clark State Park|101|40|180|88|69|0|0|8|13|80
+Little Missouri State Park|35|30|100|59|55|0|2|2|14|17
+Rough Rider State Park|14|24|40|25|24|13|0|1|0|0
+Turtle River State Park|79|30|140|63|60|0|1|4|27|47

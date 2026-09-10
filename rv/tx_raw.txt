@@ -1,0 +1,72 @@
+Bonham State Park|22|20|50|39|50|8|0|1|13|0
+Brazos Bend State Park|67|35|66|55|55|0|0|2|54|11
+Buescher State Park|28|16|65|37|38|4|9|6|7|2
+Caddo Lake State Park|39|22|122|51|47|2|9|4|18|6
+Caprock Canyons State Park and Trailway|51|5|67|47|55|9|0|1|35|6
+Cedar Hill State Park|315|15|60|36|30|54|114|9|136|2
+Choke Canyon State Park|43|5|55|42|50|7|0|0|36|0
+Cleburne State Park|50|28|63|45|44|0|12|16|18|4
+Colorado Bend State Park|8|20|20|20|20|8|0|0|0|0
+Cooper State Park Doctors Creek|38|50|100|59|56|0|0|0|35|3
+Cooper State Park South Sulphur|101|5|95|53|56|14|0|0|70|17
+Copper Breaks State Park|32|20|53|39|43|8|0|9|15|0
+Daingerfield State Park|46|15|73|32|34|15|9|13|8|1
+Davis Mountains State Park|84|16|60|32|30|21|23|31|5|4
+Devils River State Natural Area - Dan Allen Hughes Unit|3|16|16|16|16|3|0|0|0|0
+Devils River State Natural Area - Del Norte Unit|8|16|16|16|16|8|0|0|0|0
+Dinosaur Valley State Park|36|15|35|27|25|13|15|8|0|0
+Eisenhower State Park|130|15|140|59|47|7|23|25|32|43
+Enchanted Rock State Natural Area|33|5|5|5|5|33|0|0|0|0
+Falcon State Park|98|35|101|69|69|0|0|1|27|70
+Fort Parker State Park|28|26|100|49|50|0|7|6|8|7
+Fort Richardson State Park Hist. Site and Trailway|60|20|133|57|60|14|0|4|8|34
+Franklin Mountains State Park|5|30|50|42|40|0|1|2|2|0
+Galveston Island State Park|116|18|58|45|56|19|15|0|82|0
+Garner State Park|324|20|104|45|45|16|72|63|131|42
+Goliad State Park|57|24|65|35|24|29|0|0|27|1
+Goose Island State Park|96|15|65|44|55|24|1|1|61|9
+Government Canyon State Natural Area|24|10|10|10|10|24|0|0|0|0
+Guadalupe River State Park|89|5|95|35|24|45|1|0|42|1
+Hill Country State Natural Area|7|30|113|71|62|0|1|0|1|5
+Hueco Tanks State Park and Historic Site|14|25|80|48|50|0|2|2|8|2
+Huntsville State Park|167|10|89|52|52|5|23|34|46|59
+Inks Lake State Park|160|14|71|46|46|11|6|50|74|19
+Kickapoo Cavern State Park|15|45|65|55|55|0|0|0|9|6
+Lake Arrowhead State Park|64|43|125|57|53|0|0|5|47|12
+Lake Bob Sandlin State Park|68|23|53|43|45|1|13|16|38|0
+Lake Brownwood State Park|80|5|75|44|47|5|22|4|32|17
+Lake Casa Blanca International State Park|62|32|143|68|59|0|1|9|24|28
+Lake Colorado City State Park|110|41|123|59|55|0|0|2|85|23
+Lake Corpus Christi State Park|116|20|50|28|20|77|2|15|22|0
+Lake Livingston State Park|141|25|75|51|55|0|25|0|96|20
+Lake Mineral Wells State Park and Trailway|99|20|69|50|56|18|1|2|54|24
+Lake Somerville State Park Birch Creek|99|5|73|56|56|2|1|1|71|24
+Lake Somerville State Park Nails Creek|42|43|80|62|60|0|0|1|16|25
+Lake Tawakoni State Park|72|45|95|57|53|0|0|0|62|10
+Lake Whitney State Park|135|26|107|48|39|0|40|42|19|34
+Lockhart State Park|17|20|40|33|40|3|4|10|0|0
+Lost Maples State Natural Area|29|25|67|57|59|0|1|2|12|14
+Lyndon B. Johnson State Park and Historic Site|3|20|20|20|20|3|0|0|0|0
+Martin Creek Lake State Park|51|47|60|53|53|0|0|0|49|2
+Martin Dies Jr. State Park|158|25|110|58|55|0|2|3|109|44
+McKinney Falls State Park|74|47|115|64|55|0|0|0|51|23
+Meridian State Park|14|19|93|56|75|6|0|0|0|8
+Mission Tejas State Park|16|5|88|38|50|6|2|0|6|2
+Monahans Sandhills State Park|26|25|60|39|40|0|7|13|4|2
+Mother Neff State Park|21|50|124|72|60|0|0|0|10|11
+Mustang Island State Park|46|65|65|65|65|0|0|0|0|46
+Palmetto State Park|35|10|55|29|20|20|2|3|10|0
+Palo Duro Canyon State Park|120|20|50|36|40|24|32|26|38|0
+Palo Pinto Mountains SP|31|50|110|67|60|0|0|0|10|21
+Pedernales Falls State Park|64|20|64|47|47|1|0|4|58|1
+Possum Kingdom State Park|110|16|70|30|25|24|57|16|11|2
+Purtis Creek State Park|56|5|56|45|50|4|7|1|44|0
+Ray Roberts Lake State Park Isle Du Bois|107|25|95|53|50|0|4|18|58|27
+Ray Roberts Lake State Park Johnson Branch|85|33|73|50|49|0|1|13|62|9
+San Angelo State Park|91|5|223|75|74|16|0|1|15|59
+Sea Rim State Park|14|55|145|101|114|0|0|0|1|13
+Seminole Canyon State Park and Historic Site|28|17|67|46|50|1|5|6|10|6
+South Llano River State Park|59|5|58|43|48|7|0|5|47|0
+Stephen F. Austin State Park|52|14|100|58|75|19|0|0|0|33
+Tyler State Park|91|5|105|50|45|1|9|28|32|21
+Village Creek State Park|24|47|65|53|54|0|0|0|22|2
