@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# Both refresh workflows commit generated files, so they queue behind each other instead of racing.
+concurrency:
+  group: data-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -31,4 +36,5 @@ jobs:
           git add federal/federal-combos.csv federal-rv-summary.csv index.html
           git diff --cached --quiet && { echo "No changes"; exit 0; }
           git commit -m "Refresh federal campgrounds from Recreation.gov ($(date -u +%Y-%m-%d))"
+          git pull --rebase -X theirs origin main || { git rebase --abort; exit 1; }
           git push
