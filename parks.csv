@@ -30,7 +30,7 @@ Alaska,Anchor River State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov
 Alaska,Baranof Castle State Historic Site,,https://dnr.alaska.gov/parks/aspunits/southeast/baranofcastle.htm
 Alaska,Beecher Pass State Marine Park,Petersburg,https://dnr.alaska.gov/parks/aspunits/southeast/beecherpass.htm
 Alaska,Betton Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/bettonisld.htm
-Alaska,Big Bear/Baby Bear State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/bigbrbabybrsmp.htm
+Alaska,Big Bear/Baby Bear State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/marinepark/bigbrbabybrsmp.htm
 Alaska,Big Delta State Historical Park,Southeast Fairbanks,https://dnr.alaska.gov/parks/aspunits/northern/bigdeltashp.htm
 Alaska,Big Lake North State Recreation Site,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/matsu/biglakenosrs.htm
 Alaska,Big Lake South State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/matsu/biglakesosrs.htm
@@ -61,7 +61,7 @@ Alaska,Eveline State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/park
 Alaska,Fielding Lake State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/northern/fieldinglksrs.htm
 Alaska,Finger Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/fingerlksrs.htm
 Alaska,Fort Abercrombie State Historical Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/fortabercrombieshp.htm
-Alaska,Fort Rousseau Causeway State Historical Park,,https://dnr.alaska.gov/parks/aspunits/southeast/ftrousseau.htm
+Alaska,Fort Rousseau Causeway State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/ftrousseau.htm
 Alaska,Funter Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/funterbay.htm
 Alaska,Grant Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grantisland.htm
 Alaska,Grindall Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
@@ -861,7 +861,7 @@ Hawaii,Pāʻulaʻula State Historic Site,,https://dlnr.hawaii.gov/dsp/parks/kaua
 Hawaii,Royal Mausoleum State Monument,,https://dlnr.hawaii.gov/dsp/parks/oahu/royal-mausoleum-state-monument/
 Hawaii,Sand Island State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/sand-island-state-recreation-area/
 Hawaii,Ulupō Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/ulupo-heiau-state-historic-site/
-Hawaii,Wahiawā Freshwater State Recreation Area,,https://dlnr.hawaii.gov/dsp/parks/oahu/wahiawa-freshwater-state-recreation-area/
+Hawaii,Wahiawā Freshwater State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/wahiawa-freshwater-state-recreation-area/
 Hawaii,Wailoa River State Recreation Area,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/wailoa-river-state-recreation-area/
 Hawaii,Wailua River State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/wailua-river-state-park/
 Hawaii,Wailua Valley State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/wailua-valley-state-wayside/
@@ -1302,7 +1302,7 @@ Maine,Nahmakanta Public Land,Piscataquis,https://www.maine.gov/cgi-bin/online/do
 Maine,Owls Head State Park,Knox,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=92
 Maine,Peaks-Kenny State Park,Piscataquis,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=20
 Maine,Penobscot Narrows Observatory,Waldo,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=89
-Maine,Penobscot River Corridor,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=84
+Maine,Penobscot River Corridor,"Piscataquis, Penobscot",https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=84
 Maine,Pineland Public Land,Cumberland,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=62
 Maine,Popham Beach State Park,Sagadahoc,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=22
 Maine,Quoddy Head State Park,Washington,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=10
@@ -1993,7 +1993,6 @@ New Hampshire,Sculptured Rocks Natural Area,Grafton,https://www.nhstateparks.org
 New Hampshire,Silver Lake State Park,Hillsborough,https://www.nhstateparks.org/find-parks-trails/silver-lake-state-park
 New Hampshire,South Beach Hampton Beach State Park,Rockingham,https://www.nhstateparks.org/find-parks-trails/south-beach-hampton-beach-state-park
 New Hampshire,Taylor Mill Historic Site,,https://www.nhstateparks.org/find-parks-trails/taylor-mill-historic-site
-New Hampshire,Types of NH State Parks,,https://www.nhstateparks.org/find-parks-trails/types-of-nh-state-parks
 New Hampshire,Umbagog Lake State Park,Coos,https://www.nhstateparks.org/find-parks-trails/umbagog-lake-state-park
 New Hampshire,Wadleigh State Park,Merrimack,https://www.nhstateparks.org/find-parks-trails/wadleigh-state-park
 New Hampshire,Wallis Sands State Park,Rockingham,https://www.nhstateparks.org/find-parks-trails/wallis-sands-state-park
@@ -2193,7 +2192,7 @@ New York,Keuka Lake State Park,Yates,https://parks.ny.gov/visit/state-parks/keuk
 New York,Knox Farm State Park,Erie,https://parks.ny.gov/visit/state-parks/knox-farm-state-park
 New York,Kring Point State Park,Jefferson,https://parks.ny.gov/visit/state-parks/kring-point-state-park
 New York,Lake Erie State Park,Chautauqua,https://parks.ny.gov/visit/state-parks/lake-erie-state-park
-New York,Lake Sebago Beach - Harriman State Park,,https://parks.ny.gov/visit/state-parks/lake-sebago-beach-harriman-state-park
+New York,Lake Sebago Beach - Harriman State Park,"Rockland, Orange",https://parks.ny.gov/visit/state-parks/lake-sebago-beach-harriman-state-park
 New York,Lake Superior State Park,Sullivan,https://parks.ny.gov/visit/state-parks/lake-superior-state-park
 New York,Lake Taghkanic State Park,Columbia,https://parks.ny.gov/visit/state-parks/lake-taghkanic-state-park
 New York,Lake Tiorati Beach - Harriman State Park,,https://parks.ny.gov/visit/state-parks/lake-tiorati-beach-harriman-state-park
@@ -2221,7 +2220,7 @@ New York,Moreau Lake State Park,Saratoga,https://parks.ny.gov/visit/state-parks/
 New York,Newtown Battlefield State Park,Chemung,https://parks.ny.gov/visit/state-parks/newtown-battlefield-state-park
 New York,Niagara Falls State Park,Niagara,https://parks.ny.gov/visit/state-parks/niagara-falls-state-park
 New York,Niagara Falls State Park - Devil's Hole Area,,https://parks.ny.gov/visit/state-parks/devils-hole-state-park
-New York,Niagara Falls State Park - Whirlpool Area,,https://parks.ny.gov/visit/state-parks/whirlpool-state-park
+New York,Niagara Falls State Park - Whirlpool Area,Niagara,https://parks.ny.gov/visit/state-parks/whirlpool-state-park
 New York,Nissequogue River State Park,Suffolk,https://parks.ny.gov/visit/state-parks/nissequogue-river-state-park
 New York,Nyack Beach State Park,Rockland,https://parks.ny.gov/visit/state-parks/nyack-beach-state-park
 New York,Oak Orchard State Marine Park,Orleans,https://parks.ny.gov/visit/state-parks/oak-orchard-state-marine-park
@@ -2252,7 +2251,7 @@ New York,Saratoga Lake State Boat Launch,Saratoga,https://parks.ny.gov/visit/sta
 New York,Saratoga Spa State Park,Saratoga,https://parks.ny.gov/visit/state-parks/saratoga-spa-state-park
 New York,Schodack Island State Park,Rensselaer,https://parks.ny.gov/visit/state-parks/schodack-island-state-park
 New York,Schunnemunk State Park,Orange,https://parks.ny.gov/visit/state-parks/schunnemunk-state-park
-New York,Sebago Cabin Camp - Harriman State Park,,https://parks.ny.gov/visit/state-parks/sebago-cabin-camp-harriman-state-park
+New York,Sebago Cabin Camp - Harriman State Park,"Rockland, Orange",https://parks.ny.gov/visit/state-parks/sebago-cabin-camp-harriman-state-park
 New York,Selkirk Shores State Park,Oswego,https://parks.ny.gov/visit/state-parks/selkirk-shores-state-park
 New York,Seneca Lake State Park,Seneca,https://parks.ny.gov/visit/state-parks/seneca-lake-state-park
 New York,Shadmoor State Park,Suffolk,https://parks.ny.gov/visit/state-parks/shadmoor-state-park
@@ -2913,14 +2912,14 @@ Tennessee,Booker T Washington State Park,Hamilton,https://tnstateparks.com/parks
 Tennessee,Burgess Falls State Park,Putnam,https://tnstateparks.com/parks/burgess-falls
 Tennessee,Cardwell Mountain State Park,Warren,https://tnstateparks.com/parks/cardwell-mountain
 Tennessee,Cedars of Lebanon State Park,Wilson,https://tnstateparks.com/parks/cedars-of-lebanon
-Tennessee,Cherokee Trail of Tears State Park,,https://tnstateparks.com/parks/cherokee-trail-of-tears
+Tennessee,Cherokee Trail of Tears State Park,Meigs,https://tnstateparks.com/parks/cherokee-trail-of-tears
 Tennessee,Chickasaw State Park,Chester,https://tnstateparks.com/parks/chickasaw
 Tennessee,Cordell Hull Birthplace State Park,Pickett,https://tnstateparks.com/parks/cordell-hull-birthplace
 Tennessee,Cove Lake State Park,Campbell,https://tnstateparks.com/parks/cove-lake
 Tennessee,Cumberland Mountain State Park,Cumberland,https://tnstateparks.com/parks/cumberland-mountain
 Tennessee,Cumberland Trail State Park,Hamilton,https://tnstateparks.com/parks/cumberland-trail
 Tennessee,Cummins Falls State Park,Jackson,https://tnstateparks.com/parks/cummins-falls
-Tennessee,David Crockett Birthplace State Park,,https://tnstateparks.com/parks/david-crockett-birthplace
+Tennessee,David Crockett Birthplace State Park,Greene,https://tnstateparks.com/parks/david-crockett-birthplace
 Tennessee,David Crockett State Park,Lawrence,https://tnstateparks.com/parks/david-crockett
 Tennessee,Devils Backbone State Park,Union,https://tnstateparks.com/parks/devils-backbone
 Tennessee,Dunbar Cave State Park,Montgomery,https://tnstateparks.com/parks/dunbar-cave
