@@ -60,10 +60,12 @@ async function run(ctx, st, cfg) {
   const page = await ctx.newPage();
   const log = (...a) => console.log(new Date().toISOString().slice(11, 19), st, ...a);
   try {
+    let started;
+    for (let attempt = 1; attempt <= 3; attempt++) {                 // an empty park list is usually a transient block: reload and retry
     await page.goto(cfg.url, { waitUntil: 'domcontentloaded', timeout: 120000 });
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(3000 * attempt);
     await page.addScriptTag({ content: JS(FILE[cfg.kind]) });
-    const started = await page.evaluate(async cfg => {
+    started = await page.evaluate(async cfg => {
       if (cfg.kind === 'ud') {
         let B = cfg.base || globalThis.apiurl;
         if (!B) { try { B = (await (await fetch('/config.json')).json()).rdrApiUrl; } catch (e) {} }
@@ -74,6 +76,9 @@ async function run(ctx, st, cfg) {
       if (cfg.kind === 'wy') { await WY.init(); WY.run(); return WY.st(); }
       return GTC.start(cfg.tenant, GTC.TENANTS[cfg.tenant]);
     }, { ...cfg, st });
+    if (started && started.of === 0 && cfg.kind !== 'as') { log('empty start, retrying', attempt); await page.waitForTimeout(30000); continue; }
+    break;
+    }
     log('started', JSON.stringify(started));
     for (let i = 0; ; i++) {
       await page.waitForTimeout(30000);
