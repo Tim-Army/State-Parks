@@ -49,6 +49,7 @@ tbody tr:hover{background:var(--accent-soft)}
 a{color:var(--accent)}
 td.state{white-space:nowrap;color:var(--muted);font-size:.9rem}
 td.name{font-weight:500}
+td.county{font-size:.9rem;color:var(--muted)}
 td.site{font-size:.9rem;word-break:break-word}
 td.tm{white-space:nowrap;font-size:.9rem}
 td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
@@ -106,7 +107,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
 
   <div class="panel" id="panel-parks">
   <div class="controls">
-    <input type="search" id="q" placeholder="Search parks&hellip;" autocomplete="off" aria-label="Search parks">
+    <input type="search" id="q" placeholder="Search parks or counties&hellip;" autocomplete="off" aria-label="Search parks">
     <select id="state" aria-label="Filter by state"><option value="">All states</option></select>
     <button type="button" class="reset" id="reset">Reset</button>
     <span class="count" id="count"></span>
@@ -118,6 +119,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
         <tr>
           <th scope="col">State <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Park <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">County <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
         </tr>
       </thead>
@@ -301,7 +303,7 @@ function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;',
 
 function filtered(){
   const term=q.value.trim().toLowerCase(), sel=st.value;
-  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)));
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[3].toLowerCase().includes(term)));
   rows=rows.slice().sort((a,b)=>{
     const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
     return c || a[1].localeCompare(b[1]);
@@ -313,8 +315,8 @@ function render(){
   const rows=filtered();
   const slice=rows.slice(0,shown);
   body.innerHTML=slice.map(p=>
-    `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td>`+
-    `<td class="site"><a href="${esc(p[2])}" target="_blank" rel="noopener noreferrer">${esc(host(p[2]))}</a></td></tr>`).join('');
+    `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td><td class="county">${p[2]?esc(p[2]):'<span class="na">&ndash;</span>'}</td>`+
+    `<td class="site"><a href="${esc(p[3])}" target="_blank" rel="noopener noreferrer">${esc(host(p[3]))}</a></td></tr>`).join('');
   empty.hidden = rows.length>0;
   countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
     (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');
