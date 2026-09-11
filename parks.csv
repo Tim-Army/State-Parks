@@ -48,7 +48,7 @@ Alaska,Chilkoot Lake State Recreation Site,Haines,https://dnr.alaska.gov/parks/a
 Alaska,Clam Gulch State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/clamgulchsra.htm
 Alaska,Clearwater State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/northern/clearwatersrs.htm
 Alaska,Crooked Creek State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/kenai/crookedcreeksrs.htm
-Alaska,Dall Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/dallbay.htm
+Alaska,Dall Bay State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/marinepark/dallbay.htm
 Alaska,Deep Creek State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/deepcreeksra.htm
 Alaska,Delta State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/northern/deltasrs.htm
 Alaska,Denali State Park,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/denalisp.htm
@@ -481,7 +481,7 @@ Colorado,Cheyenne Mountain State Park,El Paso,https://cpw.state.co.us/state-park
 Colorado,Crawford State Park,Delta,https://cpw.state.co.us/state-parks/crawford-state-park
 Colorado,Eldorado Canyon State Park,Boulder,https://cpw.state.co.us/state-parks/eldorado-canyon-state-park
 Colorado,Eleven Mile State Park,Park,https://cpw.state.co.us/state-parks/eleven-mile-state-park
-Colorado,Elkhead Reservoir State Park,,https://cpw.state.co.us/state-parks/elkhead-reservoir-state-park
+Colorado,Elkhead Reservoir State Park,"Routt, Moffat",https://cpw.state.co.us/state-parks/elkhead-reservoir-state-park
 Colorado,Fishers Peak State Park,Las Animas,https://cpw.state.co.us/state-parks/fishers-peak-state-park
 Colorado,Golden Gate Canyon State Park,Gilpin,https://cpw.state.co.us/state-parks/golden-gate-canyon-state-park
 Colorado,Harvey Gap State Park,Garfield,https://cpw.state.co.us/state-parks/harvey-gap-state-park
@@ -727,7 +727,7 @@ Florida,Oleta River State Park,Miami-Dade,https://www.floridastateparks.org/Olet
 Florida,Olustee Battlefield Historic State Park,Baker,https://www.floridastateparks.org/parks-and-trails/olustee-battlefield-historic-state-park
 Florida,Orman House Historic State Park,Franklin,https://www.floridastateparks.org/parks-and-trails/orman-house-historic-state-park
 Florida,Oscar Scherer State Park,Sarasota,https://www.floridastateparks.org/parks-and-trails/oscar-scherer-state-park
-Florida,Palatka-to-Lake Butler State Trail,,https://www.floridastateparks.org/parks-and-trails/palatka-lake-butler-state-trail
+Florida,Palatka-to-Lake Butler State Trail,"Putnam, Clay, Bradford, Union",https://www.floridastateparks.org/parks-and-trails/palatka-lake-butler-state-trail
 Florida,Palatka-to-St. Augustine State Trail,"St. Johns, Putnam",https://www.floridastateparks.org/parks-and-trails/palatka-st-augustine-state-trail
 Florida,Paynes Creek Historic State Park,Hardee,https://www.floridastateparks.org/parks-and-trails/paynes-creek-historic-state-park
 Florida,Paynes Prairie Preserve State Park,Alachua,https://www.floridastateparks.org/parks-and-trails/paynes-prairie-preserve-state-park
@@ -854,7 +854,7 @@ Hawaii,Nāpali Coast State Wilderness Park,,https://dlnr.hawaii.gov/dsp/parks/ka
 Hawaii,Polihale State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/polihale-state-park/
 Hawaii,Polipoli Spring State Recreation Area,,https://dlnr.hawaii.gov/dsp/parks/maui/polipoli-spring-state-recreation-area/
 Hawaii,Puaʻa Kaʻa State Wayside,,https://dlnr.hawaii.gov/dsp/parks/maui/puaa-kaa-state-wayside/
-Hawaii,Puʻu O Mahuka Heiau State Historic Site,,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-o-mahuka-heiau-state-historic-site/
+Hawaii,Puʻu O Mahuka Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-o-mahuka-heiau-state-historic-site/
 Hawaii,Puʻu ʻUalakaʻa State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-ualakaa-state-wayside/
 Hawaii,Pālāʻau State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/molokai/palaau-state-park/
 Hawaii,Pāʻulaʻula State Historic Site,,https://dlnr.hawaii.gov/dsp/parks/kauai/paʻulaʻula-state-historic-site/
@@ -1068,7 +1068,7 @@ Iowa,Beeds Lake State Park,Franklin,https://www.iowadnr.gov/places-go/state-park
 Iowa,Bellevue State Park,Jackson,https://www.iowadnr.gov/places-go/state-parks/all-parks/bellevue-state-park
 Iowa,Big Creek State Park,Polk,https://www.iowadnr.gov/places-go/state-parks/all-parks/big-creek-state-park
 Iowa,Black Hawk State Park,Sac,https://www.iowadnr.gov/places-go/state-parks/all-parks/black-hawk-state-park
-Iowa,Blackburn State Park,,https://www.iowadnr.gov/places-go/state-parks/all-parks/blackburn-state-park
+Iowa,Blackburn State Park,Crawford,https://www.iowadnr.gov/places-go/state-parks/all-parks/blackburn-state-park
 Iowa,Brushy Creek State Recreation Area,Webster,https://www.iowadnr.gov/places-go/state-parks/all-parks/brushy-creek-state-recreation-area
 Iowa,Cedar Rock State Park,Buchanan,https://www.iowadnr.gov/places-go/state-parks/all-parks/cedar-rock-state-park
 Iowa,Clear Lake State Park,Cerro Gordo,https://www.iowadnr.gov/places-go/state-parks/all-parks/clear-lake-state-park
@@ -1740,7 +1740,7 @@ Missouri,Missouri Mines State Historic Site,St. Francois,https://mostateparks.co
 Missouri,Missouri State Museum,Cole,https://mostateparks.com/historic-site/missouri-state-museum
 Missouri,Montauk State Park,Dent,https://mostateparks.com/park/montauk-state-park
 Missouri,Morris State Park,Dunklin,https://mostateparks.com/park/morris-state-park
-Missouri,Nathan and Olive Boone Homestead State Historic Site,,https://mostateparks.com/historic-site/nathan-and-olive-boone-homestead-state-historic-site
+Missouri,Nathan and Olive Boone Homestead State Historic Site,Greene,https://mostateparks.com/historic-site/nathan-and-olive-boone-homestead-state-historic-site
 Missouri,Onondaga Cave State Park,Crawford,https://mostateparks.com/park/onondaga-cave-state-park
 Missouri,Osage Village State Historic Site,Vernon,https://mostateparks.com/historic-site/osage-village-state-historic-site
 Missouri,Pershing State Park,Linn,https://mostateparks.com/park/pershing-state-park
@@ -2196,7 +2196,7 @@ New York,Lake Sebago Beach - Harriman State Park,"Rockland, Orange",https://park
 New York,Lake Superior State Park,Sullivan,https://parks.ny.gov/visit/state-parks/lake-superior-state-park
 New York,Lake Taghkanic State Park,Columbia,https://parks.ny.gov/visit/state-parks/lake-taghkanic-state-park
 New York,Lake Tiorati Beach - Harriman State Park,,https://parks.ny.gov/visit/state-parks/lake-tiorati-beach-harriman-state-park
-New York,Lake Welch Beach - Harriman State Park,,https://parks.ny.gov/visit/state-parks/lake-welch-beach-harriman-state-park
+New York,Lake Welch Beach - Harriman State Park,"Rockland, Orange",https://parks.ny.gov/visit/state-parks/lake-welch-beach-harriman-state-park
 New York,Lakeside State Park,Orleans,https://parks.ny.gov/visit/state-parks/lakeside-state-park
 New York,Letchworth State Park,"Livingston, Wyoming",https://parks.ny.gov/visit/state-parks/letchworth-state-park
 New York,Lodi Point State Park,Seneca,https://parks.ny.gov/visit/state-parks/lodi-point-state-park
@@ -3293,7 +3293,7 @@ Washington,Manchester State Park,Kitsap,https://parks.wa.gov/find-parks/state-pa
 Washington,Maryhill State Park,Klickitat,https://parks.wa.gov/find-parks/state-parks/maryhill-state-park
 Washington,Matia Island Marine State Park,San Juan,https://parks.wa.gov/find-parks/state-parks/matia-island-marine-state-park
 Washington,McMicken Island Marine State Park,Mason,https://parks.wa.gov/find-parks/state-parks/mcmicken-island-marine-state-park
-Washington,Miller Peninsula State Park Property,,https://parks.wa.gov/find-parks/state-parks/miller-peninsula-state-park-property
+Washington,Miller Peninsula State Park Property,Clallam,https://parks.wa.gov/find-parks/state-parks/miller-peninsula-state-park-property
 Washington,Millersylvania State Park,Thurston,https://parks.wa.gov/find-parks/state-parks/millersylvania-state-park
 Washington,Moran State Park,San Juan,https://parks.wa.gov/find-parks/state-parks/moran-state-park
 Washington,Mount Pilchuck State Park,Snohomish,https://parks.wa.gov/find-parks/state-parks/mount-pilchuck-state-park
@@ -3443,7 +3443,7 @@ Wisconsin,Fischer Creek State Recreation Area,Manitowoc,https://dnr.wisconsin.go
 Wisconsin,Fox River State Trail,Waukesha,https://dnr.wisconsin.gov/topic/parks/foxriver
 Wisconsin,Friendship State Trail,Winnebago,https://dnr.wisconsin.gov/topic/parks/friendship
 Wisconsin,Gandy Dancer State Trail Northern Segment,,https://dnr.wisconsin.gov/topic/parks/gandydancernorth
-Wisconsin,Gandy Dancer State Trail Southern Segment,,https://dnr.wisconsin.gov/topic/parks/gandydancer
+Wisconsin,Gandy Dancer State Trail Southern Segment,"Polk, Burnett",https://dnr.wisconsin.gov/topic/parks/gandydancer
 Wisconsin,Glacial Drumlin State Trail,Dane,https://dnr.wisconsin.gov/topic/parks/glacialdrumlin
 Wisconsin,Governor Dodge State Park,Iowa,https://dnr.wisconsin.gov/topic/parks/govdodge
 Wisconsin,Governor Nelson State Park,Dane,https://dnr.wisconsin.gov/topic/parks/govnelson
@@ -3540,7 +3540,7 @@ Wyoming,Glendo State Park,Platte,https://wyoparks.wyo.gov/index.php/places-to-go
 Wyoming,Granger Stage Station State Historic Site,Sweetwater,https://wyoparks.wyo.gov/index.php/places-to-go/granger-stage-station
 Wyoming,Guernsey State Park,Platte,https://wyoparks.wyo.gov/index.php/places-to-go/guernsey
 Wyoming,Hawk Springs State Recreation Area,Goshen,https://wyoparks.wyo.gov/index.php/places-to-go/hawk-springs
-Wyoming,Historic Governors' Mansion,,https://wyoparks.wyo.gov/index.php/places-to-go/historic-governors-mansion
+Wyoming,Historic Governors' Mansion,Laramie,https://wyoparks.wyo.gov/index.php/places-to-go/historic-governors-mansion
 Wyoming,Hot Springs State Park,Hot Springs,https://wyoparks.wyo.gov/index.php/places-to-go/hot-springs
 Wyoming,Independence Rock State Historic Site,Natrona,https://wyoparks.wyo.gov/index.php/places-to-go/independence-rock
 Wyoming,Keyhole State Park,Crook,https://wyoparks.wyo.gov/index.php/places-to-go/keyhole
