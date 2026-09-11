@@ -1,0 +1,50 @@
+name: Refresh state-park campsites
+
+# Re-scrape every state reservation system with headless Chromium, using the same in-page scrapers
+# (rv/browser/*.js) that built the data. A state that fails keeps its previous numbers.
+on:
+  schedule:
+    - cron: '41 8 5 1,4,7,10 *'   # quarterly: 08:41 UTC on Jan/Apr/Jul/Oct 5
+  workflow_dispatch:
+    inputs:
+      states:
+        description: 'Space-separated state codes (blank = all), e.g. "ny tx wa"'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright@1.47.2
+          npx playwright install --with-deps chromium
+      - name: Scrape (browser-based systems)
+        run: node rv/refresh_states.mjs ${{ github.event.inputs.states }}
+      - name: Scrape (plain-HTTP systems)
+        if: ${{ github.event.inputs.states == '' }}
+        continue-on-error: true
+        run: |
+          python3 rv/scrape_itinio.py tn sc ar
+          python3 rv/scrape_brandt.py sd la
+      - name: Rebuild
+        run: |
+          python3 rv/build_sites.py
+          python3 build_site.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rv/sites rv/site-combos.csv campsite-rv-lengths.csv campsite-rv-summary.csv rv-policies.csv index.html
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "Refresh state-park campsites ($(date -u +%Y-%m-%d))"
+          git push

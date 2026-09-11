@@ -1,0 +1,17 @@
+T|STANDARD NON ELECTRIC~STANDARD ELECTRIC~POPUP/TENT~ADA ELECTRIC~TENT ONLY~Cabin~RV/TRAILER ONLY~GROUP STANDARD NONELECTRIC
+E|Back-In~Pull-Through
+A|~Electric Hookup available: 50 amp+Water Hookup~Near Water~Electric Hookup available: 50 amp~Electric Hookup available: 15 amp~Electric Hookup available: 30 amp~Electric Hookup available: 50 amp+Full Hookup available~Electric Hookup available: 30 amp+Full Hookup available~Electric Hookup available: 30 amp+Water Hookup
+Hopeville Pond State Park|35:0:0:0:52,35:1:0:1:10,35:0:1:0:4,20:0:0:0:5,35:0:0:2:3
+Hammonasset Beach State Park|35:1:0:3:50,35:2:0:3:1,35:0:0:0:349,35:1:0:1:83,25:2:0:0:58,35:3:0:4:2,35:3:0:1:4
+Black Rock State Park|30:0:1:0:3,30:2:1:0:1,25:0:0:0:9,30:4:0:0:1,20:2:0:0:6,25:2:0:0:2,23:2:0:0:1,20:0:0:0:2,35:1:0:1:9,30:2:0:0:1,35:0:0:0:9,30:0:0:0:3,35:0:1:0:2,35:2:0:0:1,20:4:0:0:2
+American Legion SF (Hawes)|35:0:0:2:2,35:0:1:0:12,35:0:0:0:12,35:0:1:2:2
+Devil's Hopyard|35:0:0:0:8,25:0:0:0:13
+Macedonia Brook State Park|30:0:1:0:2,30:0:0:0:3,30:0:1:2:1,35:0:1:2:2,35:0:0:2:1,25:0:0:0:5,25:0:1:0:1,35:0:0:0:1,25:0:1:2:1,25:0:0:2:1,35:0:1:0:3,20:2:0:0:19,30:2:1:2:1,20:2:0:2:2,30:2:0:2:1
+Mashamoquet Brook State Park|35:0:0:0:50,35:1:0:5:1
+Rocky Neck State Park|35:0:0:0:77,30:0:0:0:37,32:0:0:0:7,33:0:0:0:5,28:0:0:0:1,34:0:0:0:1,31:0:0:0:1
+Housatonic Meadows State Park|25:0:0:0:20,35:0:0:2:13,25:0:0:2:5,20:0:0:0:5,30:0:0:0:1,35:0:0:0:6,35:0:1:0:5
+Kettletown State Park|24:0:0:0:3,14:4:0:0:6,10:2:0:0:1,28:5:0:0:1,26:0:0:0:3,28:0:0:2:1,20:0:0:2:8,28:0:0:0:8,20:4:0:0:3,14:3:0:4:1,24:4:0:0:1,20:0:0:0:3,16:0:0:0:3,12:4:0:0:1,16:2:0:0:3,14:2:0:0:1,16:4:0:0:1
+Lake Waramaug State Park|35:6:0:0:5,30:6:0:0:1,35:2:0:0:3,30:4:0:0:3,25:0:0:0:4,30:2:0:0:1,30:0:0:0:11,35:0:0:0:24,35:4:0:0:9,20:2:0:0:4,20:0:0:0:1,20:5:0:0:1,30:5:0:0:2,25:5:0:0:1,35:5:0:0:2
+Salt Rock Campground|16:0:0:0:9,20:0:0:0:8,20:2:0:0:2,12:2:0:0:3,35:0:0:0:3,35:1:0:6:7,20:1:0:7:5,35:1:1:8:3,35:1:0:8:2,20:1:1:8:2,20:1:0:8:1,16:1:1:7:1,16:1:0:7:1,16:2:0:0:4,35:2:0:0:4,24:7:0:0:1
+Mount Misery Campground|26:0:0:0:22
+Green Falls Campground|26:0:0:0:17

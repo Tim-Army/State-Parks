@@ -1,1033 +1,1552 @@
-State,Park,RV Sites,Shortest (ft),Longest (ft),Average (ft),Median (ft),Under 25 ft,25-34 ft,35-44 ft,45-59 ft,60 ft+
-Arizona,Alamo Lake,196,15,90,57,56,4,14,23,63,92
-Arizona,Buckskin Mountain,84,30,86,55,55,0,3,22,29,30
-Arizona,Catalina,152,25,155,66,69,0,19,0,14,119
-Arizona,Cattail Cove,61,32,69,45,44,0,2,30,23,6
-Arizona,Dead Horse Ranch,149,24,150,57,60,1,6,22,44,76
-Arizona,Fool Hollow Lake,121,24,129,56,54,2,4,22,51,42
-Arizona,Homolovi,53,50,150,67,50,0,0,0,44,9
-Arizona,Kartchner Caverns,62,24,78,53,56,1,5,11,26,19
-Arizona,Lake Havasu,54,48,125,59,55,0,0,0,37,17
-Arizona,Lost Dutchman,163,30,172,70,66,0,10,35,21,97
-Arizona,Lyman Lake,56,40,100,62,60,0,0,1,22,33
-Arizona,Patagonia Lake,107,22,55,38,40,6,25,61,15,0
-Arizona,Picacho Peak,85,53,109,72,62,0,0,0,26,59
-Arizona,River Island,37,24,57,47,54,8,0,0,29,0
-Arizona,Roper Lake,64,15,70,48,48,4,1,9,40,10
-California,Anza-Borrego Desert SP,150,18,35,28,25,57,29,64,0,0
-California,Auburn SRA,21,20,60,29,27,7,10,3,0,1
-California,Benbow SRA,73,30,30,30,30,0,73,0,0,0
-California,Big Basin Redwoods SP,4,24,24,24,24,4,0,0,0,0
-California,Bolsa Chica SB,56,30,40,35,40,0,28,28,0,0
-California,Bothe-Napa Valley SP,60,20,31,24,24,56,4,0,0,0
-California,Brannan Island SRA,128,32,36,36,36,0,4,124,0,0
-California,Butano SP,41,12,24,15,12,41,0,0,0,0
-California,Calaveras Big Trees SP,128,1,30,29,30,3,125,0,0,0
-California,Carnegie SVRA,26,75,75,75,75,0,0,0,0,26
-California,Carpinteria SB,236,16,40,26,24,136,37,63,0,0
-California,Castle Crags SP,74,15,32,26,25,25,49,0,0,0
-California,Caswell Memorial SP,60,18,24,24,24,60,0,0,0,0
-California,China Camp SP,4,18,35,27,35,2,0,2,0,0
-California,Chino Hills SP,20,28,28,28,28,0,20,0,0,0
-California,Clear Lake SP,145,30,35,30,30,0,143,2,0,0
-California,Colonel Allensworth SHP,99,35,70,41,40,0,0,97,0,2
-California,Colusa-Sacramento River SRA,24,30,30,30,30,0,24,0,0,0
-California,Crystal Cove SP Moro Campground,52,25,25,25,25,0,52,0,0,0
-California,Cuyamaca Rancho SP,155,1,45,26,30,65,84,5,1,0
-California,D.L. Bliss SP,133,15,18,18,18,133,0,0,0,0
-California,Del Norte Coast Redwood SP Mill Creek Campground,101,15,24,24,24,101,0,0,0,0
-California,Doheny SB,113,16,75,24,20,90,6,11,4,2
-California,Donner Memorial SP,138,28,28,28,28,0,138,0,0,0
-California,El Capitan SB,132,1,42,41,42,3,1,128,0,0
-California,Emerald Bay SP,92,18,18,18,18,92,0,0,0,0
-California,Emma Wood SB,101,20,65,41,40,3,18,32,43,5
-California,Folsom Lake SRA,154,23,69,35,31,4,92,47,10,1
-California,Folsom Lake SRA Glamping,6,31,31,31,31,0,6,0,0,0
-California,Fremont Peak SP,22,15,31,21,20,12,10,0,0,0
-California,Gaviota SP,52,24,24,24,24,52,0,0,0,0
-California,George J. Hatfield SRA,23,30,30,30,30,0,23,0,0,0
-California,Grizzly Creek Redwoods SP,28,24,24,24,24,28,0,0,0,0
-California,Grover Hot Springs SP,46,1,24,23,24,46,0,0,0,0
-California,Half Moon Bay SB,47,25,40,40,40,0,1,46,0,0
-California,Hearst San Simeon SP,200,31,35,35,35,0,2,198,0,0
-California,Hendy Woods SP,83,35,35,35,35,0,0,83,0,0
-California,Henry Cowell Redwoods SP,105,16,35,35,35,1,3,101,0,0
-California,Henry W Coe SP,21,1,22,19,20,21,0,0,0,0
-California,Hollister Hills SVRA,503,20,50,50,50,3,2,0,498,0
-California,Humboldt Redwoods SP,253,15,24,24,24,253,0,0,0,0
-California,Hungry Valley SVRA,178,40,40,40,40,0,0,178,0,0
-California,Indian Grinding Rock SHP,22,27,27,27,27,0,22,0,0,0
-California,Jedediah Smith Redwoods SP,73,11,24,20,21,73,0,0,0,0
-California,Lake Oroville SRA,279,15,40,39,40,2,10,267,0,0
-California,Lake Oroville SRA Loafer Creek Glamping,4,40,40,40,40,0,0,4,0,0
-California,Lake Perris SRA,453,18,31,31,31,9,444,0,0,0
-California,Leo Carrillo SP,144,31,31,31,31,0,144,0,0,0
-California,Limekiln SP,29,18,30,21,18,28,1,0,0,0
-California,Little Basin State Park,1,16,16,16,16,1,0,0,0,0
-California,Mackerricher SP,119,20,35,32,35,22,0,97,0,0
-California,Malakoff Diggins SHP,35,19,19,19,19,35,0,0,0,0
-California,Malibu Creek SP,59,18,30,27,30,26,33,0,0,0
-California,Mcarthur-Burney Falls Memorial SP,141,32,32,32,32,0,141,0,0,0
-California,Mcconnell SRA,15,18,18,18,18,15,0,0,0,0
-California,Millerton Lake SRA,144,36,36,36,36,0,0,144,0,0
-California,Montana De Oro SP,51,27,27,27,27,0,51,0,0,0
-California,Morro Bay SP,136,20,40,33,35,8,34,94,0,0
-California,Morro Strand SB,82,24,40,30,24,53,1,28,0,0
-California,Mount Diablo SP,62,20,20,20,20,62,0,0,0,0
-California,Mt. San Jacinto SP,123,1,24,22,24,123,0,0,0,0
-California,New Brighton SB,122,20,38,35,36,3,8,111,0,0
-California,Oceano Dunes SVRA,1000,40,100,100,100,0,0,2,0,998
-California,Palomar Mountain SP,35,15,31,22,24,32,3,0,0,0
-California,Pfeiffer Big Sur SP,205,24,32,32,32,2,203,0,0,0
-California,Picacho SRA,7,20,35,29,35,3,0,4,0,0
-California,Pismo SB,167,21,36,35,36,19,0,148,0,0
-California,Plumas-Eureka SP,47,14,24,22,24,47,0,0,0,0
-California,Point Mugu SP,140,25,31,31,31,0,140,0,0,0
-California,Portola Redwoods SP,74,10,24,23,24,74,0,0,0,0
-California,Prairie Creek Redwoods SP Elk Prairie Campground,70,16,27,27,27,4,66,0,0,0
-California,Prairie Creek Redwoods SP Gold Bluffs Beach Camp,28,24,24,24,24,28,0,0,0,0
-California,Providence Mountains SRA,6,23,31,25,23,4,2,0,0,0
-California,Red Rock Canyon SP,6,25,30,28,28,0,6,0,0,0
-California,Refugio SB,69,30,30,30,30,0,69,0,0,0
-California,Richardson Grove SP,167,18,30,24,18,84,83,0,0,0
-California,Russian Gulch SP,31,18,24,24,24,31,0,0,0,0
-California,Saddleback Butte SP,1,21,21,21,21,1,0,0,0,0
-California,Salt Point SP,127,18,36,31,31,1,123,3,0,0
-California,Salton Sea SRA,213,30,35,35,35,0,2,211,0,0
-California,Samuel P. Taylor SP,56,18,31,30,31,6,50,0,0,0
-California,San Clemente SB,142,20,30,30,30,1,141,0,0,0
-California,San Clemente SB (The Holidays Vintage Trailers),1,18,18,18,18,1,0,0,0,0
-California,San Elijo SB,7,33,33,33,33,0,7,0,0,0
-California,San Luis Reservoir SRA,259,20,30,29,30,2,257,0,0,0
-California,San Onofre SB,321,25,36,25,25,0,312,9,0,0
-California,Seacliff SB,83,30,45,40,40,0,3,54,26,0
-California,Silver Strand SB,121,30,40,38,40,0,6,115,0,0
-California,Silverwood Lake SRA,138,31,32,31,31,0,138,0,0,0
-California,Sonoma Coast State Park,131,31,31,31,31,0,131,0,0,0
-California,Standish-Hickey SRA,156,14,27,24,27,50,106,0,0,0
-California,Sue-meg SP,104,15,31,25,25,42,62,0,0,0
-California,Sugar Pine Point SP,137,26,41,32,32,0,131,6,0,0
-California,Sugarloaf Ridge SP,46,24,30,29,30,5,41,0,0,0
-California,Sunset SB,90,15,31,29,31,11,79,0,0,0
-California,Tahoe SRA,24,21,21,21,21,24,0,0,0,0
-California,Turlock Lake SRA,37,21,24,24,24,37,0,0,0,0
-California,Van Damme SP,74,20,35,33,35,6,7,61,0,0
-California,Westport-Union Landing SB,19,24,35,27,24,13,0,6,0,0
-California,Woodson Bridge SRA,42,31,31,31,31,0,42,0,0,0
-Delaware,Cape Henlopen State Park,120,15,128,36,35,32,14,61,2,11
-Delaware,Delaware Seashore State Park,343,18,54,35,42,119,1,106,117,0
-Delaware,Killens Pond State Park,56,20,40,34,35,3,24,29,0,0
-Delaware,Lums Pond State Park,63,35,50,41,40,0,0,57,6,0
-Delaware,Trap Pond State Park,125,20,57,35,35,2,45,62,16,0
-Florida,Alafia River State Park,30,55,55,55,55,0,0,0,30,0
-Florida,Anastasia State Park,139,10,38,24,26,61,52,26,0,0
-Florida,Bahia Honda State Park,78,15,48,31,30,35,12,22,9,0
-Florida,Big Lagoon State Park,75,20,40,29,30,15,38,22,0,0
-Florida,Bill Baggs Cape Florida State Park,1,50,50,50,50,0,0,0,1,0
-Florida,Blackwater River State Park,30,15,50,35,35,2,10,13,5,0
-Florida,Blue Spring State Park,50,20,45,33,35,4,14,29,3,0
-Florida,Caladesi Island State Park,108,40,75,42,40,0,0,93,9,6
-Florida,Catfish Creek Preserve State Park,2,25,25,25,25,0,2,0,0,0
-Florida,Collier-Seminole State Park,105,14,50,29,30,27,50,20,8,0
-Florida,Colt Creek State Park,48,33,93,55,68,0,20,0,0,28
-Florida,Curry Hammock State Park,28,35,70,57,60,0,0,1,12,15
-Florida,Dr. Julian G. Bruce St. George Island State Park,73,20,43,35,36,9,22,42,0,0
-Florida,Falling Waters State Park,23,16,40,33,35,3,7,13,0,0
-Florida,Faver-Dykes State Park,1,20,20,20,20,1,0,0,0,0
-Florida,Florida Caverns State Park,37,25,40,32,32,0,34,3,0,0
-Florida,Fort Clinch State Park,61,18,48,38,40,4,11,31,15,0
-Florida,Fred Gannon Rocky Bayou State Park,42,20,45,33,30,6,17,18,1,0
-Florida,Gamble Rogers Memorial State Recreation Area at Flagler Beach,68,15,90,47,40,10,6,21,8,23
-Florida,Grayton Beach State Park,60,20,40,34,36,3,22,35,0,0
-Florida,Henderson Beach State Park,58,30,60,44,45,0,3,26,22,7
-Florida,Highlands Hammock State Park,150,15,50,31,30,35,59,30,26,0
-Florida,Hillsborough River State Park,116,23,108,43,40,1,18,53,31,13
-Florida,Hontoon Island State Park,40,25,25,25,25,0,40,0,0,0
-Florida,Hugh Taylor Birch State Park,1,10,10,10,10,1,0,0,0,0
-Florida,John Pennekamp Coral Reef State Park,48,18,62,47,46,1,2,15,27,3
-Florida,Jonathan Dickinson State Park,150,15,88,44,48,32,21,13,55,29
-Florida,Kissimmee Prairie Preserve State Park,40,17,65,36,38,5,9,18,7,1
-Florida,Koreshan State Park,8,40,40,40,40,0,0,8,0,0
-Florida,Lafayette Blue Springs State Park,1,40,40,40,40,0,0,1,0,0
-Florida,Lake Griffin State Park,40,20,40,31,30,6,18,16,0,0
-Florida,Lake Kissimmee State Park,63,25,45,39,40,0,16,21,26,0
-Florida,Lake Louisa State Park,71,30,115,50,45,0,11,7,40,13
-Florida,Lake Manatee State Park,60,45,65,54,54,0,0,0,50,10
-Florida,Little Manatee River State Park,39,25,75,45,46,0,9,8,18,4
-Florida,Little Talbot Island State Park,20,15,30,20,20,15,5,0,0,0
-Florida,Lower Wekiva River State Park,30,50,50,50,50,0,0,0,30,0
-Florida,Manatee Springs State Park,51,15,40,28,30,11,23,17,0,0
-Florida,Mike Roess Gold Head Branch State Park,50,16,55,36,36,8,4,27,11,0
-Florida,Myakka River State Park,86,15,45,34,35,5,32,39,10,0
-Florida,O'Leno State Park,56,15,50,33,30,5,24,22,5,0
-Florida,Ochlockonee River State Park,28,20,40,31,30,4,13,11,0,0
-Florida,Oleta River State Park,3,16,16,16,16,3,0,0,0,0
-Florida,Oscar Scherer State Park,105,15,36,30,36,19,31,55,0,0
-Florida,Paynes Prairie Preserve State Park,35,45,70,55,55,0,0,0,24,11
-Florida,Rainbow Springs State Park,53,40,103,61,60,0,0,4,15,34
-Florida,Rock Springs Run State Reserve,15,50,50,50,50,0,0,0,15,0
-Florida,Rodman Campground,42,22,40,39,40,1,2,39,0,0
-Florida,Ross Prairie Trailhead and Campground,15,20,86,50,61,6,0,0,1,8
-Florida,Ruth B. Kirby Gilchrist Blue Springs State Park,6,30,40,38,40,0,1,5,0,0
-Florida,Santos Trailhead and Campground,25,20,62,45,47,1,1,10,12,1
-Florida,Sebastian Inlet State Park,60,30,50,38,40,0,16,39,5,0
-Florida,Shangri-La Trailhead and Campground,24,50,50,50,50,0,0,0,24,0
-Florida,Silver Springs State Park,59,38,50,49,50,0,0,4,55,0
-Florida,St. Andrews State Park,149,21,50,36,35,1,31,76,41,0
-Florida,St. Sebastian River Preserve State Park,8,20,35,24,20,6,0,2,0,0
-Florida,Stephen Foster Folk Culture Center State Park,47,26,125,59,56,0,5,7,17,18
-Florida,Suwannee River State Park,30,12,55,37,40,2,9,9,10,0
-Florida,T.H. Stone Memorial St. Joseph Peninsula State Park,3,50,50,50,50,0,0,0,3,0
-Florida,Three Rivers State Park,31,15,50,43,50,4,1,5,21,0
-Florida,Tomoka State Park,101,20,34,25,25,45,56,0,0,0
-Florida,Topsail Hill Preserve State Park,155,20,45,41,40,5,17,61,72,0
-Florida,Torreya State Park,33,20,60,42,40,3,2,19,4,5
-Florida,Wekiwa Springs State Park,29,40,70,50,50,0,0,7,17,5
-Georgia,Crooked River State Park,63,20,130,59,55,2,2,5,26,28
-Georgia,Dames Ferry,28,20,50,40,40,1,4,14,9,0
-Georgia,Don Carter State Park,46,36,100,65,62,0,0,7,10,29
-Georgia,Elijah Clark State Park,77,30,50,42,40,0,13,39,25,0
-Georgia,F. D. Roosevelt State Park,55,14,70,44,43,4,13,12,16,10
-Georgia,Florence Marina State Park,41,55,180,100,80,0,0,0,1,40
-Georgia,Fort McAllister State Historic Site,67,10,50,41,50,12,0,7,48,0
-Georgia,Fort Mountain State Park,62,11,50,43,50,9,4,0,49,0
-Georgia,Fort Yargo State Park,46,25,50,42,40,0,11,14,21,0
-Georgia,General Coffee State Park,50,20,50,40,40,4,11,15,20,0
-Georgia,George L Smith State Park,52,24,80,64,80,1,0,19,0,32
-Georgia,George T Bagby State Park,31,30,50,35,30,0,17,11,3,0
-Georgia,Hamburg State Park,32,20,40,37,40,1,7,24,0,0
-Georgia,Hard Labor Creek State Park,42,15,45,38,45,6,7,0,29,0
-Georgia,High Falls State Park,87,25,50,47,50,0,10,0,77,0
-Georgia,Indian Springs State Park,70,15,100,52,50,3,4,7,39,17
-Georgia,Jack Hill State Park,23,40,60,43,40,0,0,19,2,2
-Georgia,James H. (Sloppy) Floyd State Park,24,30,50,47,50,0,1,4,19,0
-Georgia,Kolomoki Mounds State Historic Park,25,41,135,60,57,0,0,2,13,10
-Georgia,Laura S Walker State Park,44,25,40,39,40,0,3,41,0,0
-Georgia,Magnolia Springs State Park,26,25,40,39,40,0,1,25,0,0
-Georgia,Mistletoe State Park,76,20,50,41,40,6,9,32,29,0
-Georgia,Moccasin Creek State Park,53,15,50,36,40,2,15,33,3,0
-Georgia,Okefenokee State Park,55,15,50,35,35,19,8,3,25,0
-Georgia,Red Top Mountain State Park,53,10,40,25,20,28,7,18,0,0
-Georgia,Reed Bingham State Park,46,50,50,50,50,0,0,0,46,0
-Georgia,Richard B Russell State Park,27,35,35,35,35,0,0,27,0,0
-Georgia,Seminole State Park,51,30,100,47,40,0,5,23,14,9
-Georgia,Skidaway Island State Park,85,35,70,50,50,0,0,22,43,20
-Georgia,Tallulah Gorge State Park,52,25,50,30,25,0,41,0,11,0
-Georgia,Tugaloo State Park,71,20,50,35,35,1,30,26,14,0
-Georgia,Victoria Bryant State Park,27,30,50,43,40,0,3,14,10,0
-Georgia,Vogel State Park,42,25,40,34,40,0,18,24,0,0
-Georgia,Watson Mill Bridge State Park,30,30,50,44,45,0,3,7,20,0
-Illinois,Adeline Jay Geo-Karis Illinois Beach State Park,221,20,221,54,53,1,0,3,191,26
-Illinois,Apple River Canyon State Park,55,20,40,25,25,6,48,1,0,0
-Illinois,Argyle Lake State Park,138,10,42,39,40,8,0,130,0,0
-Illinois,Beaver Dam State Park,66,15,40,35,40,14,0,52,0,0
-Illinois,Big River State Forest,2,15,15,15,15,2,0,0,0,0
-Illinois,Buffalo Rock State Park,1,15,15,15,15,1,0,0,0,0
-Illinois,Castle Rock State Park,2,15,15,15,15,2,0,0,0,0
-Illinois,Chain O' Lakes State Park,259,15,40,36,40,12,70,177,0,0
-Illinois,Clinton Lake State Recreation Area,296,20,75,53,54,2,14,27,183,70
-Illinois,Delabar State Park,1,15,15,15,15,1,0,0,0,0
-Illinois,Dixon Springs State Park,27,12,55,34,45,12,0,1,14,0
-Illinois,Eagle Creek State Recreation Area,151,15,80,51,52,2,4,23,92,30
-Illinois,Edward Madigan State Fish & Wildlife Area,5,15,15,15,15,5,0,0,0,0
-Illinois,Eldon Hazlet State Recreation Area,364,15,55,38,40,35,1,325,3,0
-Illinois,Ferne Clyffe State Park,41,20,70,50,54,5,0,2,29,5
-Illinois,Fort Kaskaskia State Historic Site,39,15,40,35,40,7,3,29,0,0
-Illinois,Fort Massac State Park,56,15,72,55,60,6,0,0,22,28
-Illinois,Fox Ridge State Park,2,20,40,30,40,1,0,1,0,0
-Illinois,Frank Holten State Recreation Area,7,15,15,15,15,7,0,0,0,0
-Illinois,Franklin Creek State Natural Area,5,15,40,20,15,4,0,1,0,0
-Illinois,Gebhard Woods State Park,1,15,15,15,15,1,0,0,0,0
-Illinois,Giant City State Park,114,15,40,39,40,5,0,109,0,0
-Illinois,Goose Lake Prairie State Natural Area,3,15,15,15,15,3,0,0,0,0
-Illinois,Hamilton County State Fish & Wildlife Area,77,15,45,38,40,8,0,66,3,0
-Illinois,Hidden Springs State Forest,2,15,20,18,20,2,0,0,0,0
-Illinois,Horseshoe Lake-Alexander State Fish & Wildlife Area,2,15,15,15,15,2,0,0,0,0
-Illinois,Horseshoe Lake-Madison State Park,6,15,20,18,20,6,0,0,0,0
-Illinois,Illini State Park,106,15,40,28,20,58,7,41,0,0
-Illinois,Jim Edgar Panther Creek State Fish & Wildlife Area,143,15,65,40,40,9,0,123,0,11
-Illinois,Lincoln's New Salem State Historic Site,86,15,40,39,40,3,0,83,0,0
-Illinois,Lowden State Park,120,15,40,39,40,3,0,117,0,0
-Illinois,Marshall State Fish & Wildlife Area,19,42,42,42,42,0,0,19,0,0
-Illinois,Mississippi Palisades State Park,249,10,40,25,12,130,3,116,0,0
-Illinois,Moraine Hills State Park,4,15,20,18,20,4,0,0,0,0
-Illinois,Moraine View State Recreation Area,139,15,46,43,46,6,0,31,102,0
-Illinois,Morrison Rockwood State Park,122,15,40,39,40,6,0,116,0,0
-Illinois,Nauvoo State Park,33,15,80,43,43,4,1,15,11,2
-Illinois,Pere Marquette State Park,88,15,62,40,40,10,3,61,2,12
-Illinois,Prophetstown State Park,45,15,40,39,40,1,0,44,0,0
-Illinois,Ramsey Lake State Recreation Area,93,15,70,41,40,4,2,58,23,6
-Illinois,Randolph County State Recreation Area,65,15,42,39,42,7,0,58,0,0
-Illinois,Red Hills State Park,106,15,40,39,40,3,0,103,0,0
-Illinois,Rock Cut State Park,315,15,40,33,35,14,133,168,0,0
-Illinois,Sam Dale Lake State Fish & Wildlife Area,72,15,64,43,42,4,12,30,22,4
-Illinois,Sam Parr State Fish & Wildlife Area,34,15,42,39,42,4,0,30,0,0
-Illinois,Sand Ridge State Forest,47,15,40,37,40,4,5,38,0,0
-Illinois,Sangchris Lake State Park,183,15,40,39,40,6,0,177,0,0
-Illinois,Shabbona Lake State Park,152,20,40,36,35,3,0,149,0,0
-Illinois,Siloam Springs State Park,103,15,45,37,40,4,18,73,8,0
-Illinois,Spitler Woods State Natural Area,1,20,20,20,20,1,0,0,0,0
-Illinois,Starved Rock State Park,140,15,50,35,35,9,43,70,18,0
-Illinois,Stephen A Forbes State Recreation Area,140,5,60,30,30,47,58,15,6,14
-Illinois,Trail of Tears State Forest,14,20,20,20,20,14,0,0,0,0
-Illinois,Walnut Point State Park,65,20,40,32,40,25,0,40,0,0
-Illinois,Washington County State Recreation Area,54,15,40,38,40,4,0,50,0,0
-Illinois,Wayne Fitzgerrell State Recreation Area,253,15,40,40,40,4,0,249,0,0
-Illinois,Weinberg-King State Park,55,15,75,55,58,7,0,1,21,26
-Illinois,Weldon Springs State Park,80,15,80,45,43,1,6,40,25,8
-Illinois,White Pines Forest State Park,126,15,40,36,40,22,0,104,0,0
-Illinois,William W Powers State Recreation Area,4,15,15,15,15,4,0,0,0,0
-Illinois,Wolf Creek State Park,223,20,73,53,54,8,1,17,152,45
-Illinois,World Shooting & Recreation Complex,897,50,50,50,50,0,0,0,897,0
-Iowa,Brushy Creek State Recreation Area,237,45,200,77,65,0,0,0,29,208
-Iowa,Clear Lake State Park,153,22,109,57,60,9,27,6,32,79
-Iowa,Dolliver Memorial State Park,20,30,70,45,40,0,6,6,3,5
-Iowa,Elinor Bedell State Park,8,70,70,70,70,0,0,0,0,8
-Iowa,Elk Rock State Park,53,45,80,56,55,0,0,0,32,21
-Iowa,Emerson Bay State Recreation,82,20,115,55,50,2,7,17,32,24
-Iowa,Fairport State Recreation Area,43,26,50,38,38,0,10,31,2,0
-Iowa,Fort Defiance State Park,16,20,66,39,40,1,3,10,1,1
-Iowa,Geode State Park,66,40,85,59,57,0,0,2,33,31
-Iowa,George Wyth State Park,70,15,65,45,49,10,0,14,44,2
-Iowa,Green Valley State Park,70,45,105,69,70,0,0,0,19,51
-Iowa,Gull Point State Park,112,15,45,26,25,44,51,13,4,0
-Iowa,Honey Creek State Park,111,25,90,41,35,0,21,73,1,16
-Iowa,Lacey-Keosauqua State Park,51,45,134,68,65,0,0,0,18,33
-Iowa,Lake Ahquabi State Park,93,50,155,76,70,0,0,0,10,83
-Iowa,Lake Anita State Park,152,15,70,43,45,4,22,39,84,3
-Iowa,Lake Darling State Park,80,35,110,54,50,0,0,6,55,19
-Iowa,Lake Keomah State Park,46,15,40,26,26,17,25,4,0,0
-Iowa,Lake Macbride State Park,95,20,85,38,30,7,45,7,25,11
-Iowa,Lake Manawa State Park,41,58,80,65,58,0,0,0,28,13
-Iowa,Lake Wapello State Park,49,45,120,59,55,0,0,0,34,15
-Iowa,Lake of Three Fires State Park,82,15,126,39,37,27,10,12,20,13
-Iowa,Ledges State Park,37,30,138,60,56,0,3,1,17,16
-Iowa,Lewis and Clark State Park,76,60,90,68,65,0,0,0,0,76
-Iowa,Maquoketa Caves State Park,23,31,68,47,45,0,1,9,11,2
-Iowa,Marble Beach State Recreation Area,100,15,80,44,45,29,10,10,19,32
-Iowa,McIntosh Woods State Park,49,20,82,47,44,1,3,21,12,12
-Iowa,Nine Eagles State Park,55,30,85,50,56,0,21,0,21,13
-Iowa,Palisades-Kepler State Park,40,20,91,49,51,6,3,6,18,7
-Iowa,Pikes Peak State Park,61,30,55,41,40,0,16,22,23,0
-Iowa,Pilot Knob State Park,62,15,70,33,30,14,23,16,5,4
-Iowa,Pine Lake State Park,76,20,105,50,44,9,4,26,16,21
-Iowa,Pleasant Creek State Recreation Area,72,30,100,62,50,0,13,1,26,32
-Iowa,Prairie Rose State Park,93,15,80,46,48,5,6,16,60,6
-Iowa,Red Haw State Park,52,20,70,50,60,4,8,6,5,29
-Iowa,Rock Creek State Park,103,25,50,39,40,0,19,49,35,0
-Iowa,Shimek Forest Campground,37,46,83,65,66,0,0,0,10,27
-Iowa,Springbrook State Park,76,28,103,49,49,0,5,25,38,8
-Iowa,Stephens Forest Campground,70,20,65,36,35,6,28,13,20,3
-Iowa,Stone State Park,31,12,60,29,30,13,10,7,0,1
-Iowa,Union Grove State Park,9,32,40,34,32,0,5,4,0,0
-Iowa,Viking Lake State Park,113,35,126,59,60,0,0,26,24,63
-Iowa,Volga River State Recreation Area,86,30,90,63,60,0,10,0,1,75
-Iowa,Walnut Woods State Park,21,31,71,50,46,0,2,8,4,7
-Iowa,Wapsipinicon State Park,19,40,60,48,45,0,0,5,11,3
-Iowa,Waubonsie State Park,68,10,100,52,50,1,3,19,28,17
-Iowa,Wildcat Den State Park,20,32,32,32,32,0,20,0,0,0
-Iowa,Wilson Island State Recreation Area,44,30,70,60,63,0,3,0,6,35
-Iowa,Yellow River State Forest,133,20,125,51,50,2,12,28,50,41
-Maryland,Cedarville State Forest,38,15,30,25,25,9,29,0,0,0
-Maryland,Cunningham Falls State Park,165,20,30,30,30,1,164,0,0,0
-Maryland,Deep Creek Lake State Park,76,15,40,22,20,41,30,5,0,0
-Maryland,Elk Neck State Park,170,20,40,28,25,12,138,20,0,0
-Maryland,Fort Frederick State Park,27,30,50,43,50,0,7,4,16,0
-Maryland,Gambrill State Park,16,20,30,23,20,12,4,0,0,0
-Maryland,Greenbrier State Park,150,22,60,33,35,38,36,65,10,1
-Maryland,Janes Island State Park,99,20,50,34,30,25,26,28,20,0
-Maryland,Martinak State Park,56,40,76,56,60,0,0,8,20,28
-Maryland,New Germany State Park,37,20,59,28,20,25,4,0,8,0
-Maryland,Patapsco Valley State Park,44,20,40,28,29,14,18,12,0,0
-Maryland,Pocomoke River State Park,190,20,40,28,30,74,87,29,0,0
-Maryland,Point Lookout State Park,68,20,40,32,30,6,42,20,0,0
-Maryland,Rocky Gap State Park,159,20,40,29,30,50,74,35,0,0
-Maryland,Savage Highlands State Park,28,22,22,22,22,28,0,0,0,0
-Maryland,Savage River State Forest,17,20,40,30,30,8,1,8,0,0
-Maryland,Smallwood State Park,16,30,30,30,30,0,16,0,0,0
-Maryland,Susquehanna State Park,46,20,30,27,30,15,31,0,0,0
-Maryland,Swallow Falls State Park,25,20,35,25,25,12,12,1,0,0
-Maryland,Tuckahoe State Park,51,20,64,44,45,1,11,6,27,6
-Maryland,Wolf Den Run State Park,6,30,30,30,30,0,6,0,0,0
-Michigan,Algonac State Park,294,29,60,43,43,0,2,189,101,2
-Michigan,Aloha State Park,286,26,120,49,50,0,15,55,178,38
-Michigan,Bald Mountain Recreation Area,2,40,40,40,40,0,0,2,0,0
-Michigan,Baraga State Park,105,34,100,54,48,0,2,29,42,32
-Michigan,Bay City State Park,197,16,120,50,50,1,25,36,63,72
-Michigan,Bewabic State Park,131,20,83,45,46,9,11,34,62,15
-Michigan,Brighton Recreation Area,214,25,125,51,50,0,10,37,126,41
-Michigan,Brimley State Park,239,15,95,40,40,10,38,107,79,5
-Michigan,Burt Lake State Park,307,20,85,47,45,1,21,115,120,50
-Michigan,Cheboygan State Park,83,20,60,37,35,4,32,32,5,10
-Michigan,Clear Lake State Park,178,13,60,42,40,1,21,71,84,1
-Michigan,Craig Lake State Park,2,25,25,25,25,0,2,0,0,0
-Michigan,Duck Lake State Park,1,40,40,40,40,0,0,1,0,0
-Michigan,East Tawas State Harbor,78,30,60,45,45,0,16,0,46,16
-Michigan,Elk Hill Horse Campground,10,31,180,77,67,0,1,0,2,7
-Michigan,Fayette Historic State Park,62,20,100,44,40,5,17,21,8,11
-Michigan,Fisherman's Island State Park,79,23,150,53,50,1,3,14,42,19
-Michigan,Fort Custer Recreation Area,228,20,132,67,67,2,2,6,61,157
-Michigan,Fort Wilkins Historic State Park,145,30,107,49,42,0,22,58,30,35
-Michigan,Harrisville State Park,191,20,100,45,42,3,19,76,71,22
-Michigan,Hartwick Pines State Park,99,40,95,72,70,0,0,2,0,97
-Michigan,Hayes State Park,177,20,80,44,42,1,4,116,42,14
-Michigan,Headquarters Lake State Forest,9,25,70,42,40,0,3,2,3,1
-Michigan,Highland Recreation Area,28,25,83,66,70,0,2,1,2,23
-Michigan,Hoeft State Park,133,20,109,41,36,2,41,48,27,15
-Michigan,Hoffmaster State Park,1,60,60,60,60,0,0,0,0,1
-Michigan,Holland State Park,214,16,80,43,43,7,18,110,75,4
-Michigan,Holly Recreation Area,163,23,120,50,50,1,3,11,142,6
-Michigan,Indian Lake State Park,213,15,90,44,42,7,37,67,76,26
-Michigan,Interlochen State Park,443,20,90,42,40,7,21,321,61,33
-Michigan,Ionia Recreation Area,159,18,100,55,55,7,7,10,69,66
-Michigan,Island Lake Recreation Area,8,31,50,43,44,0,1,6,1,0
-Michigan,Lake Gogebic State Park,115,15,90,49,45,1,13,38,29,34
-Michigan,Lake Hudson Recreation Area,1,20,20,20,20,1,0,0,0,0
-Michigan,Lakeport State Park,226,14,90,59,50,1,0,32,127,66
-Michigan,Leelanau State Park,51,15,50,35,35,9,14,17,11,0
-Michigan,Lime Island State Park,10,16,16,16,16,10,0,0,0,0
-Michigan,Little Presque Isle State Forest,6,12,12,12,12,6,0,0,0,0
-Michigan,Ludington State Park,11,40,50,49,50,0,0,1,10,0
-Michigan,Maybury State Park,6,44,160,69,60,0,0,3,0,3
-Michigan,McLain State Park,81,30,100,51,50,0,2,24,34,21
-Michigan,Mears State Park,174,25,60,43,40,0,6,96,67,5
-Michigan,Metamora-Hadley Recreation Area,217,20,60,36,35,8,85,85,38,1
-Michigan,Mitchell State Park,220,45,100,55,50,0,0,0,169,51
-Michigan,Muskallonge Lake State Park,159,20,90,43,40,3,43,43,53,17
-Michigan,Muskegon State Park,254,10,125,54,50,4,29,53,71,97
-Michigan,Newaygo State Park,99,30,62,48,49,0,3,18,72,6
-Michigan,North Higgins Lake State Park,176,21,95,43,42,2,55,47,56,16
-Michigan,Onaway State Park,81,20,65,44,45,1,13,23,31,13
-Michigan,Orchard Beach State Park,157,32,95,48,46,0,1,49,101,6
-Michigan,Ortonville Recreational Area,17,35,100,75,75,0,0,2,3,12
-Michigan,Otsego Lake State Park,162,20,80,49,50,1,5,37,91,28
-Michigan,Petoskey State Park,179,20,70,40,40,5,19,91,62,2
-Michigan,Pinckney Recreation Area,198,15,109,47,50,7,17,24,135,15
-Michigan,Pontiac Lake Recreation Area,213,20,200,35,35,3,32,176,0,2
-Michigan,Porcupine Mountains Wilderness State Park,1,24,24,24,24,1,0,0,0,0
-Michigan,Port Crescent State Park,145,14,70,40,40,5,37,61,40,2
-Michigan,Proud Lake Recreation Area,130,23,74,45,44,2,14,56,45,13
-Michigan,Rifle River Recreation Area,176,24,90,54,60,1,4,4,73,94
-Michigan,SFC Arbutus Lake,24,13,64,36,35,3,8,6,5,2
-Michigan,SFC Black Lake,50,25,70,51,50,0,2,7,28,13
-Michigan,SFC Bray Creek,9,30,60,44,40,0,1,4,2,2
-Michigan,SFC Forks,9,15,55,33,30,1,4,3,1,0
-Michigan,SFC Garey Lake,12,45,105,67,66,0,0,0,2,10
-Michigan,SFC Houghton Lake,50,35,81,55,56,0,0,10,22,18
-Michigan,SFC Lake Ann,30,30,78,58,60,0,1,1,13,15
-Michigan,SFC Lake Dubonnet,50,51,120,76,75,0,0,0,2,48
-Michigan,SFC Lake Margrethe,37,18,100,56,55,1,3,4,14,15
-Michigan,SFC Little Brevort Lake,20,40,70,54,55,0,0,2,12,6
-Michigan,SFC Platte River,26,54,90,71,75,0,0,0,2,24
-Michigan,SFC Reedsburg Dam,48,30,107,66,63,0,1,8,10,29
-Michigan,SFC Scheck's Place,30,25,80,48,40,0,4,13,2,11
-Michigan,SFC Veterans Memorial,24,45,78,60,60,0,0,0,5,19
-Michigan,Saugatuck Dunes State Park,1,50,50,50,50,0,0,0,1,0
-Michigan,Seven Lakes State Park,75,40,50,49,50,0,0,5,70,0
-Michigan,Silver Lake State Park,200,30,100,50,50,0,3,9,184,4
-Michigan,Sleeper State Park,226,20,105,48,45,2,28,63,93,40
-Michigan,Sleepy Hollow State Park,3,44,44,44,44,0,0,3,0,0
-Michigan,South Higgins Lake State Park,406,28,120,54,50,0,1,15,291,99
-Michigan,Sterling State Park,2,15,15,15,15,2,0,0,0,0
-Michigan,Straits State Park,274,2,100,34,30,43,120,61,24,26
-Michigan,Tahquamenon Falls State Park,282,20,200,51,49,1,18,89,110,64
-Michigan,Tawas Point State Park,192,14,100,51,50,3,8,15,151,15
-Michigan,Thompson Harbor State Park,1,32,32,32,32,0,1,0,0,0
-Michigan,Tippy Dam Recreation Area,39,20,60,39,40,1,6,20,11,1
-Michigan,Traverse City State Park,347,15,75,37,35,7,92,173,68,7
-Michigan,Twin Lakes State Park,2,30,31,31,31,0,2,0,0,0
-Michigan,Van Buren State Park,221,24,60,42,42,1,16,99,103,2
-Michigan,Van Riper State Park,187,15,95,41,40,11,44,67,51,14
-Michigan,Warren Dunes State Park,182,20,64,37,34,10,83,47,30,12
-Michigan,Waterloo Recreation Area,358,25,120,50,48,0,19,95,174,70
-Michigan,Wells State Park,160,20,100,54,54,5,2,16,87,50
-Michigan,Wilderness State Park,261,20,96,50,50,2,6,40,177,36
-Michigan,Wilson State Park,1,44,44,44,44,0,0,1,0,0
-Michigan,Yankee Springs Recreation Area,308,17,100,44,45,4,27,121,111,45
-Michigan,Young State Park,239,18,80,49,50,4,7,30,180,18
-Missouri,Annie and Abel Van Meter State Park,22,36,60,52,54,0,0,3,18,1
-Missouri,Arrow Rock State Historic Site,48,31,67,46,48,0,3,12,31,2
-Missouri,Battle of Athens State Historic Site,28,40,68,54,54,0,0,2,20,6
-Missouri,Bennett Spring State Park,192,18,86,55,55,3,1,10,141,37
-Missouri,Big Lake State Park,65,42,73,55,54,0,0,3,50,12
-Missouri,Crowder State Park,41,12,69,51,56,4,0,4,26,7
-Missouri,Cuivre River State Park,106,35,65,51,52,0,0,10,92,4
-Missouri,Dr. Edmund A. Babler Memorial SP,75,26,54,45,46,0,10,21,44,0
-Missouri,Echo Bluff State Park,74,16,63,51,57,12,0,0,57,5
-Missouri,Finger Lakes State Park,37,28,81,48,47,0,1,12,23,1
-Missouri,Graham Cave State Park,53,29,62,42,42,0,6,29,17,1
-Missouri,Harry S Truman State Park,186,45,71,55,55,0,0,0,155,31
-Missouri,Hawn State Park,45,31,58,54,55,0,1,0,44,0
-Missouri,Johnsons Shut-Ins State Park,79,15,92,58,61,14,0,0,17,48
-Missouri,Knob Noster State Park,60,42,68,56,57,0,0,2,45,13
-Missouri,Lake Wappapello State Park,75,33,87,52,53,0,1,17,46,11
-Missouri,Lake of the Ozarks State Park,169,27,90,56,56,0,1,10,122,36
-Missouri,Lewis and Clark State Park,70,26,96,58,61,0,7,3,15,45
-Missouri,Long Branch State Park,67,26,75,55,55,0,3,6,38,20
-Missouri,Mark Twain State Park,95,46,74,58,58,0,0,0,59,36
-Missouri,Meramec State Park,212,35,90,57,56,0,0,17,131,64
-Missouri,Montauk State Park,145,38,77,56,56,0,0,3,113,29
-Missouri,Onondaga Cave State Park,66,38,84,59,60,0,0,6,26,34
-Missouri,Pershing State Park,39,23,85,51,51,1,0,7,26,5
-Missouri,Pomme de Terre State Park,241,25,77,54,54,0,2,13,197,29
-Missouri,Prairie State Park,4,40,65,50,56,0,0,2,1,1
-Missouri,Roaring River State Park,173,41,80,56,56,0,0,7,109,57
-Missouri,Robertsville State Park,27,44,86,59,56,0,0,1,15,11
-Missouri,Sam A. Baker State Park,200,27,77,56,55,0,1,12,131,56
-Missouri,St. Francois State Park,110,18,89,52,49,4,11,25,41,29
-Missouri,St. Joe State Park,99,42,126,80,73,0,0,2,15,82
-Missouri,Stockton State Park,68,44,80,57,57,0,0,1,58,9
-Missouri,Table Rock State Park,159,1,74,53,55,7,2,13,76,61
-Missouri,Thousand Hills State Park,51,36,82,54,51,0,0,9,25,17
-Missouri,Trail of Tears State Park,54,27,102,57,55,0,4,13,17,20
-Missouri,Viney Creek Recreation Area,45,1,66,38,37,7,8,18,9,3
-Missouri,Wakonda State Park,98,20,173,68,69,4,11,0,18,65
-Missouri,Wallace State Park,79,20,99,42,44,36,0,4,21,18
-Missouri,Washington State Park,50,23,99,57,47,1,0,23,4,22
-Missouri,Watkins Mill SP and SHS,94,38,65,53,53,0,0,4,79,11
-Missouri,Weston Bend State Park,50,40,128,59,58,0,0,2,26,22
-Montana,Black Sandy State Park,50,15,34,27,31,21,29,0,0,0
-Montana,Brush Lake State Park,12,40,85,48,40,0,0,10,0,2
-Montana,Cooney State Park,48,18,80,40,35,7,13,15,9,4
-Montana,Finley Point Unit - Flathead Lake State Park,36,24,50,33,30,18,6,4,8,0
-Montana,Lake Mary Ronan State Park,25,28,50,40,40,0,1,22,2,0
-Montana,Lewis and Clark Caverns State Park,39,31,71,44,43,0,2,24,10,3
-Montana,Logan State Park,49,1,45,25,30,18,15,13,3,0
-Montana,Makoshika State Park,21,20,70,41,45,4,2,3,8,4
-Montana,Missouri Headwaters State Park,17,20,60,35,32,2,8,3,2,2
-Montana,Placid Lake State Park,40,19,46,32,33,5,22,12,1,0
-Montana,Salmon Lake State Park,23,18,46,36,40,4,3,14,2,0
-Montana,Thompson Falls State Park,18,1,63,29,30,6,8,2,1,1
-Montana,Tongue River State Park,50,18,79,56,55,1,0,1,36,12
-Montana,Wayfarers Unit - Flathead Lake State Park,26,20,40,30,28,3,14,9,0,0
-Montana,West Shore Unit - Flathead Lake State Park,26,18,45,33,30,3,11,10,2,0
-Montana,Whitefish Lake State Park,18,18,65,31,28,5,9,1,2,1
-Nebraska,Buffalo Bill Ranch State Recreation Area,23,20,40,35,40,6,0,17,0,0
-Nebraska,Calamus SRA,73,50,50,50,50,0,0,0,73,0
-Nebraska,Chadron SP,50,40,65,52,50,0,0,2,41,7
-Nebraska,Enders SRA,40,30,40,40,40,0,1,39,0,0
-Nebraska,Eugene T. Mahoney SP,148,36,72,47,47,0,0,54,85,9
-Nebraska,Fort Kearny SRA,44,24,54,43,42,1,3,20,20,0
-Nebraska,Fort Robinson SP,149,60,70,61,60,0,0,0,0,149
-Nebraska,Fremont SRA,165,32,110,53,51,0,1,16,128,20
-Nebraska,Indian Cave SP,63,41,66,54,53,0,0,2,44,17
-Nebraska,Johnson Lake SRA,65,30,50,40,42,0,8,55,2,0
-Nebraska,Lake McConaughy SRA,264,35,60,54,60,0,0,1,102,161
-Nebraska,Lake Minatare SRA,37,37,63,51,53,0,0,4,32,1
-Nebraska,Lake Ogallala SRA,82,45,45,45,45,0,0,0,82,0
-Nebraska,Lewis and Clark SRA,130,20,50,48,50,6,4,0,120,0
-Nebraska,Louisville SRA,129,39,77,57,57,0,0,4,78,47
-Nebraska,Medicine Creek SRA,50,30,48,39,40,0,9,35,6,0
-Nebraska,Merritt Reservoir,74,34,88,57,58,0,1,10,28,35
-Nebraska,Mormon Island SRA,17,40,55,44,40,0,0,13,4,0
-Nebraska,Niobrara State Park,60,45,68,55,55,0,0,0,57,3
-Nebraska,Pawnee SRA,31,45,53,50,51,0,0,0,31,0
-Nebraska,Platte River SP,24,18,55,47,55,5,0,0,19,0
-Nebraska,Ponca SP,50,40,60,56,60,0,0,1,18,31
-Nebraska,Red Willow State Recreation Area,36,40,40,40,40,0,0,36,0,0
-Nebraska,Rock Creek Station SHP,13,42,58,52,53,0,0,1,12,0
-Nebraska,Sherman Reservoir State Recreation Area,29,60,60,60,60,0,0,0,0,29
-Nebraska,Summit Lake State Recreation Area,31,65,65,65,65,0,0,0,0,31
-Nebraska,Swanson SRA,38,40,40,40,40,0,0,38,0,0
-Nebraska,Two Rivers SRA,103,36,77,53,50,0,0,7,76,20
-Nebraska,Victoria Springs SRA,10,50,50,50,50,0,0,0,10,0
-Nebraska,Willow Creek SRA,79,34,70,46,44,0,1,39,29,10
-Nebraska,Windmill SRA,33,35,80,59,60,0,0,13,1,19
-Nevada,Beaver Dam State Park,31,22,90,38,22,16,3,2,4,6
-Nevada,Berlin-Ichthyosaur State Park,14,25,70,32,25,0,11,0,2,1
-Nevada,Big Bend of the Colorado State Recreation Area,56,20,70,41,45,24,0,1,11,20
-Nevada,Cathedral Gorge State Park,28,18,60,35,30,9,7,5,2,5
-Nevada,Cave Lake State Park,6,35,120,74,80,0,0,1,2,3
-Nevada,Dayton State Park,10,29,75,49,48,0,1,4,1,4
-Nevada,Echo Canyon State Park,53,40,80,59,60,0,0,1,21,31
-Nevada,Fort Churchill State Historic Park,21,25,45,38,45,0,9,0,12,0
-Nevada,Kershaw Ryan State Park,20,10,65,52,65,4,1,0,0,15
-Nevada,Lahontan State Recreation Area,36,25,60,42,40,0,11,10,4,11
-Nevada,Rye Patch State Recreation Area,67,22,75,49,48,22,0,3,16,26
-Nevada,South Fork State Recreation Area,50,1,40,38,40,1,2,47,0,0
-Nevada,Spring Valley State Park,47,15,100,45,50,8,7,8,8,16
-Nevada,Valley of Fire State Park,73,30,125,54,48,0,3,22,26,22
-Nevada,Walker River State Recreation Area,52,20,40,35,40,8,8,36,0,0
-Nevada,Ward Charcoal Ovens State Historic Park,16,25,45,39,45,0,5,1,10,0
-Nevada,Washoe Lake State Park,48,23,100,60,60,2,5,4,13,24
-Nevada,Wild Horse State Recreation Area,37,20,145,71,55,1,0,4,18,14
-New Mexico,Caballo Lake,60,40,95,47,50,0,0,23,36,1
-New Mexico,Cimarron Canyon,73,10,45,27,25,24,36,0,13,0
-New Mexico,City of Rocks,43,15,50,38,40,4,7,24,8,0
-New Mexico,Clayton Lake State Park and Dinosaur Trackways,27,20,50,42,50,2,7,2,16,0
-New Mexico,Conchas Lake,57,25,57,45,50,0,8,10,39,0
-New Mexico,Coyote Creek,15,18,40,35,35,1,0,14,0,0
-New Mexico,Eagle Nest Lake,19,35,107,48,40,0,0,13,3,3
-New Mexico,El Vado Lake,19,30,50,41,40,0,3,9,7,0
-New Mexico,Elephant Butte Lake,129,20,67,37,40,6,18,104,0,1
-New Mexico,Fenton Lake State Park,32,15,60,39,40,7,5,5,14,1
-New Mexico,Heron Lake,181,15,65,32,25,32,84,21,37,7
-New Mexico,Hyde Memorial,29,20,50,29,25,11,11,0,7,0
-New Mexico,Leasburg Dam,24,15,40,33,35,4,7,13,0,0
-New Mexico,Manzano Mountains,27,20,64,37,36,5,7,9,5,1
-New Mexico,Navajo Lake,205,20,55,33,30,34,82,61,28,0
-New Mexico,Oasis,28,40,100,60,59,0,0,5,10,13
-New Mexico,Oliver Lee Memorial,42,20,60,34,35,1,20,15,5,1
-New Mexico,Pancho Villa,63,20,50,39,40,4,2,52,5,0
-New Mexico,Pecos Canyon State Park,29,19,50,34,32,5,13,6,5,0
-New Mexico,Percha Dam,30,40,95,47,50,0,0,15,14,1
-New Mexico,Rockhound,28,20,45,37,40,1,6,20,1,0
-New Mexico,Santa Rosa Lake,76,20,50,38,30,3,41,0,32,0
-New Mexico,Storrie Lake,23,26,40,38,40,0,4,19,0,0
-New Mexico,Sugarite Canyon,33,30,70,54,60,0,3,8,2,20
-New Mexico,Sumner Lake,33,30,120,60,54,0,1,6,11,15
-New Mexico,Ute Lake,112,19,181,59,48,1,35,17,35,24
-New Mexico,Villanueva,24,20,70,44,50,1,7,2,10,4
-New York,BEAVER POND STATE PARK,13,20,30,25,30,6,7,0,0,0
-New York,BOWMAN LAKE STATE PARK,152,10,50,35,40,27,32,69,24,0
-New York,BROWN TRACT POND CAMPGROUND,68,20,30,23,20,48,20,0,0,0
-New York,BURNHAM POINT STATE PARK,33,20,40,23,20,25,6,2,0,0
-New York,BUTTERMILK FALLS STATE PARK,14,20,20,20,20,14,0,0,0,0
-New York,CAROGA LAKE CAMPGROUND,97,20,40,28,30,36,41,20,0,0
-New York,CAYUGA LAKE STATE PARK,214,10,40,22,20,164,42,8,0,0
-New York,CEDAR POINT STATE PARK,154,20,40,29,30,58,58,38,0,0
-New York,CHENANGO VALLEY STATE PARK,182,20,50,38,40,12,45,84,41,0
-New York,CHERRY PLAIN STATE PARK,11,12,15,15,15,11,0,0,0,0
-New York,CLARENCE FAHNESTOCK STATE PARK,36,15,30,22,20,23,13,0,0,0
-New York,COLES CREEK STATE PARK,234,20,40,30,20,120,2,112,0,0
-New York,CRANBERRY LAKE CAMPGROUND,162,20,50,31,30,35,78,43,6,0
-New York,CROWN POINT CAMPGROUND,62,20,40,38,40,4,6,52,0,0
-New York,CUMBERLAND BAY STATE PARK,116,20,50,42,50,12,20,13,71,0
-New York,DARIEN LAKES STATE PARK,152,10,60,32,30,23,54,52,22,1
-New York,DELTA LAKE STATE PARK,101,20,40,28,30,24,71,6,0,0
-New York,DEVILS TOMBSTONE CAMPGROUND,23,20,40,27,20,12,6,5,0,0
-New York,DEWOLF POINT STATE PARK,13,20,20,20,20,13,0,0,0,0
-New York,EAGLE POINT,50,20,40,25,20,27,21,2,0,0
-New York,EEL WEIR STATE PARK,27,20,50,35,40,2,10,14,1,0
-New York,EIGHTH LAKE CAMPGROUND,121,20,30,28,30,30,91,0,0,0
-New York,EVANGOLA STATE PARK,57,19,40,38,40,7,0,50,0,0
-New York,FAIR HAVEN BEACH STATE PARK,176,10,426,28,25,51,88,36,0,1
-New York,FILLMORE GLEN STATE PARK,60,20,50,28,20,35,12,1,12,0
-New York,FISH CREEK POND CAMPGROUND,327,10,40,30,30,88,132,107,0,0
-New York,FORKED LAKE CAMPGROUND,4,20,30,25,30,2,2,0,0,0
-New York,FOUR MILE CREEK STATE PARK,263,20,50,49,50,5,5,7,246,0
-New York,Frontier Town Campground,66,15,40,31,30,13,27,26,0,0
-New York,GILBERT LAKE STATE PARK,135,30,50,45,50,0,2,48,85,0
-New York,GLEN ISLAND (LAKE GEORGE IS.),1,20,20,20,20,1,0,0,0,0
-New York,GLIMMERGLASS STATE PARK,47,20,50,33,40,13,9,21,4,0
-New York,GOLDEN BEACH CAMPGROUND,159,20,30,24,20,101,58,0,0,0
-New York,GOLDEN HILL STATE PARK,61,25,65,41,35,0,22,21,6,12
-New York,GRASS POINT STATE PARK,71,20,40,29,30,22,33,16,0,0
-New York,GREEN LAKES STATE PARK,132,20,60,38,40,5,43,74,0,10
-New York,HAMLIN BEACH STATE PARK,258,30,40,38,40,0,39,219,0,0
-New York,HEARTHSTONE POINT,167,20,30,24,20,101,66,0,0,0
-New York,HECKSCHER STATE PARK,67,20,50,36,30,13,23,9,22,0
-New York,HIGLEY FLOW STATE PARK,133,20,40,30,30,21,83,29,0,0
-New York,HITHER HILLS STATE PARK,153,20,40,30,30,15,123,15,0,0
-New York,JACQUES CARTIER STATE PARK,88,20,50,42,50,4,18,22,44,0
-New York,KEEWAYDIN STATE PARK,37,20,40,35,40,5,7,25,0,0
-New York,KENNETH L. WILSON,67,20,40,27,30,31,22,14,0,0
-New York,KEUKA LAKE STATE PARK,148,40,40,40,40,0,0,148,0,0
-New York,KRING POINT STATE PARK,75,20,50,28,30,32,27,13,3,0
-New York,LAKE DURANT,60,20,30,24,20,39,21,0,0,0
-New York,LAKE EATON CAMPGROUND,114,20,30,26,30,41,73,0,0,0
-New York,LAKE ERIE STATE PARK,90,18,47,38,37,11,6,39,34,0
-New York,LAKE GEORGE BATTLEGROUND,57,20,40,26,30,28,26,3,0,0
-New York,LAKE HARRIS CAMPGROUND,71,20,40,28,30,26,33,12,0,0
-New York,LAKE TAGHKANIC STATE PARK,8,20,20,20,20,8,0,0,0,0
-New York,LAKESIDE STATE PARK,50,20,40,33,30,4,27,19,0,0
-New York,LEWEY LAKE,168,20,40,29,30,47,97,24,0,0
-New York,LIMEKILN LAKE,205,15,40,23,20,131,54,20,0,0
-New York,LINCOLN POND CAMPGROUND,20,20,30,23,20,15,5,0,0,0
-New York,LITTLE POND CAMPGROUND,65,20,40,29,30,11,51,3,0,0
-New York,LONG POINT STATE PARK - THOUSAND ISLANDS,73,20,50,38,40,5,16,43,9,0
-New York,LUZERNE,168,20,40,30,30,9,153,6,0,0
-New York,MACOMB RESERVATION,96,20,40,36,40,13,9,74,0,0
-New York,MAX V. SHAUL STATE PARK,19,10,35,20,20,13,4,2,0,0
-New York,MEACHAM LAKE CAMPGROUND,140,20,40,29,30,38,74,28,0,0
-New York,MEADOWBROOK PUBLIC CAMPGROUND,24,20,30,24,20,15,9,0,0,0
-New York,MILLS-NORRIE STATE PARK,44,20,30,21,20,38,6,0,0,0
-New York,MOFFITT BEACH CAMPGROUND,197,20,40,25,30,92,103,2,0,0
-New York,MONGAUP POND,156,20,40,36,40,8,40,108,0,0
-New York,MOREAU LAKE STATE PARK,138,20,40,28,30,37,95,6,0,0
-New York,NEWTOWN BATTLEFIELD STATE PARK,18,20,40,26,20,12,0,6,0,0
-New York,NICKS LAKE CAMPGROUND,106,20,40,34,35,8,44,54,0,0
-New York,NORTH-SOUTH LAKE CAMPGROUND,213,20,40,24,20,135,64,14,0,0
-New York,NORTHAMPTON BEACH CAMPGROUND,201,20,40,31,30,2,176,23,0,0
-New York,OQUAGA CREEK STATE PARK,90,30,50,48,50,0,2,12,76,0
-New York,PARADOX LAKE CAMPGROUND,42,20,40,23,20,29,12,1,0,0
-New York,PUTNAM POND,45,20,30,24,20,29,16,0,0,0
-New York,Piseco Lake Campground,56,10,40,23,20,38,16,2,0,0
-New York,ROBERT H TREMAN STATE PARK,74,20,50,34,30,23,19,8,24,0
-New York,ROBERT MOSES STATE PARK,207,20,50,39,40,16,71,29,91,0
-New York,ROGERS ROCK CAMPGROUND,237,20,40,27,30,94,115,28,0,0
-New York,ROLLINS POND CAMPGROUND,247,10,40,29,30,78,124,45,0,0
-New York,SACANDAGA CAMPGROUND,126,20,40,28,30,30,95,1,0,0
-New York,SAMPSON STATE PARK,238,30,40,40,40,0,8,230,0,0
-New York,SCAROON MANOR,56,20,40,33,40,17,8,31,0,0
-New York,SCHODACK ISLAND STATE PARK,66,30,50,34,30,0,54,0,12,0
-New York,SELKIRK SHORES STATE PARK,129,15,40,28,30,54,49,26,0,0
-New York,SHARP BRIDGE,18,20,30,23,25,8,10,0,0,0
-New York,SOUTHWICK BEACH STATE PARK,131,20,50,38,40,12,34,53,32,0
-New York,STONY BROOK STATE PARK,64,20,40,26,30,20,43,1,0,0
-New York,Stoney Pond State Forest Camping Area,14,20,30,24,20,9,5,0,0,0
-New York,TACONIC STATE PARK (COPAKE FALLS),47,20,25,22,20,30,17,0,0,0
-New York,TACONIC STATE PARK (RUDD POND),37,20,20,20,20,37,0,0,0,0
-New York,TAUGHANNOCK FALLS STATE PARK,32,20,35,28,30,1,30,1,0,0
-New York,TAYLOR POND CAMPGROUND,20,20,30,24,20,13,7,0,0,0
-New York,THOMPSONS LAKE CAMPGROUND at Thacher State Park,127,20,40,29,30,14,110,3,0,0
-New York,VERONA BEACH STATE PARK,46,20,50,34,30,6,21,12,7,0
-New York,WATKINS GLEN STATE PARK,259,20,40,29,30,36,176,47,0,0
-New York,WESTCOTT BEACH STATE PARK,146,20,50,34,35,14,59,61,12,0
-New York,WHETSTONE GULF STATE PARK,61,28,30,30,30,0,61,0,0,0
-New York,WILDWOOD STATE PARK,193,20,50,34,30,80,37,0,76,0
-New York,WILMINGTON NOTCH,42,20,30,22,20,33,9,0,0,0
-North Carolina,Falls Lake State Recreation Area,259,20,120,66,65,3,12,17,48,179
-North Carolina,Goose Creek State Park,35,20,40,32,40,14,0,21,0,0
-North Carolina,Gorges State Park,30,20,50,34,20,16,0,0,14,0
-North Carolina,Hanging Rock State Park,71,25,60,34,30,0,43,15,8,5
-North Carolina,Jones Lake State Park,18,20,50,48,50,1,0,0,17,0
-North Carolina,Jordan Lake State Rec Area,75,42,146,75,75,0,0,1,13,61
-North Carolina,Kerr Lake State Recreation Area,25,25,70,38,40,0,10,7,6,2
-North Carolina,Lake James State Park,9,20,20,20,20,9,0,0,0,0
-North Carolina,Lake Norman State Park,25,40,71,61,62,0,0,1,9,15
-North Carolina,Lumber River State Park,14,20,75,70,75,1,0,0,0,13
-North Carolina,Medoc Mountain State Park,17,50,72,63,65,0,0,0,4,13
-North Carolina,Merchants Millpond State Park,17,34,63,46,44,0,1,8,5,3
-North Carolina,Morrow Mountain State Park,75,5,55,33,34,9,29,30,7,0
-North Carolina,New River State Park,8,33,55,43,42,0,2,3,3,0
-North Carolina,Pettigrew State Park,13,20,76,52,60,1,1,3,1,7
-North Carolina,Pilot Mountain State Park,15,25,38,28,25,0,13,2,0,0
-North Carolina,Raven Rock State Park,9,67,67,67,67,0,0,0,0,9
-North Carolina,South Mountains State Park,33,15,83,43,50,9,5,0,7,12
-North Carolina,Stone Mountain State Park,87,23,95,55,55,3,8,14,23,39
-North Carolina,William B. Umstead State Park,25,55,95,65,63,0,0,0,10,15
-North Dakota,Beaver Lake State Park,33,18,100,66,65,1,0,0,5,27
-North Dakota,Cross Ranch State Park,91,10,165,43,38,14,17,27,8,25
-North Dakota,Fort Abraham Lincoln State Park,102,23,86,51,51,1,3,28,50,20
-North Dakota,Fort Ransom State Park,75,30,81,52,45,0,13,22,7,33
-North Dakota,Fort Stevenson State Park,133,12,95,42,48,40,1,6,61,25
-North Dakota,Grahams Island State Park,149,40,210,91,90,0,0,2,3,144
-North Dakota,Icelandic State Park,143,16,82,49,48,2,0,33,95,13
-North Dakota,Lake Metigoshe State Park,131,18,110,37,36,8,47,54,19,3
-North Dakota,Lake Sakakawea State Park,196,20,225,63,50,1,0,4,133,58
-North Dakota,Lewis and Clark State Park,101,40,180,88,69,0,0,8,13,80
-North Dakota,Little Missouri State Park,35,30,100,59,55,0,2,2,14,17
-North Dakota,Rough Rider State Park,14,24,40,25,24,13,0,1,0,0
-North Dakota,Turtle River State Park,79,30,140,63,60,0,1,4,27,47
-Ohio,A.W. Marion State Park,58,32,54,45,45,0,1,16,41,0
-Ohio,Alum Creek State Park,299,40,65,49,48,0,0,1,294,4
-Ohio,Barkcamp State Park,135,21,80,46,45,1,1,60,71,2
-Ohio,Beaver Creek State Park,58,25,60,39,35,0,18,19,19,2
-Ohio,Blue Rock State Park,84,14,125,46,41,8,20,23,21,12
-Ohio,Buck Creek State Park,105,31,60,44,40,0,47,16,0,42
-Ohio,Burr Oak State Park,61,22,78,38,38,3,15,34,7,2
-Ohio,Caesar Creek State Park,278,37,40,40,40,0,0,278,0,0
-Ohio,Cowan Lake State Park,221,30,59,41,38,0,11,144,66,0
-Ohio,Deer Creek State Park,235,41,45,45,45,0,0,2,233,0
-Ohio,Delaware State Park,212,42,88,51,49,0,0,4,189,19
-Ohio,Dillon State Park,203,25,64,40,40,0,15,155,30,3
-Ohio,East Fork State Park,416,37,56,46,46,0,0,71,345,0
-Ohio,East Harbor State Park,562,3,93,44,36,4,183,223,31,121
-Ohio,Findley State Park,257,31,70,46,45,0,2,117,133,5
-Ohio,Geneva State Park,100,40,45,45,45,0,0,7,93,0
-Ohio,Grand Lake St. Marys State Park,198,25,62,43,40,0,26,94,68,10
-Ohio,Great Seal State Park,10,48,58,54,56,0,0,0,10,0
-Ohio,Guilford Lake State Park,84,24,85,57,70,1,7,26,0,50
-Ohio,Harrison Lake State Park,159,24,68,50,50,1,1,8,147,2
-Ohio,Hocking Hills State Park,156,27,44,39,40,0,16,140,0,0
-Ohio,Hueston Woods State Park,309,10,64,31,25,73,166,4,59,7
-Ohio,Indian Lake State Park,451,29,50,42,42,0,20,324,107,0
-Ohio,Jackson Lake State Park,23,35,65,48,48,0,0,5,17,1
-Ohio,Jefferson Lake State Park,6,39,51,46,49,0,0,2,4,0
-Ohio,John Bryan State Park,32,35,51,39,40,0,0,28,4,0
-Ohio,Kelleys Island State Park,117,15,50,38,41,16,1,71,29,0
-Ohio,Kiser Lake State Park,22,20,117,75,80,1,1,1,2,17
-Ohio,Lake Alma State Park,66,18,54,37,36,3,23,25,15,0
-Ohio,Lake Hope State Park,43,20,50,40,40,2,1,26,14,0
-Ohio,Lake Loramie State Park,173,33,70,50,50,0,1,4,165,3
-Ohio,Malabar Farm State Park,1,60,60,60,60,0,0,0,0,1
-Ohio,Mary Jane Thurston State Park,23,50,50,50,50,0,0,0,23,0
-Ohio,Maumee Bay State Park,256,50,50,50,50,0,0,0,256,0
-Ohio,Mohican State Park,151,35,61,46,45,0,0,63,87,1
-Ohio,Mosquito Lake State Park,232,30,50,39,40,0,2,212,18,0
-Ohio,Mt Gilead State Park,60,30,55,41,40,0,7,41,12,0
-Ohio,Muskingum River State Park,18,30,30,30,30,0,18,0,0,0
-Ohio,Paint Creek State Park,207,35,56,45,46,0,0,72,135,0
-Ohio,Pike Lake State Park,79,25,55,38,39,0,30,34,15,0
-Ohio,Punderson State Park,146,25,65,46,46,0,2,36,103,5
-Ohio,Pymatuning State Park,500,25,97,45,43,0,4,290,200,6
-Ohio,Rocky Fork State Park,164,19,69,42,39,14,34,70,1,45
-Ohio,Salt Fork State Park,84,18,60,40,44,12,21,10,40,1
-Ohio,Scioto Trail State Park,55,21,79,46,43,1,10,17,17,10
-Ohio,Shawnee State Park,182,20,130,47,42,16,40,43,57,26
-Ohio,South Bass Island State Park,73,27,56,38,38,0,14,53,6,0
-Ohio,Stonelick State Park,113,23,54,39,39,5,25,56,27,0
-Ohio,Tar Hollow State Park,28,30,52,44,46,0,2,9,17,0
-Ohio,Van Buren State Park,60,30,55,44,45,0,1,22,37,0
-Ohio,West Branch State Park,180,37,100,49,45,0,0,86,63,31
-Ohio,Wolf Run State Park,130,14,63,37,38,9,31,68,19,3
-Oregon,Bullards Beach State Park,206,20,66,41,42,7,49,63,82,5
-Oregon,Cape Blanco State Park,70,30,95,54,54,0,6,9,35,20
-Oregon,Cape Lookout State Park,222,20,63,38,40,55,20,82,62,3
-Oregon,Carl G. Washburne Memorial State Park,66,20,53,32,25,28,7,17,14,0
-Oregon,Champoeg State Heritage Area,98,16,81,47,45,18,9,22,17,32
-Oregon,Clyde Holliday State Recreation Site,31,25,90,59,56,0,3,4,10,14
-Oregon,Collier Memorial State Park,67,25,65,40,43,0,20,20,26,1
-Oregon,Cottonwood Canyon State Park,4,25,25,25,25,0,4,0,0,0
-Oregon,Cove Palisades State Park,272,15,52,36,37,41,68,91,72,0
-Oregon,Deschutes River State Recreation Area,34,23,62,39,40,2,14,3,12,3
-Oregon,Detroit Lake State Recreation Area,360,18,65,32,29,111,122,71,53,3
-Oregon,Devils Lake State Recreation Area,108,24,55,35,35,12,37,49,10,0
-Oregon,Emigrant Springs State Heritage Area,65,15,90,39,40,2,21,21,19,2
-Oregon,Farewell Bend State Recreation Area,110,30,90,47,46,0,15,15,62,18
-Oregon,Fort Stevens State Park,509,15,69,47,48,25,13,142,285,44
-Oregon,Goose Lake State Recreation Area,48,37,60,44,44,0,0,26,21,1
-Oregon,Harris Beach State Park,154,15,55,36,35,15,59,45,35,0
-Oregon,Humbug Mountain State Park,95,15,95,43,40,2,19,47,20,7
-Oregon,Jasper Point State Park,29,25,65,44,43,0,4,13,9,3
-Oregon,Jessie M. Honeyman Memorial State Park,355,16,60,39,38,19,95,134,106,1
-Oregon,L.L. Stub Stewart Memorial State Park,113,16,96,58,63,15,0,0,2,96
-Oregon,LaPine State Park,141,29,95,46,43,0,12,66,45,18
-Oregon,Lake Owyhee State Park,64,21,65,40,44,10,15,10,25,4
-Oregon,Memaloose State Park,109,28,59,45,47,0,6,33,70,0
-Oregon,Milo McIver State Park,46,36,86,56,60,0,0,20,2,24
-Oregon,Nehalem Bay State Park,306,20,65,38,44,125,3,34,140,4
-Oregon,Nehalem Falls Campground,15,25,50,38,35,0,2,9,4,0
-Oregon,Northrup Creek Horse Camp,11,30,50,42,40,0,3,3,5,0
-Oregon,Prineville Reservoir State Park,104,16,60,37,36,4,47,25,27,1
-Oregon,Silver Falls State Park,113,26,85,51,50,0,12,31,31,39
-Oregon,South Beach State Park,324,20,56,40,41,3,97,134,90,0
-Oregon,Sunset Bay State Park,130,18,100,34,35,4,61,54,10,1
-Oregon,Tumalo State Park,84,24,56,37,36,1,37,34,12,0
-Oregon,Umpqua Lighthouse State Park,52,20,56,34,34,9,18,18,7,0
-Oregon,Unity Lake State Recreation Site,37,25,135,51,46,0,6,9,16,6
-Oregon,Valley of the Rogue State Park,170,30,100,52,47,0,21,39,67,43
-Oregon,Viento State Park,60,18,56,37,37,9,12,25,14,0
-Oregon,Wallowa Lake State Park,209,24,86,42,42,1,34,96,67,11
-Oregon,Willamette Mission State Park,4,65,65,65,65,0,0,0,0,4
-Oregon,William M. Tugman State Park,115,23,60,40,43,3,47,8,56,1
-Texas,Bonham State Park,22,20,50,39,50,8,0,1,13,0
-Texas,Brazos Bend State Park,67,35,66,55,55,0,0,2,54,11
-Texas,Buescher State Park,28,16,65,37,38,4,9,6,7,2
-Texas,Caddo Lake State Park,39,22,122,51,47,2,9,4,18,6
-Texas,Caprock Canyons State Park and Trailway,51,5,67,47,55,9,0,1,35,6
-Texas,Cedar Hill State Park,315,15,60,36,30,54,114,9,136,2
-Texas,Choke Canyon State Park,43,5,55,42,50,7,0,0,36,0
-Texas,Cleburne State Park,50,28,63,45,44,0,12,16,18,4
-Texas,Colorado Bend State Park,8,20,20,20,20,8,0,0,0,0
-Texas,Cooper State Park Doctors Creek,38,50,100,59,56,0,0,0,35,3
-Texas,Cooper State Park South Sulphur,101,5,95,53,56,14,0,0,70,17
-Texas,Copper Breaks State Park,32,20,53,39,43,8,0,9,15,0
-Texas,Daingerfield State Park,46,15,73,32,34,15,9,13,8,1
-Texas,Davis Mountains State Park,84,16,60,32,30,21,23,31,5,4
-Texas,Devils River State Natural Area - Dan Allen Hughes Unit,3,16,16,16,16,3,0,0,0,0
-Texas,Devils River State Natural Area - Del Norte Unit,8,16,16,16,16,8,0,0,0,0
-Texas,Dinosaur Valley State Park,36,15,35,27,25,13,15,8,0,0
-Texas,Eisenhower State Park,130,15,140,59,47,7,23,25,32,43
-Texas,Enchanted Rock State Natural Area,33,5,5,5,5,33,0,0,0,0
-Texas,Falcon State Park,98,35,101,69,69,0,0,1,27,70
-Texas,Fort Parker State Park,28,26,100,49,50,0,7,6,8,7
-Texas,Fort Richardson State Park Hist. Site and Trailway,60,20,133,57,60,14,0,4,8,34
-Texas,Franklin Mountains State Park,5,30,50,42,40,0,1,2,2,0
-Texas,Galveston Island State Park,116,18,58,45,56,19,15,0,82,0
-Texas,Garner State Park,324,20,104,45,45,16,72,63,131,42
-Texas,Goliad State Park,57,24,65,35,24,29,0,0,27,1
-Texas,Goose Island State Park,96,15,65,44,55,24,1,1,61,9
-Texas,Government Canyon State Natural Area,24,10,10,10,10,24,0,0,0,0
-Texas,Guadalupe River State Park,89,5,95,35,24,45,1,0,42,1
-Texas,Hill Country State Natural Area,7,30,113,71,62,0,1,0,1,5
-Texas,Hueco Tanks State Park and Historic Site,14,25,80,48,50,0,2,2,8,2
-Texas,Huntsville State Park,167,10,89,52,52,5,23,34,46,59
-Texas,Inks Lake State Park,160,14,71,46,46,11,6,50,74,19
-Texas,Kickapoo Cavern State Park,15,45,65,55,55,0,0,0,9,6
-Texas,Lake Arrowhead State Park,64,43,125,57,53,0,0,5,47,12
-Texas,Lake Bob Sandlin State Park,68,23,53,43,45,1,13,16,38,0
-Texas,Lake Brownwood State Park,80,5,75,44,47,5,22,4,32,17
-Texas,Lake Casa Blanca International State Park,62,32,143,68,59,0,1,9,24,28
-Texas,Lake Colorado City State Park,110,41,123,59,55,0,0,2,85,23
-Texas,Lake Corpus Christi State Park,116,20,50,28,20,77,2,15,22,0
-Texas,Lake Livingston State Park,141,25,75,51,55,0,25,0,96,20
-Texas,Lake Mineral Wells State Park and Trailway,99,20,69,50,56,18,1,2,54,24
-Texas,Lake Somerville State Park Birch Creek,99,5,73,56,56,2,1,1,71,24
-Texas,Lake Somerville State Park Nails Creek,42,43,80,62,60,0,0,1,16,25
-Texas,Lake Tawakoni State Park,72,45,95,57,53,0,0,0,62,10
-Texas,Lake Whitney State Park,135,26,107,48,39,0,40,42,19,34
-Texas,Lockhart State Park,17,20,40,33,40,3,4,10,0,0
-Texas,Lost Maples State Natural Area,29,25,67,57,59,0,1,2,12,14
-Texas,Lyndon B. Johnson State Park and Historic Site,3,20,20,20,20,3,0,0,0,0
-Texas,Martin Creek Lake State Park,51,47,60,53,53,0,0,0,49,2
-Texas,Martin Dies Jr. State Park,158,25,110,58,55,0,2,3,109,44
-Texas,McKinney Falls State Park,74,47,115,64,55,0,0,0,51,23
-Texas,Meridian State Park,14,19,93,56,75,6,0,0,0,8
-Texas,Mission Tejas State Park,16,5,88,38,50,6,2,0,6,2
-Texas,Monahans Sandhills State Park,26,25,60,39,40,0,7,13,4,2
-Texas,Mother Neff State Park,21,50,124,72,60,0,0,0,10,11
-Texas,Mustang Island State Park,46,65,65,65,65,0,0,0,0,46
-Texas,Palmetto State Park,35,10,55,29,20,20,2,3,10,0
-Texas,Palo Duro Canyon State Park,120,20,50,36,40,24,32,26,38,0
-Texas,Palo Pinto Mountains SP,31,50,110,67,60,0,0,0,10,21
-Texas,Pedernales Falls State Park,64,20,64,47,47,1,0,4,58,1
-Texas,Possum Kingdom State Park,110,16,70,30,25,24,57,16,11,2
-Texas,Purtis Creek State Park,56,5,56,45,50,4,7,1,44,0
-Texas,Ray Roberts Lake State Park Isle Du Bois,107,25,95,53,50,0,4,18,58,27
-Texas,Ray Roberts Lake State Park Johnson Branch,85,33,73,50,49,0,1,13,62,9
-Texas,San Angelo State Park,91,5,223,75,74,16,0,1,15,59
-Texas,Sea Rim State Park,14,55,145,101,114,0,0,0,1,13
-Texas,Seminole Canyon State Park and Historic Site,28,17,67,46,50,1,5,6,10,6
-Texas,South Llano River State Park,59,5,58,43,48,7,0,5,47,0
-Texas,Stephen F. Austin State Park,52,14,100,58,75,19,0,0,0,33
-Texas,Tyler State Park,91,5,105,50,45,1,9,28,32,21
-Texas,Village Creek State Park,24,47,65,53,54,0,0,0,22,2
-Utah,Coral Pink Sand Dunes State Park,30,25,150,69,40,0,2,14,1,13
-Utah,Dead Horse Point State Park,44,28,87,51,55,0,4,8,26,6
-Utah,Deer Creek State Park,56,15,85,51,50,1,8,15,12,20
-Utah,East Canyon State Park,21,20,90,40,40,2,7,9,1,2
-Utah,Escalante Petrified Forest State Park,46,10,118,48,48,6,9,6,15,10
-Utah,Fred Hayes State Park at Starvation,90,25,250,49,35,0,34,19,15,22
-Utah,Fremont Indian State Park,42,15,50,37,40,4,9,9,20,0
-Utah,Goblin Valley State Park,24,10,50,29,35,10,2,11,1,0
-Utah,Great Salt Lake State Park,5,40,40,40,40,0,0,5,0,0
-Utah,Green River State Park,53,16,50,34,35,5,20,19,9,0
-Utah,Huntington State Park,26,30,45,42,45,0,1,10,15,0
-Utah,Hyrum State Park,1,100,100,100,100,0,0,0,0,1
-Utah,Jordanelle State Park,159,20,80,45,50,15,41,12,48,43
-Utah,Kodachrome Basin State Park,58,20,50,34,35,13,10,22,13,0
-Utah,Millsite State Park,20,34,48,38,36,0,2,14,4,0
-Utah,Otter Creek State Park,52,30,60,42,45,0,6,12,33,1
-Utah,Palisade State Park,37,30,150,50,40,0,1,19,11,6
-Utah,Quail Creek State Park,22,16,40,33,38,2,7,13,0,0
-Utah,Red Fleet State Park,26,45,70,59,60,0,0,0,8,18
-Utah,Rockport State Park,97,20,150,34,30,8,47,35,4,3
-Utah,Sand Hollow State Park,96,55,171,108,117,0,0,0,3,93
-Utah,Scofield State Park,76,15,50,31,35,14,17,44,1,0
-Utah,Snow Canyon State Park,37,18,41,31,34,11,9,17,0,0
-Utah,Steinaker State Park,28,25,45,37,45,0,12,1,15,0
-Utah,Utah Lake State Park,1,42,42,42,42,0,0,1,0,0
-Utah,Utahraptor State Park,88,55,85,77,85,0,0,0,3,85
-Utah,Wasatch Mountain - Little Deer Creek,13,10,35,24,25,6,5,2,0,0
-Utah,Wasatch Mountain State Park,127,20,70,40,35,23,31,30,16,27
-Utah,Willard Bay State Park,58,17,85,54,55,2,0,19,9,28
-Utah,Yuba Lake State Park,210,15,200,73,80,4,10,9,14,173
-Virginia,Bear Creek Lake State Park,44,15,35,24,20,33,0,11,0,0
-Virginia,Belle Isle State Park,28,36,148,78,72,0,0,2,6,20
-Virginia,Breaks Interstate Park,123,20,62,39,38,8,32,49,30,4
-Virginia,Chippokes State Park,50,16,50,34,30,14,18,0,18,0
-Virginia,Claytor Lake State Park,106,20,40,30,30,36,30,40,0,0
-Virginia,Douthat State Park,86,30,100,53,45,0,13,25,26,22
-Virginia,Fairy Stone State Park,57,18,48,28,25,21,16,16,4,0
-Virginia,First Landing State Park,105,20,50,33,30,45,24,0,36,0
-Virginia,Grayson Highlands State Park,90,20,55,32,35,27,7,47,9,0
-Virginia,Holliday Lake State Park,36,18,50,27,22,22,7,6,1,0
-Virginia,Hungry Mother State Park,67,22,85,38,35,3,30,21,8,5
-Virginia,James River State Park,46,40,100,51,40,0,0,27,6,13
-Virginia,Kiptopeke State Park,93,20,91,49,50,8,0,9,65,11
-Virginia,Lake Anna State Park,46,35,183,65,61,0,0,11,5,30
-Virginia,Machicomoco State Park,14,60,60,60,60,0,0,0,0,14
-Virginia,Natural Tunnel State Park,34,38,45,42,45,0,0,16,18,0
-Virginia,Occoneechee State Park,57,30,100,45,30,0,33,13,0,11
-Virginia,Powhatan State Park,29,52,143,69,67,0,0,0,3,26
-Virginia,Shenandoah River State Park,31,25,60,54,60,0,2,6,0,23
-Virginia,Sky Meadows State Park,2,1,1,1,1,2,0,0,0,0
-Virginia,Smith Mountain Lake State Park,24,35,70,48,45,0,0,8,11,5
-Virginia,Staunton River State Park,57,20,55,31,20,29,11,0,17,0
-Virginia,Twin Lakes State Park,27,20,36,27,25,4,19,4,0,0
-Virginia,Westmoreland State Park,98,20,65,39,40,11,19,29,35,4
-Washington,Alta Lake State Park,124,20,55,33,32,12,62,27,23,0
-Washington,Battle Ground Lake State Park,35,30,100,59,55,0,1,7,11,16
-Washington,Bay View State Park,6,8,12,9,8,6,0,0,0,0
-Washington,Beacon Rock State Park,5,40,62,53,55,0,0,1,3,1
-Washington,Beebe Bridge Park,46,40,112,73,73,0,0,1,6,39
-Washington,Belfair State Park,132,20,60,37,40,46,14,12,40,20
-Washington,Birch Bay State Park,167,25,97,46,43,0,25,66,56,20
-Washington,Bogachiel State Park,30,18,56,32,30,6,17,3,4,0
-Washington,Bridgeport State Park,30,34,48,40,40,0,1,23,6,0
-Washington,Brooks Memorial State Park,38,9,58,39,50,10,1,3,24,0
-Washington,Camano Island State Park,80,15,135,65,60,3,7,14,12,44
-Washington,Camano Island State Park (Cabins),5,30,30,30,30,0,5,0,0,0
-Washington,Columbia Hills State Park,16,20,39,30,33,5,8,3,0,0
-Washington,Conconully State Park,54,24,100,55,56,1,4,4,29,16
-Washington,Curlew Lake State Park,13,15,40,38,40,1,0,12,0,0
-Washington,Daroga State Park,28,35,95,53,50,0,0,2,19,7
-Washington,Dash Point State Park,124,10,90,33,27,42,42,16,11,13
-Washington,Deception Pass State Park,311,10,99,44,41,19,57,111,81,43
-Washington,Dosewallips State Park,104,20,60,37,40,20,23,19,36,6
-Washington,Fields Spring State Park,20,27,47,36,35,0,3,16,1,0
-Washington,Fort Casey State Park,35,55,55,55,55,0,0,0,35,0
-Washington,Fort Ebey State Park,50,15,50,42,45,6,0,4,40,0
-Washington,Fort Townsend State Park,38,15,35,29,32,12,14,12,0,0
-Washington,Fort Worden State Park,80,30,70,54,50,0,1,3,56,20
-Washington,Grayland Beach State Park,116,40,115,52,40,0,0,60,11,45
-Washington,Ike Kinswa State Park,101,40,88,60,60,0,0,2,38,61
-Washington,Jarrell Cove State Park,8,18,70,45,40,1,2,2,0,3
-Washington,Joemma Beach,19,24,100,57,49,1,1,1,11,5
-Washington,Kanaskat-Palmer State Park,50,8,18,12,12,50,0,0,0,0
-Washington,Kitsap Memorial State Park,8,40,40,40,40,0,0,8,0,0
-Washington,Lake Chelan State Park,149,8,45,19,10,118,2,12,17,0
-Washington,Lake Easton State Park,135,16,80,32,30,51,28,26,22,8
-Washington,Lake Sylvia State Park,35,20,57,36,35,1,8,21,5,0
-Washington,Lake Wenatchee State Park,197,17,57,42,42,8,39,75,75,0
-Washington,Larrabee State Park,51,23,58,39,38,4,14,17,16,0
-Washington,Lewis and Clark Trail State Park (SE Washington),25,30,60,44,40,0,1,13,9,2
-Washington,Lincoln Rock State Park,100,30,70,57,58,0,2,10,42,46
-Washington,Manchester State Park,50,34,90,56,50,0,1,5,27,17
-Washington,Moran State Park,125,16,100,40,39,15,31,35,34,10
-Washington,Mount Spokane State Park,8,14,65,35,30,2,3,0,2,1
-Washington,Ocean City State Park,137,15,88,39,35,22,46,29,25,15
-Washington,Pacific Beach State Park,53,40,55,46,45,0,0,16,37,0
-Washington,Paradise Point State Park,67,30,69,47,48,0,2,14,47,4
-Washington,Pearrygin Lake State Park,129,25,70,49,50,0,19,1,79,30
-Washington,Penrose Point State Park,81,24,100,51,45,2,10,25,25,19
-Washington,Potholes State Park,115,30,50,43,45,0,4,38,73,0
-Washington,Potlatch State Park,75,16,78,33,32,14,37,15,8,1
-Washington,Rainbow Falls State Park,50,20,67,40,41,3,14,18,13,2
-Washington,Rasar State Park,48,39,90,57,54,0,0,3,25,20
-Washington,Riverside State Park - Lake Spokane,10,25,60,44,40,0,2,4,1,3
-Washington,Schafer State Park,47,15,147,50,41,1,7,17,17,5
-Washington,Seaquest State Park,4,30,45,34,30,0,3,0,1,0
-Washington,Sequim Bay State Park,60,21,52,30,27,4,38,16,2,0
-Washington,Steamboat Rock State Park,192,30,70,53,50,0,26,6,100,60
-Washington,Twanoh State Park,39,24,75,39,36,2,16,9,10,2
-Washington,Twenty-Five Mile Creek State Park,36,12,35,23,24,23,12,1,0,0
-Washington,Twin Harbors State Park,157,10,60,26,20,89,48,9,4,7
-Washington,Wanapum State Park,50,37,80,55,55,0,0,3,36,11
-Washington,Yakima Sportsman State Park,75,30,60,46,50,0,26,0,28,21
-Wisconsin,Amnicon Falls State Park,31,30,90,63,65,0,1,2,9,19
-Wisconsin,Big Bay State Park,54,35,200,61,60,0,0,3,22,29
-Wisconsin,Big Foot Beach State Park,64,23,56,36,36,2,23,28,11,0
-Wisconsin,Black River State Forest,97,25,90,47,42,0,17,34,24,22
-Wisconsin,Blue Mound State Park,78,40,100,62,60,0,0,4,27,47
-Wisconsin,Brule River State Forest,31,30,90,48,45,0,6,6,10,9
-Wisconsin,Brunet Island State Park,66,40,100,55,55,0,0,4,44,18
-Wisconsin,Buckhorn State Park,70,9,193,71,72,9,0,0,7,54
-Wisconsin,Copper Falls State Park,52,32,86,54,56,0,1,7,31,13
-Wisconsin,Council Grounds State Park,55,20,80,52,50,1,2,9,28,15
-Wisconsin,Devil's Lake State Park,411,25,60,43,45,0,48,153,177,33
-Wisconsin,Flambeau River State Forest,14,50,90,60,60,0,0,0,7,7
-Wisconsin,Governor Dodge State Park,180,15,120,35,35,24,57,59,39,1
-Wisconsin,Governor Earl Peshtigo River State Forest,16,45,92,66,66,0,0,0,6,10
-Wisconsin,Governor Knowles State Forest,81,35,80,63,65,0,0,2,25,54
-Wisconsin,Governor Thompson State Park,100,47,156,77,76,0,0,0,3,97
-Wisconsin,Harrington Beach State Park,63,25,165,75,70,0,1,0,1,61
-Wisconsin,Hartman Creek State Park,109,41,100,63,62,0,0,4,39,66
-Wisconsin,High Cliff State Park,106,21,47,36,36,1,31,67,7,0
-Wisconsin,Interstate State Park,56,20,60,39,40,3,17,13,21,2
-Wisconsin,Kettle Moraine State Forest - Northern Unit,354,13,121,48,46,6,40,117,135,56
-Wisconsin,Kettle Moraine State Forest - Pike Lake Unit,32,20,70,44,45,3,3,8,14,4
-Wisconsin,Kettle Moraine State Forest - Southern Unit,317,30,144,49,30,0,165,6,34,112
-Wisconsin,Kohler-Andrae State Park,140,15,74,35,30,21,56,33,21,9
-Wisconsin,Lake Kegonsa State Park,96,25,120,57,56,0,3,14,44,35
-Wisconsin,Lake Wissota State Park,117,40,96,57,57,0,0,4,68,45
-Wisconsin,Merrick State Park,55,20,65,48,45,1,2,12,26,14
-Wisconsin,Mill Bluff State Park,21,20,20,20,20,21,0,0,0,0
-Wisconsin,Mirror Lake State Park,145,30,131,57,60,0,5,15,50,75
-Wisconsin,Nelson Dewey State Park,32,35,100,58,55,0,0,2,17,13
-Wisconsin,New Glarus Woods State Park,18,25,90,42,40,0,4,7,6,1
-Wisconsin,Northern Highland - American Legion State Forest,780,15,120,55,55,9,46,116,261,348
-Wisconsin,Pattison State Park,59,41,124,87,95,0,0,1,8,50
-Wisconsin,Peninsula State Park,468,20,80,47,50,1,8,102,346,11
-Wisconsin,Perrot State Park,80,35,75,59,60,0,0,5,26,49
-Wisconsin,Point Beach State Forest,128,20,140,51,50,15,2,25,40,46
-Wisconsin,Potawatomi State Park,124,18,80,39,40,1,30,69,20,4
-Wisconsin,Richard Bong State Recreation Area,217,30,88,48,47,0,2,50,160,5
-Wisconsin,Roche-A-Cri State Park,39,14,40,29,30,13,11,15,0,0
-Wisconsin,Rocky Arbor State Park,84,20,100,55,55,1,11,13,20,39
-Wisconsin,Wildcat Mountain State Park,48,20,40,33,35,4,19,25,0,0
-Wisconsin,Willow River State Park,150,40,110,62,60,0,0,1,41,108
-Wisconsin,Wyalusing State Park,106,6,108,40,38,17,29,26,23,11
-Wisconsin,Yellowstone Lake State Park,93,20,75,35,32,8,40,29,15,1
+State,Park,RV Sites,Shortest,Longest,Average,Median,Under 25 ft,25-34,35-44,45-59,60+,With Electric,Full Hookup,Pull-Through
+Alaska,Chugach State Park,1,20,20,20,20,1,0,0,0,0,0,0,1
+Alaska,Eagle Beach State Recreation Area,1,24,24,24,24,1,0,0,0,0,0,0,0
+Alaska,Finger Lake State Recreation Site,20,19,54,36,35,4,5,5,6,0,0,0,0
+Alaska,Fort Abercrombie State Historic Park,1,20,20,20,20,1,0,0,0,0,0,0,0
+Alaska,Harding Lake State Recreation Area,1,35,35,35,35,0,0,1,0,0,0,0,1
+Alaska,Johnson Lake State Recreation Area,19,35,35,35,35,0,0,19,0,0,0,0,0
+Alaska,K'esugi Ken Campground,28,40,110,68,63,0,0,1,8,19,27,0,6
+Alaska,Nancy Lake State Recreation Area,1,40,40,40,40,0,0,1,0,0,0,0,1
+Arizona,Alamo Lake,192,15,90,58,58,4,13,20,63,92,109,19,0
+Arizona,Buckskin Mountain,84,30,86,55,55,0,3,22,29,30,68,17,0
+Arizona,Catalina,152,25,155,66,69,0,19,0,14,119,122,0,0
+Arizona,Cattail Cove,138,28,70,43,38,0,4,92,28,14,138,80,0
+Arizona,Dead Horse Ranch,149,24,150,57,60,1,6,22,44,76,110,0,0
+Arizona,Fool Hollow Lake,121,24,129,56,54,2,4,22,51,42,70,55,0
+Arizona,Homolovi,53,50,150,67,50,0,0,0,44,9,43,3,0
+Arizona,Kartchner Caverns,62,24,78,53,54,1,5,11,26,19,62,4,0
+Arizona,Lake Havasu,54,48,125,59,55,0,0,0,37,17,54,2,0
+Arizona,Lost Dutchman,163,30,172,70,66,0,10,35,21,97,70,2,0
+Arizona,Lyman Lake,56,40,100,62,60,0,0,1,22,33,38,13,0
+Arizona,Patagonia Lake,107,22,55,38,40,6,25,61,15,0,105,0,0
+Arizona,Picacho Peak,85,53,109,72,62,0,0,0,26,59,85,5,0
+Arizona,River Island,37,24,57,47,54,8,0,0,29,0,37,3,0
+Arizona,Roper Lake,64,15,70,48,48,4,1,9,40,10,45,5,0
+Arkansas,Camping at Bull Shoals,87,20,75,55,56,1,2,2,56,26,87,61,2
+Arkansas,Camping at Cane Creek,29,40,107,74,70,0,0,1,4,24,29,0,0
+Arkansas,Camping at Crowleys Ridge,16,30,60,42,40,0,2,9,4,1,16,0,0
+Arkansas,Camping at Daisy,82,24,70,41,38,1,16,43,17,5,81,0,5
+Arkansas,Camping at Devils Den,45,60,60,60,60,0,0,0,0,45,45,45,0
+Arkansas,Camping at Jacksonport,20,40,45,45,45,0,0,1,19,0,20,0,0
+Arkansas,Camping at Lake Catherine,68,20,50,47,50,1,4,6,57,0,68,43,0
+Arkansas,Camping at Lake Charles,55,20,100,49,45,1,3,14,25,12,53,24,2
+Arkansas,Camping at Lake Chicot,42,45,50,49,50,0,0,0,42,0,42,42,14
+Arkansas,Camping at Lake Dardanelle,74,26,93,52,48,0,5,14,38,17,74,29,4
+Arkansas,Camping at Lake Fort Smith,30,20,60,42,45,1,8,4,15,2,30,20,3
+Arkansas,Camping at Lake Frierson,5,35,47,41,41,0,0,4,1,0,5,0,0
+Arkansas,Camping at Lake Ouachita,19,16,50,20,16,17,0,0,2,0,2,2,0
+Arkansas,Camping at Lake Poinsett,26,35,65,42,40,0,0,16,9,1,26,0,0
+Arkansas,Camping at Millwood,14,53,69,63,64,0,0,0,3,11,14,14,1
+Arkansas,Camping at Mississippi River,39,22,70,45,50,14,0,1,10,14,25,25,5
+Arkansas,Camping at Mount Magazine,18,47,75,60,58,0,0,0,10,8,18,18,0
+Arkansas,Camping at Mount Nebo,24,20,24,23,24,24,0,0,0,0,24,0,0
+Arkansas,Camping at Petit Jean,118,25,101,53,49,0,21,26,22,49,118,55,28
+Arkansas,Camping at Village Creek,65,29,113,55,51,0,3,14,24,24,65,24,6
+Arkansas,Camping at White Oak Lake,41,30,65,45,45,0,2,13,22,4,41,0,5
+Arkansas,Camping at Withrow Springs,29,40,65,50,50,0,0,6,19,4,29,29,2
+Arkansas,Camping at Woolly Hollow,30,18,60,50,50,1,1,2,20,6,30,30,2
+California,Anza-Borrego Desert SP,123,18,35,28,25,41,29,53,0,0,47,47,0
+California,Benbow SRA,49,30,30,30,30,0,49,0,0,0,3,3,0
+California,Big Basin Redwoods SP,1,24,24,24,24,1,0,0,0,0,0,0,0
+California,Bolsa Chica SB,56,30,40,35,35,0,28,28,0,0,56,0,0
+California,Bothe-Napa Valley SP,31,24,31,24,24,30,1,0,0,0,0,0,0
+California,Brannan Island SRA,104,32,36,36,36,0,4,100,0,0,13,1,0
+California,Butano SP,17,12,24,16,12,17,0,0,0,0,0,0,0
+California,Calaveras Big Trees SP,54,30,30,30,30,0,54,0,0,0,3,3,0
+California,Carnegie SVRA,26,75,75,75,75,0,0,0,0,26,0,0,0
+California,Carpinteria SB,224,16,40,27,24,124,37,63,0,0,98,73,0
+California,Castle Crags SP,8,21,32,29,31,1,7,0,0,0,0,0,0
+California,Caswell Memorial SP,60,18,24,24,24,60,0,0,0,0,0,0,0
+California,China Camp SP,2,35,35,35,35,0,0,2,0,0,0,0,0
+California,Chino Hills SP,17,28,28,28,28,0,17,0,0,0,0,0,0
+California,Clear Lake SP,131,30,35,30,30,0,129,2,0,0,1,0,0
+California,Colonel Allensworth SHP,99,35,70,41,40,0,0,97,0,2,4,4,0
+California,Colusa-Sacramento River SRA,23,30,30,30,30,0,23,0,0,0,7,1,0
+California,Crystal Cove SP Moro Campground,25,25,25,25,25,0,25,0,0,0,25,1,0
+California,Cuyamaca Rancho SP,137,18,45,26,27,61,70,5,1,0,1,0,0
+California,D.L. Bliss SP,72,15,18,18,18,72,0,0,0,0,0,0,0
+California,Del Norte Coast Redwood SP Mill Creek Campground,98,21,24,24,24,98,0,0,0,0,0,0,0
+California,Doheny SB,112,16,75,24,20,89,6,11,4,2,0,0,0
+California,Donner Memorial SP,136,28,28,28,28,0,136,0,0,0,2,0,0
+California,El Capitan SB,128,30,42,42,42,0,1,127,0,0,4,4,0
+California,Emerald Bay SP,56,18,18,18,18,56,0,0,0,0,2,1,0
+California,Emma Wood SB,100,20,65,41,40,3,18,32,42,5,4,3,0
+California,Folsom Lake SRA,113,23,69,36,35,3,53,46,10,1,20,18,0
+California,Folsom Lake SRA Glamping,6,31,31,31,31,0,6,0,0,0,0,0,0
+California,Fremont Peak SP,8,15,25,23,25,2,6,0,0,0,0,0,0
+California,Gaviota SP,42,24,24,24,24,42,0,0,0,0,3,3,0
+California,George J. Hatfield SRA,1,30,30,30,30,0,1,0,0,0,0,0,0
+California,Grizzly Creek Redwoods SP,5,24,24,24,24,5,0,0,0,0,1,1,0
+California,Grover Hot Springs SP,32,24,24,24,24,32,0,0,0,0,2,0,0
+California,Half Moon Bay SB,44,25,40,40,40,0,1,43,0,0,36,1,0
+California,Hearst San Simeon SP,167,31,35,35,35,0,2,165,0,0,2,2,0
+California,Hendy Woods SP,80,35,35,35,35,0,0,80,0,0,0,0,0
+California,Henry Cowell Redwoods SP,71,33,35,35,35,0,2,69,0,0,0,0,0
+California,Henry W Coe SP,8,15,22,21,22,8,0,0,0,0,0,0,0
+California,Hollister Hills SVRA,501,20,50,50,50,1,2,0,498,0,0,0,0
+California,Humboldt Redwoods SP,90,16,24,24,24,90,0,0,0,0,7,7,0
+California,Hungry Valley SVRA,165,40,40,40,40,0,0,165,0,0,0,0,0
+California,Indian Grinding Rock SHP,22,27,27,27,27,0,22,0,0,0,1,1,0
+California,Jedediah Smith Redwoods SP,69,11,24,20,21,69,0,0,0,0,1,1,0
+California,Lake Oroville SRA,240,24,40,39,40,1,10,229,0,0,83,69,0
+California,Lake Oroville SRA Loafer Creek Glamping,4,40,40,40,40,0,0,4,0,0,0,0,0
+California,Lake Perris SRA,272,31,31,31,31,0,272,0,0,0,272,12,0
+California,Leo Carrillo SP,128,31,31,31,31,0,128,0,0,0,49,1,0
+California,Limekiln SP,11,24,24,24,24,11,0,0,0,0,2,2,0
+California,Mackerricher SP,72,20,35,34,35,6,0,66,0,0,0,0,0
+California,Malakoff Diggins SHP,1,19,19,19,19,1,0,0,0,0,1,1,0
+California,Malibu Creek SP,59,18,30,27,30,26,33,0,0,0,0,0,0
+California,Mcarthur-Burney Falls Memorial SP,119,32,32,32,32,0,119,0,0,0,8,0,0
+California,Mcconnell SRA,15,18,18,18,18,15,0,0,0,0,1,1,0
+California,Millerton Lake SRA,120,36,36,36,36,0,0,120,0,0,26,23,0
+California,Montana De Oro SP,45,27,27,27,27,0,45,0,0,0,1,0,0
+California,Morro Bay SP,135,20,40,33,35,8,34,93,0,0,34,2,0
+California,Morro Strand SB,82,24,40,30,24,53,1,28,0,0,25,0,0
+California,Mount Diablo SP,60,20,20,20,20,60,0,0,0,0,0,0,0
+California,Mt. San Jacinto SP,20,18,24,23,24,20,0,0,0,0,10,3,0
+California,New Brighton SB,106,20,38,35,36,3,5,98,0,0,12,2,0
+California,Palomar Mountain SP,29,15,31,22,20,26,3,0,0,0,0,0,0
+California,Pfeiffer Big Sur SP,148,32,32,32,32,0,148,0,0,0,5,5,0
+California,Picacho SRA,3,20,35,30,35,1,0,2,0,0,0,0,0
+California,Pismo SB,167,21,36,35,36,19,0,148,0,0,37,0,0
+California,Plumas-Eureka SP,40,14,24,22,24,40,0,0,0,0,0,0,0
+California,Point Mugu SP,115,25,31,31,31,0,115,0,0,0,0,0,0
+California,Portola Redwoods SP,13,10,24,21,24,13,0,0,0,0,2,2,0
+California,Prairie Creek Redwoods SP Elk Prairie Campground,65,22,27,27,27,1,64,0,0,0,1,1,0
+California,Prairie Creek Redwoods SP Gold Bluffs Beach Camp,1,24,24,24,24,1,0,0,0,0,1,1,0
+California,Providence Mountains SRA,2,25,31,28,28,0,2,0,0,0,0,0,0
+California,Red Rock Canyon SP,6,25,30,28,27,0,6,0,0,0,0,0,0
+California,Refugio SB,69,30,30,30,30,0,69,0,0,0,4,4,0
+California,Richardson Grove SP,107,18,30,25,30,47,60,0,0,0,4,4,0
+California,Russian Gulch SP,29,24,24,24,24,29,0,0,0,0,1,1,0
+California,Saddleback Butte SP,1,21,21,21,21,1,0,0,0,0,0,0,0
+California,Salt Point SP,106,31,36,31,31,0,103,3,0,0,1,1,0
+California,Salton Sea SRA,213,30,35,35,35,0,2,211,0,0,28,23,0
+California,Samuel P. Taylor SP,28,31,31,31,31,0,28,0,0,0,0,0,0
+California,San Clemente SB,134,30,30,30,30,0,134,0,0,0,69,69,0
+California,San Clemente SB (The Holidays Vintage Trailers),1,18,18,18,18,1,0,0,0,0,0,0,0
+California,San Luis Reservoir SRA,247,21,30,30,30,1,246,0,0,0,45,1,0
+California,San Onofre SB,212,25,36,25,25,0,208,4,0,0,65,0,0
+California,Seacliff SB,83,30,45,40,40,0,3,54,26,0,23,23,0
+California,Silver Strand SB,121,30,40,38,40,0,6,115,0,0,121,0,0
+California,Silverwood Lake SRA,133,31,32,31,31,0,133,0,0,0,38,38,0
+California,Sonoma Coast State Park,129,31,31,31,31,0,129,0,0,0,4,4,0
+California,Standish-Hickey SRA,155,14,27,24,27,50,105,0,0,0,1,0,0
+California,Sue-meg SP,90,18,31,25,25,36,54,0,0,0,3,3,0
+California,Sugar Pine Point SP,135,26,41,32,32,0,129,6,0,0,2,2,0
+California,Sugarloaf Ridge SP,44,24,30,29,30,5,39,0,0,0,0,0,0
+California,Sunset SB,89,15,31,29,31,10,79,0,0,0,2,2,0
+California,Tahoe SRA,16,21,21,21,21,16,0,0,0,0,0,0,0
+California,Turlock Lake SRA,16,21,24,24,24,16,0,0,0,0,0,0,0
+California,Van Damme SP,74,20,35,33,35,6,7,61,0,0,2,2,0
+California,Westport-Union Landing SB,19,24,35,27,24,13,0,6,0,0,0,0,0
+California,Woodson Bridge SRA,37,31,31,31,31,0,37,0,0,0,0,0,0
+Colorado,Boyd Lake State Park,194,40,60,52,60,0,0,73,9,112,194,42,0
+Colorado,Chatfield State Park,384,25,45,36,35,0,98,216,70,0,384,286,0
+Colorado,Cheyenne Mountain State Park,57,15,70,38,36,1,16,22,15,3,56,56,0
+Colorado,Crawford State Park,57,35,120,65,65,0,0,7,17,33,57,14,0
+Colorado,Eleven Mile State Park,305,25,120,58,55,0,9,35,129,132,50,0,0
+Colorado,Golden Gate Canyon State Park,56,15,50,41,45,3,12,11,30,0,54,0,2
+Colorado,Jackson Lake State Park,219,20,90,38,40,15,38,141,12,13,219,0,0
+Colorado,James M Robb-Colorado River State Park-Fruita Section,42,40,50,49,50,0,0,1,41,0,42,20,0
+Colorado,James M Robb-Colorado River State Park-Island Acres Section,67,25,70,42,40,0,14,29,19,5,67,35,0
+Colorado,John Martin Reservoir State Park,210,43,190,87,64,0,0,1,29,180,106,1,0
+Colorado,Lake Pueblo State Park,387,25,115,45,40,0,28,202,111,46,277,0,0
+Colorado,Lathrop State Park,96,20,75,44,46,1,19,25,41,10,76,0,0
+Colorado,Mancos State Park,25,14,40,27,24,16,3,6,0,0,0,0,0
+Colorado,Mueller State Park,94,20,60,35,35,3,36,41,13,1,94,0,0
+Colorado,Paonia State Park,20,10,70,31,25,8,7,1,0,4,7,0,0
+Colorado,Pearl Lake State Park,34,16,30,24,24,21,13,0,0,0,0,0,0
+Colorado,Ridgway State Park,238,38,90,66,65,0,0,6,72,160,238,76,0
+Colorado,Rifle Falls State Park,11,29,49,35,29,0,7,1,3,0,11,0,0
+Colorado,Rifle Gap State Park,66,20,115,73,78,1,5,0,13,47,48,30,0
+Colorado,St Vrain State Park,78,40,45,43,45,0,0,36,42,0,78,42,0
+Colorado,Stagecoach State Park,87,20,40,36,40,2,27,58,0,0,60,0,1
+Colorado,Steamboat Lake State Park,161,20,45,35,35,4,52,75,30,0,73,0,0
+Colorado,Sylvan Lake State Park,42,20,120,50,40,1,10,12,5,14,0,0,1
+Colorado,Trinidad Lake State Park,73,25,130,46,40,0,20,28,17,8,62,7,0
+Colorado,Vega State Park,92,20,60,36,35,9,17,55,9,2,31,0,0
+Colorado,Yampa River State Park,34,50,50,50,50,0,0,0,34,0,34,0,0
+Connecticut,American Legion SF (Hawes),28,35,35,35,35,0,0,28,0,0,0,0,14
+Connecticut,Black Rock State Park,37,20,35,31,35,2,15,20,0,0,9,0,5
+Connecticut,Devil's Hopyard,21,25,35,29,25,0,13,8,0,0,0,0,0
+Connecticut,Green Falls Campground,17,26,26,26,26,0,17,0,0,0,0,0,0
+Connecticut,Hammonasset Beach State Park,488,35,35,35,35,0,0,488,0,0,139,0,0
+Connecticut,Hopeville Pond State Park,74,20,35,34,35,5,0,69,0,0,10,0,4
+Connecticut,Housatonic Meadows State Park,55,20,35,29,25,5,26,24,0,0,0,0,5
+Connecticut,Kettletown State Park,30,14,28,23,22,18,12,0,0,0,1,0,0
+Connecticut,Lake Waramaug State Park,46,20,35,32,35,1,16,29,0,0,0,0,0
+Connecticut,Macedonia Brook State Park,21,25,35,30,30,0,14,7,0,0,0,0,10
+Connecticut,Mashamoquet Brook State Park,51,35,35,35,35,0,0,51,0,0,1,0,0
+Connecticut,Mount Misery Campground,22,26,26,26,26,0,22,0,0,0,0,0,0
+Connecticut,Rocky Neck State Park,129,28,35,33,35,0,52,77,0,0,0,0,0
+Connecticut,Salt Rock Campground,43,16,35,24,20,28,0,15,0,0,22,14,6
+Delaware,Cape Henlopen State Park,120,15,128,36,35,32,14,61,2,11,120,3,11
+Delaware,Delaware Seashore State Park,310,20,54,37,42,86,1,106,117,0,228,222,139
+Delaware,Killens Pond State Park,56,20,40,34,35,3,24,29,0,0,56,0,0
+Delaware,Lums Pond State Park,63,35,50,41,40,0,0,57,6,0,63,63,0
+Delaware,Trap Pond State Park,124,20,57,35,35,2,45,61,16,0,124,0,0
+Florida,Alafia River State Park,18,55,55,55,55,0,0,0,18,0,0,0,0
+Florida,Anastasia State Park,93,20,38,30,30,15,52,26,0,0,0,0,0
+Florida,Bahia Honda State Park,72,20,48,32,30,29,12,22,9,0,0,0,0
+Florida,Big Lagoon State Park,67,20,40,30,30,8,37,22,0,0,0,0,0
+Florida,Blackwater River State Park,30,15,50,35,35,2,10,13,5,0,0,0,0
+Florida,Blue Spring State Park,50,20,45,33,35,4,14,29,3,0,0,0,0
+Florida,Catfish Creek Preserve State Park,2,25,25,25,25,0,2,0,0,0,0,0,0
+Florida,Collier-Seminole State Park,78,20,50,33,30,2,48,20,8,0,0,0,0
+Florida,Colt Creek State Park,48,33,93,55,68,0,20,0,0,28,0,0,0
+Florida,Curry Hammock State Park,28,35,70,57,60,0,0,1,12,15,0,0,0
+Florida,Dr. Julian G. Bruce St. George Island State Park,73,20,43,35,36,9,22,42,0,0,0,0,0
+Florida,Falling Waters State Park,21,20,40,35,35,1,7,13,0,0,0,0,0
+Florida,Florida Caverns State Park,32,25,32,32,32,0,32,0,0,0,0,0,0
+Florida,Fort Clinch State Park,61,18,48,38,40,4,11,31,15,0,0,0,0
+Florida,Fred Gannon Rocky Bayou State Park,42,20,45,33,30,6,17,18,1,0,0,0,0
+Florida,Gamble Rogers Memorial State Recreation Area at Flagler Beach,64,20,90,49,41,6,6,21,8,23,0,0,0
+Florida,Grayton Beach State Park,60,20,40,34,36,3,22,35,0,0,0,0,0
+Florida,Henderson Beach State Park,58,30,60,44,42,0,3,26,22,7,0,0,0
+Florida,Highlands Hammock State Park,125,20,45,30,30,28,56,24,17,0,0,0,0
+Florida,Hillsborough River State Park,104,25,108,45,40,0,9,51,31,13,0,0,0
+Florida,John Pennekamp Coral Reef State Park,47,32,62,47,46,0,2,15,27,3,0,0,0
+Florida,Jonathan Dickinson State Park,142,18,88,45,49,29,16,13,55,29,0,0,0
+Florida,Kissimmee Prairie Preserve State Park,24,17,65,34,35,5,6,7,5,1,0,0,0
+Florida,Koreshan State Park,4,40,40,40,40,0,0,4,0,0,0,0,0
+Florida,Lafayette Blue Springs State Park,1,40,40,40,40,0,0,1,0,0,0,0,0
+Florida,Lake Griffin State Park,40,20,40,31,30,6,18,16,0,0,0,0,0
+Florida,Lake Kissimmee State Park,60,25,45,39,40,0,13,21,26,0,0,0,0
+Florida,Lake Louisa State Park,71,30,115,50,45,0,11,7,40,13,0,0,0
+Florida,Lake Manatee State Park,60,45,65,54,53,0,0,0,50,10,0,0,0
+Florida,Little Manatee River State Park,30,35,75,51,51,0,0,8,18,4,0,0,0
+Florida,Little Talbot Island State Park,9,15,30,24,30,4,5,0,0,0,0,0,0
+Florida,Lower Wekiva River State Park,30,50,50,50,50,0,0,0,30,0,0,0,0
+Florida,Manatee Springs State Park,48,15,40,29,30,11,20,17,0,0,0,0,0
+Florida,Mike Roess Gold Head Branch State Park,47,16,55,37,36,5,4,27,11,0,0,0,0
+Florida,Myakka River State Park,86,15,45,34,35,5,32,39,10,0,0,0,0
+Florida,O'Leno State Park,56,15,50,33,30,5,24,22,5,0,0,0,0
+Florida,Ochlockonee River State Park,28,20,40,31,30,4,13,11,0,0,0,0,0
+Florida,Oscar Scherer State Park,104,15,36,30,36,18,31,55,0,0,0,0,0
+Florida,Paynes Prairie Preserve State Park,35,45,70,55,55,0,0,0,24,11,0,0,0
+Florida,Rainbow Springs State Park,53,40,103,61,60,0,0,4,15,34,0,0,0
+Florida,Rock Springs Run State Reserve,15,50,50,50,50,0,0,0,15,0,0,0,0
+Florida,Rodman Campground,42,22,40,39,40,1,2,39,0,0,0,0,0
+Florida,Ross Prairie Trailhead and Campground,14,20,86,52,61,5,0,0,1,8,0,0,0
+Florida,Ruth B. Kirby Gilchrist Blue Springs State Park,6,30,40,38,40,0,1,5,0,0,0,0,0
+Florida,Santos Trailhead and Campground,24,33,62,47,47,0,1,10,12,1,0,0,0
+Florida,Sebastian Inlet State Park,60,30,50,38,40,0,16,39,5,0,0,0,0
+Florida,Silver Springs State Park,59,38,50,49,50,0,0,4,55,0,0,0,0
+Florida,St. Andrews State Park,149,21,50,36,35,1,31,76,41,0,0,0,0
+Florida,St. Sebastian River Preserve State Park,1,20,20,20,20,1,0,0,0,0,0,0,0
+Florida,Stephen Foster Folk Culture Center State Park,45,30,125,61,56,0,3,7,17,18,0,0,0
+Florida,Suwannee River State Park,30,12,55,37,37,2,9,9,10,0,0,0,0
+Florida,T.H. Stone Memorial St. Joseph Peninsula State Park,3,50,50,50,50,0,0,0,3,0,0,0,0
+Florida,Three Rivers State Park,30,24,50,44,50,3,1,5,21,0,0,0,0
+Florida,Tomoka State Park,100,20,34,25,25,44,56,0,0,0,0,0,0
+Florida,Topsail Hill Preserve State Park,155,20,45,41,40,5,17,61,72,0,0,0,0
+Florida,Torreya State Park,29,30,60,44,40,0,2,18,4,5,0,0,0
+Florida,Wekiwa Springs State Park,29,40,70,50,50,0,0,7,17,5,0,0,0
+Georgia,A. H. Stephens State Historic Park,25,50,50,50,50,0,0,0,25,0,25,25,10
+Georgia,Black Rock Mountain State Park,44,20,50,29,30,20,12,8,4,0,44,2,1
+Georgia,Chattahoochee Bend State Park,37,15,40,33,40,11,0,26,0,0,37,3,9
+Georgia,Cloudland Canyon State Park,20,25,50,48,50,0,1,0,19,0,20,10,11
+Georgia,Crooked River State Park,63,20,130,59,55,2,2,5,26,28,63,30,20
+Georgia,Dames Ferry,28,20,50,40,40,1,4,14,9,0,28,0,8
+Georgia,Don Carter State Park,46,36,100,65,61,0,0,7,10,29,46,3,28
+Georgia,Elijah Clark State Park,81,30,50,41,40,0,14,41,26,0,81,0,37
+Georgia,F. D. Roosevelt State Park,55,14,70,38,36,12,12,11,14,6,55,3,11
+Georgia,Florence Marina State Park,41,55,180,100,80,0,0,0,1,40,41,41,18
+Georgia,Fort McAllister State Historic Site,67,10,50,41,50,12,0,7,48,0,67,20,51
+Georgia,Fort Mountain State Park,61,11,50,44,50,8,4,0,49,0,61,4,32
+Georgia,Fort Yargo State Park,46,25,50,42,40,0,11,14,21,0,46,9,8
+Georgia,General Coffee State Park,50,20,50,40,40,4,11,15,20,0,50,5,45
+Georgia,George L Smith State Park,52,24,80,64,80,1,0,19,0,32,52,34,34
+Georgia,George T Bagby State Park,31,30,50,35,30,0,17,11,3,0,31,31,30
+Georgia,Hamburg State Park,32,20,40,37,40,1,7,24,0,0,32,2,7
+Georgia,Hard Labor Creek State Park,31,15,45,37,45,5,7,0,19,0,31,9,6
+Georgia,High Falls State Park,87,25,50,47,50,0,10,0,77,0,87,5,19
+Georgia,Indian Springs State Park,70,15,100,52,50,3,4,7,38,18,70,27,15
+Georgia,Jack Hill State Park,23,40,60,43,40,0,0,19,2,2,23,11,2
+Georgia,James H. (Sloppy) Floyd State Park,24,30,50,47,50,0,1,4,19,0,24,0,10
+Georgia,Kolomoki Mounds State Historic Park,25,41,135,60,57,0,0,2,13,10,25,1,6
+Georgia,Laura S Walker State Park,44,25,40,39,40,0,3,41,0,0,44,4,6
+Georgia,Magnolia Springs State Park,26,25,40,39,40,0,1,25,0,0,26,2,6
+Georgia,Mistletoe State Park,76,20,50,41,40,6,8,33,29,0,76,5,26
+Georgia,Moccasin Creek State Park,53,15,50,36,40,2,15,33,3,0,53,7,9
+Georgia,Okefenokee State Park,55,15,50,35,35,19,8,3,25,0,55,23,20
+Georgia,Red Top Mountain State Park,53,10,50,26,30,26,8,18,1,0,53,17,15
+Georgia,Reed Bingham State Park,46,50,50,50,50,0,0,0,46,0,46,42,22
+Georgia,Richard B Russell State Park,27,35,35,35,35,0,0,27,0,0,27,0,6
+Georgia,Seminole State Park,51,30,100,47,40,0,5,23,14,9,51,4,35
+Georgia,Skidaway Island State Park,86,35,70,50,50,0,0,22,43,21,86,51,47
+Georgia,Tallulah Gorge State Park,52,25,50,30,25,0,41,0,11,0,52,2,6
+Georgia,Tugaloo State Park,63,25,50,35,35,0,30,22,11,0,63,0,35
+Georgia,Victoria Bryant State Park,27,30,50,43,40,0,3,14,10,0,27,0,8
+Georgia,Vogel State Park,44,25,40,35,40,0,14,30,0,0,44,30,8
+Georgia,Watson Mill Bridge State Park,21,30,50,44,45,0,1,6,14,0,21,1,18
+Illinois,Adeline Jay Geo-Karis Illinois Beach State Park,220,20,67,53,53,1,0,3,191,25,219,0,0
+Illinois,Apple River Canyon State Park,52,20,40,25,25,3,48,1,0,0,0,0,0
+Illinois,Argyle Lake State Park,110,10,42,39,40,4,0,106,0,0,109,0,0
+Illinois,Beaver Dam State Park,61,20,40,37,40,9,0,52,0,0,59,0,0
+Illinois,Chain O' Lakes State Park,254,20,40,36,40,7,70,177,0,0,145,0,0
+Illinois,Clinton Lake State Recreation Area,296,20,75,53,54,2,14,27,183,70,286,16,0
+Illinois,Dixon Springs State Park,13,40,53,48,50,0,0,1,12,0,12,0,0
+Illinois,Eagle Creek State Recreation Area,149,30,80,52,52,0,4,23,92,30,142,1,0
+Illinois,Eldon Hazlet State Recreation Area,363,20,55,38,40,34,1,325,3,0,328,0,0
+Illinois,Ferne Clyffe State Park,40,20,70,51,54,4,0,2,29,5,36,0,0
+Illinois,Fort Kaskaskia State Historic Site,36,18,40,37,40,4,3,29,0,0,36,0,0
+Illinois,Fort Massac State Park,52,20,72,59,60,2,0,0,22,28,50,0,0
+Illinois,Fox Ridge State Park,2,20,40,30,30,1,0,1,0,0,1,0,0
+Illinois,Giant City State Park,84,40,40,40,40,0,0,84,0,0,84,0,0
+Illinois,Hamilton County State Fish & Wildlife Area,69,40,45,40,40,0,0,66,3,0,51,0,0
+Illinois,Hidden Springs State Forest,1,20,20,20,20,1,0,0,0,0,0,0,0
+Illinois,Horseshoe Lake-Madison State Park,1,20,20,20,20,1,0,0,0,0,0,0,0
+Illinois,Illini State Park,105,20,40,28,20,57,7,41,0,0,48,0,0
+Illinois,Jim Edgar Panther Creek State Fish & Wildlife Area,136,20,65,41,40,2,0,123,0,11,134,18,0
+Illinois,Johnson Sauk Trail State Recreation Area,71,30,40,31,30,0,66,5,0,0,70,0,0
+Illinois,Jubilee College State Park,107,40,40,40,40,0,0,107,0,0,107,0,0
+Illinois,Kankakee River State Park,222,20,45,40,40,12,0,157,53,0,165,0,0
+Illinois,Kickapoo State Recreation Area,130,20,50,32,40,52,1,75,2,0,47,0,0
+Illinois,Lake Le-Aqua-Na State Recreation Area,130,20,40,36,40,24,0,106,0,0,96,0,0
+Illinois,Lake Murphysboro State Park,74,40,40,40,40,0,0,74,0,0,54,0,0
+Illinois,Lincoln Trail State Park,84,20,40,36,40,3,22,59,0,0,74,0,0
+Illinois,Lincoln's New Salem State Historic Site,173,40,40,40,40,0,0,173,0,0,90,0,0
+Illinois,Lowden State Park,117,40,40,40,40,0,0,117,0,0,79,0,0
+Illinois,Marshall State Fish & Wildlife Area,19,42,42,42,42,0,0,19,0,0,19,0,0
+Illinois,Mississippi Palisades State Park,243,10,40,26,12,124,3,116,0,0,112,0,0
+Illinois,Moraine View State Recreation Area,136,20,46,44,46,3,0,31,102,0,133,0,0
+Illinois,Morrison Rockwood State Park,119,20,40,39,40,3,0,116,0,0,90,0,0
+Illinois,Nauvoo State Park,31,20,80,45,43,2,1,15,11,2,30,0,0
+Illinois,Pere Marquette State Park,83,20,62,41,40,5,3,61,2,12,78,0,0
+Illinois,Prophetstown State Park,44,40,40,40,40,0,0,44,0,0,44,0,0
+Illinois,Ramsey Lake State Recreation Area,89,32,70,43,40,0,2,58,23,6,89,0,0
+Illinois,Randolph County State Recreation Area,52,20,42,42,42,1,0,51,0,0,51,0,0
+Illinois,Red Hills State Park,104,20,40,40,40,1,0,103,0,0,103,10,0
+Illinois,Rock Cut State Park,274,20,40,32,30,8,133,133,0,0,208,0,0
+Illinois,Sam Dale Lake State Fish & Wildlife Area,69,20,64,44,42,1,12,30,22,4,68,0,0
+Illinois,Sam Parr State Fish & Wildlife Area,30,42,42,42,42,0,0,30,0,0,30,0,0
+Illinois,Sand Ridge State Forest,45,20,40,38,40,2,5,38,0,0,0,0,0
+Illinois,Sangchris Lake State Park,174,20,40,40,40,1,0,173,0,0,133,0,0
+Illinois,Shabbona Lake State Park,150,20,40,36,35,1,0,149,0,0,149,0,0
+Illinois,Siloam Springs State Park,85,20,40,36,40,2,18,65,0,0,77,0,0
+Illinois,Spitler Woods State Natural Area,1,20,20,20,20,1,0,0,0,0,0,0,0
+Illinois,Starved Rock State Park,140,15,50,34,35,9,43,70,18,0,133,0,0
+Illinois,Stephen A Forbes State Recreation Area,114,8,40,26,30,42,58,14,0,0,108,0,0
+Illinois,Trail of Tears State Forest,14,20,20,20,20,14,0,0,0,0,0,0,0
+Illinois,Walnut Point State Park,61,20,40,33,40,21,0,40,0,0,34,0,0
+Illinois,Washington County State Recreation Area,50,40,40,40,40,0,0,50,0,0,50,0,0
+Illinois,Wayne Fitzgerrell State Recreation Area,249,40,40,40,40,0,0,249,0,0,249,0,0
+Illinois,Weinberg-King State Park,30,20,70,54,56,1,0,1,21,7,29,0,0
+Illinois,Weldon Springs State Park,79,32,80,45,43,0,6,40,25,8,75,0,0
+Illinois,White Pines Forest State Park,125,20,40,37,40,21,0,104,0,0,2,0,0
+Illinois,Wolf Creek State Park,303,20,73,52,54,8,1,32,214,48,296,0,0
+Illinois,World Shooting & Recreation Complex,1002,40,50,50,50,0,0,1,1001,0,1002,755,0
+Indiana,Brookville Lake,437,28,78,50,53,0,44,85,265,43,437,60,0
+Indiana,Brown County State Park,404,16,80,38,38,27,63,193,116,5,373,0,17
+Indiana,Chain O Lakes State Park,405,25,68,44,43,0,69,142,162,32,323,0,0
+Indiana,Charlestown State Park,186,45,45,45,45,0,0,0,186,0,186,57,0
+Indiana,Clifty Falls State Park,160,35,90,48,45,0,0,51,92,17,99,0,39
+Indiana,Deam Lake State Recreation Area,109,29,73,45,45,0,4,44,58,3,109,0,5
+Indiana,Hardy Lake,151,20,60,46,45,2,2,28,118,1,143,0,0
+Indiana,Harmonie State Park,192,27,199,61,65,0,3,10,44,135,192,0,6
+Indiana,Indiana Dunes State Park,134,30,55,53,55,0,1,5,128,0,134,0,0
+Indiana,Lieber State Recreation Area,206,19,127,46,45,6,17,74,91,18,113,0,9
+Indiana,Lincoln State Park,237,18,50,28,30,93,84,58,2,0,148,0,1
+Indiana,McCormicks Creek State Park,214,15,45,27,25,65,98,43,8,0,180,0,8
+Indiana,Mississinewa Lake,287,25,72,56,60,0,3,3,116,165,287,40,15
+Indiana,Monroe Lake,293,28,92,41,40,0,88,125,59,21,221,0,30
+Indiana,Mounds State Park,71,39,81,54,53,0,0,8,46,17,71,0,7
+Indiana,OBannon Woods State Park,203,20,74,42,43,3,12,110,75,3,203,0,7
+Indiana,Ouabache State Park,122,28,51,44,45,0,2,30,90,0,122,0,0
+Indiana,Patoka Lake,525,25,68,47,46,0,13,121,378,13,443,0,8
+Indiana,Pokagon State Park,261,15,70,34,34,18,130,81,25,7,189,0,11
+Indiana,Potato Creek State Park,258,40,63,60,60,0,0,3,0,255,258,0,3
+Indiana,Prophetstown State Park,105,50,99,59,55,0,0,0,91,14,105,52,12
+Indiana,Raccoon Lake,314,24,91,48,46,1,18,88,170,37,240,0,6
+Indiana,Salamonie Lake,287,18,85,44,45,18,18,96,131,24,233,0,27
+Indiana,Shades State Park,100,35,55,44,43,0,0,70,30,0,0,0,0
+Indiana,Shakamak State Park,182,33,119,53,51,0,2,52,68,60,140,12,18
+Indiana,Spring Mill State Park,219,30,109,48,45,0,3,91,92,33,219,44,20
+Indiana,Starve Hollow State Recreation Area,139,25,40,31,30,0,72,67,0,0,139,52,5
+Indiana,Summit Lake State Park,114,15,100,40,40,6,27,42,34,5,114,0,7
+Indiana,Tippecanoe River State Park,108,27,90,38,36,0,36,65,4,3,108,0,4
+Indiana,Turkey Run State Park,209,25,68,43,40,0,9,101,96,3,209,0,12
+Indiana,Versailles State Park,219,33,100,56,57,0,2,21,118,78,219,0,10
+Indiana,Whitewater Memorial State Park,255,23,100,51,50,1,6,49,168,31,214,0,12
+Iowa,Ambrose A. Call State Park,16,20,31,25,26,6,10,0,0,0,13,0,4
+Iowa,Backbone State Park,49,45,120,66,60,0,0,0,11,38,49,1,17
+Iowa,Beeds Lake State Park,93,40,65,54,54,0,0,4,64,25,93,2,12
+Iowa,Bellevue State Park,36,30,66,42,40,0,6,20,8,2,31,1,4
+Iowa,Black Hawk State Park,127,36,90,57,56,0,0,21,49,57,87,1,12
+Iowa,Brushy Creek State Recreation Area,42,70,144,80,70,0,0,0,0,42,42,8,9
+Iowa,Clear Lake State Park,153,22,109,57,60,9,27,6,32,79,148,16,102
+Iowa,Dolliver Memorial State Park,20,30,70,45,39,0,6,6,3,5,20,1,1
+Iowa,Elinor Bedell State Park,8,70,70,70,70,0,0,0,0,8,8,8,8
+Iowa,Elk Rock State Park,21,50,80,55,50,0,0,0,15,6,21,0,0
+Iowa,Emerson Bay State Recreation,82,20,115,55,50,2,7,17,32,24,82,24,15
+Iowa,Fairport State Recreation Area,43,26,50,38,38,0,10,31,2,0,43,1,0
+Iowa,Fort Defiance State Park,16,20,66,39,40,1,3,10,1,1,8,0,0
+Iowa,Geode State Park,66,40,85,59,57,0,0,2,33,31,66,14,34
+Iowa,George Wyth State Park,64,16,65,47,50,4,0,14,44,2,47,0,0
+Iowa,Green Valley State Park,70,45,105,69,70,0,0,0,19,51,70,17,16
+Iowa,Gull Point State Park,112,15,45,26,25,44,51,13,4,0,60,0,0
+Iowa,Honey Creek State Park,111,25,90,41,35,0,21,73,1,16,86,17,20
+Iowa,Lacey-Keosauqua State Park,51,45,134,68,65,0,0,0,18,33,51,13,17
+Iowa,Lake Ahquabi State Park,93,50,155,76,70,0,0,0,10,83,93,52,78
+Iowa,Lake Anita State Park,149,15,60,42,45,4,22,38,84,1,92,40,0
+Iowa,Lake Darling State Park,80,35,110,54,50,0,0,6,55,19,66,15,13
+Iowa,Lake Keomah State Park,46,15,40,26,25,17,25,4,0,0,39,0,1
+Iowa,Lake Macbride State Park,95,20,85,38,30,7,45,7,25,11,43,11,0
+Iowa,Lake Manawa State Park,41,58,80,65,58,0,0,0,28,13,41,41,13
+Iowa,Lake of Three Fires State Park,54,15,126,37,33,26,1,5,11,11,27,0,7
+Iowa,Lake Wapello State Park,49,45,120,59,55,0,0,0,34,15,49,15,3
+Iowa,Ledges State Park,82,30,138,57,54,0,3,7,49,23,69,16,13
+Iowa,Lewis and Clark State Park,76,60,90,68,65,0,0,0,0,76,76,13,13
+Iowa,Maquoketa Caves State Park,23,31,68,47,45,0,1,9,11,2,23,0,0
+Iowa,Marble Beach State Recreation Area,122,15,100,47,50,31,10,11,27,43,94,68,51
+Iowa,McIntosh Woods State Park,49,20,82,47,44,1,3,21,12,12,45,0,3
+Iowa,Nine Eagles State Park,48,30,85,47,56,0,21,0,21,6,28,0,24
+Iowa,Palisades-Kepler State Park,37,20,91,51,51,3,3,6,18,7,25,0,4
+Iowa,Pikes Peak State Park,61,30,55,41,40,0,16,22,23,0,59,5,19
+Iowa,Pilot Knob State Park,62,15,70,33,30,14,23,16,5,4,49,1,31
+Iowa,Pine Lake State Park,76,20,105,50,44,9,4,26,16,21,67,3,20
+Iowa,Pleasant Creek State Recreation Area,72,30,100,62,50,0,13,1,26,32,66,3,33
+Iowa,Prairie Rose State Park,82,20,80,49,48,2,2,13,59,6,77,8,0
+Iowa,Red Haw State Park,43,20,70,54,60,1,5,3,5,29,42,1,23
+Iowa,Rock Creek State Park,103,25,50,39,40,0,19,49,35,0,101,0,24
+Iowa,Springbrook State Park,76,28,103,49,48,0,5,25,38,8,76,0,4
+Iowa,Stephens Forest Campground,22,25,55,40,40,0,7,5,10,0,0,0,0
+Iowa,Stone State Park,16,20,60,35,34,1,7,7,0,1,10,0,0
+Iowa,Union Grove State Park,9,32,40,34,32,0,5,4,0,0,9,8,1
+Iowa,Viking Lake State Park,90,35,126,64,62,0,0,3,24,63,88,22,10
+Iowa,Volga River State Recreation Area,51,30,90,66,65,0,10,0,0,41,41,35,15
+Iowa,Walnut Woods State Park,21,31,71,50,46,0,2,8,4,7,21,8,0
+Iowa,Wapsipinicon State Park,19,40,60,48,45,0,0,5,11,3,13,1,18
+Iowa,Waubonsie State Park,33,27,75,45,38,0,1,18,10,4,25,0,8
+Iowa,Wildcat Den State Park,20,32,32,32,32,0,20,0,0,0,0,0,0
+Iowa,Wilson Island State Recreation Area,44,30,70,60,63,0,3,0,6,35,31,0,0
+Iowa,Yellow River State Forest,98,25,90,47,47,0,11,27,44,16,0,0,2
+Kentucky,Barren River Lake State Resort Park,99,25,119,69,77,0,12,15,6,66,99,9,66
+Kentucky,Big Bone Lick State Historic Site,62,36,47,40,40,0,0,59,3,0,62,0,0
+Kentucky,Blue Licks Battlefield State Resort Park,49,32,54,44,45,0,1,23,25,0,49,0,0
+Kentucky,Carr Creek State Park,39,30,60,52,52,0,2,1,29,7,39,0,0
+Kentucky,Carter Caves State Resort Park,87,29,64,45,45,0,11,29,42,5,87,39,4
+Kentucky,Columbus Belmont State Park,31,53,53,53,53,0,0,0,31,0,31,10,0
+Kentucky,Cumberland Falls State Resort Park,21,18,28,22,22,17,4,0,0,0,21,0,1
+Kentucky,Dale Hollow Lake State Resort Park,121,41,41,41,41,0,0,121,0,0,121,38,0
+Kentucky,Fort Boonesborough State Park,163,18,81,39,39,4,24,126,3,6,163,0,13
+Kentucky,General Burnside State Park,92,30,98,48,50,0,3,17,67,5,92,18,1
+Kentucky,General Butler State Resort Park,104,25,62,41,41,0,23,52,23,6,104,9,5
+Kentucky,Grayson Lake State Park,69,32,112,51,48,0,2,14,47,6,69,0,2
+Kentucky,Green River Lake State Park,166,30,51,38,38,0,48,86,32,0,94,0,0
+Kentucky,Greenbo Lake State Resort Park,74,27,100,43,40,0,18,30,19,7,74,39,15
+Kentucky,Jenny Wiley State Resort Park,118,19,95,43,40,4,28,51,22,13,118,61,9
+Kentucky,John James Audubon State Park,68,24,63,41,42,2,14,25,25,2,65,0,4
+Kentucky,Kenlake State Resort Park,63,12,70,34,35,8,22,21,10,2,63,28,8
+Kentucky,Kentucky Dam Village State Resort Park,59,33,113,45,44,0,10,20,27,2,59,0,0
+Kentucky,Kentucky Horse Park,257,38,50,50,50,0,0,4,253,0,257,0,3
+Kentucky,Kincaid Lake State Park,84,32,67,47,45,0,4,35,38,7,84,0,0
+Kentucky,Lake Barkley State Resort Park,79,28,71,46,46,0,8,27,38,6,73,0,0
+Kentucky,Lake Cumberland State Resort Park,11,30,40,32,30,0,7,4,0,0,11,11,0
+Kentucky,Lake Malone State Park,24,29,70,51,52,0,2,6,12,4,24,0,2
+Kentucky,My Old Kentucky Home State Park,39,30,80,50,50,0,1,10,18,10,39,39,9
+Kentucky,Natural Bridge State Resort Park,52,18,58,39,40,3,9,32,8,0,52,0,11
+Kentucky,Nolin Lake State Park,32,40,120,69,65,0,0,1,6,25,32,0,0
+Kentucky,Paintsville Lake State Park,32,33,48,36,33,0,18,10,4,0,32,31,5
+Kentucky,Pennyrile Forest State Resort Park,35,35,90,53,52,0,0,6,24,5,35,25,1
+Kentucky,Taylorsville Lake State Park,44,49,67,57,56,0,0,0,33,11,44,10,3
+Kentucky,Yatesville Lake State Park,27,22,35,29,28,2,20,5,0,0,27,0,0
+Louisiana,Bayou Segnette State Park,76,50,50,50,50,0,0,0,76,0,0,0,0
+Louisiana,Bogue Chitto State Park,77,38,94,67,67,0,0,1,24,52,0,0,0
+Louisiana,Chemin-A-Haut State Park,23,43,67,55,55,0,0,1,17,5,0,0,0
+Louisiana,Chicot State Park,104,34,65,51,51,0,2,20,75,7,0,0,0
+Louisiana,Cypremort Point State Park,25,12,80,72,80,3,0,0,0,22,0,0,0
+Louisiana,Fairview-Riverside State Park,72,28,58,45,45,0,3,30,39,0,0,0,0
+Louisiana,Fontainebleau State Park,132,23,155,63,56,1,12,6,58,55,0,0,0
+Louisiana,Grand Isle State Park,46,80,80,80,80,0,0,0,0,46,0,0,0
+Louisiana,Jimmie Davis State Park,64,42,73,61,63,0,0,1,22,41,0,0,0
+Louisiana,Lake Bistineau State Park,46,28,62,48,50,0,6,0,39,1,0,0,0
+Louisiana,Lake Bruin State Park,41,33,84,54,53,0,1,0,33,7,0,0,0
+Louisiana,Lake Claiborne State Park,78,40,120,59,55,0,0,1,62,15,0,0,0
+Louisiana,Lake D\'Arbonne State Park,56,41,63,53,52,0,0,4,44,8,0,0,0
+Louisiana,Lake Fausse Pointe State Park,44,50,90,66,65,0,0,0,7,37,0,0,0
+Louisiana,North Toledo Bend State Park,59,46,63,56,56,0,0,0,53,6,0,0,0
+Louisiana,Palmetto Island State Park,87,20,76,64,66,1,1,0,10,75,0,0,0
+Louisiana,Poverty Point Reservoir State Park,43,50,165,70,65,0,0,0,5,38,0,0,0
+Louisiana,South Toledo Bend State Park,50,46,130,60,55,0,0,0,34,16,0,0,0
+Louisiana,St. Bernard State Park,46,25,53,47,50,0,3,4,39,0,0,0,0
+Louisiana,Tickfaw State Park,36,20,75,57,75,1,12,0,0,23,0,0,0
+Maryland,Assateague State Park,311,15,75,45,45,5,33,37,206,30,43,0,3
+Maryland,Big Run State Park,24,20,50,24,20,16,6,1,1,0,0,0,0
+Maryland,Cedarville State Forest,38,15,30,25,25,9,29,0,0,0,10,0,5
+Maryland,Cunningham Falls State Park,165,20,30,30,30,1,164,0,0,0,41,0,1
+Maryland,Deep Creek Lake State Park,76,15,40,22,20,41,30,5,0,0,17,0,0
+Maryland,Elk Neck State Park,170,20,40,28,25,12,138,20,0,0,51,28,6
+Maryland,Fort Frederick State Park,27,30,50,43,50,0,7,4,16,0,0,0,0
+Maryland,Gambrill State Park,16,20,30,22,20,12,4,0,0,0,4,0,1
+Maryland,Greenbrier State Park,150,22,60,33,35,38,36,65,10,1,39,0,8
+Maryland,Janes Island State Park,99,20,50,34,30,25,26,28,20,0,45,0,8
+Maryland,Martinak State Park,56,40,76,56,57,0,0,8,20,28,29,0,0
+Maryland,New Germany State Park,37,20,59,28,20,25,4,0,8,0,1,0,1
+Maryland,Patapsco Valley State Park,44,20,40,28,29,14,18,12,0,0,28,0,0
+Maryland,Pocomoke River State Park,190,20,40,28,30,74,87,29,0,0,81,0,0
+Maryland,Point Lookout State Park,68,20,40,32,30,6,42,20,0,0,24,20,0
+Maryland,Rocky Gap State Park,159,20,40,29,30,50,74,35,0,0,33,0,27
+Maryland,Savage Highlands State Park,2,22,22,22,22,2,0,0,0,0,0,0,0
+Maryland,Savage River State Forest,17,20,40,30,30,8,1,8,0,0,0,0,0
+Maryland,Smallwood State Park,16,30,30,30,30,0,16,0,0,0,16,0,0
+Maryland,Susquehanna State Park,46,20,30,27,30,15,31,0,0,0,8,0,0
+Maryland,Swallow Falls State Park,25,20,35,25,25,12,12,1,0,0,6,3,0
+Maryland,Tuckahoe State Park,51,20,64,44,45,1,11,6,27,6,34,0,0
+Maryland,Wolf Den Run State Park,6,30,30,30,30,0,6,0,0,0,0,0,0
+Massachusetts,Beartown State Forest,3,20,25,22,20,2,1,0,0,0,3,0,0
+Massachusetts,Clarksburg State Park,15,20,35,25,20,9,2,4,0,0,15,0,0
+Massachusetts,DAR State Forest,33,15,30,24,24,22,11,0,0,0,32,0,0
+Massachusetts,Erving State Forest,22,12,14,14,14,22,0,0,0,0,22,0,0
+Massachusetts,Granville State Forest,7,15,25,21,25,3,4,0,0,0,7,0,0
+Massachusetts,Horseneck Beach State Reservation,94,22,42,38,42,3,18,73,0,0,94,0,0
+Massachusetts,Lake Dennison Recreation Area,138,15,40,30,28,14,84,40,0,0,138,0,57
+Massachusetts,Loraine Campground at Harold Parker State Forest,30,20,40,33,32,2,15,13,0,0,29,0,0
+Massachusetts,Massasoit State Park,73,20,40,30,30,9,34,30,0,0,73,0,0
+Massachusetts,Mohawk Trail State Forest,42,15,30,24,25,10,32,0,0,0,42,0,0
+Massachusetts,Myles Standish State Forest,224,20,30,28,30,30,194,0,0,0,219,0,0
+Massachusetts,Nickerson State Park,184,25,35,35,35,0,2,182,0,0,184,0,0
+Massachusetts,October Mountain State Forest,9,15,50,32,34,2,6,0,1,0,9,0,6
+Massachusetts,Otter River State Forest,11,15,20,19,20,11,0,0,0,0,10,0,0
+Massachusetts,Pearl Hill State Park,35,15,35,19,20,31,1,3,0,0,35,0,2
+Massachusetts,Pittsfield State Forest,3,20,30,25,26,1,2,0,0,0,1,0,1
+Massachusetts,Salisbury Beach State Reservation,405,25,40,35,35,0,85,320,0,0,405,0,0
+Massachusetts,Savoy Mountain State Forest,7,15,40,31,35,1,2,4,0,0,6,0,0
+Massachusetts,Scusset Beach State Reservation,95,30,40,40,40,0,1,94,0,0,94,0,0
+Massachusetts,Shawme Crowell State Forest,64,20,30,23,20,46,18,0,0,0,62,0,0
+Massachusetts,Tolland State Forest,46,14,35,24,22,28,11,7,0,0,46,0,0
+Massachusetts,Wellfleet Hollow State Campground,11,10,25,16,15,9,2,0,0,0,11,0,0
+Massachusetts,Wells State Park,39,15,30,25,25,9,30,0,0,0,39,0,22
+Massachusetts,Willard Brook State Forest,3,20,35,25,20,2,0,1,0,0,3,0,0
+Massachusetts,Wompatuck State Park,253,35,40,35,35,0,0,253,0,0,253,0,0
+Michigan,Algonac State Park,293,29,60,43,43,0,2,189,101,1,293,127,9
+Michigan,Aloha State Park,286,26,120,49,50,0,15,55,178,38,268,96,0
+Michigan,Baraga State Park,95,34,100,55,50,0,2,29,32,32,95,13,20
+Michigan,Bay City State Park,192,16,120,51,50,1,21,35,63,72,190,0,0
+Michigan,Bewabic State Park,130,20,83,45,45,9,11,34,62,14,123,0,19
+Michigan,Brighton Recreation Area,195,25,100,51,50,0,9,31,121,34,145,0,3
+Michigan,Brimley State Park,237,15,95,40,41,9,38,106,79,5,236,0,28
+Michigan,Burt Lake State Park,305,20,85,47,45,1,21,114,119,50,304,0,5
+Michigan,Cheboygan State Park,79,20,60,37,35,1,32,32,4,10,73,1,2
+Michigan,Clear Lake State Park,177,25,60,42,40,0,21,71,84,1,176,0,0
+Michigan,Fayette Historic State Park,61,20,100,44,40,5,17,20,8,11,61,0,12
+Michigan,Fisherman's Island State Park,79,23,150,53,50,1,3,14,42,19,0,0,7
+Michigan,Fort Custer Recreation Area,216,30,100,67,66,0,2,5,58,151,216,0,0
+Michigan,Fort Wilkins Historic State Park,144,30,107,49,42,0,22,58,29,35,144,0,21
+Michigan,Harrisville State Park,188,20,100,45,42,3,18,75,70,22,188,0,12
+Michigan,Hartwick Pines State Park,98,40,95,72,70,0,0,1,0,97,98,35,34
+Michigan,Hayes State Park,176,31,80,44,42,0,4,116,42,14,176,0,0
+Michigan,Highland Recreation Area,24,51,83,70,70,0,0,0,1,23,0,0,0
+Michigan,Hoeft State Park,131,20,80,40,35,2,41,48,27,13,126,1,6
+Michigan,Holland State Park,211,16,77,43,43,5,18,110,75,3,211,0,0
+Michigan,Holly Recreation Area,158,23,120,50,50,1,1,10,142,4,139,0,0
+Michigan,Indian Lake State Park,209,15,90,44,42,7,36,67,74,25,209,0,9
+Michigan,Interlochen State Park,439,23,90,43,40,4,21,320,61,33,386,0,19
+Michigan,Ionia Recreation Area,113,18,70,50,50,7,7,9,58,32,97,0,0
+Michigan,Lake Gogebic State Park,114,25,90,50,45,0,13,38,29,34,104,0,13
+Michigan,Lakeport State Park,224,35,90,59,50,0,0,32,126,66,214,0,17
+Michigan,Leelanau State Park,50,15,50,35,35,9,13,17,11,0,0,0,1
+Michigan,Lime Island State Park,10,16,16,16,16,10,0,0,0,0,0,0,0
+Michigan,Ludington State Park,10,50,50,50,50,0,0,0,10,0,0,0,0
+Michigan,Maybury State Park,1,160,160,160,160,0,0,0,0,1,0,0,0
+Michigan,McLain State Park,78,30,100,51,50,0,2,21,34,21,71,0,0
+Michigan,Mears State Park,174,25,60,43,40,0,6,96,67,5,174,0,3
+Michigan,Metamora-Hadley Recreation Area,214,20,60,36,35,7,84,84,38,1,214,0,4
+Michigan,Mitchell State Park,220,45,100,55,50,0,0,0,169,51,220,0,25
+Michigan,Muskallonge Lake State Park,159,20,90,43,40,3,43,43,53,17,159,0,9
+Michigan,Muskegon State Park,249,10,125,54,50,4,28,52,69,96,241,0,12
+Michigan,Newaygo State Park,99,30,62,48,49,0,3,18,72,6,0,0,0
+Michigan,North Higgins Lake State Park,175,21,95,43,42,2,55,46,56,16,175,2,0
+Michigan,Onaway State Park,81,20,65,44,45,1,13,23,31,13,81,0,0
+Michigan,Orchard Beach State Park,156,35,95,48,46,0,0,49,101,6,155,11,5
+Michigan,Otsego Lake State Park,160,30,80,49,50,0,4,37,91,28,160,44,5
+Michigan,Petoskey State Park,177,20,70,40,40,5,18,90,62,2,176,0,0
+Michigan,Pinckney Recreation Area,195,15,109,47,50,6,17,24,133,15,152,0,0
+Michigan,Pontiac Lake Recreation Area,175,35,200,37,35,0,0,173,0,2,173,0,0
+Michigan,Port Crescent State Park,143,20,62,40,40,4,37,61,40,1,143,12,0
+Michigan,Proud Lake Recreation Area,129,23,74,45,43,2,14,56,44,13,129,0,1
+Michigan,Rifle River Recreation Area,175,30,90,54,60,0,4,4,73,94,76,0,0
+Michigan,Seven Lakes State Park,70,40,50,50,50,0,0,2,68,0,70,0,0
+Michigan,SFC Arbutus Lake,24,13,64,36,35,3,8,6,5,2,0,0,0
+Michigan,SFC Black Lake,50,25,70,51,50,0,2,7,28,13,0,0,0
+Michigan,SFC Bray Creek,9,30,60,44,40,0,1,4,2,2,0,0,0
+Michigan,SFC Forks,9,15,55,33,30,1,4,3,1,0,0,0,0
+Michigan,SFC Garey Lake,12,45,105,67,63,0,0,0,2,10,0,0,6
+Michigan,SFC Houghton Lake,50,35,81,55,56,0,0,10,22,18,0,0,0
+Michigan,SFC Lake Ann,30,30,78,58,58,0,1,1,13,15,0,0,0
+Michigan,SFC Lake Dubonnet,50,51,120,76,75,0,0,0,2,48,0,0,8
+Michigan,SFC Lake Margrethe,37,18,100,56,55,1,3,4,14,15,0,0,0
+Michigan,SFC Little Brevort Lake,20,40,70,54,55,0,0,2,12,6,0,0,0
+Michigan,SFC Platte River,26,54,90,71,73,0,0,0,2,24,0,0,0
+Michigan,SFC Reedsburg Dam,48,30,107,66,62,0,1,8,10,29,0,0,0
+Michigan,SFC Scheck's Place,30,25,80,48,40,0,4,13,2,11,0,0,0
+Michigan,SFC Veterans Memorial,24,45,78,60,60,0,0,0,5,19,0,0,0
+Michigan,Silver Lake State Park,200,30,100,50,50,0,3,9,184,4,200,0,3
+Michigan,Sleeper State Park,225,20,105,48,45,2,28,63,93,39,225,0,7
+Michigan,South Higgins Lake State Park,404,35,120,54,50,0,0,14,291,99,404,44,18
+Michigan,Straits State Park,273,15,100,34,30,42,120,61,24,26,254,1,20
+Michigan,Tahquamenon Falls State Park,277,25,200,52,49,0,18,89,106,64,241,0,20
+Michigan,Tawas Point State Park,189,20,100,52,50,1,8,15,151,14,189,0,14
+Michigan,Tippy Dam Recreation Area,38,30,60,40,40,0,6,20,11,1,0,0,0
+Michigan,Traverse City State Park,345,15,75,37,35,7,92,173,66,7,345,0,4
+Michigan,Van Buren State Park,220,24,60,42,42,1,16,99,103,1,220,0,0
+Michigan,Van Riper State Park,183,15,95,40,39,11,43,67,48,14,143,0,5
+Michigan,Warren Dunes State Park,181,20,64,37,32,10,83,47,29,12,181,1,5
+Michigan,Waterloo Recreation Area,330,25,120,49,48,0,19,92,167,52,296,0,13
+Michigan,Wells State Park,153,30,100,55,54,0,1,16,87,49,150,0,0
+Michigan,Wilderness State Park,261,20,96,50,50,2,6,40,177,36,249,19,0
+Michigan,Yankee Springs Recreation Area,277,30,75,43,40,0,27,119,106,25,199,0,6
+Michigan,Young State Park,239,18,80,49,50,4,7,30,180,18,239,0,4
+Minnesota,Banning State Park,34,25,90,47,45,0,1,15,14,4,12,0,0
+Minnesota,Bear Head Lake State Park,76,32,77,52,53,0,4,11,43,18,47,0,0
+Minnesota,Beaver Creek Valley State Park,26,30,55,43,45,0,1,10,15,0,16,0,0
+Minnesota,Big Bog State Recreation Area,31,23,75,49,51,2,3,1,19,6,26,0,0
+Minnesota,Big Stone Lake State Park,38,34,48,39,39,0,2,33,3,0,10,0,0
+Minnesota,Birch Lakes State Forest,1,40,40,40,40,0,0,1,0,0,0,0,0
+Minnesota,Blue Mounds State Park,75,30,70,46,46,0,4,31,35,5,53,0,0
+Minnesota,Buffalo River State Park,46,25,78,47,49,0,8,5,27,6,36,0,0
+Minnesota,Camden State Park,80,34,130,53,51,0,1,10,58,11,47,0,0
+Minnesota,Carley State Park,20,30,75,42,40,0,5,6,8,1,0,0,0
+Minnesota,Cascade River State Park,44,21,90,40,37,1,13,20,7,3,21,0,0
+Minnesota,Charles A. Lindbergh State Park,38,44,65,50,49,0,0,3,34,1,15,0,0
+Minnesota,Crow Wing State Park,64,20,45,34,35,1,28,31,4,0,14,0,0
+Minnesota,Cuyuna Country State Recreation Area,30,30,70,46,50,0,6,7,12,5,18,0,0
+Minnesota,Father Hennepin State Park,103,33,64,49,48,0,1,25,68,9,51,0,0
+Minnesota,Flandrau State Park,72,27,100,46,47,0,23,9,26,14,34,0,0
+Minnesota,Forestville Mystery Cave State Park,73,31,70,52,49,0,1,18,34,20,23,0,0
+Minnesota,Fort Ridgely State Park,35,30,95,53,55,0,1,5,19,10,15,0,0
+Minnesota,Franz Jevne State Park,15,30,52,44,45,0,1,5,9,0,2,0,0
+Minnesota,Frontenac State Park,61,25,62,43,42,0,6,33,20,2,20,0,0
+Minnesota,Glacial Lakes State Park,40,20,68,40,41,1,13,13,11,2,15,0,0
+Minnesota,Gooseberry Falls State Park,71,20,48,32,30,1,41,28,1,0,0,0,0
+Minnesota,Great River Bluffs State Park,31,25,60,51,53,0,2,2,25,2,0,0,0
+Minnesota,Hayes Lake State Park,35,30,50,39,38,0,5,27,3,0,18,0,0
+Minnesota,Interstate State Park,43,27,52,41,41,0,8,23,12,0,25,0,0
+Minnesota,Itasca State Park,235,25,92,46,45,0,54,49,89,43,166,0,0
+Minnesota,Jay Cooke State Park,81,21,58,37,38,3,27,38,13,0,22,0,0
+Minnesota,Judge C. R. Magney State Park,29,30,60,42,40,0,2,13,13,1,0,0,0
+Minnesota,Kilen Woods State Park,33,25,157,64,58,0,1,0,17,15,11,0,0
+Minnesota,La Salle Lake State Recreation Area,39,65,65,65,65,0,0,0,0,39,39,39,0
+Minnesota,Lac qui Parle State Park,43,60,80,70,75,0,0,0,0,43,37,10,0
+Minnesota,Lake Bemidji State Park,95,15,100,46,45,1,5,34,45,10,43,0,0
+Minnesota,Lake Bronson State Park,155,30,120,48,45,0,4,54,89,8,68,0,0
+Minnesota,Lake Carlos State Park,121,28,90,42,40,0,4,85,29,3,81,0,0
+Minnesota,Lake Louise State Park,20,47,73,61,62,0,0,0,9,11,11,0,0
+Minnesota,Lake Shetek State Park,85,20,120,54,55,11,0,3,34,37,66,34,0
+Minnesota,Lake Vermilion-Soudan Underground Mine State Park,56,50,130,80,90,0,0,0,11,45,56,1,0
+Minnesota,Maplewood State Park,70,20,60,32,30,31,5,12,21,1,31,0,0
+Minnesota,McCarthy Beach State Park,87,15,70,35,35,4,39,26,15,3,44,0,0
+Minnesota,Mille Lacs Kathio State Park,66,20,60,46,59,1,25,4,3,33,22,0,0
+Minnesota,Minneopa State Park,61,26,118,48,47,0,8,19,27,7,7,0,0
+Minnesota,Minnesota Valley State Recreation Area,25,23,112,45,43,1,4,8,9,3,0,0,0
+Minnesota,Monson Lake State Park,20,35,70,51,45,0,0,6,7,7,6,0,0
+Minnesota,Moose Lake State Park,33,25,71,49,48,0,4,2,21,6,20,0,0
+Minnesota,Myre-Big Island State Park,93,42,120,52,51,0,0,6,79,8,32,0,0
+Minnesota,Nerstrand Big Woods State Park,51,32,70,46,45,0,3,18,27,3,27,0,0
+Minnesota,Old Mill State Park,25,40,68,55,56,0,0,2,19,4,10,0,0
+Minnesota,Red River State Recreation Area,109,36,110,68,60,0,0,6,32,71,101,98,0
+Minnesota,Rice Lake State Park,42,35,55,45,45,0,0,17,25,0,19,0,0
+Minnesota,Sakatah Lake State Park,64,33,75,48,47,0,2,22,34,6,15,0,0
+Minnesota,Savanna Portage State Park,56,22,58,40,40,1,14,27,14,0,18,0,0
+Minnesota,Scenic State Park,91,20,110,52,45,2,17,22,27,23,40,0,0
+Minnesota,Schoolcraft State Park,28,25,40,34,30,0,18,10,0,0,0,0,0
+Minnesota,Sibley State Park,102,35,110,53,51,0,0,8,78,16,75,0,0
+Minnesota,Split Rock Creek State Park,33,33,55,44,45,0,3,13,17,0,21,0,0
+Minnesota,Split Rock Lighthouse State Park,48,30,100,68,70,0,1,1,5,41,48,0,0
+Minnesota,St. Croix State Park,210,25,68,37,40,0,91,55,57,7,71,0,0
+Minnesota,Temperance River State Park,54,30,126,61,55,0,1,5,26,22,21,0,0
+Minnesota,Tettegouche State Park,30,40,75,62,66,0,0,2,10,18,19,0,0
+Minnesota,Whitewater State Park,115,35,100,59,55,0,0,2,66,47,87,0,0
+Minnesota,Wild River State Park,94,27,75,51,51,0,1,18,56,19,34,0,0
+Minnesota,William O Brien State Park,112,20,63,48,48,3,2,16,88,3,71,0,0
+Minnesota,Zippel Bay State Park,57,20,60,32,30,9,30,16,1,1,0,0,0
+Missouri,Annie and Abel Van Meter State Park,22,36,60,52,53,0,0,3,18,1,13,0,0
+Missouri,Arrow Rock State Historic Site,48,31,67,46,47,0,3,12,31,2,36,2,0
+Missouri,Battle of Athens State Historic Site,28,40,68,54,53,0,0,2,20,6,14,0,0
+Missouri,Bennett Spring State Park,192,18,86,55,55,3,1,10,141,37,177,56,0
+Missouri,Big Lake State Park,65,42,73,55,54,0,0,3,50,12,59,30,0
+Missouri,Crowder State Park,39,20,69,53,56,2,0,4,26,7,31,7,0
+Missouri,Cuivre River State Park,92,37,65,52,52,0,0,5,83,4,53,34,0
+Missouri,Dr. Edmund A. Babler Memorial SP,75,26,54,45,46,0,10,21,44,0,52,38,0
+Missouri,Echo Bluff State Park,62,52,63,58,57,0,0,0,57,5,62,43,0
+Missouri,Finger Lakes State Park,37,28,81,48,47,0,1,12,23,1,18,2,0
+Missouri,Graham Cave State Park,53,29,62,42,42,0,6,29,17,1,19,1,0
+Missouri,Harry S Truman State Park,186,45,71,55,55,0,0,0,155,31,121,4,0
+Missouri,Hawn State Park,45,31,58,54,55,0,1,0,44,0,26,1,0
+Missouri,Johnsons Shut-Ins State Park,55,53,90,65,61,0,0,0,16,39,41,20,0
+Missouri,Knob Noster State Park,60,42,68,56,57,0,0,2,45,13,47,8,0
+Missouri,Lake of the Ozarks State Park,169,27,90,56,56,0,1,10,122,36,151,29,0
+Missouri,Lake Wappapello State Park,75,33,87,52,53,0,1,17,46,11,71,2,0
+Missouri,Lewis and Clark State Park,70,26,96,58,61,0,7,3,15,45,63,21,0
+Missouri,Long Branch State Park,67,26,75,55,55,0,3,6,38,20,58,2,0
+Missouri,Mark Twain State Park,95,46,74,58,58,0,0,0,59,36,81,2,0
+Missouri,Meramec State Park,212,35,90,57,56,0,0,17,131,64,161,24,0
+Missouri,Montauk State Park,145,38,77,56,56,0,0,3,113,29,117,3,0
+Missouri,Onondaga Cave State Park,66,38,84,59,60,0,0,6,26,34,47,2,0
+Missouri,Pershing State Park,39,23,85,51,51,1,0,7,26,5,27,1,0
+Missouri,Pomme de Terre State Park,241,25,77,54,54,0,2,13,197,29,207,6,0
+Missouri,Prairie State Park,4,40,65,50,48,0,0,2,1,1,0,0,0
+Missouri,Roaring River State Park,173,41,80,56,56,0,0,7,109,57,161,32,0
+Missouri,Robertsville State Park,27,44,86,59,56,0,0,1,15,11,15,2,0
+Missouri,Sam A. Baker State Park,179,27,77,56,56,0,1,11,114,53,135,2,0
+Missouri,St. Francois State Park,171,18,89,52,53,4,11,25,102,29,125,44,0
+Missouri,St. Joe State Park,74,42,126,84,88,0,0,2,10,62,63,1,0
+Missouri,Stockton State Park,68,44,80,57,57,0,0,1,58,9,56,3,0
+Missouri,Table Rock State Park,150,20,74,55,56,2,2,12,74,60,116,65,0
+Missouri,Thousand Hills State Park,51,36,82,54,51,0,0,9,25,17,39,1,0
+Missouri,Trail of Tears State Park,54,27,102,57,54,0,4,13,17,20,19,9,0
+Missouri,Viney Creek Recreation Area,44,16,66,39,37,6,8,18,9,3,23,0,0
+Missouri,Wakonda State Park,94,25,173,70,69,0,11,0,18,65,82,17,0
+Missouri,Wallace State Park,79,20,99,42,44,36,0,4,21,18,44,2,0
+Missouri,Washington State Park,48,23,99,58,50,1,0,21,4,22,24,1,0
+Missouri,Watkins Mill SP and SHS,94,38,65,53,52,0,0,4,79,11,72,3,0
+Missouri,Weston Bend State Park,50,40,128,59,58,0,0,2,26,22,47,17,0
+Montana,Bannack State Park,22,15,60,31,33,6,5,9,1,1,0,0,2
+Montana,Beavertail Hill State Park,24,20,70,32,29,2,16,3,1,2,24,0,12
+Montana,Big Arm Unit - Flathead Lake State Park,39,17,95,30,30,13,14,8,3,1,1,0,5
+Montana,Black Sandy State Park,35,15,34,29,31,6,29,0,0,0,29,0,0
+Montana,Brush Lake State Park,12,40,85,48,40,0,0,10,0,2,12,0,2
+Montana,Cooney State Park,44,18,80,41,38,7,9,15,9,4,10,0,5
+Montana,Finley Point Unit - Flathead Lake State Park,18,30,50,41,40,0,6,4,8,0,18,0,0
+Montana,Lake Mary Ronan State Park,25,28,50,40,40,0,1,22,2,0,22,0,2
+Montana,Lewis and Clark Caverns State Park,39,31,71,44,43,0,2,24,10,3,18,0,7
+Montana,Logan State Park,37,18,45,33,33,6,15,13,3,0,33,0,1
+Montana,Makoshika State Park,21,20,70,41,45,4,2,3,8,4,0,0,5
+Montana,Missouri Headwaters State Park,17,20,60,35,32,2,8,3,2,2,0,0,4
+Montana,Placid Lake State Park,40,19,46,32,32,5,22,12,1,0,17,0,1
+Montana,Salmon Lake State Park,23,18,46,36,40,4,3,14,2,0,16,0,2
+Montana,Thompson Falls State Park,17,18,63,30,30,5,8,2,1,1,1,0,5
+Montana,Tongue River State Park,48,45,79,57,55,0,0,0,37,11,31,0,0
+Montana,Wayfarers Unit - Flathead Lake State Park,25,20,40,29,28,3,14,8,0,0,1,0,8
+Montana,West Shore Unit - Flathead Lake State Park,26,18,45,33,30,3,11,10,2,0,12,0,0
+Montana,Whitefish Lake State Park,18,18,65,31,28,5,9,1,2,1,1,0,3
+Nebraska,Box Butte Reservoir SRA,41,60,60,60,60,0,0,0,0,41,22,0,12
+Nebraska,Branched Oak SRA,180,40,100,51,49,0,0,15,143,22,180,12,0
+Nebraska,Buffalo Bill Ranch State Recreation Area,23,20,40,35,40,6,0,17,0,0,17,0,0
+Nebraska,Calamus SRA,73,50,50,50,50,0,0,0,73,0,73,0,0
+Nebraska,Chadron SP,50,40,65,52,50,0,0,2,41,7,50,0,0
+Nebraska,Enders SRA,40,30,40,40,40,0,1,39,0,0,20,0,4
+Nebraska,Eugene T. Mahoney SP,93,36,72,47,47,0,0,34,54,5,93,26,0
+Nebraska,Fort Kearny SRA,44,24,54,43,42,1,3,20,20,0,38,0,0
+Nebraska,Fort Robinson SP,28,60,60,60,60,0,0,0,0,28,28,17,1
+Nebraska,Fremont SRA,121,36,110,52,50,0,0,15,97,9,121,0,6
+Nebraska,Indian Cave SP,63,41,66,54,53,0,0,2,44,17,63,0,0
+Nebraska,Johnson Lake SRA,65,30,50,40,42,0,8,55,2,0,65,0,0
+Nebraska,Lake McConaughy SRA,183,35,60,52,45,0,0,1,91,91,167,62,0
+Nebraska,Lake Minatare SRA,37,37,63,51,53,0,0,4,32,1,37,0,0
+Nebraska,Lake Ogallala SRA,82,45,45,45,45,0,0,0,82,0,82,0,0
+Nebraska,Lewis and Clark SRA,120,50,50,50,50,0,0,0,120,0,120,3,10
+Nebraska,Louisville SRA,129,39,77,57,57,0,0,4,78,47,129,6,0
+Nebraska,Medicine Creek SRA,50,30,48,39,40,0,9,35,6,0,50,0,0
+Nebraska,Merritt Reservoir,74,34,88,57,57,0,1,10,28,35,68,0,1
+Nebraska,Mormon Island SRA,17,40,55,44,40,0,0,13,4,0,17,0,4
+Nebraska,Niobrara State Park,60,45,68,55,55,0,0,0,57,3,60,1,0
+Nebraska,Pawnee SRA,31,45,53,50,51,0,0,0,31,0,31,0,0
+Nebraska,Platte River SP,19,50,55,54,55,0,0,0,19,0,19,19,8
+Nebraska,Ponca SP,50,40,60,56,60,0,0,1,18,31,50,0,5
+Nebraska,Red Willow State Recreation Area,36,40,40,40,40,0,0,36,0,0,26,0,0
+Nebraska,Rock Creek Station SHP,13,42,58,52,53,0,0,1,12,0,13,0,0
+Nebraska,Sherman Reservoir State Recreation Area,29,60,60,60,60,0,0,0,0,29,29,0,0
+Nebraska,Summit Lake State Recreation Area,31,65,65,65,65,0,0,0,0,31,31,0,0
+Nebraska,Swanson SRA,38,40,40,40,40,0,0,38,0,0,28,0,0
+Nebraska,Two Rivers SRA,103,36,77,53,50,0,0,7,76,20,81,6,0
+Nebraska,Victoria Springs SRA,10,50,50,50,50,0,0,0,10,0,10,0,0
+Nebraska,Willow Creek SRA,79,34,70,46,44,0,1,39,29,10,79,0,0
+Nebraska,Windmill SRA,33,35,80,59,60,0,0,13,1,19,33,0,19
+Nevada,Berlin-Ichthyosaur State Park,14,25,70,32,25,0,11,0,2,1,0,0,0
+Nevada,Big Bend of the Colorado State Recreation Area,32,40,70,57,60,0,0,1,11,20,24,24,0
+Nevada,Cathedral Gorge State Park,24,18,60,37,35,5,7,5,2,5,0,0,0
+Nevada,Cave Lake State Park,5,35,120,73,45,0,0,1,2,2,0,0,0
+Nevada,Dayton State Park,10,29,75,49,44,0,1,4,1,4,0,0,0
+Nevada,Echo Canyon State Park,53,40,80,59,60,0,0,1,21,31,20,20,0
+Nevada,Fort Churchill State Historic Park,21,25,45,38,45,0,9,0,12,0,0,0,0
+Nevada,Kershaw Ryan State Park,16,30,65,63,65,0,1,0,0,15,16,0,0
+Nevada,Lahontan State Recreation Area,31,25,60,44,40,0,7,9,4,11,0,0,0
+Nevada,Rye Patch State Recreation Area,64,22,75,48,48,22,0,3,14,25,0,0,0
+Nevada,South Fork State Recreation Area,49,30,40,39,40,0,2,47,0,0,3,2,0
+Nevada,Spring Valley State Park,40,20,100,51,50,1,7,8,8,16,0,0,0
+Nevada,Valley of Fire State Park,70,30,125,55,48,0,3,21,24,22,21,0,0
+Nevada,Walker River State Recreation Area,48,20,40,37,40,4,8,36,0,0,19,0,0
+Nevada,Ward Charcoal Ovens State Historic Park,16,25,45,39,45,0,5,1,10,0,0,0,0
+Nevada,Washoe Lake State Park,46,23,100,60,57,2,4,4,13,23,23,0,0
+Nevada,Wild Horse State Recreation Area,34,20,145,74,55,1,0,1,18,14,15,0,0
+New Hampshire,Bear Brook State Park,37,10,38,28,24,26,1,10,0,0,1,0,0
+New Hampshire,Cannon Mountain RV Park,7,40,40,40,40,0,0,7,0,0,7,0,0
+New Hampshire,Coleman State Park,16,21,40,31,27,2,8,6,0,0,0,0,7
+New Hampshire,Deer Mountain Campground,2,24,25,24,24,1,1,0,0,0,0,0,1
+New Hampshire,Dry River Campground,18,20,40,32,35,5,4,9,0,0,0,0,0
+New Hampshire,Ellacoya State Park,37,50,50,50,50,0,0,0,37,0,37,37,23
+New Hampshire,Greenfield State Park,163,10,38,30,25,34,58,71,0,0,0,0,0
+New Hampshire,Hampton Beach State Park (South),29,40,40,40,40,0,0,29,0,0,29,29,14
+New Hampshire,Jericho Mountain State Park,30,16,60,50,60,3,0,8,0,19,19,19,8
+New Hampshire,Lafayette Place Campground,21,21,28,24,24,15,6,0,0,0,0,0,0
+New Hampshire,Lake Francis State Park,18,20,40,32,31,5,4,9,0,0,8,0,2
+New Hampshire,Mollidgewock State Park,4,10,25,18,17,2,2,0,0,0,0,0,1
+New Hampshire,Monadnock HQ,14,23,59,38,35,1,4,6,3,0,0,0,2
+New Hampshire,Monadnock State Park Gilson Pond Area,13,14,30,21,20,7,6,0,0,0,5,0,0
+New Hampshire,Moose Brook State Park,32,20,40,27,25,8,20,4,0,0,0,0,0
+New Hampshire,Pawtuckaway State Park,63,10,38,26,24,42,9,12,0,0,0,0,0
+New Hampshire,Pillsbury State Park,24,10,38,21,22,18,2,4,0,0,0,0,0
+New Hampshire,Umbagog Lake State Park,51,10,40,17,10,41,2,8,0,0,17,0,0
+New Hampshire,Wellington State Park,4,10,30,15,10,3,1,0,0,0,1,0,0
+New Hampshire,White Lake State Park,93,10,38,28,27,39,30,24,0,0,0,0,0
+New Mexico,Bluewater Lake,71,25,120,56,50,0,17,11,13,30,13,0,0
+New Mexico,Bottomless Lakes,30,35,60,48,50,0,0,9,15,6,30,5,9
+New Mexico,Brantley Lake,43,30,67,42,40,0,7,19,14,3,43,1,0
+New Mexico,Caballo Lake,60,40,95,47,50,0,0,23,36,1,60,11,36
+New Mexico,Cimarron Canyon,60,10,45,29,27,11,36,0,13,0,0,0,0
+New Mexico,City of Rocks,43,15,50,38,40,4,7,24,8,0,6,0,0
+New Mexico,Clayton Lake State Park and Dinosaur Trackways,27,20,50,42,50,2,7,2,16,0,17,0,0
+New Mexico,Conchas Lake,57,25,57,45,50,0,8,10,39,0,44,0,0
+New Mexico,Coyote Creek,15,18,40,35,35,1,0,14,0,0,15,0,0
+New Mexico,Eagle Nest Lake,19,35,107,48,40,0,0,13,3,3,19,0,11
+New Mexico,El Vado Lake,19,30,50,41,40,0,3,9,7,0,19,0,0
+New Mexico,Elephant Butte Lake,128,20,40,37,40,6,18,104,0,0,128,0,8
+New Mexico,Fenton Lake State Park,32,15,60,39,40,7,5,5,14,1,21,0,1
+New Mexico,Heron Lake,181,15,65,32,25,32,84,21,37,7,93,5,16
+New Mexico,Heron Lake Visitor Center Great Room,2,20,20,20,20,2,0,0,0,0,0,0,0
+New Mexico,Hyde Memorial,29,20,50,29,25,11,11,0,7,0,7,0,0
+New Mexico,Leasburg Dam,24,15,40,33,35,4,7,13,0,0,19,0,0
+New Mexico,Manzano Mountains,27,20,64,37,36,5,7,9,5,1,9,0,0
+New Mexico,Navajo Lake,205,20,55,33,30,34,82,61,28,0,124,6,0
+New Mexico,Oasis,28,40,100,60,58,0,0,5,10,13,25,4,0
+New Mexico,Oliver Lee Memorial,42,20,60,34,34,1,20,15,5,1,16,0,0
+New Mexico,Pancho Villa,63,20,50,39,40,4,2,52,5,0,63,3,0
+New Mexico,Pecos Canyon State Park,28,19,50,34,32,4,13,6,5,0,0,0,0
+New Mexico,Percha Dam,30,40,95,46,45,0,0,15,14,1,30,1,15
+New Mexico,Rockhound,28,20,45,37,40,1,6,20,1,0,22,2,0
+New Mexico,Santa Rosa Lake,76,20,50,38,30,3,41,0,32,0,25,0,0
+New Mexico,Storrie Lake,23,26,40,38,40,0,4,19,0,0,23,0,0
+New Mexico,Sugarite Canyon,32,30,70,55,60,0,2,8,2,20,10,2,0
+New Mexico,Sumner Lake,33,30,120,60,54,0,1,6,11,15,24,0,0
+New Mexico,Ute Lake,112,19,181,59,48,1,35,17,35,24,106,0,0
+New Mexico,Villanueva,24,20,70,44,50,1,7,2,10,4,16,0,1
+New York,Allegany State Park,279,10,63,32,31,45,130,96,7,1,232,0,0
+New York,Ausable Point Campground,117,20,40,34,35,5,13,99,0,0,0,0,0
+New York,Bear Spring Mountain,22,20,40,28,30,9,9,4,0,0,0,0,8
+New York,Beaver Pond State Park,13,20,30,25,30,6,7,0,0,0,0,0,0
+New York,Beaverkill,26,20,40,27,30,12,11,3,0,0,0,0,1
+New York,Bowman Lake State Park,152,10,50,35,40,27,32,69,24,0,0,0,11
+New York,Brown Tract Pond Campground,68,20,30,23,20,48,20,0,0,0,0,0,0
+New York,Buck Pond Campground,99,20,40,23,20,74,24,1,0,0,0,0,0
+New York,Burnham Point State Park,33,20,40,23,20,25,6,2,0,0,33,0,0
+New York,Buttermilk Falls State Park,10,20,20,20,20,10,0,0,0,0,0,0,0
+New York,Caroga Lake Campground,97,20,40,28,30,36,41,20,0,0,0,0,8
+New York,Cayuga Lake State Park,214,10,40,22,20,164,42,8,0,0,34,0,0
+New York,Cedar Point State Park,154,20,40,29,30,58,58,38,0,0,86,40,0
+New York,Chenango Valley State Park,182,20,50,38,40,12,45,84,41,0,88,0,0
+New York,Cherry Plain State Park,11,12,15,15,15,11,0,0,0,0,0,0,3
+New York,Clarence Fahnestock State Park,36,15,30,22,20,23,13,0,0,0,0,0,0
+New York,Coles Creek State Park,234,20,40,30,20,120,2,112,0,0,157,0,15
+New York,Cranberry Lake Campground,162,20,50,31,30,35,78,43,6,0,0,0,1
+New York,Crown Point Campground,62,20,40,38,40,4,6,52,0,0,0,0,0
+New York,Cumberland Bay State Park,116,20,50,42,50,12,20,13,71,0,18,0,0
+New York,Darien Lakes State Park,152,10,60,32,30,23,54,52,22,1,139,0,0
+New York,Delta Lake State Park,101,20,40,28,30,24,71,6,0,0,101,0,0
+New York,Devils Tombstone Campground,23,20,40,27,20,12,6,5,0,0,0,0,1
+New York,Eagle Point,50,20,40,25,20,27,21,2,0,0,0,0,0
+New York,Eel Weir State Park,27,20,50,35,40,2,10,14,1,0,0,0,0
+New York,Eighth Lake Campground,121,20,30,28,30,30,91,0,0,0,0,0,0
+New York,Empire RV Park at the NY State Fairgrounds,21,25,25,25,25,0,21,0,0,0,21,21,0
+New York,Evangola State Park,50,40,40,40,40,0,0,50,0,0,50,0,0
+New York,Fair Haven Beach State Park,171,10,40,26,25,51,88,32,0,0,69,0,0
+New York,Fillmore Glen State Park,60,20,50,28,20,35,12,1,12,0,10,0,0
+New York,Fish Creek Pond Campground,322,10,40,30,30,86,130,106,0,0,0,0,0
+New York,Forked Lake Campground,4,20,30,25,25,2,2,0,0,0,0,0,0
+New York,Four Mile Creek State Park,258,25,50,49,50,0,5,7,246,0,162,0,0
+New York,Frontier Town Campground,66,15,40,31,30,13,27,26,0,0,30,0,1
+New York,Gilbert Lake State Park,135,30,50,45,50,0,2,48,85,0,61,0,0
+New York,Glen Island (Lake George Is.),1,20,20,20,20,1,0,0,0,0,0,0,0
+New York,Glimmerglass State Park,47,20,50,33,40,13,9,21,4,0,37,0,0
+New York,Golden Beach Campground,159,20,30,24,20,101,58,0,0,0,0,0,0
+New York,Golden Hill State Park,55,25,65,43,40,0,16,21,6,12,44,0,12
+New York,Grass Point State Park,71,20,40,29,30,22,33,16,0,0,19,0,0
+New York,Green Lakes State Park,132,20,60,38,40,5,43,74,0,10,92,29,10
+New York,Hamlin Beach State Park,258,30,40,38,40,0,39,219,0,0,258,0,0
+New York,Hearthstone Point,167,20,30,24,20,101,66,0,0,0,0,0,0
+New York,Heckscher State Park,67,20,50,36,30,13,23,9,22,0,0,0,24
+New York,Higley Flow State Park,133,20,40,30,30,21,83,29,0,0,62,0,0
+New York,Hither Hills State Park,153,20,40,30,30,15,123,15,0,0,0,0,0
+New York,Jacques Cartier State Park,88,20,50,42,45,4,18,22,44,0,31,0,69
+New York,Kenneth L. Wilson,67,20,40,27,30,31,22,14,0,0,0,0,0
+New York,Kring Point State Park,75,20,50,28,30,32,27,13,3,0,31,0,0
+New York,Lake Durant,60,20,30,24,20,39,21,0,0,0,0,0,0
+New York,Lake Eaton Campground,114,20,30,26,30,41,73,0,0,0,0,0,0
+New York,Lake Erie State Park,97,18,47,37,37,15,6,39,37,0,79,0,0
+New York,Lake George Battleground,57,20,40,26,30,28,26,3,0,0,0,0,0
+New York,Lake Harris Campground,21,20,40,27,30,9,9,3,0,0,0,0,0
+New York,Lake Taghkanic State Park,8,20,20,20,20,8,0,0,0,0,0,0,1
+New York,Lakeside State Park,268,20,40,34,40,19,112,137,0,0,268,0,0
+New York,Letchworth State Park,257,20,50,46,50,5,10,57,185,0,257,0,0
+New York,Lewey Lake,168,20,40,29,30,47,97,24,0,0,0,0,4
+New York,Limekiln Lake,205,15,40,23,20,131,54,20,0,0,0,0,0
+New York,Lincoln Pond Campground,20,20,30,22,20,15,5,0,0,0,0,0,0
+New York,Little Pond Campground,65,20,40,29,30,11,51,3,0,0,0,0,0
+New York,Long Point State Park - Thousand Islands,73,20,50,38,40,5,16,43,9,0,29,0,0
+New York,Luzerne,168,20,40,30,30,9,153,6,0,0,0,0,0
+New York,Macomb Reservation,96,20,40,36,40,13,9,74,0,0,32,0,0
+New York,Max V. Shaul State Park,19,10,35,20,20,13,4,2,0,0,0,0,1
+New York,Meacham Lake Campground,140,20,40,29,30,38,74,28,0,0,0,0,0
+New York,Meadowbrook Public Campground,24,20,30,24,20,15,9,0,0,0,0,0,0
+New York,Moffitt Beach Campground,197,20,40,25,30,92,103,2,0,0,0,0,8
+New York,Mongaup Pond,156,20,40,36,40,8,40,108,0,0,0,0,0
+New York,Moreau Lake State Park,138,20,40,28,30,37,95,6,0,0,0,0,0
+New York,Newtown Battlefield State Park,18,20,40,26,20,12,0,6,0,0,2,0,0
+New York,Nicks Lake Campground,106,20,40,34,35,8,44,54,0,0,0,0,3
+New York,North-South Lake Campground,213,20,40,24,20,135,64,14,0,0,0,0,2
+New York,Northampton Beach Campground,201,20,40,31,30,2,176,23,0,0,0,0,1
+New York,Oquaga Creek State Park,90,30,50,48,50,0,2,12,76,0,0,0,0
+New York,Paradox Lake Campground,42,20,40,23,20,29,12,1,0,0,0,0,0
+New York,Piseco Lake Campground,56,10,40,23,20,38,16,2,0,0,0,0,5
+New York,Putnam Pond,45,20,30,24,20,29,16,0,0,0,0,0,0
+New York,Robert H Treman State Park,60,20,50,37,37,9,19,8,24,0,32,0,1
+New York,Robert Moses State Park,207,20,50,39,40,16,71,29,91,0,137,0,0
+New York,Rogers Rock Campground,237,20,40,27,30,94,115,28,0,0,0,0,0
+New York,Rollins Pond Campground,247,10,40,29,30,78,124,45,0,0,0,0,1
+New York,Sacandaga Campground,126,20,40,28,30,30,95,1,0,0,0,0,33
+New York,Sampson State Park,238,30,40,40,40,0,8,230,0,0,238,0,0
+New York,Scaroon Manor,56,20,40,32,40,17,8,31,0,0,0,0,5
+New York,Schodack Island State Park,66,30,50,34,30,0,54,0,12,0,42,0,11
+New York,Selkirk Shores State Park,129,15,40,28,30,54,49,26,0,0,129,0,0
+New York,Sharp Bridge,18,20,30,23,25,8,10,0,0,0,0,0,0
+New York,Southwick Beach State Park,131,20,50,38,40,12,34,53,32,0,71,30,3
+New York,Stoney Pond State Forest Camping Area,14,20,30,24,20,9,5,0,0,0,0,0,0
+New York,Stony Brook State Park,64,20,40,26,30,20,43,1,0,0,0,0,0
+New York,Taconic State Park (Copake Falls),29,20,25,23,25,12,17,0,0,0,19,0,0
+New York,Taconic State Park (Rudd Pond),37,20,20,20,20,37,0,0,0,0,0,0,0
+New York,Taughannock Falls State Park,32,20,35,28,30,1,30,1,0,0,18,0,0
+New York,Taylor Pond Campground,20,20,30,24,20,13,7,0,0,0,0,0,0
+New York,THOMPSONS LAKE CAMPGROUND at Thacher State Park,127,20,40,29,30,14,110,3,0,0,0,0,0
+New York,Verona Beach State Park,46,20,50,34,30,6,21,12,7,0,46,0,0
+New York,Watkins Glen State Park,259,20,40,29,30,36,176,47,0,0,97,0,5
+New York,Westcott Beach State Park,146,20,50,34,32,14,59,61,12,0,78,0,0
+New York,Whetstone Gulf State Park,61,28,30,30,30,0,61,0,0,0,23,0,1
+New York,Wildwood State Park,193,20,50,34,30,80,37,0,76,0,76,76,76
+New York,Wilmington Notch,42,20,30,22,20,33,9,0,0,0,0,0,0
+New York,Woodland Valley,48,20,30,22,20,37,11,0,0,0,0,0,0
+North Carolina,Carolina Beach State Park,81,20,95,40,35,2,25,37,9,8,9,9,12
+North Carolina,Falls Lake State Recreation Area,259,20,120,66,65,3,12,17,48,179,170,0,27
+North Carolina,Goose Creek State Park,35,20,40,32,40,14,0,21,0,0,21,21,0
+North Carolina,Gorges State Park,30,20,50,34,20,16,0,0,14,0,14,0,0
+North Carolina,Hanging Rock State Park,71,25,60,34,30,0,43,15,8,5,0,0,0
+North Carolina,Jones Lake State Park,18,20,50,48,50,1,0,0,17,0,6,6,8
+North Carolina,Jordan Lake State Rec Area,1009,23,146,64,61,1,14,110,329,555,626,0,27
+North Carolina,Kerr Lake State Recreation Area,589,20,123,48,50,3,114,93,228,151,320,0,11
+North Carolina,Lake James State Park,33,20,20,20,20,33,0,0,0,0,0,0,0
+North Carolina,Lake Norman State Park,33,40,71,60,60,0,0,1,13,19,1,1,0
+North Carolina,Lumber River State Park,14,20,75,70,75,1,0,0,0,13,0,0,5
+North Carolina,Medoc Mountain State Park,30,50,80,65,65,0,0,0,6,24,17,17,0
+North Carolina,Merchants Millpond State Park,20,34,63,47,44,0,1,9,6,4,0,0,0
+North Carolina,Morrow Mountain State Park,96,9,55,33,35,15,32,41,8,0,22,0,1
+North Carolina,New River State Park,19,33,67,46,42,0,3,7,7,2,19,10,0
+North Carolina,Pettigrew State Park,13,20,76,52,60,1,1,3,1,7,0,0,1
+North Carolina,Pilot Mountain State Park,15,25,38,28,25,0,13,2,0,0,0,0,0
+North Carolina,Raven Rock State Park,9,67,67,67,67,0,0,0,0,9,9,9,0
+North Carolina,South Mountains State Park,18,15,50,26,21,9,5,0,4,0,3,0,2
+North Carolina,Stone Mountain State Park,87,23,95,55,55,3,8,14,23,39,41,2,0
+North Carolina,William B. Umstead State Park,20,55,78,63,62,0,0,0,9,11,8,8,0
+North Dakota,Beaver Lake State Park,33,18,100,66,65,1,0,0,5,27,0,0,0
+North Dakota,Cross Ranch State Park,89,10,120,41,38,14,17,27,8,23,0,0,0
+North Dakota,Fort Abraham Lincoln State Park,97,34,86,52,51,0,2,26,50,19,0,0,0
+North Dakota,Fort Ransom State Park,32,34,81,41,40,0,8,16,7,1,0,0,0
+North Dakota,Fort Stevenson State Park,125,12,95,44,48,33,0,6,61,25,0,0,0
+North Dakota,Grahams Island State Park,136,40,180,93,95,0,0,2,3,131,0,0,0
+North Dakota,Icelandic State Park,143,16,82,49,48,2,0,33,95,13,0,0,0
+North Dakota,Lake Metigoshe State Park,131,18,110,37,36,8,47,54,19,3,0,0,0
+North Dakota,Lake Sakakawea State Park,153,20,170,53,50,1,0,4,132,16,0,0,0
+North Dakota,Lewis and Clark State Park,93,40,180,91,71,0,0,8,9,76,0,0,0
+North Dakota,Little Missouri State Park,5,45,100,56,45,0,0,0,4,1,0,0,0
+North Dakota,Pembina Gorge State Park,54,10,199,81,84,6,0,0,0,48,0,0,0
+North Dakota,Rough Rider State Park,46,24,168,80,74,12,1,1,2,30,0,0,0
+North Dakota,Turtle River State Park,79,30,140,63,60,0,1,4,27,47,0,0,0
+Ohio,A.W. Marion State Park,58,32,54,45,45,0,1,16,41,0,30,0,0
+Ohio,Alum Creek State Park,286,40,62,48,48,0,0,1,283,2,286,32,0
+Ohio,Barkcamp State Park,108,21,57,46,45,1,1,47,59,0,108,21,0
+Ohio,Beaver Creek State Park,46,25,60,36,35,0,18,19,7,2,6,0,0
+Ohio,Blue Rock State Park,62,14,88,38,36,8,20,16,14,4,0,0,0
+Ohio,Buck Creek State Park,105,31,60,44,40,0,47,16,0,42,89,42,0
+Ohio,Burr Oak State Park,59,22,78,38,37,3,15,32,7,2,30,0,0
+Ohio,Caesar Creek State Park,249,37,40,40,40,0,0,249,0,0,249,32,0
+Ohio,Cowan Lake State Park,221,30,59,41,38,0,11,144,66,0,221,47,0
+Ohio,Deer Creek State Park,232,45,45,45,45,0,0,0,232,0,232,30,0
+Ohio,Delaware State Park,212,42,88,51,49,0,0,4,189,19,212,0,0
+Ohio,Dillon State Park,183,28,64,41,40,0,3,149,29,2,183,12,0
+Ohio,East Fork State Park,399,37,53,46,46,0,0,71,328,0,399,23,0
+Ohio,East Harbor State Park,561,20,93,44,36,3,183,223,31,121,401,51,0
+Ohio,Findley State Park,257,31,70,46,45,0,2,117,133,5,108,15,0
+Ohio,Forked Run State Park,146,13,58,26,20,93,0,46,7,0,82,0,0
+Ohio,Geneva State Park,100,40,45,45,45,0,0,7,93,0,93,19,0
+Ohio,Grand Lake St. Marys State Park,198,25,62,43,40,0,26,94,68,10,188,34,0
+Ohio,Guilford Lake State Park,37,24,85,40,38,1,7,26,0,3,37,0,0
+Ohio,Harrison Lake State Park,159,24,68,50,50,1,1,8,147,2,149,91,0
+Ohio,Hocking Hills State Park,156,27,44,39,40,0,16,140,0,0,156,47,0
+Ohio,Hueston Woods State Park,309,10,64,31,25,73,166,4,59,7,190,20,0
+Ohio,Indian Lake State Park,451,29,50,42,42,0,20,324,107,0,451,117,0
+Ohio,Jackson Lake State Park,23,35,65,48,48,0,0,5,17,1,23,0,0
+Ohio,Jefferson Lake State Park,6,39,51,46,47,0,0,2,4,0,0,0,0
+Ohio,Jesse Owens State Park,72,25,170,55,45,0,8,18,26,20,50,50,0
+Ohio,John Bryan State Park,32,35,51,39,40,0,0,28,4,0,32,0,0
+Ohio,Kelleys Island State Park,117,15,50,38,41,16,1,71,29,0,84,36,0
+Ohio,Kiser Lake State Park,21,30,117,78,80,0,1,1,2,17,20,0,0
+Ohio,Lake Alma State Park,66,18,54,37,36,3,23,25,15,0,66,6,0
+Ohio,Lake Hope State Park,43,20,50,40,40,2,1,26,14,0,43,0,0
+Ohio,Lake Loramie State Park,173,33,70,50,50,0,1,4,165,3,163,42,0
+Ohio,Mary Jane Thurston State Park,23,50,50,50,50,0,0,0,23,0,23,0,0
+Ohio,Maumee Bay State Park,256,50,50,50,50,0,0,0,256,0,256,20,0
+Ohio,Mohican State Park,151,35,61,46,45,0,0,63,87,1,151,51,0
+Ohio,Mosquito Lake State Park,232,30,50,39,40,0,2,212,18,0,216,40,0
+Ohio,Mt Gilead State Park,60,30,55,41,40,0,7,41,12,0,60,22,0
+Ohio,Muskingum River State Park,18,30,30,30,30,0,18,0,0,0,0,0,0
+Ohio,Paint Creek State Park,197,36,56,46,46,0,0,62,135,0,197,10,0
+Ohio,Pike Lake State Park,79,25,55,38,39,0,30,34,15,0,79,0,0
+Ohio,Punderson State Park,146,25,65,46,46,0,2,36,103,5,146,40,0
+Ohio,Pymatuning State Park,352,25,97,43,42,0,4,296,46,6,352,52,0
+Ohio,Rocky Fork State Park,164,19,69,42,39,14,34,70,1,45,158,45,0
+Ohio,Salt Fork State Park,84,18,60,40,44,12,21,10,40,1,84,5,0
+Ohio,Scioto Trail State Park,55,21,79,46,43,1,10,17,17,10,55,0,0
+Ohio,Shawnee State Park,182,20,130,47,41,16,40,43,57,26,159,80,0
+Ohio,South Bass Island State Park,70,29,49,38,38,0,12,53,5,0,61,10,0
+Ohio,Stonelick State Park,113,23,54,39,39,5,25,56,27,0,107,0,0
+Ohio,Tar Hollow State Park,28,30,52,44,45,0,2,9,17,0,28,0,0
+Ohio,Van Buren State Park,33,30,55,41,40,0,1,18,14,0,33,0,0
+Ohio,West Branch State Park,160,37,100,51,47,0,0,66,63,31,160,34,0
+Ohio,Wolf Run State Park,130,14,63,37,38,9,31,68,19,3,72,0,0
+Oklahoma,Alabaster Caverns State Park,10,30,50,48,50,0,1,0,9,0,10,0,0
+Oklahoma,Arrowhead State Park,90,30,87,54,54,0,5,19,54,12,90,21,13
+Oklahoma,Beavers Bend State Park,170,20,71,40,35,6,58,55,23,28,170,66,31
+Oklahoma,Bernice State Park,34,30,87,58,57,0,1,2,17,14,34,0,0
+Oklahoma,Black Mesa State Park,24,30,62,45,44,0,4,8,10,2,24,0,2
+Oklahoma,Boiling Springs State Park,42,12,80,52,50,2,0,0,33,7,40,10,13
+Oklahoma,Cherokee Landing State Park,50,9,40,31,30,10,21,19,0,0,35,3,35
+Oklahoma,Fort Cobb State Park,279,20,100,46,45,2,45,81,104,47,279,34,15
+Oklahoma,Foss State Park,108,30,50,48,50,0,9,0,99,0,108,10,32
+Oklahoma,Grand Cherokee State Park,26,35,50,41,35,0,0,15,11,0,26,11,26
+Oklahoma,Great Plains State Park,57,40,100,65,65,0,0,2,15,40,57,12,3
+Oklahoma,Greenleaf State Park,96,13,75,38,37,7,30,26,27,6,96,22,77
+Oklahoma,Honey Creek State Park,50,30,80,47,50,0,1,11,35,3,50,0,8
+Oklahoma,Keystone State Park,70,30,45,36,30,0,38,3,29,0,70,39,9
+Oklahoma,Lake Eufaula State Park,95,12,50,37,35,2,18,62,13,0,94,32,26
+Oklahoma,Lake Murray State Park,254,12,170,55,50,1,3,59,114,77,253,31,81
+Oklahoma,Lake Texoma State Park,126,35,95,49,50,0,0,33,88,5,126,85,42
+Oklahoma,Lake Thunderbird State Park,181,25,112,55,54,0,5,23,109,44,181,30,19
+Oklahoma,Lake Wister State Park,97,12,50,50,50,1,0,0,96,0,96,22,8
+Oklahoma,Little Sahara State Park,228,35,95,66,65,0,0,11,59,158,228,68,73
+Oklahoma,McGee Creek State Park,40,30,50,45,50,0,5,9,26,0,40,7,2
+Oklahoma,Natural Falls State Park,42,46,128,67,63,0,0,0,12,30,42,8,10
+Oklahoma,Osage Hills State Park,20,12,61,41,40,1,4,8,6,1,19,0,0
+Oklahoma,Quartz Mountain State Park,93,12,70,50,50,4,15,5,32,37,91,19,20
+Oklahoma,Robbers Cave State Park,72,12,50,30,30,2,69,0,1,0,71,0,70
+Oklahoma,Roman Nose State Park,46,12,50,41,50,2,18,0,26,0,44,16,18
+Oklahoma,Salt Plains State Park,61,30,50,39,30,0,33,0,28,0,61,1,2
+Oklahoma,Sequoyah State Park,200,30,50,38,36,0,64,102,34,0,184,0,29
+Oklahoma,Spavinaw State Park,25,35,40,37,35,0,0,25,0,0,25,0,0
+Oklahoma,Talimena State Park,10,50,50,50,50,0,0,0,10,0,10,0,0
+Oklahoma,Tenkiller State Park,87,30,69,48,53,0,23,3,40,21,87,37,60
+Oklahoma,Twin Bridges State Park,63,17,60,43,43,1,5,27,29,1,63,0,4
+Oregon,Ainsworth State Park,44,31,83,48,44,0,3,20,13,8,44,44,24
+Oregon,Alfred A. Loeb State Park,50,17,58,41,42,5,8,16,21,0,50,3,0
+Oregon,Beachside State Recreation Site,34,10,42,35,40,4,7,23,0,0,34,2,0
+Oregon,Beverly Beach State Park,128,20,60,46,47,1,15,32,79,1,128,55,32
+Oregon,Bullards Beach State Park,185,21,63,41,42,1,43,61,79,1,185,103,0
+Oregon,Cape Blanco State Park,58,30,81,52,53,0,6,6,33,13,58,6,0
+Oregon,Cape Lookout State Park,39,37,60,48,50,0,0,10,28,1,39,38,0
+Oregon,Carl G. Washburne Memorial State Park,40,20,53,39,42,5,5,16,14,0,40,27,0
+Oregon,Champoeg State Heritage Area,80,30,81,54,51,0,9,22,17,32,80,25,10
+Oregon,Clyde Holliday State Recreation Site,31,25,90,59,56,0,3,4,10,14,31,0,1
+Oregon,Collier Memorial State Park,49,28,65,46,47,0,2,20,26,1,49,45,9
+Oregon,Cove Palisades State Park,181,27,52,42,40,0,18,91,72,0,181,93,12
+Oregon,Deschutes River State Recreation Area,34,23,62,39,40,2,14,3,12,3,34,0,0
+Oregon,Detroit Lake State Recreation Area,175,19,65,39,40,6,50,64,53,2,175,107,0
+Oregon,Devils Lake State Recreation Area,33,30,55,41,42,0,7,16,10,0,33,28,0
+Oregon,Emigrant Springs State Heritage Area,20,30,90,49,45,0,1,5,12,2,20,17,0
+Oregon,Farewell Bend State Recreation Area,92,30,90,48,46,0,7,13,56,16,92,4,12
+Oregon,Fort Stevens State Park,477,30,69,48,48,0,6,142,285,44,477,170,47
+Oregon,Goose Lake State Recreation Area,42,37,60,45,45,0,0,20,21,1,42,0,0
+Oregon,Harris Beach State Park,94,15,55,40,40,3,23,33,35,0,94,65,0
+Oregon,Humbug Mountain State Park,39,33,95,49,43,0,1,24,7,7,39,4,5
+Oregon,Jasper Point State Park,27,25,65,45,43,0,2,13,9,3,27,1,0
+Oregon,Jessie M. Honeyman Memorial State Park,161,20,60,44,45,1,16,53,90,1,161,42,1
+Oregon,L.L. Stub Stewart Memorial State Park,83,63,96,64,63,0,0,0,0,83,83,83,3
+Oregon,Lake Owyhee State Park,53,21,65,43,45,10,6,8,25,4,53,1,1
+Oregon,LaPine State Park,124,30,95,47,43,0,6,61,39,18,124,80,33
+Oregon,Memaloose State Park,43,40,59,49,49,0,0,6,37,0,43,43,0
+Oregon,Milo McIver State Park,46,36,86,56,60,0,0,20,2,24,46,2,0
+Oregon,Nehalem Bay State Park,273,20,59,38,44,109,3,31,130,0,271,0,0
+Oregon,Prineville Reservoir State Park,45,25,60,46,47,0,5,12,27,1,45,21,0
+Oregon,Silver Falls State Park,51,30,85,55,54,0,2,10,20,19,51,3,0
+Oregon,South Beach State Park,235,28,56,40,42,0,80,84,71,0,235,7,0
+Oregon,Sunset Bay State Park,61,25,50,37,40,0,13,38,10,0,61,29,0
+Oregon,Tumalo State Park,23,34,56,44,44,0,1,13,9,0,23,23,0
+Oregon,Umpqua Lighthouse State Park,20,20,56,43,42,1,0,12,7,0,20,11,0
+Oregon,Unity Lake State Recreation Site,35,27,135,53,46,0,4,9,16,6,35,0,6
+Oregon,Valley of the Rogue State Park,154,30,100,53,48,0,9,35,67,43,154,93,23
+Oregon,Viento State Park,51,24,56,40,39,1,11,25,14,0,51,0,0
+Oregon,Wallowa Lake State Park,119,25,86,46,45,0,9,49,50,11,119,119,33
+Oregon,William M. Tugman State Park,99,25,60,42,48,0,35,7,56,1,99,5,0
+Pennsylvania,Bald Eagle State Forest,36,20,70,46,50,1,2,5,27,1,0,0,1
+Pennsylvania,Bald Eagle State Park,148,20,73,39,40,1,20,106,20,1,105,40,7
+Pennsylvania,Black Moshannon State Park,63,25,70,39,35,0,20,29,10,4,56,12,5
+Pennsylvania,Blue Knob State Park,44,20,40,30,30,1,39,4,0,0,44,0,6
+Pennsylvania,Buchanan State Forest,55,30,75,49,50,0,11,11,10,23,0,0,3
+Pennsylvania,Caledonia State Park,157,10,70,32,30,54,41,27,27,8,57,33,2
+Pennsylvania,Chapman State Park,65,20,100,43,40,4,12,17,24,8,55,21,2
+Pennsylvania,Cherry Springs State Park,11,30,80,59,55,0,2,2,2,5,0,0,5
+Pennsylvania,Clear Creek State Forest,5,50,60,54,55,0,0,0,4,1,0,0,5
+Pennsylvania,Clear Creek State Park,45,20,40,28,30,21,10,14,0,0,40,0,0
+Pennsylvania,Codorus State Park,167,38,58,49,49,0,0,9,158,0,109,31,0
+Pennsylvania,Colonel Denning State Park,43,15,50,28,30,21,10,11,1,0,30,0,0
+Pennsylvania,Cook Forest State Park,201,15,50,27,30,82,70,48,1,0,90,22,5
+Pennsylvania,Cornplanter State Forest,1,60,60,60,60,0,0,0,0,1,0,0,1
+Pennsylvania,Cowans Gap State Park,162,15,55,36,35,7,50,81,24,0,137,0,3
+Pennsylvania,Delaware State Forest,19,30,40,35,30,0,10,9,0,0,0,0,9
+Pennsylvania,Elk State Forest,18,25,40,31,25,0,11,7,0,0,0,0,6
+Pennsylvania,Forbes State Forest,6,20,30,25,25,2,4,0,0,0,0,0,2
+Pennsylvania,Fowlers Hollow State Park,11,20,50,35,35,1,4,4,2,0,11,0,0
+Pennsylvania,Frances Slocum State Park,73,15,50,28,25,28,22,11,12,0,51,0,1
+Pennsylvania,French Creek State Park,195,30,75,48,45,0,2,0,181,12,85,44,0
+Pennsylvania,Gifford Pinchot State Park,284,15,95,42,40,17,32,133,66,36,141,22,0
+Pennsylvania,Greenwood Furnace State Park,46,20,40,35,40,7,11,28,0,0,42,0,1
+Pennsylvania,Hickory Run State Park,342,15,40,22,20,256,55,31,0,0,130,15,1
+Pennsylvania,Hills Creek State Park,72,18,96,45,40,5,20,21,7,19,37,15,3
+Pennsylvania,Hyner Run State Park,30,30,56,44,44,0,5,11,14,0,21,0,0
+Pennsylvania,Kettle Creek State Park,55,16,45,32,30,6,27,16,6,0,44,0,0
+Pennsylvania,Keystone State Park,62,14,58,30,30,19,23,18,2,0,55,0,0
+Pennsylvania,Kooser State Park,27,20,45,36,40,1,8,15,3,0,27,4,14
+Pennsylvania,Lackawanna State Park,84,10,70,30,30,26,37,15,2,4,73,20,5
+Pennsylvania,Laurel Hill State Park,259,15,40,31,35,60,38,161,0,0,167,12,5
+Pennsylvania,Leonard Harrison State Park,25,15,100,37,30,11,7,0,1,6,7,0,1
+Pennsylvania,Little Buffalo State Park,47,20,55,38,40,6,9,17,15,0,30,0,4
+Pennsylvania,Little Pine State Park,90,15,50,32,30,22,25,39,4,0,71,0,2
+Pennsylvania,Locust Lake State Park,209,20,50,37,40,3,64,139,3,0,85,14,0
+Pennsylvania,Loyalsock State Forest,79,20,60,28,25,10,58,10,0,1,0,0,2
+Pennsylvania,Lyman Run State Park,29,32,134,59,50,0,2,10,8,9,29,0,5
+Pennsylvania,Michaux State Forest,28,45,45,45,45,0,0,0,28,0,0,0,27
+Pennsylvania,Moshannon State Forest,17,35,75,54,60,0,0,3,5,9,0,0,0
+Pennsylvania,Ohiopyle State Park,197,15,50,25,20,117,39,26,15,0,73,20,9
+Pennsylvania,Ole Bull State Park,77,20,40,29,30,6,58,13,0,0,54,0,0
+Pennsylvania,Parker Dam State Park,105,10,40,28,30,19,84,2,0,0,82,22,0
+Pennsylvania,Pinchot State Forest,18,16,40,22,16,13,3,2,0,0,0,0,1
+Pennsylvania,Pine Grove Furnace State Park,66,10,68,46,50,6,5,8,39,8,46,0,2
+Pennsylvania,Poe Paddy State Park,34,15,40,26,20,20,4,10,0,0,17,0,0
+Pennsylvania,Poe Valley State Park,38,20,40,29,30,3,28,7,0,0,26,0,2
+Pennsylvania,Prince Gallitzin State Park,390,37,118,50,49,0,0,58,297,35,246,53,2
+Pennsylvania,Promised Land State Park,293,10,130,33,30,61,102,74,37,19,175,30,12
+Pennsylvania,Pymatuning State Park,495,15,60,39,40,20,94,226,145,10,365,138,13
+Pennsylvania,Raccoon Creek State Park,125,10,50,23,20,77,28,12,8,0,61,0,1
+Pennsylvania,Raymond B Winter State Park,59,12,45,31,30,14,18,18,9,0,48,0,1
+Pennsylvania,Ricketts Glen State Park,128,15,80,27,20,71,28,17,5,7,28,22,6
+Pennsylvania,Ryerson Station State Park,18,35,50,41,40,0,0,13,5,0,18,6,2
+Pennsylvania,Shawnee State Park,198,10,50,25,20,103,46,32,17,0,112,18,19
+Pennsylvania,Simon B Elliott State Park,24,15,47,27,25,7,13,3,1,0,0,0,0
+Pennsylvania,Sinnemahoning State Park,30,20,75,38,35,10,5,5,5,5,30,0,1
+Pennsylvania,Sizerville State Park,18,25,50,38,40,0,2,15,1,0,18,0,0
+Pennsylvania,Sproul State Forest,80,15,50,26,25,21,53,1,5,0,0,0,42
+Pennsylvania,Susquehannock State Forest,41,20,100,45,40,1,4,27,1,8,0,0,4
+Pennsylvania,Tiadaghton State Forest,78,14,90,25,15,51,10,4,9,4,0,0,68
+Pennsylvania,Tioga State Forest,22,20,40,34,40,2,8,12,0,0,0,0,22
+Pennsylvania,Tobyhanna State Park,130,10,65,30,30,29,54,35,11,1,26,0,0
+Pennsylvania,Trough Creek State Park,24,20,40,35,40,1,9,14,0,0,24,0,1
+Pennsylvania,Tuscarora State Forest,43,25,25,25,25,0,43,0,0,0,0,0,38
+Pennsylvania,Weiser State Forest,2,34,51,42,42,0,1,0,1,0,0,0,0
+Pennsylvania,Worlds End State Park,42,20,80,39,38,5,12,16,4,5,14,0,0
+Rhode Island,Burlingame State Campground,594,10,119,44,40,101,130,100,140,123,0,0,38
+Rhode Island,Charlestown Breachway Campground,75,30,44,37,38,0,9,66,0,0,0,0,0
+Rhode Island,East Beach Campground,2,38,38,38,38,0,0,2,0,0,0,0,0
+Rhode Island,Fishermen's Memorial Campground,147,25,50,44,50,0,27,19,101,0,147,105,129
+Rhode Island,George Washington Campground,57,20,80,37,35,11,16,13,13,4,0,0,1
+South Carolina,Camping at Aiken,25,20,55,34,35,4,7,11,3,0,25,6,1
+South Carolina,Camping at Andrew Jackson,24,25,38,32,32,0,19,5,0,0,24,3,5
+South Carolina,Camping at Baker Creek,33,20,45,30,30,6,17,6,4,0,33,2,13
+South Carolina,Camping at Barnwell,24,12,38,25,25,11,9,4,0,0,24,7,0
+South Carolina,Camping at Calhoun Falls,82,25,80,48,48,0,4,34,28,16,82,0,29
+South Carolina,Camping at Cheraw,17,25,45,40,40,0,2,10,5,0,17,2,2
+South Carolina,Camping at Chester,24,25,40,33,32,0,12,12,0,0,24,2,7
+South Carolina,Camping at Colleton,25,18,65,39,40,2,7,10,5,1,25,25,5
+South Carolina,Camping at Croft,48,25,50,39,40,0,10,22,16,0,48,0,7
+South Carolina,Camping at Devils Fork,58,18,80,44,47,10,7,9,21,11,58,0,5
+South Carolina,Camping at Dreher Island,91,24,65,44,44,1,18,28,37,7,91,28,7
+South Carolina,Camping at Edisto Beach,105,15,60,37,40,12,19,39,34,1,105,0,4
+South Carolina,Camping at Givhans Ferry,25,30,48,38,38,0,5,14,6,0,25,25,0
+South Carolina,Camping at H. Cooper Black,27,29,91,48,47,0,6,4,12,5,27,24,0
+South Carolina,Camping at Hamilton Branch,181,20,40,30,30,3,160,18,0,0,169,0,6
+South Carolina,Camping at Hickory Knob,35,25,45,34,35,0,17,5,13,0,35,0,0
+South Carolina,Camping at Hunting Island,101,12,50,31,32,24,27,43,7,0,101,0,15
+South Carolina,Camping at Huntington Beach,167,30,80,53,50,0,1,21,104,41,167,62,0
+South Carolina,Camping at Keowee,10,30,40,36,35,0,3,7,0,0,10,3,2
+South Carolina,Camping at Kings Mountain,107,20,60,31,30,16,54,24,10,3,107,0,24
+South Carolina,Camping at Lake Greenwood,124,20,60,38,38,2,29,68,24,1,124,33,32
+South Carolina,Camping at Lake Hartwell,109,20,45,39,40,2,7,85,15,0,109,0,8
+South Carolina,Camping at Lake Wateree,99,16,60,44,44,5,10,35,44,5,99,27,9
+South Carolina,Camping at Lee,24,30,60,42,41,0,3,11,9,1,24,12,0
+South Carolina,Camping at Little Pee Dee,42,18,58,32,32,4,25,10,3,0,30,13,5
+South Carolina,Camping at Myrtle Beach,209,15,70,46,45,2,28,52,93,34,209,127,7
+South Carolina,Camping at Oconee,123,12,50,27,28,33,70,18,2,0,123,30,59
+South Carolina,Camping at Paris Mountain,23,23,40,32,35,6,5,12,0,0,23,0,5
+South Carolina,Camping at Poinsett,22,31,60,39,40,0,5,12,4,1,22,0,1
+South Carolina,Camping at Sadlers Creek,49,22,58,34,34,2,24,19,4,0,49,1,6
+South Carolina,Camping at Santee,126,12,60,35,33,32,36,33,5,20,126,0,17
+South Carolina,Camping at Sesquicentennial,75,11,55,33,35,16,17,31,11,0,75,8,15
+South Carolina,Camping at Table Rock,80,15,50,32,30,10,36,27,7,0,80,0,17
+South Dakota,Amsden Dam Lakeside Use Area,12,15,25,24,25,1,11,0,0,0,0,0,0
+South Dakota,Angostura Recreation Area,161,32,140,55,53,0,1,20,89,51,161,0,3
+South Dakota,Bailey\'s Lakeside Use Area,5,40,40,40,40,0,0,5,0,0,0,0,0
+South Dakota,Big Sioux State Recreation Area,43,60,72,68,69,0,0,0,0,43,43,0,0
+South Dakota,Buryanek Recreation Area,43,50,100,67,66,0,0,0,7,36,40,0,0
+South Dakota,Chief White Crane Recreation Area,145,25,88,73,75,0,2,0,1,142,143,0,0
+South Dakota,Clay County Park,40,50,50,50,50,0,0,0,40,0,0,0,0
+South Dakota,Cow Creek Recreation Area,45,55,100,63,55,0,0,0,37,8,37,0,0
+South Dakota,Custer State Park,293,10,95,29,25,113,88,29,47,16,177,0,24
+South Dakota,Farm Island Recreation Area,87,51,81,70,71,0,0,0,3,84,87,0,0
+South Dakota,Fisher Grove State Park,21,45,85,54,45,0,0,0,14,7,21,0,3
+South Dakota,Fort Sisseton State Park,224,50,64,51,50,0,0,0,214,10,10,0,0
+South Dakota,Hartford Beach State Park,87,25,70,60,70,0,5,19,6,57,87,0,1
+South Dakota,Hugh Glass Lakeside Use Area,16,55,70,65,65,0,0,0,3,13,0,0,0
+South Dakota,Indian Creek Recreation Area,123,15,147,63,60,5,0,0,7,111,120,0,3
+South Dakota,Lake Carthage Lakeside Use Area,13,55,70,60,60,0,0,0,4,9,13,0,0
+South Dakota,Lake Cochrane Recreation Area,29,45,80,64,69,0,0,0,10,19,29,0,0
+South Dakota,Lake Herman State Park,68,45,80,68,70,0,0,0,10,58,68,0,5
+South Dakota,Lake Hiddenwood Recreation Area,13,35,50,48,50,0,0,1,12,0,13,0,0
+South Dakota,Lake Louise Recreation Area,38,15,70,55,55,2,0,3,15,18,30,0,0
+South Dakota,Lake Poinsett Recreation Area,104,25,75,51,52,0,12,16,47,29,104,0,6
+South Dakota,Lake Thompson Recreation Area,96,30,60,45,45,0,8,30,55,3,96,0,0
+South Dakota,Lake Vermillion Recreation Area,127,15,82,69,75,4,1,4,12,106,123,0,19
+South Dakota,Lewis and Clark Recreation Area,380,45,90,66,65,0,0,0,46,334,380,0,0
+South Dakota,Llewellyn Johns Recreation Area,10,32,65,44,44,0,1,4,4,1,10,0,0
+South Dakota,Mina Lake Recreation Area,37,46,100,63,63,0,0,0,13,24,36,0,1
+South Dakota,Newton Hills State Park,109,41,75,61,62,0,0,1,36,72,109,0,0
+South Dakota,North Point Recreation Area,113,56,94,75,75,0,0,0,1,112,113,0,0
+South Dakota,North Wheeler Recreation Area,25,65,65,65,65,0,0,0,0,25,23,0,0
+South Dakota,Oahe Downstream Recreation Area,198,44,138,60,59,0,0,1,99,98,198,0,1
+South Dakota,Oakwood Lakes State Park,132,35,96,68,75,0,0,2,23,107,132,0,4
+South Dakota,Palisades State Park,98,25,84,75,80,0,6,0,0,92,92,0,5
+South Dakota,Pease Creek Recreation Area,23,64,96,76,75,0,0,0,0,23,23,0,0
+South Dakota,Pelican Lake Recreation Area,81,56,95,75,75,0,0,0,2,79,81,0,0
+South Dakota,Pickerel Lake Recreation Area,63,45,135,67,65,0,0,0,10,53,63,0,3
+South Dakota,Pierson Ranch Recreation Area,67,60,75,73,75,0,0,0,0,67,67,0,0
+South Dakota,Platte Creek Recreation Area,36,30,68,52,52,0,2,5,19,10,36,0,17
+South Dakota,Randall Creek Recreation Area,131,48,81,67,66,0,0,0,26,105,131,0,0
+South Dakota,Richmond Lake Recreation Area,25,30,100,51,48,0,1,9,13,2,23,0,2
+South Dakota,Rocky Point Recreation Area,62,65,65,65,65,0,0,0,0,62,57,0,0
+South Dakota,Roy Lake State Park,87,42,82,66,68,0,0,1,18,68,87,0,3
+South Dakota,Sandy Shore Recreation Area,15,68,80,75,75,0,0,0,0,15,15,0,0
+South Dakota,Shadehill Recreation Area,82,43,110,70,75,0,0,1,13,68,82,0,7
+South Dakota,Sheps Canyon Recreation Area,62,55,95,66,60,0,0,0,1,61,22,0,1
+South Dakota,Sica Hollow State Park,8,70,100,96,100,0,0,0,0,8,0,0,0
+South Dakota,Snake Creek Recreation Area,113,34,95,55,54,0,1,12,63,37,109,0,10
+South Dakota,Springfield Recreation Area,20,32,65,48,48,0,1,1,17,1,19,0,1
+South Dakota,Swan Creek Recreation Area,25,25,80,58,60,0,3,0,5,17,22,0,0
+South Dakota,Union Grove State Park,18,10,85,50,49,2,2,5,3,6,16,0,8
+South Dakota,Walkers Point Recreation Area,41,45,75,62,60,0,0,0,10,31,41,0,8
+South Dakota,West Bend Recreation Area,114,36,90,61,60,0,0,2,43,69,103,0,1
+South Dakota,West Pollock Recreation Area,28,50,85,69,70,0,0,0,1,27,28,0,0
+South Dakota,West Whitlock Recreation Area,104,25,65,63,65,0,5,1,0,98,100,0,0
+South Dakota,Whetstone Bay Lakeside Use Area,18,65,65,65,65,0,0,0,0,18,18,0,0
+Tennessee,Camping at Big Hill Pond,28,12,75,34,32,7,9,7,3,2,0,0,2
+Tennessee,Camping at Big Ridge,42,25,50,40,40,0,5,22,15,0,42,0,0
+Tennessee,Camping at Bledsoe Creek,62,20,87,47,47,12,10,4,17,19,62,0,27
+Tennessee,Camping at Cedars of Lebanon,101,39,118,66,62,0,0,4,30,67,101,3,32
+Tennessee,Camping at Chickasaw,78,25,120,62,62,0,8,15,11,44,78,46,11
+Tennessee,Camping at Cumberland Mountain,124,41,111,59,58,0,0,3,70,51,124,15,1
+Tennessee,Camping at David Crockett,93,25,70,45,45,0,9,28,52,4,93,0,4
+Tennessee,Camping at Edgar Evins,56,28,40,29,28,0,53,3,0,0,56,0,0
+Tennessee,Camping at Fall Creek Falls,186,20,70,45,45,1,15,71,81,18,186,91,15
+Tennessee,Camping at Fiery Gizzard,21,13,50,26,25,9,11,0,1,0,0,0,0
+Tennessee,Camping at Fort Pillow,14,30,60,45,40,0,1,8,2,3,14,0,4
+Tennessee,Camping at Frozen Head,18,15,32,23,25,8,10,0,0,0,0,0,3
+Tennessee,Camping at Harrison Bay,145,12,92,47,46,17,17,34,47,30,118,0,43
+Tennessee,Camping at Henry Horton,60,20,168,56,53,9,0,5,22,24,51,0,3
+Tennessee,Camping at Hiwassee River,45,40,108,72,70,0,0,1,3,41,0,0,1
+Tennessee,Camping at Indian Mountain,44,38,56,48,48,0,0,6,38,0,44,44,0
+Tennessee,Camping at Meeman,45,40,60,57,60,0,0,2,13,30,45,25,4
+Tennessee,Camping at Montgomery Bell,85,26,86,50,50,0,9,24,30,22,85,40,0
+Tennessee,Camping at Mousetail Landing,46,20,124,47,40,5,11,12,8,10,25,1,1
+Tennessee,Camping at Natchez Trace,113,10,170,63,60,16,22,1,15,59,96,75,19
+Tennessee,Camping at Nathan Bedford Forrest,35,38,68,48,49,0,0,5,29,1,35,1,3
+Tennessee,Camping at Norris Dam,81,10,52,33,30,19,26,9,27,0,71,0,0
+Tennessee,Camping at Old Stone Fort,47,45,65,56,56,0,0,0,38,9,47,0,0
+Tennessee,Camping at Panther Creek,46,20,66,47,52,5,9,8,4,20,46,8,0
+Tennessee,Camping at Paris Landing,52,17,145,44,43,6,14,7,17,8,34,0,5
+Tennessee,Camping at Pickett CCC Memorial,26,12,34,21,20,21,5,0,0,0,16,0,0
+Tennessee,Camping at Pickwick Landing,46,26,60,46,45,0,2,18,25,1,46,0,2
+Tennessee,Camping at Reelfoot Lake,94,38,115,50,46,0,0,31,54,9,94,55,14
+Tennessee,Camping at Roan Mountain,75,21,66,42,43,10,16,17,25,7,75,0,0
+Tennessee,Camping at Rock Island,55,18,56,40,42,4,10,16,25,0,55,6,0
+Tennessee,Camping at Standing Stone,33,42,71,59,59,0,0,1,17,15,33,1,0
+Tennessee,Camping at T. O. Fuller,38,30,100,63,60,0,1,0,10,27,38,0,11
+Tennessee,Camping at Tims Ford,127,21,70,44,41,6,31,28,37,25,127,31,0
+Tennessee,Camping at Warriors Path,125,16,77,39,40,15,33,47,22,8,125,36,8
+Texas,Abilene State Park,52,20,91,42,45,8,11,0,28,5,52,3,0
+Texas,Atlanta State Park,53,22,116,57,38,4,21,3,1,24,53,12,25
+Texas,Balmorhea State Park,28,35,95,52,46,0,0,9,11,8,28,0,12
+Texas,Barton Warnock Visitor Center,5,18,30,22,22,4,1,0,0,0,0,0,0
+Texas,Bastrop State Park,46,15,46,31,34,8,15,22,1,0,46,27,20
+Texas,Blanco State Park,28,29,120,57,56,0,1,0,15,12,28,16,1
+Texas,Bonham State Park,21,20,50,39,50,8,0,0,13,0,20,2,1
+Texas,Brazos Bend State Park,67,35,66,55,55,0,0,2,54,11,67,0,0
+Texas,Buescher State Park,28,16,65,37,37,4,9,6,7,2,28,0,0
+Texas,Caddo Lake State Park,39,22,122,51,47,2,9,4,18,6,39,5,5
+Texas,Caprock Canyons State Park and Trailway,30,43,60,54,54,0,0,1,28,1,30,0,0
+Texas,Cedar Hill State Park,315,15,60,36,30,54,114,9,136,2,315,134,0
+Texas,Choke Canyon State Park,36,45,55,49,50,0,0,0,36,0,36,0,0
+Texas,Cleburne State Park,50,28,63,45,43,0,12,16,18,4,50,22,0
+Texas,Colorado Bend State Park,8,20,20,20,20,8,0,0,0,0,0,0,0
+Texas,Cooper State Park Doctors Creek,38,50,100,59,56,0,0,0,35,3,38,0,3
+Texas,Cooper State Park South Sulphur,75,54,95,61,56,0,0,0,59,16,75,0,13
+Texas,Copper Breaks State Park,24,36,53,45,45,0,0,9,15,0,24,0,0
+Texas,Daingerfield State Park,46,15,73,32,34,15,9,13,8,1,46,34,8
+Texas,Davis Mountains State Park,84,16,60,32,30,21,23,31,5,4,84,23,23
+Texas,Devils River State Natural Area - Dan Allen Hughes Unit,3,16,16,16,16,3,0,0,0,0,0,0,0
+Texas,Devils River State Natural Area - Del Norte Unit,8,16,16,16,16,8,0,0,0,0,0,0,5
+Texas,Dinosaur Valley State Park,36,15,35,27,25,13,15,8,0,0,36,0,0
+Texas,Eisenhower State Park,75,15,127,58,48,6,12,9,26,22,75,22,22
+Texas,Falcon State Park,98,35,101,69,68,0,0,1,27,70,98,31,63
+Texas,Fort Parker State Park,28,26,100,49,50,0,7,6,8,7,24,0,4
+Texas,Fort Richardson State Park Hist. Site and Trailway,55,20,133,57,60,14,0,4,8,29,55,4,6
+Texas,Franklin Mountains State Park,5,30,50,42,40,0,1,2,2,0,0,0,0
+Texas,Galveston Island State Park,116,18,58,45,56,19,15,0,82,0,91,0,0
+Texas,Garner State Park,324,20,104,45,45,16,72,63,131,42,324,10,9
+Texas,Goliad State Park,52,24,65,36,45,24,0,0,27,1,28,15,15
+Texas,Goose Island State Park,96,15,65,44,55,24,1,1,61,9,94,0,0
+Texas,Government Canyon State Natural Area,24,10,10,10,10,24,0,0,0,0,0,0,0
+Texas,Guadalupe River State Park,80,20,95,38,49,36,1,0,42,1,80,3,0
+Texas,Hueco Tanks State Park and Historic Site,14,25,80,48,50,0,2,2,8,2,14,0,0
+Texas,Huntsville State Park,139,10,89,52,53,5,20,28,33,53,139,20,19
+Texas,Inks Lake State Park,158,14,71,47,46,9,6,50,74,19,158,0,3
+Texas,Kickapoo Cavern State Park,15,45,65,55,55,0,0,0,9,6,5,5,0
+Texas,Lake Arrowhead State Park,64,43,125,57,53,0,0,5,47,12,64,0,4
+Texas,Lake Bob Sandlin State Park,13,30,53,41,43,0,5,3,5,0,13,0,0
+Texas,Lake Brownwood State Park,75,28,75,47,50,0,22,4,32,17,68,17,0
+Texas,Lake Casa Blanca International State Park,62,32,143,68,59,0,1,9,24,28,62,9,13
+Texas,Lake Colorado City State Park,110,41,123,59,55,0,0,2,85,23,110,0,9
+Texas,Lake Corpus Christi State Park,92,20,50,30,20,53,2,15,22,0,92,20,39
+Texas,Lake Livingston State Park,132,25,75,53,56,0,16,0,96,20,132,68,0
+Texas,Lake Mineral Wells State Park and Trailway,81,33,69,57,57,0,1,2,54,24,81,0,0
+Texas,Lake Somerville State Park Birch Creek,89,32,73,57,56,0,1,1,66,21,89,0,0
+Texas,Lake Somerville State Park Nails Creek,17,50,80,67,68,0,0,0,4,13,17,0,0
+Texas,Lake Tawakoni State Park,72,45,95,57,53,0,0,0,62,10,72,17,8
+Texas,Lake Whitney State Park,135,26,107,48,39,0,40,42,19,34,135,41,40
+Texas,Lockhart State Park,17,20,40,33,40,3,4,10,0,0,17,9,5
+Texas,Lost Maples State Natural Area,29,25,67,57,59,0,1,2,12,14,29,0,0
+Texas,Lyndon B. Johnson State Park and Historic Site,3,20,20,20,20,3,0,0,0,0,1,0,0
+Texas,Martin Creek Lake State Park,51,47,60,53,53,0,0,0,49,2,51,0,0
+Texas,Martin Dies Jr. State Park,158,25,110,58,55,0,2,3,109,44,158,0,33
+Texas,McKinney Falls State Park,74,47,115,64,55,0,0,0,51,23,74,0,24
+Texas,Meridian State Park,14,19,93,56,74,6,0,0,0,8,14,8,8
+Texas,Mission Tejas State Park,14,12,88,43,52,4,2,0,6,2,14,0,5
+Texas,Monahans Sandhills State Park,23,25,60,37,35,0,7,13,1,2,23,0,10
+Texas,Mother Neff State Park,21,50,124,72,60,0,0,0,10,11,21,21,6
+Texas,Mustang Island State Park,46,65,65,65,65,0,0,0,0,46,46,0,0
+Texas,Palmetto State Park,35,10,55,29,20,20,2,3,10,0,35,0,0
+Texas,Palo Duro Canyon State Park,113,20,50,37,40,17,32,26,38,0,96,0,15
+Texas,Palo Pinto Mountains SP,22,53,75,61,60,0,0,0,9,13,22,0,0
+Texas,Pedernales Falls State Park,64,20,64,47,47,1,0,4,58,1,63,0,0
+Texas,Possum Kingdom State Park,110,16,70,30,25,24,57,16,11,2,110,0,0
+Texas,Purtis Creek State Park,52,25,56,48,50,0,7,1,44,0,52,0,0
+Texas,Ray Roberts Lake State Park Isle Du Bois,94,25,95,53,50,0,4,18,46,26,94,0,7
+Texas,Ray Roberts Lake State Park Johnson Branch,85,33,73,50,49,0,1,13,62,9,85,0,8
+Texas,San Angelo State Park,49,51,161,92,78,0,0,0,6,43,49,0,13
+Texas,Sea Rim State Park,14,55,145,101,112,0,0,0,1,13,14,0,9
+Texas,Seminole Canyon State Park and Historic Site,28,17,67,46,50,1,5,6,10,6,20,0,3
+Texas,South Llano River State Park,53,18,58,48,48,1,0,5,47,0,53,0,0
+Texas,Stephen F. Austin State Park,34,23,100,82,81,1,0,0,0,33,33,33,33
+Texas,Tyler State Park,90,27,105,50,45,0,9,28,32,21,90,48,53
+Texas,Village Creek State Park,24,47,65,53,53,0,0,0,22,2,24,0,0
+Utah,Antelope Island State Park,24,15,90,76,90,2,0,1,0,21,0,0,0
+Utah,Bear Lake State Park,92,24,90,47,42,9,1,41,13,28,88,63,30
+Utah,Coral Pink Sand Dunes State Park,30,25,150,69,40,0,2,14,1,13,14,0,28
+Utah,Dead Horse Point State Park,44,28,87,51,55,0,4,8,26,6,44,0,14
+Utah,Deer Creek State Park,51,25,85,54,54,0,4,15,12,20,31,31,24
+Utah,East Canyon State Park,21,20,90,40,40,2,7,9,1,2,0,0,0
+Utah,Escalante Petrified Forest State Park,46,10,118,48,48,6,9,6,15,10,32,25,22
+Utah,Fred Hayes State Park at Starvation,88,25,150,44,35,0,34,19,15,20,39,2,3
+Utah,Fremont Indian State Park,39,20,50,38,45,2,8,9,20,0,10,10,2
+Utah,Goblin Valley State Park,14,25,50,38,40,0,2,11,1,0,0,0,4
+Utah,Great Salt Lake State Park,5,40,40,40,40,0,0,5,0,0,5,1,0
+Utah,Green River State Park,53,16,50,34,35,5,20,19,9,0,52,4,19
+Utah,Huntington State Park,25,30,45,42,45,0,1,9,15,0,25,3,6
+Utah,Hyrum State Park,1,100,100,100,100,0,0,0,0,1,0,0,0
+Utah,Jordanelle State Park,120,20,80,52,55,15,2,12,48,43,120,22,46
+Utah,Kodachrome Basin State Park,58,20,50,34,35,13,10,22,13,0,28,15,36
+Utah,Millsite State Park,20,34,48,38,36,0,2,14,4,0,20,0,10
+Utah,Otter Creek State Park,52,30,60,42,45,0,6,12,33,1,21,0,17
+Utah,Palisade State Park,37,30,150,50,40,0,1,19,11,6,24,22,9
+Utah,Quail Creek State Park,21,20,40,34,38,1,7,13,0,0,8,0,10
+Utah,Red Fleet State Park,26,45,70,59,60,0,0,0,8,18,26,3,10
+Utah,Rockport State Park,96,20,150,34,30,8,46,35,4,3,23,0,2
+Utah,Sand Hollow State Park,94,58,171,109,117,0,0,0,1,93,82,51,76
+Utah,Scofield State Park,75,15,50,31,35,14,17,43,1,0,41,5,35
+Utah,Snow Canyon State Park,31,18,41,33,35,6,8,17,0,0,17,0,12
+Utah,Steinaker State Park,28,25,45,37,45,0,12,1,15,0,16,8,16
+Utah,Utah Lake State Park,1,42,42,42,42,0,0,1,0,0,1,0,0
+Utah,Utahraptor State Park,88,55,85,77,85,0,0,0,3,85,61,0,58
+Utah,Wasatch Mountain - Little Deer Creek,13,10,35,24,25,6,5,2,0,0,13,0,0
+Utah,Wasatch Mountain State Park,107,20,70,43,40,11,24,29,16,27,107,87,26
+Utah,Willard Bay State Park,56,35,85,55,57,0,0,19,9,28,56,56,18
+Utah,Yuba Lake State Park,207,20,200,74,80,1,10,9,14,173,56,0,35
+Vermont,Allis State Park,13,20,35,30,28,2,7,4,0,0,0,0,3
+Vermont,Big Deer State Park,21,20,35,30,30,2,18,1,0,0,0,0,0
+Vermont,Bomoseen State Park,42,20,35,24,20,28,11,3,0,0,0,0,0
+Vermont,Branbury State Park,23,16,35,28,30,7,13,3,0,0,0,0,0
+Vermont,Brighton State Park,47,20,34,26,28,19,28,0,0,0,0,0,0
+Vermont,Button Bay State Park,49,20,35,32,35,1,21,27,0,0,0,0,0
+Vermont,Coolidge State Park,17,20,34,27,28,4,13,0,0,0,0,0,0
+Vermont,D.A.R. State Park,42,20,35,29,30,10,24,8,0,0,0,0,4
+Vermont,Elmore State Park,38,23,45,27,25,18,17,0,3,0,0,0,0
+Vermont,Emerald Lake State Park,35,20,35,28,28,9,19,7,0,0,0,0,2
+Vermont,Fort Dummer State Park,39,20,40,29,28,7,25,7,0,0,0,0,0
+Vermont,Gifford Woods State Park,16,20,35,26,24,8,7,1,0,0,0,0,0
+Vermont,Grand Isle State Park,83,20,35,27,30,23,44,16,0,0,0,0,0
+Vermont,Half Moon Pond State Park,40,20,35,28,28,9,29,2,0,0,0,0,0
+Vermont,Jamaica State Park,28,20,30,21,20,24,4,0,0,0,0,0,0
+Vermont,Lake Carmi State Park,126,15,40,27,25,37,59,30,0,0,0,0,0
+Vermont,Lake St Catherine State Park,36,20,35,28,28,5,29,2,0,0,0,0,1
+Vermont,Little River State Park,36,20,35,23,20,26,7,3,0,0,0,0,0
+Vermont,Maidstone State Park,13,20,30,22,20,9,4,0,0,0,0,0,0
+Vermont,Molly Stark State Park,17,20,34,27,28,3,14,0,0,0,0,0,1
+Vermont,Mount Ascutney State Park,19,20,34,23,20,12,7,0,0,0,0,0,0
+Vermont,New Discovery State Park,33,20,45,29,28,10,20,2,1,0,0,0,2
+Vermont,Quechee State Park,39,20,35,31,34,4,19,16,0,0,0,0,0
+Vermont,Ricker Pond State Park,12,20,35,24,20,7,4,1,0,0,0,0,0
+Vermont,Silver Lake State Park,29,20,35,24,20,18,9,2,0,0,0,0,0
+Vermont,Smugglers' Notch State Park,5,28,34,29,28,0,5,0,0,0,0,0,0
+Vermont,Stillwater State Park,50,20,35,28,28,13,36,1,0,0,0,0,0
+Vermont,Townshend State Park,5,20,20,20,20,5,0,0,0,0,0,0,1
+Vermont,Wilgus State Park,15,20,35,26,28,7,6,2,0,0,0,0,1
+Vermont,Woodford State Park,60,20,35,30,29,10,38,12,0,0,0,0,0
+Virginia,Bear Creek Lake State Park,44,15,35,24,20,33,0,11,0,0,34,1,0
+Virginia,Belle Isle State Park,28,36,148,78,72,0,0,2,6,20,28,0,0
+Virginia,Breaks Interstate Park,123,20,62,39,38,8,32,49,30,4,114,59,0
+Virginia,Chippokes State Park,50,16,50,34,30,14,18,0,18,0,50,0,0
+Virginia,Claytor Lake State Park,104,20,40,30,30,36,28,40,0,0,67,0,0
+Virginia,Douthat State Park,72,30,100,50,40,0,13,24,21,14,72,0,0
+Virginia,Fairy Stone State Park,47,18,35,26,25,21,13,13,0,0,47,0,0
+Virginia,First Landing State Park,105,20,50,33,30,45,24,0,36,0,105,0,0
+Virginia,Grayson Highlands State Park,66,20,45,30,35,27,2,31,6,0,38,0,0
+Virginia,Holliday Lake State Park,36,18,50,27,22,22,7,6,1,0,36,0,0
+Virginia,Hungry Mother State Park,67,22,85,38,35,3,30,21,8,5,67,28,0
+Virginia,James River State Park,36,40,100,54,50,0,0,17,6,13,31,0,0
+Virginia,Kiptopeke State Park,93,20,91,49,50,8,0,9,65,11,93,27,0
+Virginia,Lake Anna State Park,46,35,183,65,60,0,0,11,5,30,23,0,0
+Virginia,Machicomoco State Park,14,60,60,60,60,0,0,0,0,14,14,0,0
+Virginia,Natural Tunnel State Park,34,38,45,42,45,0,0,16,18,0,34,0,0
+Virginia,Occoneechee State Park,46,30,35,31,30,0,33,13,0,0,37,0,0
+Virginia,Pocahontas State Park,115,20,80,41,40,6,33,41,13,22,110,0,0
+Virginia,Powhatan State Park,29,52,143,69,67,0,0,0,3,26,29,0,0
+Virginia,Shenandoah River State Park,31,25,60,54,60,0,2,6,0,23,31,0,0
+Virginia,Smith Mountain Lake State Park,24,35,70,48,45,0,0,8,11,5,24,0,0
+Virginia,Staunton River State Park,44,20,45,25,20,29,11,0,4,0,34,0,0
+Virginia,Twin Lakes State Park,27,20,36,27,25,4,19,4,0,0,27,0,0
+Virginia,Westmoreland State Park,98,20,65,39,40,11,19,29,35,4,50,0,0
+Washington,Alta Lake State Park,124,20,55,33,32,12,62,27,23,0,33,2,9
+Washington,Battle Ground Lake State Park,31,30,100,57,50,0,1,7,11,12,6,0,13
+Washington,Bay View State Park,6,8,12,9,8,6,0,0,0,0,0,0,0
+Washington,Beacon Rock State Park,5,40,62,53,55,0,0,1,3,1,5,5,0
+Washington,Beebe Bridge Park,46,40,112,73,72,0,0,1,6,39,46,0,23
+Washington,Belfair State Park,130,20,60,37,40,45,14,11,40,20,41,41,24
+Washington,Birch Bay State Park,167,25,97,46,43,0,25,66,56,20,22,4,17
+Washington,Bogachiel State Park,30,18,56,32,30,6,17,3,4,0,6,0,6
+Washington,Bridgeport State Park,30,34,48,40,40,0,1,23,6,0,20,0,9
+Washington,Brooks Memorial State Park,37,9,58,39,50,9,1,3,24,0,23,23,0
+Washington,Camano Island State Park,80,15,135,65,60,3,7,14,12,44,1,1,31
+Washington,Columbia Hills State Park,16,20,39,30,31,5,8,3,0,0,8,0,0
+Washington,Conconully State Park,54,24,100,55,56,1,4,4,29,16,20,0,7
+Washington,Curlew Lake State Park,13,15,40,38,40,1,0,12,0,0,11,11,0
+Washington,Daroga State Park,28,35,95,52,50,0,0,2,19,7,28,0,9
+Washington,Dash Point State Park,121,10,90,33,27,41,42,14,11,13,27,27,18
+Washington,Deception Pass State Park,307,10,99,44,42,16,56,111,81,43,135,0,56
+Washington,Dosewallips State Park,102,20,60,36,40,20,23,19,35,5,61,36,4
+Washington,Fields Spring State Park,20,27,47,36,35,0,3,16,1,0,0,0,7
+Washington,Fort Casey State Park,35,55,55,55,55,0,0,0,35,0,14,0,20
+Washington,Fort Ebey State Park,50,15,50,42,45,6,0,4,40,0,11,0,17
+Washington,Fort Townsend State Park,38,15,35,29,31,12,14,12,0,0,0,0,18
+Washington,Fort Worden State Park,80,30,70,54,50,0,1,3,56,20,80,50,16
+Washington,Grayland Beach State Park,100,40,115,51,40,0,0,58,0,42,96,58,5
+Washington,Ike Kinswa State Park,97,40,88,60,60,0,0,2,38,57,69,42,47
+Washington,Jarrell Cove State Park,8,18,70,45,40,1,2,2,0,3,2,0,2
+Washington,Joemma Beach,19,24,100,57,49,1,1,1,11,5,0,0,3
+Washington,Kanaskat-Palmer State Park,42,8,18,12,12,42,0,0,0,0,18,0,19
+Washington,Kitsap Memorial State Park,8,40,40,40,40,0,0,8,0,0,8,8,0
+Washington,Lake Chelan State Park,134,8,45,19,10,103,2,12,17,0,35,17,0
+Washington,Lake Easton State Park,135,16,80,32,30,51,28,26,22,8,45,45,30
+Washington,Lake Sylvia State Park,35,20,57,36,35,1,8,21,5,0,4,0,2
+Washington,Lake Wenatchee State Park,197,17,57,42,42,8,39,75,75,0,43,1,44
+Washington,Larrabee State Park,51,23,58,39,38,4,14,17,16,0,0,0,0
+Washington,Lewis and Clark Trail State Park (SE Washington),25,30,60,44,40,0,1,13,9,2,1,1,0
+Washington,Lincoln Rock State Park,97,30,70,57,52,0,2,10,42,43,70,35,32
+Washington,Manchester State Park,50,34,90,56,50,0,1,5,27,17,16,1,16
+Washington,Moran State Park,125,16,100,40,39,15,31,35,34,10,2,2,9
+Washington,Mount Spokane State Park,8,14,65,35,30,2,3,0,2,1,0,0,1
+Washington,Ocean City State Park,137,15,88,39,35,22,46,29,25,15,30,30,13
+Washington,Pacific Beach State Park,53,40,55,46,45,0,0,16,37,0,44,1,0
+Washington,Paradise Point State Park,66,30,69,47,48,0,2,14,46,4,18,0,3
+Washington,Pearrygin Lake State Park,127,25,70,50,50,0,17,1,79,30,70,43,60
+Washington,Penrose Point State Park,81,24,100,51,45,2,10,25,25,19,1,0,17
+Washington,Potholes State Park,115,30,50,43,45,0,4,38,73,0,60,60,4
+Washington,Potlatch State Park,68,16,78,33,32,14,34,14,5,1,34,25,5
+Washington,Rainbow Falls State Park,48,20,67,39,40,3,14,18,11,2,8,0,0
+Washington,Rasar State Park,38,39,90,56,51,0,0,3,25,10,20,0,11
+Washington,Riverside State Park - Lake Spokane,10,25,60,44,40,0,2,4,1,3,0,0,1
+Washington,Schafer State Park,47,15,147,50,41,1,7,17,17,5,33,1,5
+Washington,Seaquest State Park,4,30,45,34,30,0,3,0,1,0,3,0,2
+Washington,Sequim Bay State Park,60,21,52,30,27,4,38,16,2,0,16,16,5
+Washington,Steamboat Rock State Park,192,30,70,53,50,0,26,6,100,60,166,166,12
+Washington,Twanoh State Park,39,24,75,39,36,2,16,9,10,2,22,22,0
+Washington,Twenty-Five Mile Creek State Park,36,12,35,23,23,23,12,1,0,0,11,7,1
+Washington,Twin Harbors State Park,155,10,60,25,20,89,48,8,3,7,7,7,7
+Washington,Wanapum State Park,50,37,80,55,55,0,0,3,36,11,50,50,34
+Washington,Yakima Sportsman State Park,75,30,60,46,50,0,26,0,28,21,37,37,16
+Wisconsin,Amnicon Falls State Park,31,30,90,63,65,0,1,2,9,19,0,0,0
+Wisconsin,Big Bay State Park,54,35,200,61,60,0,0,3,22,29,23,0,1
+Wisconsin,Big Foot Beach State Park,63,23,56,37,36,2,22,28,11,0,34,0,0
+Wisconsin,Black River State Forest,97,25,90,47,42,0,17,34,24,22,14,0,21
+Wisconsin,Blue Mound State Park,76,40,100,62,60,0,0,4,26,46,30,0,2
+Wisconsin,Brule River State Forest,31,30,90,48,45,0,6,6,10,9,0,0,0
+Wisconsin,Brunet Island State Park,66,40,100,55,53,0,0,4,44,18,24,0,11
+Wisconsin,Buckhorn State Park,69,9,193,72,72,8,0,0,7,54,22,0,9
+Wisconsin,Copper Falls State Park,52,32,86,54,55,0,1,7,31,13,29,0,0
+Wisconsin,Council Grounds State Park,55,20,80,52,50,1,2,9,28,15,22,0,0
+Wisconsin,Devil's Lake State Park,406,25,60,43,45,0,48,149,176,33,169,0,0
+Wisconsin,Flambeau River State Forest,14,50,90,60,55,0,0,0,7,7,3,0,0
+Wisconsin,Governor Dodge State Park,172,15,120,35,35,19,56,58,38,1,101,0,0
+Wisconsin,Governor Earl Peshtigo River State Forest,16,45,92,66,65,0,0,0,6,10,0,0,0
+Wisconsin,Governor Knowles State Forest,31,35,75,53,50,0,0,2,19,10,8,0,0
+Wisconsin,Governor Thompson State Park,99,47,156,77,76,0,0,0,3,96,17,0,7
+Wisconsin,Harrington Beach State Park,62,25,165,75,70,0,1,0,1,60,31,0,7
+Wisconsin,Hartman Creek State Park,108,41,100,63,62,0,0,4,39,65,27,0,0
+Wisconsin,High Cliff State Park,105,21,47,36,36,1,31,66,7,0,31,0,2
+Wisconsin,Interstate State Park,56,20,60,39,40,3,17,13,21,2,23,0,0
+Wisconsin,Kettle Moraine State Forest - Northern Unit,327,13,121,47,45,6,40,115,127,39,72,0,0
+Wisconsin,Kettle Moraine State Forest - Pike Lake Unit,32,20,70,44,45,3,3,8,14,4,12,0,0
+Wisconsin,Kettle Moraine State Forest - Southern Unit,259,30,144,44,30,0,165,4,22,68,70,0,10
+Wisconsin,Kohler-Andrae State Park,137,15,74,35,30,21,56,31,20,9,71,0,13
+Wisconsin,Lake Kegonsa State Park,94,25,120,57,56,0,2,14,43,35,32,0,3
+Wisconsin,Lake Wissota State Park,116,40,96,58,57,0,0,4,67,45,59,0,5
+Wisconsin,Merrick State Park,55,20,65,48,45,1,2,12,26,14,22,0,0
+Wisconsin,Mill Bluff State Park,21,20,20,20,20,21,0,0,0,0,6,0,0
+Wisconsin,Mirror Lake State Park,139,30,131,57,60,0,4,12,50,73,62,0,0
+Wisconsin,Nelson Dewey State Park,32,35,100,58,55,0,0,2,17,13,21,0,3
+Wisconsin,New Glarus Woods State Park,18,25,90,42,40,0,4,7,6,1,1,0,0
+Wisconsin,Northern Highland - American Legion State Forest,777,15,120,55,55,9,46,116,260,346,2,0,0
+Wisconsin,Pattison State Park,58,45,124,88,95,0,0,0,8,50,19,0,52
+Wisconsin,Peninsula State Park,465,20,80,47,50,1,8,101,344,11,186,0,9
+Wisconsin,Perrot State Park,80,35,75,59,60,0,0,5,26,49,48,0,0
+Wisconsin,Point Beach State Forest,127,20,140,51,50,15,2,25,40,45,71,0,3
+Wisconsin,Potawatomi State Park,123,18,80,39,40,1,30,68,20,4,48,0,1
+Wisconsin,Richard Bong State Recreation Area,217,30,88,48,47,0,2,50,160,5,61,0,0
+Wisconsin,Roche-A-Cri State Park,39,14,40,29,30,13,11,15,0,0,6,0,0
+Wisconsin,Rocky Arbor State Park,82,20,95,54,55,1,11,13,20,37,18,0,0
+Wisconsin,Wildcat Mountain State Park,22,20,40,28,30,3,17,2,0,0,10,0,0
+Wisconsin,Willow River State Park,150,40,110,62,60,0,0,1,41,108,65,0,10
+Wisconsin,Wyalusing State Park,104,10,108,40,39,16,28,26,23,11,38,0,2
+Wisconsin,Yellowstone Lake State Park,92,20,75,35,32,8,40,28,15,1,39,0,1
+Wyoming,Boysen State Park,180,20,120,52,50,17,26,26,33,78,1,0,17
+Wyoming,Buffalo Bill State Park,97,30,140,85,90,0,1,0,0,96,38,0,65
+Wyoming,Curt Gowdy State Park,152,15,75,41,40,2,41,52,38,19,50,2,96
+Wyoming,Glendo State Park,377,20,200,80,65,3,13,35,70,256,48,0,131
+Wyoming,Guernsey State Park,181,14,126,45,50,15,11,29,115,11,44,0,18
+Wyoming,Keyhole State Park,249,10,150,56,60,2,34,50,37,126,52,0,52
+Wyoming,Medicine Lodge State Archaeological Site,28,40,80,52,50,0,0,9,9,10,9,0,4
+Wyoming,Seminoe State Park,82,40,40,40,40,0,0,82,0,0,13,0,30
+Wyoming,Sinks Canyon State Park,15,18,45,32,30,3,5,6,1,0,0,0,0

@@ -1,0 +1,412 @@
+<title>State Parks</title>
+<style>
+:root{
+  --bg:#f6f6f3; --card:#fff; --text:#1b1c1a; --muted:#6b6d68; --line:#e3e3dd;
+  --accent:#2f6f4f; --accent-soft:#e9f1ec; --chip:#eeeee9; --bar:#2f6f4f;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171a; --card:#1d2023; --text:#eceae4; --muted:#9a9c96; --line:#2c3034;
+    --accent:#7fc7a3; --accent-soft:#22302a; --chip:#262a2e; --bar:#7fc7a3;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15171a; --card:#1d2023; --text:#eceae4; --muted:#9a9c96; --line:#2c3034;
+  --accent:#7fc7a3; --accent-soft:#22302a; --chip:#262a2e; --bar:#7fc7a3;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:2rem 1rem 5rem}
+h1{margin:0 0 .2rem;font-size:2rem;letter-spacing:-.02em}
+h2{margin:2.5rem 0 .3rem;font-size:1.25rem}
+.sub{color:var(--muted);margin:0 0 1.5rem;max-width:66ch}
+.controls{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin-bottom:.9rem;
+  position:sticky;top:0;background:var(--bg);padding:.6rem 0;z-index:5;border-bottom:1px solid transparent}
+.controls.stuck{border-bottom-color:var(--line)}
+input[type=search],input[type=number],select{padding:.55rem .7rem;font-size:1rem;color:var(--text);
+  background:var(--card);border:1px solid var(--line);border-radius:8px}
+input[type=search]{flex:1 1 280px;min-width:0}
+input[type=number]{width:6.5rem}
+select{max-width:15rem}
+input:focus,select:focus{outline:2px solid var(--accent);outline-offset:1px}
+.count{color:var(--muted);font-size:.88rem;white-space:nowrap}
+button.reset{padding:.55rem .8rem;font-size:.9rem;border:1px solid var(--line);border-radius:8px;
+  background:var(--card);color:var(--muted);cursor:pointer}
+button.reset:hover{color:var(--text)}
+.sysline{margin:0 0 1rem;font-size:.9rem;color:var(--muted)}
+.tablewrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;min-width:560px}
+th,td{text-align:left;padding:.6rem .85rem;border-bottom:1px solid var(--line);vertical-align:top}
+thead th{background:var(--card);font-size:.75rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);
+  white-space:nowrap;box-shadow:inset 0 -1px 0 var(--line)}
+thead.sortable th{cursor:pointer;user-select:none}
+thead.sortable th:hover{color:var(--text)}
+thead th .arrow{opacity:.3;font-size:.75em;margin-left:.3em}
+thead th[aria-sort] .arrow{opacity:1;color:var(--accent)}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:var(--accent-soft)}
+a{color:var(--accent)}
+td.state{white-space:nowrap;color:var(--muted);font-size:.9rem}
+td.name{font-weight:500}
+td.site{font-size:.9rem;word-break:break-word}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.empty{padding:2.5rem;text-align:center;color:var(--muted)}
+.more{margin:1rem 0 0;text-align:center}
+.more button{padding:.6rem 1.2rem;font-size:.95rem;border:1px solid var(--line);border-radius:8px;
+  background:var(--card);color:var(--text);cursor:pointer}
+.more button:hover{border-color:var(--accent);color:var(--accent)}
+.tabs{display:flex;gap:.4rem;margin:0 0 1.2rem;border-bottom:1px solid var(--line);overflow-x:auto}
+.tabs button{appearance:none;background:none;border:none;border-bottom:2px solid transparent;white-space:nowrap;
+  padding:.6rem .9rem;font:inherit;font-size:.95rem;color:var(--muted);cursor:pointer}
+.tabs button:hover{color:var(--text)}
+.tabs button[aria-selected="true"]{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+.panel[hidden]{display:none!important}
+.note{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:8px;padding:.9rem 1.1rem;margin:0 0 1.2rem;font-size:.92rem;color:var(--muted)}
+.note strong{color:var(--text)}
+.rvtable td{font-size:.9rem}
+.rvtable td.st{white-space:nowrap;font-weight:600;font-size:.92rem}
+.yes{color:var(--accent);font-weight:600}
+.na{color:var(--muted);font-style:italic}
+.src{font-size:.82rem}
+details.va{margin-top:1.4rem}
+details.va summary{cursor:pointer;font-weight:600;padding:.5rem 0}
+footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
+
+/* fit tool */
+.fitform{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1rem 1.4rem;
+  background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1.1rem 1.2rem;margin:0 0 1rem}
+.fitform fieldset{border:none;margin:0;padding:0;min-width:0}
+.fitform legend,.fitform .lbl{font-size:.75rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-bottom:.35rem;padding:0}
+.fitform .row{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap}
+.fitform label.chk{display:flex;gap:.45rem;align-items:flex-start;font-size:.92rem;margin-top:.45rem;cursor:pointer}
+.fitform label.chk input{margin-top:.25rem}
+.fitform select{max-width:100%;width:100%}
+.need{font-size:.92rem;color:var(--muted);margin-top:.45rem}
+.need strong{color:var(--text);font-size:1.05rem}
+.fitsum{display:flex;gap:1.6rem;flex-wrap:wrap;margin:0 0 .9rem;align-items:baseline}
+.fitsum .big{font-size:1.6rem;font-weight:650;letter-spacing:-.01em}
+.fitsum .lab{color:var(--muted);font-size:.85rem}
+.meter{display:inline-block;width:4.5rem;height:.45rem;background:var(--chip);border-radius:4px;vertical-align:middle;margin-left:.45rem;overflow:hidden}
+.meter i{display:block;height:100%;background:var(--bar)}
+.tag{display:inline-block;font-size:.72rem;padding:.05rem .45rem;border-radius:999px;background:var(--chip);color:var(--muted);margin-left:.35rem;white-space:nowrap}
+.fitsrch{display:flex;gap:.6rem;flex-wrap:wrap;margin:0 0 .8rem}
+</style>
+<div class="wrap">
+  <h1>State Parks</h1>
+  <p class="sub">Every state park, forest, historic site, and recreation area in the 50 state park systems &mdash; {{N_PARKS}} in all, each linked to its page on the state&rsquo;s own website &mdash; plus the maximum RV length of {{ALL_SITES}} individual campsites.</p>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-parks" aria-controls="panel-parks" aria-selected="true">All parks</button>
+    <button role="tab" id="tab-fit" aria-controls="panel-fit" aria-selected="false">Will my rig fit?</button>
+    <button role="tab" id="tab-rv" aria-controls="panel-rv" aria-selected="false">RV rules by state</button>
+  </div>
+
+  <div class="panel" id="panel-parks">
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search parks&hellip;" autocomplete="off" aria-label="Search parks">
+    <select id="state" aria-label="Filter by state"><option value="">All states</option></select>
+    <button type="button" class="reset" id="reset">Reset</button>
+    <span class="count" id="count"></span>
+  </div>
+  <p class="sysline" id="sysline"></p>
+  <div class="tablewrap">
+    <table>
+      <thead class="sortable" id="parkhead">
+        <tr>
+          <th scope="col">State <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">Park <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
+        </tr>
+      </thead>
+      <tbody id="body"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No parks match that search.</div>
+  </div>
+  <div class="more" id="more"></div>
+  </div>
+
+  <div class="panel" id="panel-fit" hidden>
+    <p class="note"><strong>How this works.</strong> Every campsite below carries the maximum length its own reservation system allows
+    &mdash; {{TOT_SITES}} state-park sites in {{N_STATES}} states and {{FED_SITES}} federal sites on Recreation.gov.
+    Enter your rig and see which campgrounds have sites long enough. In the states that explain their numbers, the listed length
+    has to hold <em>everything on the pad</em>, tow vehicle included &mdash; so the tow box is on by default. Always confirm the
+    exact site when you book.</p>
+
+    <form class="fitform" id="fitform" onsubmit="return false">
+      <fieldset>
+        <legend>Your rig</legend>
+        <div class="row"><input type="number" id="rig" min="10" max="120" step="1" value="32" aria-label="RV or trailer length in feet"> <span>ft RV / trailer</span></div>
+        <div class="row" style="margin-top:.45rem"><input type="number" id="tow" min="0" max="40" step="1" value="0" aria-label="Tow or towed vehicle length in feet"> <span>ft tow / towed vehicle</span></div>
+        <label class="chk"><input type="checkbox" id="towcount" checked> <span>Tow vehicle has to fit on the site too</span></label>
+        <div class="need" id="need"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Site needs</legend>
+        <select id="hk" aria-label="Hookups needed">
+          <option value="0">Any site, hookups or not</option>
+          <option value="1">Electric at least</option>
+          <option value="2">Water + electric at least</option>
+          <option value="3">Full hookups (water, electric, sewer)</option>
+        </select>
+        <select id="amps" aria-label="Minimum electric service" style="margin-top:.45rem">
+          <option value="0">Any electric service</option>
+          <option value="30">30 amp or more</option>
+          <option value="50">50 amp</option>
+        </select>
+        <label class="chk"><input type="checkbox" id="pull"> <span>Pull-through only</span></label>
+      </fieldset>
+      <fieldset>
+        <legend>Where</legend>
+        <select id="fstate" aria-label="State"><option value="">All states</option></select>
+        <label class="chk"><input type="checkbox" id="incstate" checked> <span>State parks</span></label>
+        <label class="chk"><input type="checkbox" id="incfed" checked> <span>Federal campgrounds (Park Service, Forest Service, Army Corps, BLM, Reclamation)</span></label>
+      </fieldset>
+    </form>
+
+    <div class="fitsum" id="fitsum"></div>
+    <div class="fitsrch">
+      <input type="search" id="fq" placeholder="Filter by campground name&hellip;" autocomplete="off" aria-label="Filter results by name">
+    </div>
+    <div class="tablewrap">
+      <table>
+        <thead class="sortable" id="fithead"><tr>
+          <th scope="col">State <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">Campground <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">Sites that fit <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">RV sites <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">Longest <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">Pull-through <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">Full hookup <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">Book</th>
+        </tr></thead>
+        <tbody id="fitbody"></tbody>
+      </table>
+      <div class="empty" id="fitempty" hidden>Nothing fits those settings. Try a shorter rig, fewer hookup needs, or turn off pull-through.</div>
+    </div>
+    <div class="more" id="fitmore"></div>
+    <p class="sysline" style="margin-top:1rem">&ldquo;Pull-through&rdquo; and &ldquo;Full hookup&rdquo; count only the sites that fit.
+    Some systems don&rsquo;t publish hookups or driveway type per site (Florida, Louisiana and Vermont publish no hookups; most US eDirect states publish no driveway type), so those
+    sites drop out when you ask for them &mdash; they may still have them.</p>
+  </div>
+
+  <div class="panel" id="panel-rv" hidden>
+    <p class="note"><strong>Read this first.</strong> No state publishes a single system-wide maximum RV length &mdash; the limit is set per campsite and lives in each state&rsquo;s reservation system.
+    Where a state does say how length is measured, it measures the <em>whole rig on the driveway</em>: Oregon and Wisconsin say so outright, and Arkansas and Missouri require everything to fit on the spur or pad.
+    Treat &ldquo;Not stated&rdquo; as &ldquo;the state does not publish it,&rdquo; not as &ldquo;no limit&rdquo; &mdash; and assume your tow vehicle counts unless a park tells you otherwise.</p>
+
+    <div class="tablewrap">
+      <table class="rvtable">
+        <thead><tr>
+          <th scope="col">State</th><th scope="col">Measured site length</th><th scope="col">Published limit</th><th scope="col">Tow vehicle counted?</th>
+          <th scope="col">Vehicles per site</th><th scope="col">Where extra vehicles park</th>
+          <th scope="col">Source</th>
+        </tr></thead>
+        <tbody>
+{{POLICY_ROWS}}
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Measured from the state reservation systems</h2>
+    <p class="note">Every bookable RV-capable campsite in {{N_STATES}} states, pulled from the platforms that run their reservations &mdash;
+    <strong>{{TOT_SITES}} sites across {{TOT_PARKS}} parks</strong>, each carrying its own maximum vehicle length, plus hookups and
+    driveway type where the system publishes them. Cabins, yurts, tent-only, walk-in, boat-in, equestrian and day-use units are excluded,
+    as are marina docks and parking that some systems sell with a vehicle length attached.</p>
+    <div class="tablewrap">
+      <table class="rvtable">
+        <thead><tr><th>State</th><th>Parks</th><th>RV sites</th><th>Average</th><th>Longest</th>
+        <th>&lt;25 ft</th><th>25-34</th><th>35-44</th><th>45-59</th><th>60+</th><th>Electric</th><th>Full hookup</th><th>Pull-through</th></tr></thead>
+        <tbody>
+{{STATE_SUM_ROWS}}
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Federal campgrounds, by state</h2>
+    <p class="note">{{FED_SITES}} RV-capable sites in {{FED_CGS}} campgrounds across {{FED_STATES}} states, from the public
+    <a href="https://ridb.recreation.gov/download" target="_blank" rel="noopener noreferrer">Recreation.gov RIDB export</a> &mdash;
+    National Park Service, Forest Service, Army Corps of Engineers, BLM and Bureau of Reclamation campgrounds, each site with its
+    maximum vehicle length. It fills in where the state systems can&rsquo;t: Alabama, Idaho, New Jersey, Mississippi, West Virginia
+    and Hawaii have no measurable state-park data, but most of them have federal campgrounds.</p>
+    <div class="tablewrap">
+      <table class="rvtable">
+        <thead><tr><th>State</th><th>Campgrounds</th><th>RV sites</th><th>Average</th><th>Longest</th>
+        <th>&lt;25 ft</th><th>25-34</th><th>35-44</th><th>45-59</th><th>60+</th><th>Electric</th><th>Full hookup</th><th>Pull-through</th></tr></thead>
+        <tbody>
+{{FED_SUM_ROWS}}
+        </tbody>
+      </table>
+    </div>
+
+    <details class="va" style="margin-top:1.2rem">
+      <summary>Per-park detail &mdash; all {{TOT_PARKS}} state parks</summary>
+      <div class="tablewrap" style="margin-top:.7rem">
+        <table class="rvtable">
+          <thead><tr><th>State</th><th>Park</th><th>RV sites</th><th>Shortest</th><th>Longest</th>
+          <th>Average</th><th>Median</th><th>&lt;25 ft</th><th>25-34</th><th>35-44</th><th>45-59</th><th>60+</th></tr></thead>
+          <tbody>
+{{PER_PARK_ROWS}}
+          </tbody>
+        </table>
+      </div>
+    </details>
+
+    <details class="va">
+      <summary>Virginia &mdash; the one state that publishes a full per-park size breakdown ({{VA_PARKS}} parks, {{VA_SITES}} RV sites)</summary>
+      <div class="tablewrap" style="margin-top:.7rem">
+        <table class="rvtable">
+          <thead><tr><th scope="col">Park</th><th scope="col">Longest site</th><th scope="col">RV sites</th><th scope="col">Sites by size, as published</th></tr></thead>
+          <tbody>
+{{VA_ROWS}}
+          </tbody>
+        </table>
+      </div>
+    </details>
+  </div>
+
+  <footer>
+    {{N_PARKS}} parks across 50 states &middot; data in <code>parks.csv</code>, state systems in <code>state-park-systems.csv</code>,
+    campsite lengths in <code>rv/site-combos.csv</code> and <code>federal/federal-combos.csv</code>.<br>
+    Collected from each state agency&rsquo;s own website and reservation system, and from Recreation.gov. Campsite data refreshed {{UPDATED}}.
+  </footer>
+</div>
+<script>
+window.__PARKS__ = {{PARKS_JSON}};
+window.__SYS__ = {{SYS_JSON}};
+window.__FIT__ = {{FIT_JSON}};
+</script>
+<script>
+const PARKS = window.__PARKS__, SYS = window.__SYS__;
+const PAGE = 200;
+let sortKey = 0, sortDir = 1, shown = PAGE;
+const body=document.getElementById('body'), empty=document.getElementById('empty'),
+      countEl=document.getElementById('count'), q=document.getElementById('q'),
+      st=document.getElementById('state'), moreWrap=document.getElementById('more'),
+      sysline=document.getElementById('sysline'), controls=document.querySelector('.controls');
+
+[...new Set(PARKS.map(p=>p[0]))].sort().forEach(s=>{
+  const o=document.createElement('option'); o.value=s; o.textContent=s; st.appendChild(o);
+});
+
+function host(u){ try { return new URL(u).host.replace(/^www\./,''); } catch(e){ return u; } }
+function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function filtered(){
+  const term=q.value.trim().toLowerCase(), sel=st.value;
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)));
+  rows=rows.slice().sort((a,b)=>{
+    const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
+    return c || a[1].localeCompare(b[1]);
+  });
+  return rows;
+}
+
+function render(){
+  const rows=filtered();
+  const slice=rows.slice(0,shown);
+  body.innerHTML=slice.map(p=>
+    `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td>`+
+    `<td class="site"><a href="${esc(p[2])}" target="_blank" rel="noopener noreferrer">${esc(host(p[2]))}</a></td></tr>`).join('');
+  empty.hidden = rows.length>0;
+  countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
+    (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');
+  moreWrap.innerHTML = rows.length>slice.length
+    ? '<button type="button" id="moreBtn">Show more</button>' : '';
+  if(moreWrap.firstChild) moreWrap.firstChild.onclick=()=>{ shown+=PAGE*2; render(); };
+  document.querySelectorAll('#parkhead th').forEach((th,i)=>{
+    if(i===sortKey) th.setAttribute('aria-sort', sortDir===1?'ascending':'descending');
+    else th.removeAttribute('aria-sort');
+  });
+  const s=SYS[st.value];
+  sysline.innerHTML = s
+    ? `Official system site: <a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])}</a>`
+    : 'Pick a state to see its park-system site, or search across all 50.';
+}
+
+document.querySelectorAll('#parkhead th').forEach((th,i)=>th.addEventListener('click',()=>{
+  if(i===sortKey) sortDir=-sortDir; else { sortKey=i; sortDir=1; }
+  shown=PAGE; render();
+}));
+q.addEventListener('input',()=>{shown=PAGE;render()});
+st.addEventListener('change',()=>{shown=PAGE;render()});
+document.getElementById('reset').addEventListener('click',()=>{q.value='';st.value='';sortKey=0;sortDir=1;shown=PAGE;render()});
+addEventListener('scroll',()=>controls.classList.toggle('stuck',scrollY>4));
+render();
+
+/* ---------- Will my rig fit? ---------- */
+const FIT = window.__FIT__;
+const $ = id => document.getElementById(id);
+const F = {rig:$('rig'), tow:$('tow'), towcount:$('towcount'), hk:$('hk'), amps:$('amps'), pull:$('pull'),
+           st:$('fstate'), incstate:$('incstate'), incfed:$('incfed'), q:$('fq')};
+FIT.states.forEach((s,i)=>{ const o=document.createElement('option'); o.value=i; o.textContent=s; F.st.appendChild(o); });
+let fitSort = 2, fitDir = -1, fitShown = 100;
+const store = { get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } }, set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} } };
+try { const saved = JSON.parse(store.get('fit')||'null'); if(saved) for(const k in saved){ const el=F[k]; if(!el) continue; if(el.type==='checkbox') el.checked=saved[k]; else el.value=saved[k]; } } catch(e){}
+
+function fitRows(){
+  const need = (+F.rig.value||0) + (F.towcount.checked ? (+F.tow.value||0) : 0);
+  const hk = +F.hk.value, amps = +F.amps.value, pull = F.pull.checked, st = F.st.value, term = F.q.value.trim().toLowerCase();
+  const out = [];
+  for (const p of FIT.p) {
+    const [si, name, ag, fid, c] = p;
+    if (st !== '' && si !== +st) continue;
+    if (ag === 0 ? !F.incstate.checked : !F.incfed.checked) continue;
+    if (term && !name.toLowerCase().includes(term)) continue;
+    let fit = 0, tot = 0, longest = 0, pt = 0, full = 0;
+    for (let i = 0; i < c.length; i += 5) {
+      const len = c[i], h = c[i+1], a = c[i+2], e = c[i+3], n = c[i+4];
+      tot += n; if (len > longest) longest = len;
+      if (len < need) continue;
+      if (hk > 0 && h < hk) continue;
+      if (amps > 0 && a < amps) continue;
+      if (pull && e !== 1) continue;
+      fit += n; if (e === 1) pt += n; if (h === 3) full += n;
+    }
+    if (fit > 0) out.push([FIT.states[si], name, fit, tot, longest, pt, full, ag, fid, si]);
+  }
+  return {need, out};
+}
+function renderFit(){
+  const {need, out} = fitRows();
+  store.set('fit', JSON.stringify(Object.fromEntries(Object.entries(F).filter(([k])=>k!=='q').map(([k,el])=>[k, el.type==='checkbox'?el.checked:el.value]))));
+  $('need').innerHTML = `Needs a site at least <strong>${need} ft</strong> long`;
+  out.sort((a,b)=>{ const x=a[fitSort], y=b[fitSort]; const c = typeof x==='string' ? x.localeCompare(y) : x-y; return c*fitDir || b[2]-a[2] || a[1].localeCompare(b[1]); });
+  const sites = out.reduce((s,r)=>s+r[2],0), states = new Set(out.map(r=>r[0])).size;
+  $('fitsum').innerHTML = `<div><div class="big">${out.length.toLocaleString()}</div><div class="lab">campgrounds with a site that fits</div></div>`+
+    `<div><div class="big">${sites.toLocaleString()}</div><div class="lab">sites that fit</div></div>`+
+    `<div><div class="big">${states}</div><div class="lab">states</div></div>`;
+  const slice = out.slice(0, fitShown);
+  $('fitbody').innerHTML = slice.map(r=>{
+    const [s, name, fit, tot, longest, pt, full, ag, fid, si] = r;
+    const url = ag ? `https://www.recreation.gov/camping/campgrounds/${fid}` : (FIT.book[si] || '');
+    const tag = ag ? `<span class="tag">${esc(FIT.ags[ag])}</span>` : '';
+    const w = Math.max(4, Math.round(100*fit/tot));
+    return `<tr><td class="state">${esc(s)}</td><td class="name">${esc(name)}${tag}</td>`+
+      `<td class="num"><strong>${fit}</strong><span class="meter" title="${Math.round(100*fit/tot)}% of RV sites"><i style="width:${w}%"></i></span></td>`+
+      `<td class="num">${tot}</td><td class="num">${longest} ft</td><td class="num">${pt||'&ndash;'}</td><td class="num">${full||'&ndash;'}</td>`+
+      `<td class="site">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${ag?'recreation.gov':esc(host(url))}</a>`:''}</td></tr>`;
+  }).join('');
+  $('fitempty').hidden = out.length > 0;
+  $('fitmore').innerHTML = out.length > slice.length ? `<button type="button">Show more (${(out.length-slice.length).toLocaleString()} left)</button>` : '';
+  if ($('fitmore').firstChild) $('fitmore').firstChild.onclick = ()=>{ fitShown += 200; renderFit(); };
+  document.querySelectorAll('#fithead th').forEach((th,i)=>{ if(i===fitSort) th.setAttribute('aria-sort', fitDir===1?'ascending':'descending'); else th.removeAttribute('aria-sort'); });
+}
+const FITCOL = [0,1,2,3,4,5,6];
+document.querySelectorAll('#fithead th').forEach((th,i)=>{ if(i>6) return; th.addEventListener('click',()=>{
+  if(fitSort===FITCOL[i]) fitDir=-fitDir; else { fitSort=FITCOL[i]; fitDir = i<2 ? 1 : -1; }
+  fitShown=100; renderFit(); }); });
+Object.values(F).forEach(el=>el.addEventListener(el.type==='checkbox'||el.tagName==='SELECT'?'change':'input',()=>{ fitShown=100; renderFit(); }));
+
+/* ---------- tabs ---------- */
+const TABS=['parks','fit','rv'];
+let fitReady=false;
+function showTab(k){
+  for(const n of TABS){ $('tab-'+n).setAttribute('aria-selected', String(n===k)); $('panel-'+n).hidden = n!==k; }
+  if(k==='fit' && !fitReady){ fitReady=true; renderFit(); }
+  try{ history.replaceState(null,'', k==='parks' ? location.pathname : '#'+k); }catch(e){}
+}
+TABS.forEach(n=>$('tab-'+n).onclick=()=>showTab(n));
+if(TABS.includes(location.hash.slice(1))) showTab(location.hash.slice(1));
+</script>
