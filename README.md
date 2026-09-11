@@ -1,6 +1,6 @@
 # State Parks
 
-A searchable, sortable table of **every individual park in all 50 state park systems** — 3,557 parks, forests, historic sites, recreation areas, beaches, and trails, each linked to its page on the state agency's own website.
+A searchable, sortable table of **every individual park in all 50 state park systems** — 3,560 parks, forests, historic sites, recreation areas, beaches, and trails, each linked to its page on the state agency's own website.
 
 - **[View the table](https://tim-army.github.io/State-Parks/)** — search across all 50 states, filter to one state, sort any column.
 - **[`parks.csv`](parks.csv)** — `State`, `Park Name`, `Official Website` (one row per park).
@@ -11,7 +11,7 @@ A searchable, sortable table of **every individual park in all 50 state park sys
 
 | State | Parks | State | Parks | State | Parks |
 |---|--:|---|--:|---|--:|
-| Alabama | 22 | Louisiana | 36 | Ohio | 69 |
+| Alabama | 25 | Louisiana | 36 | Ohio | 69 |
 | Alaska | 97 | Maine | 97 | Oklahoma | 38 |
 | Arizona | 33 | Maryland | 63 | Oregon | 197 |
 | Arkansas | 54 | Massachusetts | 88 | Pennsylvania | 125 |
