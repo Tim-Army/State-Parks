@@ -50,6 +50,7 @@ a{color:var(--accent)}
 td.state{white-space:nowrap;color:var(--muted);font-size:.9rem}
 td.name{font-weight:500}
 td.site{font-size:.9rem;word-break:break-word}
+td.tm{white-space:nowrap;font-size:.9rem}
 td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
 .empty{padding:2.5rem;text-align:center;color:var(--muted)}
 .more{margin:1rem 0 0;text-align:center}
@@ -179,6 +180,8 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col" class="num">Longest <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col" class="num">Pull-through <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col" class="num">Full hookup <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col">Check-in</th>
+          <th scope="col">Check-out</th>
           <th scope="col">Book</th>
         </tr></thead>
         <tbody id="fitbody"></tbody>
@@ -186,7 +189,9 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
       <div class="empty" id="fitempty" hidden>Nothing fits those settings. Try a shorter rig, fewer hookup needs, or turn off pull-through.</div>
     </div>
     <div class="more" id="fitmore"></div>
-    <p class="sysline" style="margin-top:1rem">&ldquo;Pull-through&rdquo; and &ldquo;Full hookup&rdquo; count only the sites that fit.
+    <p class="sysline" style="margin-top:1rem">&ldquo;Pull-through&rdquo; and &ldquo;Full hookup&rdquo; count only the sites that fit. Check-in and check-out are
+    per campground for federal sites (Recreation.gov) and the state&rsquo;s standard campsite times for state parks
+    (&ldquo;Varies&rdquo; where the state sets them park by park) &mdash; see the RV rules tab for each state&rsquo;s source.
     Some systems don&rsquo;t publish hookups or driveway type per site (Florida, Louisiana and Vermont publish no hookups; most US eDirect states publish no driveway type), so those
     sites drop out when you ask for them &mdash; they may still have them.</p>
   </div>
@@ -201,6 +206,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
         <thead><tr>
           <th scope="col">State</th><th scope="col">Measured site length</th><th scope="col">Published limit</th><th scope="col">Tow vehicle counted?</th>
           <th scope="col">Vehicles per site</th><th scope="col">Where extra vehicles park</th>
+          <th scope="col">Check-in</th><th scope="col">Check-out</th>
           <th scope="col">Source</th>
         </tr></thead>
         <tbody>
@@ -350,7 +356,7 @@ function fitRows(){
   const hk = +F.hk.value, amps = +F.amps.value, pull = F.pull.checked, st = F.st.value, term = F.q.value.trim().toLowerCase();
   const out = [];
   for (const p of FIT.p) {
-    const [si, name, ag, fid, c] = p;
+    const [si, name, ag, fid, c, ci, co] = p;
     if (st !== '' && si !== +st) continue;
     if (ag === 0 ? !F.incstate.checked : !F.incfed.checked) continue;
     if (term && !name.toLowerCase().includes(term)) continue;
@@ -364,7 +370,7 @@ function fitRows(){
       if (pull && e !== 1) continue;
       fit += n; if (e === 1) pt += n; if (h === 3) full += n;
     }
-    if (fit > 0) out.push([FIT.states[si], name, fit, tot, longest, pt, full, ag, fid, si]);
+    if (fit > 0) out.push([FIT.states[si], name, fit, tot, longest, pt, full, ag, fid, si, ci, co]);
   }
   return {need, out};
 }
@@ -379,13 +385,14 @@ function renderFit(){
     `<div><div class="big">${states}</div><div class="lab">states</div></div>`;
   const slice = out.slice(0, fitShown);
   $('fitbody').innerHTML = slice.map(r=>{
-    const [s, name, fit, tot, longest, pt, full, ag, fid, si] = r;
+    const [s, name, fit, tot, longest, pt, full, ag, fid, si, ci, co] = r;
     const url = ag ? `https://www.recreation.gov/camping/campgrounds/${fid}` : (FIT.book[si] || '');
     const tag = ag ? `<span class="tag">${esc(FIT.ags[ag])}</span>` : '';
     const w = Math.max(4, Math.round(100*fit/tot));
     return `<tr><td class="state">${esc(s)}</td><td class="name">${esc(name)}${tag}</td>`+
       `<td class="num"><strong>${fit}</strong><span class="meter" title="${Math.round(100*fit/tot)}% of RV sites"><i style="width:${w}%"></i></span></td>`+
       `<td class="num">${tot}</td><td class="num">${longest} ft</td><td class="num">${pt||'&ndash;'}</td><td class="num">${full||'&ndash;'}</td>`+
+      `<td class="tm">${ci?esc(ci):'<span class="na">&ndash;</span>'}</td><td class="tm">${co?esc(co):'<span class="na">&ndash;</span>'}</td>`+
       `<td class="site">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${ag?'recreation.gov':esc(host(url))}</a>`:''}</td></tr>`;
   }).join('');
   $('fitempty').hidden = out.length > 0;

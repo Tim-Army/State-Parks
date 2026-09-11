@@ -20,7 +20,7 @@ for r in rd('PermittedEquipment'):
         try: eq[r['CampsiteID']] = max(eq[r['CampsiteID']], float(r['MaxLength'] or 0))
         except ValueError: pass
 at = C.defaultdict(dict)
-WANT = {'Max Vehicle Length', 'Driveway Entry', 'Electricity Hookup', 'Water Hookup', 'Sewer Hookup'}
+WANT = {'Max Vehicle Length', 'Driveway Entry', 'Electricity Hookup', 'Water Hookup', 'Sewer Hookup', 'Checkin Time', 'Checkout Time'}
 for r in rd('CampsiteAttributes'):
     if r['AttributeName'] in WANT: at[r['EntityID']][r['AttributeName']] = r['AttributeValue'].strip()
 def num(s):
@@ -39,6 +39,11 @@ def tc(s):
     s = re.sub(r'\b(Of|The|And|At|On|In|To)\b', lambda m: m.group(0).lower(), s)
     s = re.sub(r'\b(Rv|Nf|Nra|Sra|Usfs|Blm|Coe|Ii|Iii)\b', lambda m: m.group(0).upper(), s)
     return s[0].upper() + s[1:]
+def clock(v):
+    m = re.match(r'^\s*(\d{1,2}):(\d{2})\s*([AP]M)\s*$', v or '', re.I)
+    if not m or (int(m.group(1)) == 0 and m.group(3).upper() == 'AM'): return ''   # '0:00 AM' is a placeholder
+    return f'{int(m.group(1))}:{m.group(2)} {m.group(3).upper()}'
+times = C.defaultdict(lambda: (C.Counter(), C.Counter()))
 out = []
 for r in rd('Campsites'):
     if SKIP.search(r['CampsiteType']): continue
@@ -51,6 +56,9 @@ for r in rd('Campsites'):
     if len(st) != 2: continue
     e = amps(a.get('Electricity Hookup'))
     if not e and 'ELECTRIC' in r['CampsiteType'] and 'NONELECTRIC' not in r['CampsiteType']: e = 1
+    ci, co = clock(a.get('Checkin Time')), clock(a.get('Checkout Time'))
+    if ci: times[r['FacilityID']][0][ci] += 1
+    if co: times[r['FacilityID']][1][co] += 1
     out.append([st, fac_org.get(r['FacilityID'], ''), tc(f['FacilityName'].strip()), r['FacilityID'], int(round(L)),
                 e, int(yes(a.get('Water Hookup'))), int(yes(a.get('Sewer Hookup'))), entry(a.get('Driveway Entry'))])
 def hook(e, w, s):
@@ -65,3 +73,11 @@ with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'federal-comb
     w.writerows(rows)
 print(sum(r[-1] for r in rows), 'sites', len({r[3] for r in rows}), 'campgrounds', len(rows), 'rows',
       C.Counter(r[1] for r in rows for _ in range(1)).most_common(8))
+
+# Check-in / check-out: the most common time among each campground's RV sites
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'federal-times.csv'), 'w', newline='') as fh:
+    w = csv.writer(fh); w.writerow(['RIDB Facility ID', 'Check-in', 'Check-out'])
+    for fid in sorted({r[3] for r in rows}, key=int):
+        ci, co = times[fid]
+        w.writerow([fid, ci.most_common(1)[0][0] if ci else '', co.most_common(1)[0][0] if co else ''])
+print('times for', sum(1 for v in times.values() if v[0]), 'campgrounds')

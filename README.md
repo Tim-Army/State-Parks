@@ -55,6 +55,7 @@ alongside their parks.
 - **[`rv/site-combos.csv`](rv/site-combos.csv)** — every RV-capable state-park campsite, grouped by park, length, hookups, amps and driveway type.
 - **[`campsite-rv-lengths.csv`](campsite-rv-lengths.csv)** / **[`campsite-rv-summary.csv`](campsite-rv-summary.csv)** — per park and per state rollups: site count, shortest, longest, average, median, size bands, electric / full-hookup / pull-through counts.
 - **[`federal/federal-combos.csv`](federal/federal-combos.csv)** / **[`federal-rv-summary.csv`](federal-rv-summary.csv)** — the same for federal campgrounds (Park Service, Forest Service, Army Corps of Engineers, BLM, Bureau of Reclamation) from Recreation.gov.
+- **[`rv/checkin-times.csv`](rv/checkin-times.csv)** — each state's standard campsite check-in and check-out time with its official source (also in `rv-policies.csv` and the policy table). Federal campgrounds carry their own times from Recreation.gov ([`federal/federal-times.csv`](federal/federal-times.csv)); both show in the fit tool's Check-in / Check-out columns.
 - **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's own published per-park breakdown.
 
 Coverage: <!-- counts:start -->

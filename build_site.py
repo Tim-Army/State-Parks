@@ -67,6 +67,12 @@ policies = rows('rv-policies.csv')
 virginia = rows('virginia-rv-site-sizes.csv')
 state_combos = rows('rv/site-combos.csv')
 fed_combos = rows('federal/federal-combos.csv')
+# check-in / check-out: per campground for federal (Recreation.gov), per state system for state parks (official policy pages)
+fed_times = {r['RIDB Facility ID']: (r['Check-in'], r['Check-out']) for r in rows('federal/federal-times.csv')}
+state_times = {r['State']: r for r in rows('rv/checkin-times.csv')} if os.path.exists(P('rv/checkin-times.csv')) else {}
+def st_time(st, k):
+    v = (state_times.get(st, {}).get(k) or '').strip()
+    return 'Varies' if v.lower().startswith('varies') else '' if v.lower().startswith('not stated') else v
 
 # group combos by park
 def group(combos, key, extra):
@@ -137,6 +143,11 @@ for r in policies:
     r['Max RV Length'] = (f"Measured from the reservation system: longest site {s['hi']} ft; " + base) if s else base
     r['Measured Avg Site (ft)'] = s['avg'] if s else ''
     r['Measured Longest (ft)'] = s['hi'] if s else ''
+    t = state_times.get(r['State'])
+    for k in ('Campsite Check-in', 'Campsite Check-out', 'Check-in/out Source'): r.setdefault(k, '')
+    if t:
+        r['Campsite Check-in'], r['Campsite Check-out'] = t['Check-in'], t['Check-out']
+        r['Check-in/out Source'] = t['Source']
 with open(P('rv-policies.csv'), 'w', newline='') as fh:
     w = csv.DictWriter(fh, fieldnames=list(policies[0].keys())); w.writeheader(); w.writerows(policies)
 
@@ -152,7 +163,8 @@ for p in list(sp.values()) + list(fp.values()):
     flat = []
     for ln, hk, amps, en, n in sorted(p['c']):
         flat += [ln, HK[hk], amps, EN[en], n]
-    fit.append([STATES.index(p['state']), p['name'], AGS.index(p['ag']), p.get('fid', ''), flat])
+    ci, co = fed_times.get(p['fid'], ('', '')) if p.get('fid') else (st_time(p['state'], 'Check-in'), st_time(p['state'], 'Check-out'))
+    fit.append([STATES.index(p['state']), p['name'], AGS.index(p['ag']), p.get('fid', ''), flat, ci, co])
 FIT = dict(states=STATES, ags=[AGENCY.get(a, 'State park') for a in AGS], book={STATES.index(k): v for k, v in BOOK.items()}, p=fit)
 
 # ---------------------------------------------------------------- HTML fragments
@@ -175,6 +187,7 @@ for r in policies:
     towc = f'<span class="yes">{esc(tow)}</span>' if tow.upper().startswith('YES') else cell(tow)
     pol_rows.append(f'<tr><td class="st">{esc(r["State"])}</td><td>{meas}</td><td>{cell(MEAS.sub("", r["Max RV Length"]))}</td>'
                     f'<td>{towc}</td><td>{cell(r["Vehicles Allowed per Site"])}</td><td>{cell(r["Where Tow / Extra Vehicles Park"])}</td>'
+                    f'<td class="tm">{cell(r.get("Campsite Check-in"))}</td><td class="tm">{cell(r.get("Campsite Check-out"))}</td>'
                     f'<td class="src">{a(r["Source"]) if r["Source"].startswith("http") else esc(r["Source"])}</td></tr>')
 
 def sum_rows(summ):
