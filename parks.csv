@@ -72,7 +72,7 @@ Alaska,Independence Mine State Historical Park,Matanuska-Susitna,https://dnr.ala
 Alaska,Joe Mace Island State Marine Park,Unorganized,https://dnr.alaska.gov/parks/aspunits/southeast/joemace.htm
 Alaska,Johnson Lake State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/kenai/johnsonlksra.htm
 Alaska,Juneau Channel Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/juneauchannelsmp.htm
-Alaska,Juneau State Trails System,,https://dnr.alaska.gov/parks/aspunits/southeast/juneautrailsys.htm
+Alaska,Juneau State Trails System,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/juneautrailsys.htm
 Alaska,Kachemak Bay State Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbaysp.htm
 Alaska,Kachemak Bay State Wilderness Park,,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbayswp.htm
 Alaska,Kasilof River State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kasilofrivsrs.htm
@@ -832,12 +832,12 @@ Hawaii,Halekiʻi-Pihana Heiau State Monument,Maui,https://dlnr.hawaii.gov/dsp/pa
 Hawaii,Heʻeia State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/heeia-state-park/
 Hawaii,Hāpuna Beach State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/hapuna-beach-state-recreation-area/
 Hawaii,Hāʻena State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/haena-state-park/
-Hawaii,Kaiwi State Scenic Shoreline,,https://dlnr.hawaii.gov/dsp/parks/oahu/kaiwi-state-scenic-shoreline/
+Hawaii,Kaiwi State Scenic Shoreline,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/kaiwi-state-scenic-shoreline/
 Hawaii,Kalōpā State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kalopa-state-recreation-area/
 Hawaii,Kaumahina State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/kaumahina-state-wayside/
 Hawaii,Kaʻena Point State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/kaena-point-state-park/
 Hawaii,Kealakekua Bay State Historical Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/
-Hawaii,Keaīwa Heiau State Recreation Area,,https://dlnr.hawaii.gov/dsp/parks/oahu/keaiwa-heiau-state-recreation-area/
+Hawaii,Keaīwa Heiau State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/keaiwa-heiau-state-recreation-area/
 Hawaii,Kekaha Kai (Kona Coast) State Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kekaha-kai-kona-coast-state-park/
 Hawaii,Keʻehi Lagoon Memorial State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/keehi-lagoon-memorial-state-park/
 Hawaii,Kohala Historical Sites State Monument,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kohala-historical-sites-state-monument/
@@ -858,7 +858,7 @@ Hawaii,Puʻu O Mahuka Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov
 Hawaii,Puʻu ʻUalakaʻa State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-ualakaa-state-wayside/
 Hawaii,Pālāʻau State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/molokai/palaau-state-park/
 Hawaii,Pāʻulaʻula State Historic Site,,https://dlnr.hawaii.gov/dsp/parks/kauai/paʻulaʻula-state-historic-site/
-Hawaii,Royal Mausoleum State Monument,,https://dlnr.hawaii.gov/dsp/parks/oahu/royal-mausoleum-state-monument/
+Hawaii,Royal Mausoleum State Monument,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/royal-mausoleum-state-monument/
 Hawaii,Sand Island State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/sand-island-state-recreation-area/
 Hawaii,Ulupō Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/ulupo-heiau-state-historic-site/
 Hawaii,Wahiawā Freshwater State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/wahiawa-freshwater-state-recreation-area/
@@ -922,7 +922,6 @@ Illinois,Delabar,Henderson,https://dnr.illinois.gov/parks/park.delabar.html
 Illinois,Des Plaines,Cook,https://dnr.illinois.gov/parks/park.desplaines.html
 Illinois,Devil's Island,"Alexander, Union",https://dnr.illinois.gov/parks/park.devils-island.html
 Illinois,Dixon Springs,Pope,https://dnr.illinois.gov/parks/park.dixonsprings.html
-Illinois,Donnelley DePue,,https://dnr.illinois.gov/parks/park.donnelleydepue.html
 Illinois,Eagle Creek,Shelby,https://dnr.illinois.gov/parks/park.eaglecreek.html
 Illinois,Edward R. Madigan,Logan,https://dnr.illinois.gov/parks/park.edwardrmadigan.html
 Illinois,Eldon Hazlet,Clinton,https://dnr.illinois.gov/parks/park.eldonhazlet.html
@@ -996,6 +995,7 @@ Illinois,Ray Norbut,Pike,https://dnr.illinois.gov/parks/park.raynorbut.html
 Illinois,Red Hills,Lawrence,https://dnr.illinois.gov/parks/park.redhills.html
 Illinois,Rend Lake,Franklin,https://dnr.illinois.gov/parks/park.rend-lake.html
 Illinois,Rice Lake,Knox,https://dnr.illinois.gov/parks/park.ricelake.html
+Illinois,Richard M. Donnelley - DePue State Fish & Wildlife Area,Bureau,https://dnr.illinois.gov/parks/park.donnelleydepue.html
 Illinois,Rock Cut,Winnebago,https://dnr.illinois.gov/parks/park.rockcut.html
 Illinois,Rock Island Trail,Peoria,https://dnr.illinois.gov/parks/park.rockislandtrail.html
 Illinois,Sahara Woods,Saline,https://dnr.illinois.gov/parks/park.saharawoods.html
@@ -1362,7 +1362,7 @@ Maryland,Helen Avalynne Tawes Garden,Anne Arundel,https://dnr.maryland.gov/publi
 Maryland,Herrington Manor State Park,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/herrington.aspx
 Maryland,Janes Island State Park,Somerset,https://dnr.maryland.gov/publiclands/Pages/eastern/janesisland.aspx
 Maryland,Martinak State Park,Caroline,https://dnr.maryland.gov/publiclands/Pages/eastern/martinak.aspx
-Maryland,Merkle NRMA and Visitor Center,,https://dnr.maryland.gov/publiclands/Pages/southern/merkle.aspx
+Maryland,Merkle NRMA and Visitor Center,Prince George's,https://dnr.maryland.gov/publiclands/Pages/southern/merkle.aspx
 Maryland,Monocacy NRMA,,https://dnr.maryland.gov/publiclands/Pages/western/monocacy.aspx
 Maryland,Morgan Run,Carroll,https://dnr.maryland.gov/publiclands/Pages/central/morganrun.aspx
 Maryland,New Germany State Park,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/newgermany.aspx
@@ -1378,7 +1378,7 @@ Maryland,Rocky Gap State Park,Allegany,https://dnr.maryland.gov/publiclands/Page
 Maryland,Rosaryville State Park,Prince George's,https://dnr.maryland.gov/publiclands/Pages/southern/rosaryville.aspx
 Maryland,Sandy Point State Park,Anne Arundel,https://dnr.maryland.gov/publiclands/Pages/southern/sandypoint.aspx
 Maryland,Sang Run State Park,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/sangrun.aspx
-Maryland,Sassafras NRMA,,https://dnr.maryland.gov/publiclands/Pages/eastern/sassafras.aspx
+Maryland,Sassafras NRMA,"Kent, Cecil",https://dnr.maryland.gov/publiclands/Pages/eastern/sassafras.aspx
 Maryland,Savage Highlands,,https://dnr.maryland.gov/publiclands/Pages/western/savagehighlands.aspx
 Maryland,Seneca Creek State Park,Montgomery,https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx
 Maryland,Smallwood State Park,Charles,https://dnr.maryland.gov/publiclands/Pages/southern/smallwood.aspx
@@ -2779,7 +2779,7 @@ South Carolina,Andrew Jackson State Park,Lancaster,https://southcarolinaparks.co
 South Carolina,Baker Creek State Park,McCormick,https://southcarolinaparks.com/baker-creek
 South Carolina,Barnwell State Park,Barnwell,https://southcarolinaparks.com/barnwell
 South Carolina,Battle of Musgrove Mill State Historic Site,Spartanburg,https://southcarolinaparks.com/musgrove-mill
-South Carolina,Battle of Rivers Bridge State Historic Site,,https://southcarolinaparks.com/rivers-bridge
+South Carolina,Battle of Rivers Bridge State Historic Site,Bamberg,https://southcarolinaparks.com/rivers-bridge
 South Carolina,Black River State Park,Williamsburg,https://southcarolinaparks.com/black-river
 South Carolina,Caesars Head State Park,Greenville,https://southcarolinaparks.com/caesars-head
 South Carolina,Calhoun Falls State Park,Abbeville,https://southcarolinaparks.com/calhoun-falls
@@ -3276,7 +3276,7 @@ Washington,Pacific Beach State Park,Grays Harbor,https://parks.wa.gov/find-parks
 Washington,Pacific Pines State Park,Pacific,https://parks.wa.gov/find-parks/state-parks/pacific-pines-state-park
 Washington,Palouse Cascades State Park Trail,Whitman,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail
 Washington,Palouse Cascades State Park Trail Central,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-central
-Washington,Palouse Cascades State Park Trail East,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-east
+Washington,Palouse Cascades State Park Trail East,"Lincoln, Adams, Whitman",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-east
 Washington,Palouse Cascades State Park Trail West,"King, Kittitas",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-west
 Washington,Palouse Falls State Park Heritage Site,Franklin,https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site
 Washington,Paradise Point State Park,Clark,https://parks.wa.gov/find-parks/state-parks/paradise-point-state-park
@@ -3489,7 +3489,7 @@ Wyoming,Ames Monument State Historic Site,Albany,https://wyoparks.wyo.gov/index.
 Wyoming,Bear River State Park,Uinta,https://wyoparks.wyo.gov/index.php/places-to-go/bear-river
 Wyoming,Boysen State Park,Fremont,https://wyoparks.wyo.gov/index.php/places-to-go/boysen
 Wyoming,Buffalo Bill State Park,Park,https://wyoparks.wyo.gov/index.php/places-to-go/buffalo-bill
-Wyoming,Camp Douglas Officers' Club State Historic SIte,,https://wyoparks.wyo.gov/index.php/places-to-go/camp-douglas
+Wyoming,Camp Douglas Officers' Club State Historic Site,Converse,https://wyoparks.wyo.gov/index.php/places-to-go/camp-douglas
 Wyoming,Connor Battlefield State Historic Site,,https://wyoparks.wyo.gov/index.php/places-to-go/connor-battlefield
 Wyoming,Curt Gowdy State Park,Laramie,https://wyoparks.wyo.gov/index.php/places-to-go/curt-gowdy
 Wyoming,Edness K. Wilkins State Park,Natrona,https://wyoparks.wyo.gov/index.php/places-to-go/edness-k-wilkins
