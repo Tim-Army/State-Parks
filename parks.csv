@@ -110,10 +110,10 @@ Alaska,Shuyak Island State Park,Kodiak Island,https://dnr.alaska.gov/parks/aspun
 Alaska,Squirrel Creek State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/matsu/squircksrs.htm
 Alaska,St. James Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/stjamesbay.htm
 Alaska,Starski State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/kenai/stariskisrs.htm
-Alaska,Sullivan Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/sullivanisland.htm
+Alaska,Sullivan Island State Marine Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/sullivanisland.htm
 Alaska,Summit Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/summitlksrs.htm
 Alaska,Taku Harbor State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/takuharbrsmp.htm
-Alaska,Thom's Place State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/thomsplacesmp.htm
+Alaska,Thom's Place State Marine Park,Wrangell,https://dnr.alaska.gov/parks/aspunits/southeast/thomsplacesmp.htm
 Alaska,Tok River State Recreation Area,Unorganized,https://dnr.alaska.gov/parks/aspunits/northern/tokrvsrs.htm
 Alaska,Totem Bight State Historical Park,Ketchikan Gateway,https://dnr.alaska.gov/parks/aspunits/southeast/totembigshp.htm
 Alaska,Upper Chatanika State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/upchatrvsrs.htm
@@ -144,7 +144,7 @@ Arizona,Picacho Peak State Park,Pinal,https://azstateparks.com/picacho
 Arizona,Red Rock State Park,Yavapai,https://azstateparks.com/red-rock
 Arizona,Riordan Mansion State Historic Park,Coconino,https://azstateparks.com/riordan-mansion
 Arizona,River Island State Park,Mohave,https://azstateparks.com/river-island
-Arizona,Rockin' River Ranch State Park,,https://azstateparks.com/rockin-river
+Arizona,Rockin' River Ranch State Park,Yavapai,https://azstateparks.com/rockin-river
 Arizona,Roper Lake State Park,Graham,https://azstateparks.com/roper-lake
 Arizona,San Rafael State Natural Area,,https://azstateparks.com/san-rafael
 Arizona,Slide Rock State Park,Coconino,https://azstateparks.com/slide-rock
@@ -830,27 +830,27 @@ Hawaii,Ahupuaʻa ʻO Kahana State Park,Honolulu,https://dlnr.hawaii.gov/dsp/park
 Hawaii,Diamond Head State Monument,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/
 Hawaii,Halekiʻi-Pihana Heiau State Monument,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/halekii-pihana-heiau-state-monument/
 Hawaii,Heʻeia State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/heeia-state-park/
-Hawaii,Hāpuna Beach State Recreation Area,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/hapuna-beach-state-recreation-area/
+Hawaii,Hāpuna Beach State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/hapuna-beach-state-recreation-area/
 Hawaii,Hāʻena State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/haena-state-park/
 Hawaii,Kaiwi State Scenic Shoreline,,https://dlnr.hawaii.gov/dsp/parks/oahu/kaiwi-state-scenic-shoreline/
-Hawaii,Kalōpā State Recreation Area,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/kalopa-state-recreation-area/
+Hawaii,Kalōpā State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kalopa-state-recreation-area/
 Hawaii,Kaumahina State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/kaumahina-state-wayside/
 Hawaii,Kaʻena Point State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/kaena-point-state-park/
-Hawaii,Kealakekua Bay State Historical Park,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/
+Hawaii,Kealakekua Bay State Historical Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kealakekua-bay-state-historical-park/
 Hawaii,Keaīwa Heiau State Recreation Area,,https://dlnr.hawaii.gov/dsp/parks/oahu/keaiwa-heiau-state-recreation-area/
-Hawaii,Kekaha Kai (Kona Coast) State Park,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/kekaha-kai-kona-coast-state-park/
+Hawaii,Kekaha Kai (Kona Coast) State Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kekaha-kai-kona-coast-state-park/
 Hawaii,Keʻehi Lagoon Memorial State Park,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/keehi-lagoon-memorial-state-park/
-Hawaii,Kohala Historical Sites State Monument,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/kohala-historical-sites-state-monument/
+Hawaii,Kohala Historical Sites State Monument,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/kohala-historical-sites-state-monument/
 Hawaii,Kōkeʻe State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/kokee-state-park/
-Hawaii,Lapakahi State Historical Park,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/lapakahi-state-historical-park/
+Hawaii,Lapakahi State Historical Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/lapakahi-state-historical-park/
 Hawaii,Lava Tree State Monument,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/lava-tree-state-monument/
 Hawaii,Lāʻie Point State Wayside,,https://dlnr.hawaii.gov/dsp/parks/oahu/laie-point-state-wayside/
-Hawaii,MacKenzie State Recreation Area,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/mackenzie-state-recreation-area/
-Hawaii,Manukā State Wayside,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/manuka-state-wayside/
+Hawaii,MacKenzie State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/mackenzie-state-recreation-area/
+Hawaii,Manukā State Wayside,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/manuka-state-wayside/
 Hawaii,Mākena State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/makena-state-park/
 Hawaii,Mālaekahana State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/malaekahana-state-recreation-area/
 Hawaii,Nuʻuanu Pali State Wayside,,https://dlnr.hawaii.gov/dsp/parks/oahu/nuuanu-pali-state-wayside/
-Hawaii,Nāpali Coast State Wilderness Park,,https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/
+Hawaii,Nāpali Coast State Wilderness Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/
 Hawaii,Polihale State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/polihale-state-park/
 Hawaii,Polipoli Spring State Recreation Area,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/polipoli-spring-state-recreation-area/
 Hawaii,Puaʻa Kaʻa State Wayside,,https://dlnr.hawaii.gov/dsp/parks/maui/puaa-kaa-state-wayside/
@@ -862,10 +862,10 @@ Hawaii,Royal Mausoleum State Monument,,https://dlnr.hawaii.gov/dsp/parks/oahu/ro
 Hawaii,Sand Island State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/sand-island-state-recreation-area/
 Hawaii,Ulupō Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/ulupo-heiau-state-historic-site/
 Hawaii,Wahiawā Freshwater State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/wahiawa-freshwater-state-recreation-area/
-Hawaii,Wailoa River State Recreation Area,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/wailoa-river-state-recreation-area/
+Hawaii,Wailoa River State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/wailoa-river-state-recreation-area/
 Hawaii,Wailua River State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/wailua-river-state-park/
 Hawaii,Wailua Valley State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/wailua-valley-state-wayside/
-Hawaii,Wailuku River State Park,Hawaiʻi,https://dlnr.hawaii.gov/dsp/parks/hawaii/wailuku-river-state-park/
+Hawaii,Wailuku River State Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/wailuku-river-state-park/
 Hawaii,Waimea Canyon State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/waimea-canyon-state-park/
 Hawaii,Waiʻānapanapa State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/
 Hawaii,Waʻahila Ridge State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/waahila-ridge-state-recreation-area/
@@ -992,7 +992,7 @@ Illinois,Prophetstown,Whiteside,https://dnr.illinois.gov/parks/park.prophetstown
 Illinois,Pyramid,Washington,https://dnr.illinois.gov/parks/park.pyramid.html
 Illinois,Ramsey Lake,Fayette,https://dnr.illinois.gov/parks/park.ramseylake.html
 Illinois,Randolph County,Randolph,https://dnr.illinois.gov/parks/park.randolphcounty.html
-Illinois,Ray Norbut,,https://dnr.illinois.gov/parks/park.raynorbut.html
+Illinois,Ray Norbut,Pike,https://dnr.illinois.gov/parks/park.raynorbut.html
 Illinois,Red Hills,Lawrence,https://dnr.illinois.gov/parks/park.redhills.html
 Illinois,Rend Lake,Franklin,https://dnr.illinois.gov/parks/park.rend-lake.html
 Illinois,Rice Lake,Knox,https://dnr.illinois.gov/parks/park.ricelake.html
@@ -1047,7 +1047,7 @@ Indiana,McCormick's Creek State Park,Owen,https://www.in.gov/dnr/state-parks/par
 Indiana,Mounds State Park,Madison,https://www.in.gov/dnr/state-parks/parks-lakes/mounds-state-park
 Indiana,O'Bannon Woods State Park,"Crawford, Harrison",https://www.in.gov/dnr/state-parks/parks-lakes/obannon-woods-state-park
 Indiana,Ouabache State Park,Wells,https://www.in.gov/dnr/state-parks/parks-lakes/ouabache-state-park
-Indiana,Pokagon State Park / Trine State Recreation Area,,https://www.in.gov/dnr/state-parks/parks-lakes/pokagon-state-parktrine-state-recreation-area
+Indiana,Pokagon State Park / Trine State Recreation Area,Steuben,https://www.in.gov/dnr/state-parks/parks-lakes/pokagon-state-parktrine-state-recreation-area
 Indiana,Potato Creek State Park,St. Joseph,https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park
 Indiana,Prophetstown State Park,Tippecanoe,https://www.in.gov/dnr/state-parks/parks-lakes/prophetstown-state-park
 Indiana,Redbird Off-Road State Recreation Area,,https://www.in.gov/dnr/state-parks/parks-lakes/redbird-state-recreation-area
@@ -1914,7 +1914,7 @@ Nevada,Old Las Vegas State Historic Park,Clark,https://parks.nv.gov/parks/old-la
 Nevada,Rye Patch State Recreation Area,Pershing,https://parks.nv.gov/parks/rye-patch
 Nevada,Sand Harbor - Lake Tahoe Nevada State Park,,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park
 Nevada,South Fork State Recreation Area,Elko,https://parks.nv.gov/parks/south-fork
-Nevada,Spooner Lake - Lake Tahoe Nevada State Park,,https://parks.nv.gov/parks/spooner-lake
+Nevada,Spooner Lake - Lake Tahoe Nevada State Park,Douglas,https://parks.nv.gov/parks/spooner-lake
 Nevada,Spring Mountain Ranch State Park,Clark,https://parks.nv.gov/parks/spring-mountain-ranch
 Nevada,Spring Valley State Park,Lincoln,https://parks.nv.gov/parks/spring-valley
 Nevada,Valley of Fire State Park,Clark,https://parks.nv.gov/parks/valley-of-fire
@@ -2190,7 +2190,7 @@ New York,Lake Erie State Park,Chautauqua,https://parks.ny.gov/visit/state-parks/
 New York,Lake Sebago Beach - Harriman State Park,"Rockland, Orange",https://parks.ny.gov/visit/state-parks/lake-sebago-beach-harriman-state-park
 New York,Lake Superior State Park,Sullivan,https://parks.ny.gov/visit/state-parks/lake-superior-state-park
 New York,Lake Taghkanic State Park,Columbia,https://parks.ny.gov/visit/state-parks/lake-taghkanic-state-park
-New York,Lake Tiorati Beach - Harriman State Park,,https://parks.ny.gov/visit/state-parks/lake-tiorati-beach-harriman-state-park
+New York,Lake Tiorati Beach - Harriman State Park,Rockland,https://parks.ny.gov/visit/state-parks/lake-tiorati-beach-harriman-state-park
 New York,Lake Welch Beach - Harriman State Park,"Rockland, Orange",https://parks.ny.gov/visit/state-parks/lake-welch-beach-harriman-state-park
 New York,Lakeside State Park,Orleans,https://parks.ny.gov/visit/state-parks/lakeside-state-park
 New York,Letchworth State Park,"Livingston, Wyoming",https://parks.ny.gov/visit/state-parks/letchworth-state-park
@@ -2425,7 +2425,7 @@ Oklahoma,Fort Cobb State Park,Caddo,https://www.travelok.com/state-parks/fort-co
 Oklahoma,Foss State Park,"Custer, Washita",https://www.travelok.com/state-parks/foss-state-park
 Oklahoma,Gloss Mountain State Park,Major,https://www.travelok.com/listings/view.profile/id.3030
 Oklahoma,Grand Lake: Bernice State Park,Delaware,https://www.travelok.com/listings/view.profile/id.477
-Oklahoma,Grand Lake: Cherokee State Park,,https://www.travelok.com/listings/view.profile/id.1302
+Oklahoma,Grand Lake: Cherokee State Park,Delaware,https://www.travelok.com/listings/view.profile/id.1302
 Oklahoma,Grand Lake: Disney State Park,Delaware,https://www.travelok.com/listings/view.profile/id.25420
 Oklahoma,Grand Lake: Honey Creek State Park,,https://www.travelok.com/listings/view.profile/id.3617
 Oklahoma,Grand Lake: Little Blue State Park,,https://www.travelok.com/listings/view.profile/id.2251
@@ -3277,7 +3277,7 @@ Washington,Pacific Pines State Park,Pacific,https://parks.wa.gov/find-parks/stat
 Washington,Palouse Cascades State Park Trail,Whitman,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail
 Washington,Palouse Cascades State Park Trail Central,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-central
 Washington,Palouse Cascades State Park Trail East,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-east
-Washington,Palouse Cascades State Park Trail West,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-west
+Washington,Palouse Cascades State Park Trail West,"King, Kittitas",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-west
 Washington,Palouse Falls State Park Heritage Site,Franklin,https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site
 Washington,Paradise Point State Park,Clark,https://parks.wa.gov/find-parks/state-parks/paradise-point-state-park
 Washington,Patos Island Marine State Park,San Juan,https://parks.wa.gov/find-parks/state-parks/patos-island-marine-state-park

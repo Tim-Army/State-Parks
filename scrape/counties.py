@@ -21,7 +21,7 @@ D = sys.argv[1]
 SUFFIX = re.compile(r'\s+(County|Parish|Borough|City and Borough|Census Area|Municipality)$')
 
 def clean(c):
-    c = SUFFIX.sub('', (c or '').strip())
+    c = SUFFIX.sub('', (c or '').replace('\u02bb', '').replace('\u2018', '').strip())
     return re.sub(r'^City of\s+', '', c)
 
 def uniq(xs):
