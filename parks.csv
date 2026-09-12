@@ -103,7 +103,7 @@ Alaska,Quartz Lake State Recreation Area,Unorganized,https://dnr.alaska.gov/park
 Alaska,Refuge Cove State Recreation Site,Ketchikan Gateway,https://dnr.alaska.gov/parks/aspunits/southeast/refugecvsrs.htm
 Alaska,Rocky Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/rockylksrs.htm
 Alaska,Salcha River State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/salcharver.htm
-Alaska,Sealion Cove State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/sealioncvsmp.htm
+Alaska,Sealion Cove State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/sealioncvsmp.htm
 Alaska,Security Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/securitybay.htm
 Alaska,Settler's Cove State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/southeast/settlerscvsrs.htm
 Alaska,Shuyak Island State Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/shuyakissp.htm
@@ -644,8 +644,8 @@ Florida,Deer Lake State Park,Walton,https://www.floridastateparks.org/parks-and-
 Florida,Delnor-Wiggins Pass State Park,Collier,https://www.floridastateparks.org/parks-and-trails/delnor-wiggins-pass-state-park
 Florida,Devil's Millhopper Geological State Park,Alachua,https://www.floridastateparks.org/parks-and-trails/devils-millhopper-geological-state-park
 Florida,Don Pedro Island State Park,Charlotte,https://www.floridastateparks.org/parks-and-trails/don-pedro-island-state-park
-Florida,Dowling Park River Camp,,https://www.floridastateparks.org/parks-and-trails/dowling-park-river-camp
-Florida,Dr. Julian G. Bruce St. George Island State Park,,https://www.floridastateparks.org/parks-and-trails/dr-julian-g-bruce-st-george-island-state-park
+Florida,Dowling Park River Camp,Suwannee,https://www.floridastateparks.org/parks-and-trails/dowling-park-river-camp
+Florida,Dr. Julian G. Bruce St. George Island State Park,Franklin,https://www.floridastateparks.org/parks-and-trails/dr-julian-g-bruce-st-george-island-state-park
 Florida,Dr. Von D. Mizell-Eula Johnson State Park,Broward,https://www.floridastateparks.org/mizell
 Florida,Dudley Farm Historic State Park,Alachua,https://www.floridastateparks.org/parks-and-trails/dudley-farm-historic-state-park
 Florida,Dunns Creek State Park,Putnam,https://www.floridastateparks.org/DunnsCreek
@@ -844,7 +844,7 @@ Hawaii,Kohala Historical Sites State Monument,Hawaii,https://dlnr.hawaii.gov/dsp
 Hawaii,Kōkeʻe State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/kokee-state-park/
 Hawaii,Lapakahi State Historical Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/lapakahi-state-historical-park/
 Hawaii,Lava Tree State Monument,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/lava-tree-state-monument/
-Hawaii,Lāʻie Point State Wayside,,https://dlnr.hawaii.gov/dsp/parks/oahu/laie-point-state-wayside/
+Hawaii,Lāʻie Point State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/laie-point-state-wayside/
 Hawaii,MacKenzie State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/mackenzie-state-recreation-area/
 Hawaii,Manukā State Wayside,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/manuka-state-wayside/
 Hawaii,Mākena State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/makena-state-park/
@@ -853,7 +853,7 @@ Hawaii,Nuʻuanu Pali State Wayside,,https://dlnr.hawaii.gov/dsp/parks/oahu/nuuan
 Hawaii,Nāpali Coast State Wilderness Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/
 Hawaii,Polihale State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/polihale-state-park/
 Hawaii,Polipoli Spring State Recreation Area,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/polipoli-spring-state-recreation-area/
-Hawaii,Puaʻa Kaʻa State Wayside,,https://dlnr.hawaii.gov/dsp/parks/maui/puaa-kaa-state-wayside/
+Hawaii,Puaʻa Kaʻa State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/puaa-kaa-state-wayside/
 Hawaii,Puʻu O Mahuka Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-o-mahuka-heiau-state-historic-site/
 Hawaii,Puʻu ʻUalakaʻa State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-ualakaa-state-wayside/
 Hawaii,Pālāʻau State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/molokai/palaau-state-park/
@@ -972,7 +972,7 @@ Illinois,Marseilles,LaSalle,https://dnr.illinois.gov/parks/park.marseilles.html
 Illinois,Marshall,Marshall,https://dnr.illinois.gov/parks/park.marshall.html
 Illinois,Matthiessen,LaSalle,https://dnr.illinois.gov/parks/park.matthiessen.html
 Illinois,Mautino,Bureau,https://dnr.illinois.gov/parks/park.mautino.html
-Illinois,Mazonia-Braidwood,,https://dnr.illinois.gov/parks/park.mazonia-braidwood.html
+Illinois,Mazonia-Braidwood,"Grundy, Will",https://dnr.illinois.gov/parks/park.mazonia-braidwood.html
 Illinois,Mermet Lake,Massac,https://dnr.illinois.gov/parks/park.mermetlake.html
 Illinois,Middle Fork,Vermilion,https://dnr.illinois.gov/parks/park.middlefork.html
 Illinois,Mississippi Palisades,Carroll,https://dnr.illinois.gov/parks/park.mississippipalisades.html
@@ -1102,7 +1102,7 @@ Iowa,McIntosh Woods State Park,Cerro Gordo,https://www.iowadnr.gov/places-go/sta
 Iowa,Mines Spain State Recreation Area,Dubuque,https://www.iowadnr.gov/places-go/state-parks/all-parks/mines-spain-state-recreation-area
 Iowa,Mini Wakan State Park,Dickinson,https://www.iowadnr.gov/places-go/state-parks/all-parks/mini-wakan-state-park
 Iowa,Nine Eagles State Park,Decatur,https://www.iowadnr.gov/places-go/state-parks/all-parks/nine-eagles-state-park
-Iowa,Okamanpedan State Park,,https://www.iowadnr.gov/places-go/state-parks/all-parks/okamanpedan-state-park
+Iowa,Okamanpedan State Park,Emmet,https://www.iowadnr.gov/places-go/state-parks/all-parks/okamanpedan-state-park
 Iowa,Palisades Kepler State Park,Linn,https://www.iowadnr.gov/places-go/state-parks/all-parks/palisades-kepler-state-park
 Iowa,Pikes Peak State Park,Clayton,https://www.iowadnr.gov/places-go/state-parks/all-parks/pikes-peak-state-park
 Iowa,Pikes Point State Park,Dickinson,https://www.iowadnr.gov/places-go/state-parks/all-parks/pikes-point-state-park
@@ -1814,7 +1814,7 @@ Montana,Sluice Boxes State Park,Cascade,https://fwp.mt.gov/stateparks/sluice-box
 Montana,Smith River State Park,Meagher,https://fwp.mt.gov/stateparks/smith-river
 Montana,Somers Beach State Park,Flathead,https://fwp.mt.gov/stateparks/somers-beach
 Montana,Spring Meadow Lake State Park,Lewis and Clark,https://fwp.mt.gov/stateparks/spring-meadow-state-park
-Montana,Thompson Chain Of Lakes State Park,,https://fwp.mt.gov/stateparks/thompson-chain-of-lakes
+Montana,Thompson Chain Of Lakes State Park,Lincoln,https://fwp.mt.gov/stateparks/thompson-chain-of-lakes
 Montana,Thompson Falls State Park,Sanders,https://fwp.mt.gov/stateparks/thompson-falls
 Montana,Tongue River Reservoir State Park,Big Horn,https://fwp.mt.gov/stateparks/tongue-river-reservoir
 Montana,Tower Rock State Park,Cascade,https://fwp.mt.gov/stateparks/tower-rock
@@ -3285,7 +3285,7 @@ Washington,Peace Arch Historical State Park,Whatcom,https://parks.wa.gov/find-pa
 Washington,Pearrygin Lake State Park,Okanogan,https://parks.wa.gov/find-parks/state-parks/pearrygin-lake-state-park
 Washington,Penrose Point State Park,Pierce,https://parks.wa.gov/find-parks/state-parks/penrose-point-state-park
 Washington,Peshastin Pinnacles State Park,Chelan,https://parks.wa.gov/find-parks/state-parks/peshastin-pinnacles-state-park
-Washington,Pleasant Harbor State Park Property,,https://parks.wa.gov/find-parks/state-parks/pleasant-harbor-state-park-property
+Washington,Pleasant Harbor State Park Property,Jefferson,https://parks.wa.gov/find-parks/state-parks/pleasant-harbor-state-park-property
 Washington,Posey Island State Park,San Juan,https://parks.wa.gov/find-parks/state-parks/posey-island-state-park
 Washington,Potholes State Park,Grant,https://parks.wa.gov/find-parks/state-parks/potholes-state-park
 Washington,Potlatch State Park,Mason,https://parks.wa.gov/find-parks/state-parks/potlatch-state-park
@@ -3430,7 +3430,7 @@ Wisconsin,La Crosse River State Trail,La Crosse,https://dnr.wisconsin.gov/topic/
 Wisconsin,Lake Kegonsa State Park,Dane,https://dnr.wisconsin.gov/topic/parks/lakekegonsa
 Wisconsin,Lake Wissota State Park,Chippewa,https://dnr.wisconsin.gov/topic/parks/lakewissota
 Wisconsin,Lakeshore State Park,Milwaukee,https://dnr.wisconsin.gov/topic/parks/lakeshore
-Wisconsin,Lapham Peak Unit Kettle Moraine State Forest,,https://dnr.wisconsin.gov/topic/parks/laphampeak
+Wisconsin,Lapham Peak Unit Kettle Moraine State Forest,Waukesha,https://dnr.wisconsin.gov/topic/parks/laphampeak
 Wisconsin,Lizard Mound State Park,Washington,https://dnr.wisconsin.gov/topic/parks/lizardmound
 Wisconsin,Loew Lake Unit Kettle Moraine State Forest,Washington,https://dnr.wisconsin.gov/topic/parks/loewlake
 Wisconsin,Lost Dauphin State Park,Brown,https://dnr.wisconsin.gov/topic/parks/lostdauphin
