@@ -92,7 +92,7 @@ Alaska,Nancy Lake State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov
 Alaska,Nancy Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/nancylksrs.htm
 Alaska,Ninilchik State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/ninilsragen.htm
 Alaska,Old Sitka State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/oldsitkaahp.htm
-Alaska,Oliver Inlet State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/oliverinsmp.htm
+Alaska,Oliver Inlet State Marine Park,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/oliverinsmp.htm
 Alaska,Pasagshak State Recreation Site,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/pasagsrs.htm
 Alaska,Pavlov Harbor State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/pavharborsmp.htm
 Alaska,Petroglyph Beach State Historic Site,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/wrangpetroshs.htm
@@ -112,7 +112,7 @@ Alaska,St. James Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/so
 Alaska,Starski State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/kenai/stariskisrs.htm
 Alaska,Sullivan Island State Marine Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/sullivanisland.htm
 Alaska,Summit Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/summitlksrs.htm
-Alaska,Taku Harbor State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/takuharbrsmp.htm
+Alaska,Taku Harbor State Marine Park,Juneau,https://dnr.alaska.gov/parks/aspunits/marinepark/takuharbrsmp.htm
 Alaska,Thom's Place State Marine Park,Wrangell,https://dnr.alaska.gov/parks/aspunits/southeast/thomsplacesmp.htm
 Alaska,Tok River State Recreation Area,Unorganized,https://dnr.alaska.gov/parks/aspunits/northern/tokrvsrs.htm
 Alaska,Totem Bight State Historical Park,Ketchikan Gateway,https://dnr.alaska.gov/parks/aspunits/southeast/totembigshp.htm
@@ -757,7 +757,7 @@ Florida,South Fork State Park,Broward,https://www.floridastateparks.org/parks-an
 Florida,St. Andrews State Park,Bay,https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park
 Florida,St. Lucie Inlet Preserve State Park,Martin,https://www.floridastateparks.org/parks-and-trails/st-lucie-inlet-preserve-state-park
 Florida,St. Sebastian River Preserve State Park,Brevard,https://www.floridastateparks.org/St-Sebastian
-Florida,St. Teresa Tract of Bald Point State Park,,https://www.floridastateparks.org/parks-and-trails/st-teresa-tract-bald-point-state-park
+Florida,St. Teresa Tract of Bald Point State Park,Franklin,https://www.floridastateparks.org/parks-and-trails/st-teresa-tract-bald-point-state-park
 Florida,Stephen Foster Folk Culture Center State Park,Hamilton,https://www.floridastateparks.org/parks-and-trails/stephen-foster-folk-culture-center-state-park
 Florida,Stump Pass Beach State Park,Charlotte,https://www.floridastateparks.org/parks-and-trails/stump-pass-beach-state-park
 Florida,Suwannee River State Park,Suwannee,https://www.floridastateparks.org/parks-and-trails/suwannee-river-state-park
@@ -857,7 +857,7 @@ Hawaii,Puaʻa Kaʻa State Wayside,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/pu
 Hawaii,Puʻu O Mahuka Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-o-mahuka-heiau-state-historic-site/
 Hawaii,Puʻu ʻUalakaʻa State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/puu-ualakaa-state-wayside/
 Hawaii,Pālāʻau State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/molokai/palaau-state-park/
-Hawaii,Pāʻulaʻula State Historic Site,,https://dlnr.hawaii.gov/dsp/parks/kauai/paʻulaʻula-state-historic-site/
+Hawaii,Pāʻulaʻula State Historic Site,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/paʻulaʻula-state-historic-site/
 Hawaii,Royal Mausoleum State Monument,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/royal-mausoleum-state-monument/
 Hawaii,Sand Island State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/sand-island-state-recreation-area/
 Hawaii,Ulupō Heiau State Historic Site,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/ulupo-heiau-state-historic-site/
@@ -1007,7 +1007,7 @@ Illinois,Sanganois,Cass,https://dnr.illinois.gov/parks/park.sanganois.html
 Illinois,Sangchris Lake,Christian,https://dnr.illinois.gov/parks/park.sangchrislake.html
 Illinois,Shabbona Lake,DeKalb,https://dnr.illinois.gov/parks/park.shabbonalake.html
 Illinois,Shelbyville,Shelby,https://dnr.illinois.gov/parks/park.shelbyville.html
-Illinois,Sielbeck Forest SNA,,https://dnr.illinois.gov/parks/park.sielbeckforest.html
+Illinois,Sielbeck Forest SNA,Massac,https://dnr.illinois.gov/parks/park.sielbeckforest.html
 Illinois,Siloam Springs,"Adams, Brown",https://dnr.illinois.gov/parks/park.siloamsprings.html
 Illinois,Silver Springs,Kendall,https://dnr.illinois.gov/parks/park.silversprings.html
 Illinois,Snakeden Hollow,Knox,https://dnr.illinois.gov/parks/park.snakedenhollow.html
@@ -1050,7 +1050,7 @@ Indiana,Ouabache State Park,Wells,https://www.in.gov/dnr/state-parks/parks-lakes
 Indiana,Pokagon State Park / Trine State Recreation Area,Steuben,https://www.in.gov/dnr/state-parks/parks-lakes/pokagon-state-parktrine-state-recreation-area
 Indiana,Potato Creek State Park,St. Joseph,https://www.in.gov/dnr/state-parks/parks-lakes/potato-creek-state-park
 Indiana,Prophetstown State Park,Tippecanoe,https://www.in.gov/dnr/state-parks/parks-lakes/prophetstown-state-park
-Indiana,Redbird Off-Road State Recreation Area,,https://www.in.gov/dnr/state-parks/parks-lakes/redbird-state-recreation-area
+Indiana,Redbird State Recreation Area,Greene,https://www.in.gov/dnr/state-parks/parks-lakes/redbird-state-recreation-area
 Indiana,Shades State Park,"Parke, Fountain, Montgomery",https://www.in.gov/dnr/state-parks/parks-lakes/shades-state-park
 Indiana,Shakamak State Park,"Greene, Clay, Sullivan",https://www.in.gov/dnr/state-parks/parks-lakes/shakamak-state-park
 Indiana,Spring Mill State Park,Lawrence,https://www.in.gov/dnr/state-parks/parks-lakes/spring-mill-state-park
@@ -1222,7 +1222,7 @@ Louisiana,Lake Fausse Pointe State Park,Iberia,https://www.lastateparks.com/lake
 Louisiana,Locust Grove State Historic Site,West Feliciana,https://www.lastateparks.com/locust-grove-state-historic-site
 Louisiana,Longfellow-Evangeline State Historic Site,St. Martin,https://www.lastateparks.com/longfellow-evangeline-state-historic-site
 Louisiana,Los Adaes State Historic Site,Natchitoches,https://www.lastateparks.com/los-adaes-state-historic-site
-Louisiana,Louisiana State Arboretum State Preservation Area,,https://www.lastateparks.com/louisiana-state-arboretum
+Louisiana,Louisiana State Arboretum State Preservation Area,Evangeline,https://www.lastateparks.com/louisiana-state-arboretum
 Louisiana,Mansfield State Historic Site,DeSoto,https://www.lastateparks.com/mansfield-state-historic-site
 Louisiana,North Toledo Bend State Park,Sabine,https://www.lastateparks.com/north-toledo-bend-state-park
 Louisiana,Palmetto Island State Park,Vermilion,https://www.lastateparks.com/palmetto-island-state-park
@@ -1872,7 +1872,7 @@ Nebraska,Phillips Canyon State Recreation Area,,https://outdoornebraska.gov/loca
 Nebraska,Platte River State Park,Cass,https://outdoornebraska.gov/location/platte-river/
 Nebraska,Ponca State Park,Dixon,https://outdoornebraska.gov/location/ponca/
 Nebraska,Red Willow Reservoir State Recreation Area,Frontier,https://outdoornebraska.gov/location/red-willow-reservoir/
-Nebraska,Riverview Marina State Recreation Area,,https://outdoornebraska.gov/location/riverview-marina/
+Nebraska,Riverview Marina State Recreation Area,Dakota,https://outdoornebraska.gov/location/riverview-marina/
 Nebraska,Rock Creek Lake State Recreation Area,Dundy,https://outdoornebraska.gov/location/rock-creek/
 Nebraska,Rock Creek Station State Historical Park,Jefferson,https://outdoornebraska.gov/location/rock-creek-station-shp/
 Nebraska,Rock Creek Station State Recreation Area,Jefferson,https://outdoornebraska.gov/location/rock-creek-station-sra/
@@ -1929,7 +1929,7 @@ New Hampshire,Bear Brook State Park,Merrimack,https://www.nhstateparks.org/find-
 New Hampshire,Beaver Brook Falls Wayside,Coos,https://www.nhstateparks.org/find-parks-trails/beaver-brook-falls-wayside
 New Hampshire,Bedell Bridge State Historic Site,Grafton,https://www.nhstateparks.org/find-parks-trails/bedell-bridge-state-historic-site
 New Hampshire,Cannon Mountain Aerial Tramway,Grafton,https://www.nhstateparks.org/find-parks-trails/cannon-mountain-aerial-tramway
-New Hampshire,Cannon Mountain Ski Area,,https://www.nhstateparks.org/find-parks-trails/cannon-mountain-ski-area
+New Hampshire,Cannon Mountain Ski Area,Grafton,https://www.nhstateparks.org/find-parks-trails/cannon-mountain-ski-area
 New Hampshire,Cardigan Mountain State Park,Grafton,https://www.nhstateparks.org/find-parks-trails/cardigan-mountain-state-park
 New Hampshire,Cathedral Ledge State Park,Carroll,https://www.nhstateparks.org/find-parks-trails/cathedral-ledge-state-park
 New Hampshire,Chesterfield Gorge Natural Area,Cheshire,https://www.nhstateparks.org/find-parks-trails/chesterfield-gorge-natural-area
@@ -2764,7 +2764,7 @@ Rhode Island,Blackstone Bikeway and Visitors Center,,https://riparks.ri.gov/park
 Rhode Island,Brenton Point State Park,Newport,https://riparks.ri.gov/parks/brenton-point-state-park
 Rhode Island,Burlingame State Park,Washington,https://riparks.ri.gov/parks/burlingame-state-park
 Rhode Island,Colt State Park,Bristol,https://riparks.ri.gov/parks/colt-state-park
-Rhode Island,Eisenhower House Fort Adams State Park,,https://riparks.ri.gov/parks/eisenhower-house-fort-adams-state-park
+Rhode Island,Eisenhower House Fort Adams State Park,Newport,https://riparks.ri.gov/parks/eisenhower-house-fort-adams-state-park
 Rhode Island,Fort Adams State Park,Newport,https://riparks.ri.gov/parks/fort-adams-state-park
 Rhode Island,Fort Wetherill State Park,Newport,https://riparks.ri.gov/parks/fort-wetherill-state-park
 Rhode Island,Goddard Memorial State Golf Course,Kent,https://riparks.ri.gov/parks/goddard-memorial-state-golf-course
