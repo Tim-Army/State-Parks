@@ -29,7 +29,7 @@ Alaska,Alaska Chilkat Bald Eagle Preserve,Haines,https://dnr.alaska.gov/parks/as
 Alaska,Anchor River State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/anchorpt.htm
 Alaska,Baranof Castle State Historic Site,,https://dnr.alaska.gov/parks/aspunits/southeast/baranofcastle.htm
 Alaska,Beecher Pass State Marine Park,Petersburg,https://dnr.alaska.gov/parks/aspunits/southeast/beecherpass.htm
-Alaska,Betton Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/bettonisld.htm
+Alaska,Betton Island State Marine Park,Ketchikan Gateway,https://dnr.alaska.gov/parks/aspunits/marinepark/bettonisld.htm
 Alaska,Big Bear/Baby Bear State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/marinepark/bigbrbabybrsmp.htm
 Alaska,Big Delta State Historical Park,Southeast Fairbanks,https://dnr.alaska.gov/parks/aspunits/northern/bigdeltashp.htm
 Alaska,Big Lake North State Recreation Site,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/matsu/biglakenosrs.htm
@@ -63,7 +63,7 @@ Alaska,Finger Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.go
 Alaska,Fort Abercrombie State Historical Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/fortabercrombieshp.htm
 Alaska,Fort Rousseau Causeway State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/ftrousseau.htm
 Alaska,Funter Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/funterbay.htm
-Alaska,Grant Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grantisland.htm
+Alaska,Grant Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/grantisland.htm
 Alaska,Grindall Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
 Alaska,Halibut Point State Recreation Site,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/halibutptsrs.htm
 Alaska,Harding Lake State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/hardinglksra.htm
@@ -602,7 +602,7 @@ Delaware,Lums Pond State Park,New Castle,https://destateparks.com/park/lums-pond
 Delaware,Trap Pond State Park,Sussex,https://destateparks.com/park/trap-pond/
 Delaware,White Clay Creek State Park,New Castle,https://destateparks.com/park/white-clay-creek/
 Delaware,Wilmington State Parks,New Castle,https://destateparks.com/park/wilmington-state-parks/
-Florida,Adams Tract River Camp,,https://www.floridastateparks.org/parks-and-trails/adams-tract-river-camp
+Florida,Adams Tract River Camp,Hamilton,https://www.floridastateparks.org/parks-and-trails/adams-tract-river-camp
 Florida,Addison Blockhouse Historic State Park,Volusia,https://www.floridastateparks.org/addison-blockhouse
 Florida,Alafia River State Park,Hillsborough,https://www.floridastateparks.org/Alafia
 Florida,Alfred B. Maclay Gardens State Park,Leon,https://www.floridastateparks.org/MaclayGardens
@@ -871,7 +871,7 @@ Hawaii,Waiʻānapanapa State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/wa
 Hawaii,Waʻahila Ridge State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/waahila-ridge-state-recreation-area/
 Hawaii,ʻAiea Bay State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/aiea-bay-state-recreation-area/
 Hawaii,ʻAkaka Falls State Park,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/akaka-falls-state-park/
-Hawaii,ʻIolani Palace State Monument,,https://dlnr.hawaii.gov/dsp/parks/oahu/iolani-palace-state-monument/
+Hawaii,ʻIolani Palace State Monument,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/iolani-palace-state-monument/
 Hawaii,ʻĪao Valley State Monument,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/iao-valley-state-monument/
 Idaho,Bear Lake State Park,Bear Lake,https://parksandrecreation.idaho.gov/state-park/bear-lake-state-park/
 Idaho,Bruneau Dunes State Park,Owyhee,https://parksandrecreation.idaho.gov/state-park/bruneau-dunes-state-park/
@@ -1212,7 +1212,7 @@ Louisiana,Fairview-Riverside State Park,St. Tammany,https://www.lastateparks.com
 Louisiana,Fontainebleau State Park,St. Tammany,https://www.lastateparks.com/fontainebleau-state-park
 Louisiana,Fort Pike State Historic Site,Orleans,https://www.lastateparks.com/fort-pike-state-historic-site
 Louisiana,Fort St. Jean Baptiste State Historic Site,Natchitoches,https://www.lastateparks.com/fort-st-jean-baptiste-state-historic-site
-Louisiana,Forts Randolph & Buhlow State Historic Site,,https://www.lastateparks.com/forts-randolph-buhlow-state-historic-site
+Louisiana,Forts Randolph & Buhlow State Historic Site,Rapides,https://www.lastateparks.com/forts-randolph-buhlow-state-historic-site
 Louisiana,Jimmie Davis State Park,Jackson,https://www.lastateparks.com/jimmie-davis-state-park
 Louisiana,Lake Bistineau State Park,Webster,https://www.lastateparks.com/lake-bistineau-state-park
 Louisiana,Lake Bruin State Park,Tensas,https://www.lastateparks.com/lake-bruin-state-park
@@ -1693,7 +1693,7 @@ Missouri,Big Lake State Park,Holt,https://mostateparks.com/park/big-lake-state-p
 Missouri,Big Oak Tree State Park,Mississippi,https://mostateparks.com/park/big-oak-tree-state-park
 Missouri,Big Sugar Creek State Park,McDonald,https://mostateparks.com/park/big-sugar-creek-state-park
 Missouri,Bollinger Mill State Historic Site,Cape Girardeau,https://mostateparks.com/historic-site/bollinger-mill-state-historic-site
-Missouri,Boones Lick State Historic Site,,https://mostateparks.com/historic-site/boones-lick-state-historic-site
+Missouri,Boones Lick State Historic Site,Howard,https://mostateparks.com/historic-site/boones-lick-state-historic-site
 Missouri,Bothwell Lodge State Historic Site,Pettis,https://mostateparks.com/historic-site/bothwell-lodge-state-historic-site
 Missouri,Bryant Creek State Park,Douglas,https://mostateparks.com/park/bryant-creek-state-park
 Missouri,Castlewood State Park,St. Louis,https://mostateparks.com/park/castlewood-state-park
@@ -1909,7 +1909,7 @@ Nevada,Ice Age Fossils State Park,Clark,https://parks.nv.gov/parks/ice-age-fossi
 Nevada,Kershaw-Ryan State Park,Lincoln,https://parks.nv.gov/parks/kershaw-ryan
 Nevada,Lahontan State Recreation Area,Churchill,https://parks.nv.gov/parks/lahontan
 Nevada,Mormon Station State Historic Park,Douglas,https://parks.nv.gov/parks/mormon-station
-Nevada,Nevada's Newest State Park,,https://parks.nv.gov/parks/neweststatepark
+Nevada,Nevada's Newest State Park,Lyon,https://parks.nv.gov/parks/neweststatepark
 Nevada,Old Las Vegas State Historic Park,Clark,https://parks.nv.gov/parks/old-las-vegas-mormon-fort
 Nevada,Rye Patch State Recreation Area,Pershing,https://parks.nv.gov/parks/rye-patch
 Nevada,Sand Harbor - Lake Tahoe Nevada State Park,,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park
@@ -2116,7 +2116,7 @@ New York,Burnham Point State Park,Jefferson,https://parks.ny.gov/visit/state-par
 New York,Buttermilk Falls State Park,Tompkins,https://parks.ny.gov/visit/state-parks/buttermilk-falls-state-park
 New York,Caleb Smith State Park Preserve,Suffolk,https://parks.ny.gov/visit/state-parks/caleb-smith-state-park-preserve
 New York,Camp Hero State Park,Suffolk,https://parks.ny.gov/visit/state-parks/camp-hero-state-park
-New York,Canadarago State Marine Park,,https://parks.ny.gov/visit/state-parks/canadarago-state-marine-park
+New York,Canadarago State Marine Park,Otsego,https://parks.ny.gov/visit/state-parks/canadarago-state-marine-park
 New York,Canandaigua Lake State Marine Park,Ontario,https://parks.ny.gov/visit/state-parks/canandaigua-lake-state-marine-park
 New York,Canoe-Picnic Point State Park,Jefferson,https://parks.ny.gov/visit/state-parks/canoe-picnic-point-state-park
 New York,Captree State Park,Suffolk,https://parks.ny.gov/visit/state-parks/captree-state-park
@@ -2334,7 +2334,7 @@ North Dakota,Fort Abraham Lincoln State Park,Morton,https://www.parkrec.nd.gov/f
 North Dakota,Fort Ransom State Park,Ransom,https://www.parkrec.nd.gov/fort-ransom-state-park
 North Dakota,Fort Stevenson State Park,McLean,https://www.parkrec.nd.gov/fort-stevenson-state-park
 North Dakota,Grahams Island State Park,Benson,https://www.parkrec.nd.gov/grahams-island-state-park
-North Dakota,Gunlogson State Nature Preserve,,https://www.parkrec.nd.gov/gunlogson-state-nature-preserve
+North Dakota,Gunlogson State Nature Preserve,Pembina,https://www.parkrec.nd.gov/gunlogson-state-nature-preserve
 North Dakota,Icelandic State Park,Pembina,https://www.parkrec.nd.gov/icelandic-state-park
 North Dakota,Lake Metigoshe State Park,Bottineau,https://www.parkrec.nd.gov/lake-metigoshe-state-park
 North Dakota,Lake Sakakawea State Park,Mercer,https://www.parkrec.nd.gov/lake-sakakawea-state-park
@@ -3407,7 +3407,7 @@ Wisconsin,Fenley State Recreation Area,Grant,https://dnr.wisconsin.gov/topic/par
 Wisconsin,Fischer Creek State Recreation Area,Manitowoc,https://dnr.wisconsin.gov/topic/parks/fischercreek
 Wisconsin,Fox River State Trail,Waukesha,https://dnr.wisconsin.gov/topic/parks/foxriver
 Wisconsin,Friendship State Trail,Winnebago,https://dnr.wisconsin.gov/topic/parks/friendship
-Wisconsin,Gandy Dancer State Trail Northern Segment,,https://dnr.wisconsin.gov/topic/parks/gandydancernorth
+Wisconsin,Gandy Dancer State Trail Northern Segment,"Douglas, Burnett",https://dnr.wisconsin.gov/topic/parks/gandydancernorth
 Wisconsin,Gandy Dancer State Trail Southern Segment,"Polk, Burnett",https://dnr.wisconsin.gov/topic/parks/gandydancer
 Wisconsin,Glacial Drumlin State Trail,Dane,https://dnr.wisconsin.gov/topic/parks/glacialdrumlin
 Wisconsin,Governor Dodge State Park,Iowa,https://dnr.wisconsin.gov/topic/parks/govdodge
@@ -3466,7 +3466,7 @@ Wisconsin,Roche-A-Cri State Park,Adams,https://dnr.wisconsin.gov/topic/parks/roc
 Wisconsin,Rock Island State Park,Door,https://dnr.wisconsin.gov/topic/parks/rockisland
 Wisconsin,Rocky Arbor State Park,"Juneau, Sauk",https://dnr.wisconsin.gov/topic/parks/rockyarbor
 Wisconsin,Sauk Prairie State Recreation Area,Sauk,https://dnr.wisconsin.gov/topic/parks/saukprairie
-Wisconsin,Saunders State Trail,,https://dnr.wisconsin.gov/topic/parks/saunders
+Wisconsin,Saunders State Trail,Douglas,https://dnr.wisconsin.gov/topic/parks/saunders
 Wisconsin,Southern Unit Kettle Moraine State Forest,Waukesha,https://dnr.wisconsin.gov/topic/parks/kms
 Wisconsin,State Trails,Ashland,https://dnr.wisconsin.gov/topic/parks/trails
 Wisconsin,Stower Seven Lakes State Trail,Polk,https://dnr.wisconsin.gov/topic/parks/stower
