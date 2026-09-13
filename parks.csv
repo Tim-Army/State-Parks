@@ -42,7 +42,7 @@ Alaska,Caines Head State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/
 Alaska,Captain Cook State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/captcook.htm
 Alaska,Chena River State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/chenariversra.htm
 Alaska,Chena River State Recreation Site,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/chenariversrs.htm
-Alaska,Chilkat Islands State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/chilkatislands.htm
+Alaska,Chilkat Islands State Marine Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/chilkatislands.htm
 Alaska,Chilkat State Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/chilkatsp.htm
 Alaska,Chilkoot Lake State Recreation Site,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/chilkootlksrs.htm
 Alaska,Clam Gulch State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/clamgulchsra.htm
@@ -83,7 +83,7 @@ Alaska,Lake Louise State Recreation Area,Matanuska-Susitna,https://dnr.alaska.go
 Alaska,Liberty Falls State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/matsu/libertyflsrs.htm
 Alaska,Lowell Point State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/lowellptsrs.htm
 Alaska,Lower Chatanika State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/lrchatrivsra.htm
-Alaska,Magoun Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/magounissmp.htm
+Alaska,Magoun Island State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/marinepark/magounissmp.htm
 Alaska,Matanuska Glacier State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/matsuglsrs.htm
 Alaska,Matanuska Lakes State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/keplerbradlksra.htm
 Alaska,Montana Creek State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/montcksrs.htm
@@ -614,7 +614,7 @@ Florida,Atlantic Ridge Preserve State Park,Martin,https://www.floridastateparks.
 Florida,Avalon State Park,St. Lucie,https://www.floridastateparks.org/parks-and-trails/avalon-state-park
 Florida,Bahia Honda State Park,Monroe,https://www.floridastateparks.org/BahiaHonda
 Florida,Bald Point State Park,Franklin,https://www.floridastateparks.org/parks-and-trails/bald-point-state-park
-Florida,Baseline Road Trailhead,,https://www.floridastateparks.org/parks-and-trails/baseline-road-trailhead
+Florida,Baseline Road Trailhead,Marion,https://www.floridastateparks.org/parks-and-trails/baseline-road-trailhead
 Florida,Big Lagoon State Park,Escambia,https://www.floridastateparks.org/BigLagoon
 Florida,Big Shoals State Park,Columbia,https://www.floridastateparks.org/parks-and-trails/big-shoals-state-park
 Florida,Big Talbot Island State Park,Duval,https://www.floridastateparks.org/parks-and-trails/big-talbot-island-state-park
@@ -2038,7 +2038,7 @@ New Jersey,Ramapo Mountain State Forest,Bergen,https://dep.nj.gov/parksandforest
 New Jersey,Rancocas State Park,Burlington,https://dep.nj.gov/parksandforests/state-park/rancocas-state-park/
 New Jersey,Ringwood State Park,Passaic,https://dep.nj.gov/parksandforests/state-park/ringwood-state-park/
 New Jersey,Round Valley Recreation Area,Hunterdon,https://dep.nj.gov/parksandforests/state-park/round-valley-recreation-area/
-New Jersey,Senator Frank S. Farley State Marina,,https://dep.nj.gov/parksandforests/state-park/senator-frank-s-farley-state-marina/
+New Jersey,Senator Frank S. Farley State Marina,Atlantic,https://dep.nj.gov/parksandforests/state-park/senator-frank-s-farley-state-marina/
 New Jersey,Six Mile Run Reservoir Site,Somerset,https://dep.nj.gov/parksandforests/state-park/six-mile-run-reservoir-site/
 New Jersey,Spruce Run Recreation Area,Hunterdon,https://dep.nj.gov/parksandforests/state-park/spruce-run-recreation-area/
 New Jersey,Stephens State Park,Warren,https://dep.nj.gov/parksandforests/state-park/stephens-state-park/
@@ -3274,7 +3274,6 @@ Washington,Olallie State Park,King,https://parks.wa.gov/find-parks/state-parks/o
 Washington,Olmstead Place Historical State Park,Kittitas,https://parks.wa.gov/find-parks/state-parks/olmstead-place-historical-state-park
 Washington,Pacific Beach State Park,Grays Harbor,https://parks.wa.gov/find-parks/state-parks/pacific-beach-state-park
 Washington,Pacific Pines State Park,Pacific,https://parks.wa.gov/find-parks/state-parks/pacific-pines-state-park
-Washington,Palouse Cascades State Park Trail,Whitman,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail
 Washington,Palouse Cascades State Park Trail Central,"Kittitas, Grant",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-central
 Washington,Palouse Cascades State Park Trail East,"Lincoln, Adams, Whitman",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-east
 Washington,Palouse Cascades State Park Trail West,"King, Kittitas",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-west
