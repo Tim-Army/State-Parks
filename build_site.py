@@ -210,7 +210,7 @@ va_rows = '\n'.join(
     f'<td>{esc(r["RV Sites Counted"])}</td><td>{esc(r["Sites by Size (as published)"])}</td></tr>' for r in virginia)
 va_sites = sum(int(r['RV Sites Counted']) for r in virginia)
 
-PARKS = [[r['State'], r['Park Name'], r.get('County', ''), r.get('Welcome Center', ''), r['Official Website']] for r in parks]
+PARKS = [[r['State'], r['Park Name'], r.get('County', ''), r.get('Welcome Center', ''), r.get('Visitor Center?', ''), r['Official Website']] for r in parks]
 SYS = {r['State']: [r['Park System Name'], r['Official Website']] for r in systems}
 
 biggest = max(state_sum.items(), key=lambda kv: kv[1]['n'])

@@ -51,6 +51,7 @@ td.state{white-space:nowrap;color:var(--muted);font-size:.9rem}
 td.name{font-weight:500}
 td.county{font-size:.9rem;color:var(--muted)}
 td.wc{font-size:.9rem}
+td.vc{font-size:.9rem;white-space:nowrap}
 td.site{font-size:.9rem;word-break:break-word}
 td.tm{white-space:nowrap;font-size:.9rem}
 td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
@@ -122,6 +123,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">Park <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">County <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Welcome Center <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" title="Yes = the park's own page describes a visitor, welcome, nature or interpretive center. No = its page doesn't mention one. Blank = not determined.">Visitor Center? <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
         </tr>
       </thead>
@@ -305,7 +307,7 @@ function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;',
 
 function filtered(){
   const term=q.value.trim().toLowerCase(), sel=st.value;
-  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[4].toLowerCase().includes(term)));
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[5].toLowerCase().includes(term)));
   rows=rows.slice().sort((a,b)=>{
     const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
     return c || a[1].localeCompare(b[1]);
@@ -319,7 +321,8 @@ function render(){
   body.innerHTML=slice.map(p=>
     `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td><td class="county">${p[2]?esc(p[2]):'<span class="na">&ndash;</span>'}</td>`+
     `<td class="wc">${p[3]?esc(p[3]):'<span class="na">&ndash;</span>'}</td>`+
-    `<td class="site"><a href="${esc(p[4])}" target="_blank" rel="noopener noreferrer">${esc(host(p[4]))}</a></td></tr>`).join('');
+    `<td class="vc">${p[4]?esc(p[4]):'<span class="na">&ndash;</span>'}</td>`+
+    `<td class="site"><a href="${esc(p[5])}" target="_blank" rel="noopener noreferrer">${esc(host(p[5]))}</a></td></tr>`).join('');
   empty.hidden = rows.length>0;
   countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
     (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');

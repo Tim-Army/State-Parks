@@ -20,7 +20,9 @@ ST = ('AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|M
 # Anchored on ", ST ZIP" rather than a street-type word: parks use formats like
 # "2373 ASP, Rte 1, Suite 3, Salamanca, NY 14779" that no Street/Ave/Rd list would catch.
 STREET = re.compile(r"(?<![\d-])(\d{1,6}[A-Za-z]?\s+[A-Za-z0-9 .,'&/#-]{4,70}?),?\s+(" + ST + r")\s+(\d{5})(?:-\d{4})?\b")
-CENTER = re.compile(r'(visitor|welcome|nature|interpretive)\s+(center|centre)', re.I)
+CENTER = re.compile(r'(visitor|welcome|nature|interpretive|education|discovery)\s+(center|centre)', re.I)
+# "has a visitor center" is only credible as a real mention, not a nav link or a link to another park's center
+VC_NEG = re.compile(r'(no|without|closed permanently)\s+(visitor|welcome|nature)\s+(center|centre)', re.I)
 STRIP = re.compile(r'<(script|style|noscript)[\s\S]*?</\1>', re.I)
 
 def text_of(h):
@@ -48,6 +50,19 @@ def from_schema(h):
                     if re.search(r'\d', s): return re.sub(r'\s+', ' ', s)
                 stack += [v for v in o.values() if isinstance(v, (dict, list))]
     return ''
+
+VC_CTX = re.compile(r'\b(open|hours|exhibit|gift shop|museum|staff|located|houses|features|displays|aquarium|theater|closed|admission|restrooms)\b', re.I)
+
+def has_center(h):
+    """A bare "Welcome Centers" link in site navigation appears on every page of some sites (arkansas.com),
+    so a mention only counts when it sits near words describing a real facility, or repeats several times."""
+    t = text_of(h)
+    if VC_NEG.search(t): return 'No'
+    hits = list(CENTER.finditer(t))
+    if not hits: return 'No'
+    for m in hits:
+        if VC_CTX.search(t[max(0, m.start() - 160):m.end() + 200]): return 'Yes'
+    return 'Yes' if len(hits) >= 3 else 'No'
 
 def extract(h):
     """Return (best, how, candidates). Several candidates are kept because the first address on a page is
@@ -124,9 +139,12 @@ def main():
         with lock:
             wait = max(0.0, last[host] + 1.0 - time.time()); last[host] = time.time() + wait
         time.sleep(wait)
-        try: addr, how, cands = extract(fetch(r['Official Website']))
-        except Exception as e: return r['Official Website'], ['', 'err:' + type(e).__name__, []]
-        return r['Official Website'], [addr, how, cands]
+        try:
+            h = fetch(r['Official Website'])
+            addr, how, cands = extract(h)
+            vc = has_center(h)
+        except Exception as e: return r['Official Website'], ['', 'err:' + type(e).__name__, [], '']
+        return r['Official Website'], [addr, how, cands, vc]
     done = 0
     with cf.ThreadPoolExecutor(8) as ex:
         for url, v in ex.map(work, todo):

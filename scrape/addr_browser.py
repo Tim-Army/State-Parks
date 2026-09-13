@@ -9,7 +9,9 @@ so those states are crawled from inside a browser tab with the same pattern used
     /path/of/park/page|123 Main St, Town, ST 12345
     ...
 
-Usage: python3 scrape/addr_browser.py <cache-dir>      # reads <cache-dir>/browser/*.txt
+The same layout under <cache-dir>/vc/ carries the visitor-center answers (path|Yes or path|No).
+
+Usage: python3 scrape/addr_browser.py <cache-dir>      # reads <cache-dir>/browser/*.txt and <cache-dir>/vc/*.txt
 """
 import csv, json, os, sys
 
@@ -27,6 +29,12 @@ def main():
         by_state_path[(r['State'], path.rstrip('/'))] = u
     cp = os.path.join(cache_dir, 'addr.json')
     cache = json.load(open(cp)) if os.path.exists(cp) else {}
+    def dumps(d):
+        for f in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+            if not f.endswith('.txt'): continue
+            lines = open(os.path.join(d, f), encoding='utf-8').read().splitlines()
+            if lines: yield f, lines[0].strip(), lines[1:]
+
     added = 0
     for f in sorted(os.listdir(bdir)):
         if not f.endswith('.txt'): continue
@@ -41,8 +49,18 @@ def main():
             cache[url] = [addr.strip(), 'browser', [addr.strip()]]
             added += 1
         print(f'{f}: {state}')
+    vcn = 0
+    for f, state, lines in dumps(os.path.join(cache_dir, 'vc')):
+        for line in lines:
+            if '|' not in line: continue
+            path, v = line.split('|', 1); v = v.strip()
+            url = by_state_path.get((state, path.strip().rstrip('/')))
+            if not url or v not in ('Yes', 'No'): continue
+            e = cache.get(url) or ['', 'browser', []]
+            while len(e) < 4: e.append('')
+            e[3] = v; cache[url] = e; vcn += 1
     json.dump(cache, open(cp, 'w'))
-    print('merged', added, 'addresses from the browser dumps')
+    print('merged', added, 'addresses and', vcn, 'visitor-center answers from the browser dumps')
 
 if __name__ == '__main__':
     main()

@@ -14,6 +14,7 @@ import csv, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 COL = 'Welcome Center'
+VCOL = 'Visitor Center?'
 
 over = {}
 p = os.path.join(HERE, 'welcome-center-overrides.csv')
@@ -25,14 +26,33 @@ def norm(s):
     s = re.sub(r'\s+(State (Park|Forest|Recreation Area|Historic(al)? (Site|Park)|Natural Area|Beach|Trail|Wayside)|SP|SRA|SHS)$', '', s.strip(), flags=re.I)
     return re.sub(r'[^a-z0-9]', '', s.lower())
 
-crawl, res = {}, {}
+crawl, res, vcs = {}, {}, {}
 if len(sys.argv) > 1:
     sys.path.insert(0, HERE)
     import addresses, json
     cp = os.path.join(sys.argv[1], 'addr.json')
     if os.path.exists(cp):
         allrows = list(csv.DictReader(open(os.path.join(ROOT, 'parks.csv'), encoding='utf-8')))
-        crawl = addresses.usable(allrows, json.load(open(cp)))
+        cache = json.load(open(cp))
+        crawl = addresses.usable(allrows, cache)
+        # "Yes"/"No" from the crawler, but only where the answer is trustworthy:
+        #  - the page has to have yielded something (an address or a centre mention); a page whose text never
+        #    rendered would otherwise read as a confident "No"
+        #  - a state whose every park says "Yes" is a site template, not 3,519 visitor centres (Ohio, West
+        #    Virginia and Wyoming mention one on every page), so that state is left blank
+        raw = {}
+        for r in allrows:
+            v = cache.get(r['Official Website']) or []
+            how = v[1] if len(v) > 1 else ''
+            if len(v) > 3 and v[3] and (how in ('schema', 'center', 'page', 'browser')):
+                raw[(r['State'], r['Park Name'])] = v[3]
+        tally = {}
+        for (st, _), v in raw.items():
+            y, n = tally.get(st, (0, 0))
+            tally[st] = (y + (v == 'Yes'), n + 1)
+        template = {st for st, (y, n) in tally.items() if n >= 10 and y / n >= 0.95}
+        vcs = {k: v for k, v in raw.items() if k[0] not in template}
+        if template: print('left blank (site template mentions a centre on every page):', ', '.join(sorted(template)))
     rp = os.path.join(sys.argv[1], 'addr_res.json')
     if os.path.exists(rp):
         for k, v in json.load(open(rp)).items():
@@ -48,11 +68,13 @@ def abbrev(a, state):
 rows = list(csv.DictReader(open(os.path.join(ROOT, 'parks.csv'), encoding='utf-8')))
 fields = list(rows[0].keys())
 if COL not in fields: fields.insert(fields.index('County') + 1, COL)
+if VCOL not in fields: fields.insert(fields.index(COL) + 1, VCOL)
 n = 0
 for r in rows:
     v = (over.get((r['State'], r['Park Name'])) or crawl.get((r['State'], r['Park Name']))
          or res.get((r['State'], norm(r['Park Name']))) or '')
     r[COL] = abbrev(v, r['State']) if v else ''
+    r[VCOL] = vcs.get((r['State'], r['Park Name']), '')
     if v: n += 1
 with open(os.path.join(ROOT, 'parks.csv'), 'w', newline='', encoding='utf-8') as fh:
     w = csv.DictWriter(fh, fieldnames=fields); w.writeheader(); w.writerows(rows)
