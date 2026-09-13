@@ -67,7 +67,7 @@ Alaska,Grant Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.g
 Alaska,Grindall Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
 Alaska,Halibut Point State Recreation Site,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/halibutptsrs.htm
 Alaska,Harding Lake State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/hardinglksra.htm
-Alaska,Hole in the Wall State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/holeinthewall.htm
+Alaska,Hole in the Wall State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/marinepark/holeinthewall.htm
 Alaska,Independence Mine State Historical Park,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/indepmineshp.htm
 Alaska,Joe Mace Island State Marine Park,Unorganized,https://dnr.alaska.gov/parks/aspunits/southeast/joemace.htm
 Alaska,Johnson Lake State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/kenai/johnsonlksra.htm
@@ -957,7 +957,7 @@ Illinois,Jubilee College,Peoria,https://dnr.illinois.gov/parks/park.jubileecolle
 Illinois,Kankakee River,Will,https://dnr.illinois.gov/parks/park.kankakeeriver.html
 Illinois,Kaskaskia River,Fayette,https://dnr.illinois.gov/parks/park.kaskaskiariver.html
 Illinois,Kickapoo,Peoria,https://dnr.illinois.gov/parks/park.kickapoo.html
-Illinois,Kidd Lake Marsh,,https://dnr.illinois.gov/parks/park.kidd-lake-marsh.html
+Illinois,Kidd Lake Marsh,Monroe,https://dnr.illinois.gov/parks/park.kidd-lake-marsh.html
 Illinois,Kinkaid Lake,Jackson,https://dnr.illinois.gov/parks/park.kinkaidlake.html
 Illinois,Lake Le-Aqua-Na,Stephenson,https://dnr.illinois.gov/parks/park.lakeleaquana.html
 Illinois,Lake Murphysboro,Jackson,https://dnr.illinois.gov/parks/park.lakemurphysboro.html
@@ -1319,10 +1319,10 @@ Maine,Scraggly Lake Public Land,Penobscot,https://www.maine.gov/cgi-bin/online/d
 Maine,Sebago Lake State Park,Cumberland,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=26
 Maine,Seboeis Public Land,Piscataquis,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=67
 Maine,Shackford Head State Park,Washington,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=68
-Maine,Sherman to Patten Trail,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=97
+Maine,Sherman to Patten Trail,"Aroostook, Penobscot",https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=97
 Maine,Southern Bangor & Aroostook Trail,Aroostook,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=75
 Maine,St. John Valley Heritage Trail,Aroostook,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=78
-Maine,Storer Garrison State Historic Site,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=91
+Maine,Storer Garrison State Historic Site,York,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=91
 Maine,Swan Lake State Park,Waldo,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=24
 Maine,Swans Falls Campground,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=88
 Maine,Talking Brook Public Land,Cumberland,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=102
@@ -1659,7 +1659,7 @@ Minnesota,Whitewater State Park,Winona,https://www.dnr.state.mn.us/state_parks/p
 Minnesota,Wild River State Park,Chisago,https://www.dnr.state.mn.us/state_parks/park.html?id=spk00254
 Minnesota,William O'Brien State Park,Washington,https://www.dnr.state.mn.us/state_parks/park.html?id=spk00283
 Minnesota,Zippel Bay State Park,Lake of the Woods,https://www.dnr.state.mn.us/state_parks/park.html?id=spk00284
-Mississippi,Bob M Dearing Natchez State Park,,https://www.mdwfp.com/parks-destinations/park/bob-m-dearing-natchez-state-park
+Mississippi,Bob M Dearing Natchez State Park,Adams,https://www.mdwfp.com/parks-destinations/park/bob-m-dearing-natchez-state-park
 Mississippi,Buccaneer State Park,Hancock,https://www.mdwfp.com/parks-destinations/park/buccaneer-state-park
 Mississippi,Clark Creek State Park,Wilkinson,https://www.mdwfp.com/parks-destinations/park/clark-creek-state-park
 Mississippi,Clarkco State Park,Clarke,https://www.mdwfp.com/parks-destinations/park/clarkco-state-park
@@ -1987,7 +1987,7 @@ New Hampshire,Rye Harbor State Park,Rockingham,https://www.nhstateparks.org/find
 New Hampshire,Sculptured Rocks Natural Area,Grafton,https://www.nhstateparks.org/find-parks-trails/sculptured-rocks-natural-area
 New Hampshire,Silver Lake State Park,Hillsborough,https://www.nhstateparks.org/find-parks-trails/silver-lake-state-park
 New Hampshire,South Beach Hampton Beach State Park,Rockingham,https://www.nhstateparks.org/find-parks-trails/south-beach-hampton-beach-state-park
-New Hampshire,Taylor Mill Historic Site,,https://www.nhstateparks.org/find-parks-trails/taylor-mill-historic-site
+New Hampshire,Taylor Mill Historic Site,Rockingham,https://www.nhstateparks.org/find-parks-trails/taylor-mill-historic-site
 New Hampshire,Umbagog Lake State Park,Coos,https://www.nhstateparks.org/find-parks-trails/umbagog-lake-state-park
 New Hampshire,Wadleigh State Park,Merrimack,https://www.nhstateparks.org/find-parks-trails/wadleigh-state-park
 New Hampshire,Wallis Sands State Park,Rockingham,https://www.nhstateparks.org/find-parks-trails/wallis-sands-state-park
@@ -2427,7 +2427,7 @@ Oklahoma,Gloss Mountain State Park,Major,https://www.travelok.com/listings/view.
 Oklahoma,Grand Lake: Bernice State Park,Delaware,https://www.travelok.com/listings/view.profile/id.477
 Oklahoma,Grand Lake: Cherokee State Park,Delaware,https://www.travelok.com/listings/view.profile/id.1302
 Oklahoma,Grand Lake: Disney State Park,Delaware,https://www.travelok.com/listings/view.profile/id.25420
-Oklahoma,Grand Lake: Honey Creek State Park,,https://www.travelok.com/listings/view.profile/id.3617
+Oklahoma,Grand Lake: Honey Creek State Park,Delaware,https://www.travelok.com/listings/view.profile/id.3617
 Oklahoma,Grand Lake: Little Blue State Park,,https://www.travelok.com/listings/view.profile/id.2251
 Oklahoma,Grand Lake: Spavinaw State Park,,https://www.travelok.com/listings/view.profile/id.7148
 Oklahoma,Grand Lake: Twin Bridges State Park,,https://www.travelok.com/listings/view.profile/id.8250
@@ -2590,7 +2590,7 @@ Oregon,Samuel H. Boardman State Scenic Corridor,Curry,https://stateparks.oregon.
 Oregon,Sarah Helmick State Recreation Site,Polk,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=98
 Oregon,Seal Rock State Recreation Site,Lincoln,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=147
 Oregon,Seven Devils State Recreation Site,Coos,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=49
-Oregon,Seven Streams Staging Area (Vinzenz Lausmann Memorial State Natural Area),,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=124
+Oregon,Seven Streams Staging Area (Vinzenz Lausmann Memorial State Natural Area),Hood River,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=124
 Oregon,Shepperd's Dell State Natural Area,Multnomah,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=121
 Oregon,Shore Acres State Park,Coos,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=68
 Oregon,Silver Falls State Park,Marion,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=151
@@ -2924,7 +2924,7 @@ Tennessee,Natchez Trace State Park,Henderson,https://tnstateparks.com/parks/natc
 Tennessee,Nathan Bedford Forrest State Park,Benton,https://tnstateparks.com/parks/nathan-bedford-forrest
 Tennessee,Norris Dam State Park,"Campbell, Anderson",https://tnstateparks.com/parks/norris-dam
 Tennessee,North Chickamauga State Park,Hamilton,https://tnstateparks.com/parks/north-chickamauga
-Tennessee,Ocoee River State Park,,https://tnstateparks.com/parks/ocoee-river
+Tennessee,Ocoee River State Park,Polk,https://tnstateparks.com/parks/ocoee-river
 Tennessee,Old Stone Fort State Park,Coffee,https://tnstateparks.com/parks/old-stone-fort
 Tennessee,Panther Creek State Park,Hamblen,https://tnstateparks.com/parks/panther-creek
 Tennessee,Paris Landing State Park,Henry,https://tnstateparks.com/parks/paris-landing
@@ -3275,7 +3275,7 @@ Washington,Olmstead Place Historical State Park,Kittitas,https://parks.wa.gov/fi
 Washington,Pacific Beach State Park,Grays Harbor,https://parks.wa.gov/find-parks/state-parks/pacific-beach-state-park
 Washington,Pacific Pines State Park,Pacific,https://parks.wa.gov/find-parks/state-parks/pacific-pines-state-park
 Washington,Palouse Cascades State Park Trail,Whitman,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail
-Washington,Palouse Cascades State Park Trail Central,,https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-central
+Washington,Palouse Cascades State Park Trail Central,"Kittitas, Grant",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-central
 Washington,Palouse Cascades State Park Trail East,"Lincoln, Adams, Whitman",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-east
 Washington,Palouse Cascades State Park Trail West,"King, Kittitas",https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail-west
 Washington,Palouse Falls State Park Heritage Site,Franklin,https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site
