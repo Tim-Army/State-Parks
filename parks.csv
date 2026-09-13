@@ -76,7 +76,7 @@ Alaska,Juneau State Trails System,Juneau,https://dnr.alaska.gov/parks/aspunits/s
 Alaska,Kachemak Bay State Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbaysp.htm
 Alaska,Kachemak Bay State Wilderness Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbayswp.htm
 Alaska,Kasilof River State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kasilofrivsrs.htm
-Alaska,Kenai River Special Management Area,,https://dnr.alaska.gov/parks/aspunits/kenai/krsma.htm
+Alaska,Kenai River Special Management Area,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/krsma.htm
 Alaska,King Mountain State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/kingmtnsrs.htm
 Alaska,Lake Aleknagik State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/woodtik/lkaleknsrs.htm
 Alaska,Lake Louise State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/lklouisesra.htm
@@ -272,7 +272,7 @@ California,Del Norte Coast Redwoods State Park,Del Norte,https://www.parks.ca.go
 California,Dockweiler State Beach,Los Angeles,https://www.parks.ca.gov/?page_id=617
 California,Doheny State Beach,Orange,https://www.parks.ca.gov/?page_id=645
 California,Donner Memorial State Park,"Nevada, Placer",https://www.parks.ca.gov/?page_id=503
-California,Eastern Kern County Onyx Ranch State Vehicular Recreation Area,,https://www.parks.ca.gov/?page_id=28617
+California,Eastern Kern County Onyx Ranch State Vehicular Recreation Area,Kern,https://www.parks.ca.gov/?page_id=28617
 California,Ed Z'berg Sugar Pine Point State Park,El Dorado,https://www.parks.ca.gov/?page_id=510
 California,El Capitán State Beach,Santa Barbara,https://www.parks.ca.gov/?page_id=601
 California,El Presidio de Santa Barbara State Historic Park,Santa Barbara,https://www.parks.ca.gov/?page_id=608
@@ -764,7 +764,7 @@ Florida,Suwannee River State Park,Suwannee,https://www.floridastateparks.org/par
 Florida,T.H. Stone Memorial St. Joseph Peninsula State Park,Gulf,https://www.floridastateparks.org/parks-and-trails/th-stone-memorial-st-joseph-peninsula-state-park
 Florida,Tallahassee-St. Marks Historic Railroad State Trail,Leon,https://www.floridastateparks.org/parks-and-trails/tallahassee-st-marks-historic-railroad-state-trail
 Florida,Tarkiln Bayou Preserve State Park,Escambia,https://www.floridastateparks.org/parks-and-trails/tarkiln-bayou-preserve-state-park
-Florida,Terra Ceia Preserve State Park,,https://www.floridastateparks.org/parks-and-trails/terra-ceia-preserve-state-park
+Florida,Terra Ceia Preserve State Park,Manatee,https://www.floridastateparks.org/parks-and-trails/terra-ceia-preserve-state-park
 Florida,The Barnacle Historic State Park,Miami-Dade,https://www.floridastateparks.org/parks-and-trails/barnacle-historic-state-park
 Florida,Three Rivers State Park,Jackson,https://www.floridastateparks.org/parks-and-trails/three-rivers-state-park
 Florida,Tomoka State Park,Volusia,https://www.floridastateparks.org/Tomoka
@@ -1324,7 +1324,7 @@ Maine,Southern Bangor & Aroostook Trail,Aroostook,https://www.maine.gov/cgi-bin/
 Maine,St. John Valley Heritage Trail,Aroostook,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=78
 Maine,Storer Garrison State Historic Site,York,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=91
 Maine,Swan Lake State Park,Waldo,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=24
-Maine,Swans Falls Campground,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=88
+Maine,Swans Falls Campground,Oxford,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=88
 Maine,Talking Brook Public Land,Cumberland,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=102
 Maine,Telos Public Land,Piscataquis,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=71
 Maine,Two Lights State Park,Cumberland,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=28
@@ -1722,7 +1722,7 @@ Missouri,Harry S Truman Birthplace State Historic Site,Barton,https://mostatepar
 Missouri,Hawn,Ste. Genevieve,https://mostateparks.com/park/hawn
 Missouri,Hunter Dawson State Historic Site,New Madrid,https://mostateparks.com/historic-site/hunter-dawson-state-historic-site
 Missouri,Iliniwek Village State Historic Site,Clark,https://mostateparks.com/historic-site/iliniwek-village-state-historic-site
-Missouri,Jay Nixon Backcountry,,https://mostateparks.com/park/jay-nixon-backcountry
+Missouri,Jay Nixon Backcountry,Reynolds,https://mostateparks.com/park/jay-nixon-backcountry
 Missouri,Jewell Cemetery State Historic Site,Boone,https://mostateparks.com/historic-site/jewell-cemetery-state-historic-site
 Missouri,Johnsons Shut Ins State Park,Reynolds,https://mostateparks.com/park/johnsons-shut-ins-state-park
 Missouri,Katy Trail State Park,St. Charles,https://mostateparks.com/park/katy-trail-state-park
@@ -1790,7 +1790,7 @@ Montana,Fish Creek State Park,Mineral,https://fwp.mt.gov/stateparks/fish-creek
 Montana,Fort Owen State Park,Ravalli,https://fwp.mt.gov/stateparks/fort-owen
 Montana,Frenchtown Pond State Park,Missoula,https://fwp.mt.gov/stateparks/frenchtown-pond
 Montana,Giant Springs State Park,Cascade,https://fwp.mt.gov/stateparks/giant-springs
-Montana,Granite Ghost Town State Park,,https://fwp.mt.gov/stateparks/granite-ghost-town
+Montana,Granite Ghost Town State Park,Granite,https://fwp.mt.gov/stateparks/granite-ghost-town
 Montana,Greycliff Prairie Dog Town State Park,Sweet Grass,https://fwp.mt.gov/stateparks/greycliff-prairie-dog-town
 Montana,Lake Elmo State Park,Yellowstone,https://fwp.mt.gov/stateparks/lake-elmo
 Montana,Lake Mary Ronan State Park,Lake,https://fwp.mt.gov/stateparks/lake-mary-ronan
@@ -1940,7 +1940,7 @@ New Hampshire,Crawford Notch State Park,Carroll,https://www.nhstateparks.org/fin
 New Hampshire,Daniel Webster Birthplace,Merrimack,https://www.nhstateparks.org/find-parks-trails/daniel-webster-birthplace
 New Hampshire,Deer Mountain Campground,Coos,https://www.nhstateparks.org/find-parks-trails/deer-mountain-campground
 New Hampshire,Dixville Notch State Park,"Coos, Coös",https://www.nhstateparks.org/find-parks-trails/dixville-notch-state-park
-New Hampshire,Echo Lake Beach at Franconia Notch State Park,,https://www.nhstateparks.org/find-parks-trails/echo-lake-beach-at-franconia-notch-state-park
+New Hampshire,Echo Lake Beach at Franconia Notch State Park,Grafton,https://www.nhstateparks.org/find-parks-trails/echo-lake-beach-at-franconia-notch-state-park
 New Hampshire,Echo Lake State Park,Carroll,https://www.nhstateparks.org/find-parks-trails/echo-lake-state-park
 New Hampshire,Eisenhower Memorial Wayside,Coos,https://www.nhstateparks.org/find-parks-trails/eisenhower-memorial-wayside
 New Hampshire,Ellacoya State Park,Belknap,https://www.nhstateparks.org/find-parks-trails/ellacoya-state-park
@@ -2214,7 +2214,7 @@ New York,Montauk Point State Park,Suffolk,https://parks.ny.gov/visit/state-parks
 New York,Moreau Lake State Park,Saratoga,https://parks.ny.gov/visit/state-parks/moreau-lake-state-park
 New York,Newtown Battlefield State Park,Chemung,https://parks.ny.gov/visit/state-parks/newtown-battlefield-state-park
 New York,Niagara Falls State Park,Niagara,https://parks.ny.gov/visit/state-parks/niagara-falls-state-park
-New York,Niagara Falls State Park - Devil's Hole Area,,https://parks.ny.gov/visit/state-parks/devils-hole-state-park
+New York,Niagara Falls State Park - Devil's Hole Area,Niagara,https://parks.ny.gov/visit/state-parks/devils-hole-state-park
 New York,Niagara Falls State Park - Whirlpool Area,Niagara,https://parks.ny.gov/visit/state-parks/whirlpool-state-park
 New York,Nissequogue River State Park,Suffolk,https://parks.ny.gov/visit/state-parks/nissequogue-river-state-park
 New York,Nyack Beach State Park,Rockland,https://parks.ny.gov/visit/state-parks/nyack-beach-state-park
@@ -2430,7 +2430,7 @@ Oklahoma,Grand Lake: Disney State Park,Delaware,https://www.travelok.com/listing
 Oklahoma,Grand Lake: Honey Creek State Park,Delaware,https://www.travelok.com/listings/view.profile/id.3617
 Oklahoma,Grand Lake: Little Blue State Park,Delaware,https://www.travelok.com/listings/view.profile/id.2251
 Oklahoma,Grand Lake: Spavinaw State Park,,https://www.travelok.com/listings/view.profile/id.7148
-Oklahoma,Grand Lake: Twin Bridges State Park,,https://www.travelok.com/listings/view.profile/id.8250
+Oklahoma,Grand Lake: Twin Bridges State Park,Ottawa,https://www.travelok.com/listings/view.profile/id.8250
 Oklahoma,Great Plains State Park,Kiowa,https://www.travelok.com/state-parks/great-plains-state-park
 Oklahoma,Greenleaf State Park,Muskogee,https://www.travelok.com/state-parks/greenleaf-state-park
 Oklahoma,Keystone State Park,Tulsa,https://www.travelok.com/state-parks/keystone-state-park
@@ -3340,7 +3340,7 @@ West Virginia,Bluestone State Park,Summers,https://wvstateparks.com/parks/bluest
 West Virginia,Cabwaylingo State Forest,Wayne,https://wvstateparks.com/parks/cabwaylingo-state-forest/
 West Virginia,Cacapon Resort State Park,Morgan,https://wvstateparks.com/parks/cacapon-resort-state-park/
 West Virginia,Calvin Price State Forest,Pocahontas,https://wvstateparks.com/parks/calvin-price-state-forest/
-West Virginia,Camp Creek State Park and Forest,,https://wvstateparks.com/parks/camp-creek-state-park-and-forest/
+West Virginia,Camp Creek State Park and Forest,Mercer,https://wvstateparks.com/parks/camp-creek-state-park-and-forest/
 West Virginia,Canaan Valley Resort State Park,Tucker,https://wvstateparks.com/parks/canaan-valley-resort-state-park/
 West Virginia,Carnifex Ferry Battlefield State Park,Nicholas,https://wvstateparks.com/parks/carnifex-ferry-battlefield-state-park/
 West Virginia,Cass Scenic Railroad State Park,Pocahontas,https://wvstateparks.com/parks/cass-scenic-railroad-state-park/
