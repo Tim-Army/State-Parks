@@ -33,7 +33,7 @@ Alaska,Betton Island State Marine Park,Ketchikan Gateway,https://dnr.alaska.gov/
 Alaska,Big Bear/Baby Bear State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/marinepark/bigbrbabybrsmp.htm
 Alaska,Big Delta State Historical Park,Southeast Fairbanks,https://dnr.alaska.gov/parks/aspunits/northern/bigdeltashp.htm
 Alaska,Big Lake North State Recreation Site,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/matsu/biglakenosrs.htm
-Alaska,Big Lake South State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/matsu/biglakesosrs.htm
+Alaska,Big Lake South State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/biglakesosrs.htm
 Alaska,Birch Lake State Recreation Site,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/birchlakesrs.htm
 Alaska,Black Sands Beach State Recreation Area,,https://dnr.alaska.gov/parks/aspunits/southeast/blacksand.htm
 Alaska,Blueberry Lake State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/kenai/blueberrylksrs.htm
@@ -64,7 +64,7 @@ Alaska,Fort Abercrombie State Historical Park,Kodiak Island,https://dnr.alaska.g
 Alaska,Fort Rousseau Causeway State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/ftrousseau.htm
 Alaska,Funter Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/funterbay.htm
 Alaska,Grant Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/grantisland.htm
-Alaska,Grindall Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
+Alaska,Grindall Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
 Alaska,Halibut Point State Recreation Site,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/halibutptsrs.htm
 Alaska,Harding Lake State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/hardinglksra.htm
 Alaska,Hole in the Wall State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/marinepark/holeinthewall.htm
@@ -74,7 +74,7 @@ Alaska,Johnson Lake State Recreation Area,Matanuska-Susitna,https://dnr.alaska.g
 Alaska,Juneau Channel Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/juneauchannelsmp.htm
 Alaska,Juneau State Trails System,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/juneautrailsys.htm
 Alaska,Kachemak Bay State Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbaysp.htm
-Alaska,Kachemak Bay State Wilderness Park,,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbayswp.htm
+Alaska,Kachemak Bay State Wilderness Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbayswp.htm
 Alaska,Kasilof River State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kasilofrivsrs.htm
 Alaska,Kenai River Special Management Area,,https://dnr.alaska.gov/parks/aspunits/kenai/krsma.htm
 Alaska,King Mountain State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/kingmtnsrs.htm
@@ -849,7 +849,7 @@ Hawaii,MacKenzie State Recreation Area,Hawaii,https://dlnr.hawaii.gov/dsp/parks/
 Hawaii,Manukā State Wayside,Hawaii,https://dlnr.hawaii.gov/dsp/parks/hawaii/manuka-state-wayside/
 Hawaii,Mākena State Park,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/makena-state-park/
 Hawaii,Mālaekahana State Recreation Area,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/malaekahana-state-recreation-area/
-Hawaii,Nuʻuanu Pali State Wayside,,https://dlnr.hawaii.gov/dsp/parks/oahu/nuuanu-pali-state-wayside/
+Hawaii,Nuʻuanu Pali State Wayside,Honolulu,https://dlnr.hawaii.gov/dsp/parks/oahu/nuuanu-pali-state-wayside/
 Hawaii,Nāpali Coast State Wilderness Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/
 Hawaii,Polihale State Park,Kauai,https://dlnr.hawaii.gov/dsp/parks/kauai/polihale-state-park/
 Hawaii,Polipoli Spring State Recreation Area,Maui,https://dlnr.hawaii.gov/dsp/parks/maui/polipoli-spring-state-recreation-area/
@@ -1018,7 +1018,7 @@ Illinois,Stephen A. Forbes,Marion,https://dnr.illinois.gov/parks/park.stephenafo
 Illinois,Ten Mile Creek,DeWitt,https://dnr.illinois.gov/parks/park.tenmilecreek.html
 Illinois,Trail of Tears,Union,https://dnr.illinois.gov/parks/park.trailoftears.html
 Illinois,Tunnel Hill,"Saline, Johnson, Pulaski, Williamson",https://dnr.illinois.gov/parks/park.tunnelhill.html
-Illinois,Turkey Bluffs,,https://dnr.illinois.gov/parks/park.turkey-bluffs.html
+Illinois,Turkey Bluffs,Randolph,https://dnr.illinois.gov/parks/park.turkey-bluffs.html
 Illinois,Union County,Union,https://dnr.illinois.gov/parks/park.unioncounty.html
 Illinois,Volo Bog,Lake,https://dnr.illinois.gov/parks/park.volobog.html
 Illinois,Walnut Point,Douglas,https://dnr.illinois.gov/parks/park.walnutpoint.html
@@ -1411,7 +1411,7 @@ Massachusetts,Chester-Blandford State Forest,Hampden,https://www.mass.gov/locati
 Massachusetts,Chicopee Memorial State Park,Hampden,https://www.mass.gov/locations/chicopee-memorial-state-park
 Massachusetts,Clarksburg State Park,Berkshire,https://www.mass.gov/locations/clarksburg-state-park
 Massachusetts,Cochituate State Park,Middlesex,https://www.mass.gov/locations/cochituate-state-park
-Massachusetts,Daughters of the American Revolution (DAR) State Forest,,https://www.mass.gov/locations/dar-state-forest
+Massachusetts,Daughters of the American Revolution (DAR) State Forest,Hampshire,https://www.mass.gov/locations/dar-state-forest
 Massachusetts,Demarest Lloyd State Park,Bristol,https://www.mass.gov/locations/demarest-lloyd-state-park
 Massachusetts,Douglas State Forest,Worcester,https://www.mass.gov/locations/douglas-state-forest
 Massachusetts,Dunn State Park,Worcester,https://www.mass.gov/locations/dunn-state-park
@@ -1588,7 +1588,7 @@ Michigan,Waterloo Recreation Area,Jackson,https://www.michigan.gov/recsearch/par
 Michigan,Watkins Lake State Park and County Preserve,Jackson,https://www.michigan.gov/recsearch/parks/watkinslake
 Michigan,Wetzel State Recreation Area,Macomb,https://www.michigan.gov/recsearch/parks/wetzel
 Michigan,Wilderness State Park,Emmet,https://www.michigan.gov/recsearch/parks/wilderness
-Michigan,William Field Memorial Hart-Montague Trail State Park,,https://www.michigan.gov/recsearch/parks/williamhartmontague
+Michigan,William Field Memorial Hart-Montague Trail State Park,"Muskegon, Oceana",https://www.michigan.gov/recsearch/parks/williamhartmontague
 Michigan,William G. Milliken State Park and Harbor,Wayne,https://www.michigan.gov/recsearch/parks/williammilliken
 Michigan,Wilson State Park,Clare,https://www.michigan.gov/recsearch/parks/wilson
 Michigan,Yankee Springs Recreation Area,Barry,https://www.michigan.gov/recsearch/parks/yankeesprings
@@ -1697,7 +1697,7 @@ Missouri,Boones Lick State Historic Site,Howard,https://mostateparks.com/histori
 Missouri,Bothwell Lodge State Historic Site,Pettis,https://mostateparks.com/historic-site/bothwell-lodge-state-historic-site
 Missouri,Bryant Creek State Park,Douglas,https://mostateparks.com/park/bryant-creek-state-park
 Missouri,Castlewood State Park,St. Louis,https://mostateparks.com/park/castlewood-state-park
-Missouri,Clarks Hillnorton State Historic Site,,https://mostateparks.com/historic-site/clarks-hillnorton-state-historic-site
+Missouri,Clark's Hill/Norton State Historic Site,Boone,https://mostateparks.com/historic-site/clarks-hillnorton-state-historic-site
 Missouri,Confederate Memorial State Historic Site,Lafayette,https://mostateparks.com/historic-site/confederate-memorial-state-historic-site
 Missouri,Crowder State Park,Grundy,https://mostateparks.com/park/crowder-state-park
 Missouri,Cuivre River State Park,Lincoln,https://mostateparks.com/park/cuivre-river-state-park
@@ -2015,7 +2015,7 @@ New Jersey,Double Trouble State Park,Ocean,https://dep.nj.gov/parksandforests/st
 New Jersey,Farny State Park,Morris,https://dep.nj.gov/parksandforests/state-park/farny-state-park/
 New Jersey,Forked River State Marina,Ocean,https://dep.nj.gov/parksandforests/state-park/forked-river-state-marina/
 New Jersey,Fort Mott State Park,Salem,https://dep.nj.gov/parksandforests/state-park/fort-mott-state-park/
-New Jersey,Fortescue State Marina,,https://dep.nj.gov/parksandforests/state-park/fortescue-state-marina/
+New Jersey,Fortescue State Marina,Cumberland,https://dep.nj.gov/parksandforests/state-park/fortescue-state-marina/
 New Jersey,Hacklebarney State Park,Morris,https://dep.nj.gov/parksandforests/state-park/hacklebarney-state-park/
 New Jersey,High Point State Park,Sussex,https://dep.nj.gov/parksandforests/state-park/high-point-state-park/
 New Jersey,Hopatcong State Park,Morris,https://dep.nj.gov/parksandforests/state-park/hopatcong-state-park/
@@ -3400,7 +3400,7 @@ Wisconsin,Copper Falls State Park,Ashland,https://dnr.wisconsin.gov/topic/parks/
 Wisconsin,Council Grounds State Park,Lincoln,https://dnr.wisconsin.gov/topic/parks/councilgrounds
 Wisconsin,Cross Plains State Park,Dane,https://dnr.wisconsin.gov/topic/parks/crossplains
 Wisconsin,Devil's Lake State Park,Sauk,https://dnr.wisconsin.gov/topic/parks/devilslake
-Wisconsin,Devil's River State Trail,,https://dnr.wisconsin.gov/topic/parks/devilsriver
+Wisconsin,Devil's River State Trail,Manitowoc,https://dnr.wisconsin.gov/topic/parks/devilsriver
 Wisconsin,Eisenbahn State Trail,Washington,https://dnr.wisconsin.gov/topic/parks/eisenbahn
 Wisconsin,Elroy-Sparta State Trail,Monroe,https://dnr.wisconsin.gov/topic/parks/elroysparta
 Wisconsin,Fenley State Recreation Area,Grant,https://dnr.wisconsin.gov/topic/parks/fenley
