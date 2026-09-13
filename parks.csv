@@ -62,7 +62,7 @@ Alaska,Fielding Lake State Recreation Site,Unorganized,https://dnr.alaska.gov/pa
 Alaska,Finger Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/fingerlksrs.htm
 Alaska,Fort Abercrombie State Historical Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/fortabercrombieshp.htm
 Alaska,Fort Rousseau Causeway State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/ftrousseau.htm
-Alaska,Funter Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/funterbay.htm
+Alaska,Funter Bay State Marine Park,Hoonah-Angoon,https://dnr.alaska.gov/parks/aspunits/southeast/funterbay.htm
 Alaska,Grant Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/grantisland.htm
 Alaska,Grindall Island State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/grindallimp.htm
 Alaska,Halibut Point State Recreation Site,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/halibutptsrs.htm
@@ -105,11 +105,11 @@ Alaska,Rocky Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov
 Alaska,Salcha River State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/salcharver.htm
 Alaska,Sealion Cove State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/sealioncvsmp.htm
 Alaska,Security Bay State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/securitybay.htm
-Alaska,Settler's Cove State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/southeast/settlerscvsrs.htm
+Alaska,Settler's Cove State Recreation Site,Ketchikan Gateway,https://dnr.alaska.gov/parks/aspunits/southeast/settlerscvsrs.htm
 Alaska,Shuyak Island State Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/shuyakissp.htm
 Alaska,Squirrel Creek State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/matsu/squircksrs.htm
 Alaska,St. James Bay State Marine Park,Hoonah-Angoon,https://dnr.alaska.gov/parks/aspunits/southeast/stjamesbay.htm
-Alaska,Starski State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/kenai/stariskisrs.htm
+Alaska,Stariski State Recreation Site,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/stariskisrs.htm
 Alaska,Sullivan Island State Marine Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/sullivanisland.htm
 Alaska,Summit Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/summitlksrs.htm
 Alaska,Taku Harbor State Marine Park,Juneau,https://dnr.alaska.gov/parks/aspunits/marinepark/takuharbrsmp.htm
@@ -146,7 +146,7 @@ Arizona,Riordan Mansion State Historic Park,Coconino,https://azstateparks.com/ri
 Arizona,River Island State Park,Mohave,https://azstateparks.com/river-island
 Arizona,Rockin' River Ranch State Park,Yavapai,https://azstateparks.com/rockin-river
 Arizona,Roper Lake State Park,Graham,https://azstateparks.com/roper-lake
-Arizona,San Rafael State Natural Area,,https://azstateparks.com/san-rafael
+Arizona,San Rafael State Natural Area,Santa Cruz,https://azstateparks.com/san-rafael
 Arizona,Slide Rock State Park,Coconino,https://azstateparks.com/slide-rock
 Arizona,Sonoita Creek State Natural Area,Santa Cruz,https://azstateparks.com/sonoita-creek
 Arizona,Tombstone Courthouse State Historic Park,Cochise,https://azstateparks.com/tombstone
@@ -2226,7 +2226,7 @@ New York,Oquaga Creek State Park,Broome,https://parks.ny.gov/visit/state-parks/o
 New York,Orient Beach State Park,Suffolk,https://parks.ny.gov/visit/state-parks/orient-beach-state-park
 New York,Pat McGee Trail,Cattaraugus,https://parks.ny.gov/visit/state-parks/pat-mcgee-trail
 New York,Peebles Island State Park,Saratoga,https://parks.ny.gov/visit/state-parks/peebles-island-state-park
-New York,Pine Grove Boat Launch,,https://parks.ny.gov/visit/state-parks/pine-grove-boat-launch
+New York,Pine Grove Boat Launch,Chautauqua,https://parks.ny.gov/visit/state-parks/pine-grove-boat-launch
 New York,Pixley Falls State Park,Oneida,https://parks.ny.gov/visit/state-parks/pixley-falls-state-park
 New York,Point Au Roche State Park,Clinton,https://parks.ny.gov/visit/state-parks/point-au-roche-state-park
 New York,Reservoir State Park,Niagara,https://parks.ny.gov/visit/state-parks/reservoir-state-park
@@ -2252,7 +2252,7 @@ New York,Seneca Lake State Park,Seneca,https://parks.ny.gov/visit/state-parks/se
 New York,Shadmoor State Park,Suffolk,https://parks.ny.gov/visit/state-parks/shadmoor-state-park
 New York,Shirley Chisholm State Park,Kings,https://parks.ny.gov/visit/state-parks/shirley-chisholm-state-park
 New York,Silver Lake State Park,Wyoming,https://parks.ny.gov/visit/state-parks/silver-lake-state-park
-New York,Silver Mine - Harriman State Park,,https://parks.ny.gov/visit/state-parks/silver-mine-harriman-state-park
+New York,Silver Mine - Harriman State Park,Orange,https://parks.ny.gov/visit/state-parks/silver-mine-harriman-state-park
 New York,Sojourner Truth State Park,Ulster,https://parks.ny.gov/visit/state-parks/sojourner-truth-state-park
 New York,Southwick Beach State Park,Jefferson,https://parks.ny.gov/visit/state-parks/southwick-beach-state-park
 New York,State Park at the Fair,Onondaga,https://parks.ny.gov/visit/state-parks/state-park-fair
@@ -2429,7 +2429,7 @@ Oklahoma,Grand Lake: Cherokee State Park,Delaware,https://www.travelok.com/listi
 Oklahoma,Grand Lake: Disney State Park,Delaware,https://www.travelok.com/listings/view.profile/id.25420
 Oklahoma,Grand Lake: Honey Creek State Park,Delaware,https://www.travelok.com/listings/view.profile/id.3617
 Oklahoma,Grand Lake: Little Blue State Park,Delaware,https://www.travelok.com/listings/view.profile/id.2251
-Oklahoma,Grand Lake: Spavinaw State Park,,https://www.travelok.com/listings/view.profile/id.7148
+Oklahoma,Grand Lake: Spavinaw State Park,Mayes,https://www.travelok.com/listings/view.profile/id.7148
 Oklahoma,Grand Lake: Twin Bridges State Park,Ottawa,https://www.travelok.com/listings/view.profile/id.8250
 Oklahoma,Great Plains State Park,Kiowa,https://www.travelok.com/state-parks/great-plains-state-park
 Oklahoma,Greenleaf State Park,Muskogee,https://www.travelok.com/state-parks/greenleaf-state-park
@@ -2626,7 +2626,7 @@ Oregon,Wallowa Lake State Park,Wallowa,https://stateparks.oregon.gov/index.cfm?d
 Oregon,Whale Watching Center,Lincoln,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=183
 Oregon,White River Falls State Park,Wasco,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=28
 Oregon,Willamette Mission State Park,Marion,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=99
-Oregon,Willamette River Greenway and Water Trail,,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=194
+Oregon,Willamette River Greenway and Water Trail,"Clackamas, Marion, Polk, Yamhill, Linn, Benton, Lane, Multnomah",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=194
 Oregon,Willamette Stone State Heritage Site,Multnomah,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=180
 Oregon,William M. Tugman State Park,"Coos, Douglas",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=69
 Oregon,Winchuck State Recreation Site,Curry,https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=57
@@ -2794,7 +2794,7 @@ South Carolina,Dreher Island State Park,Newberry,https://southcarolinaparks.com/
 South Carolina,Edisto Beach State Park,Colleton,https://southcarolinaparks.com/edisto-beach
 South Carolina,Givhans Ferry State Park,Dorchester,https://southcarolinaparks.com/givhans-ferry
 South Carolina,Goodale State Park,Kershaw,https://southcarolinaparks.com/goodale
-South Carolina,H Cooper Black Recreation Area,,https://southcarolinaparks.com/h-cooper-black
+South Carolina,H. Cooper Black Jr. Memorial Field Trial & Recreation Area,Chesterfield,https://southcarolinaparks.com/h-cooper-black
 South Carolina,Hamilton Branch State Park,McCormick,https://southcarolinaparks.com/hamilton-branch
 South Carolina,Hampton State Historic Site,Charleston,https://southcarolinaparks.com/hampton
 South Carolina,Hickory Knob State Resort Park,McCormick,https://southcarolinaparks.com/hickory-knob
@@ -3490,7 +3490,7 @@ Wyoming,Bear River State Park,Uinta,https://wyoparks.wyo.gov/index.php/places-to
 Wyoming,Boysen State Park,Fremont,https://wyoparks.wyo.gov/index.php/places-to-go/boysen
 Wyoming,Buffalo Bill State Park,Park,https://wyoparks.wyo.gov/index.php/places-to-go/buffalo-bill
 Wyoming,Camp Douglas Officers' Club State Historic Site,Converse,https://wyoparks.wyo.gov/index.php/places-to-go/camp-douglas
-Wyoming,Connor Battlefield State Historic Site,,https://wyoparks.wyo.gov/index.php/places-to-go/connor-battlefield
+Wyoming,Connor Battlefield State Historic Site,Sheridan,https://wyoparks.wyo.gov/index.php/places-to-go/connor-battlefield
 Wyoming,Curt Gowdy State Park,Laramie,https://wyoparks.wyo.gov/index.php/places-to-go/curt-gowdy
 Wyoming,Edness K. Wilkins State Park,Natrona,https://wyoparks.wyo.gov/index.php/places-to-go/edness-k-wilkins
 Wyoming,Fort Bridger State Historic Site,Uinta,https://wyoparks.wyo.gov/index.php/places-to-go/fort-bridger
