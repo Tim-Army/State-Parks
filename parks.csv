@@ -895,7 +895,7 @@ Idaho,Priest Lake State Park,Bonner,https://parksandrecreation.idaho.gov/state-p
 Idaho,Round Lake State Park,Bonner,https://parksandrecreation.idaho.gov/state-park/round-lake-state-park/
 Idaho,Thousand Springs State Park,Gooding,https://parksandrecreation.idaho.gov/state-park/thousand-springs-state-park/
 Idaho,Three Island Crossing State Park,Elmore,https://parksandrecreation.idaho.gov/state-park/three-island-crossing-state-park/
-Idaho,Twin Peaks Ranch State Park,,https://parksandrecreation.idaho.gov/state-park/twin-peaks-ranch-state-park/
+Idaho,Twin Peaks Ranch State Park,Lemhi,https://parksandrecreation.idaho.gov/state-park/twin-peaks-ranch-state-park/
 Idaho,Winchester Lake State Park,Lewis,https://parksandrecreation.idaho.gov/state-park/winchester-lake-state-park/
 Illinois,Adeline Jay Geo-Karis Illinois Beach,Lake,https://dnr.illinois.gov/parks/park.adelinejaygeo-karisillinoisbeach.html
 Illinois,Anderson Lake,Saint Clair,https://dnr.illinois.gov/parks/park.andersonlake.html
@@ -1277,7 +1277,7 @@ Maine,Fort O'Brien State Historic Site,Washington,https://www.maine.gov/cgi-bin/
 Maine,Fort Point State Park,Waldo,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=33
 Maine,Fort Popham State Historic Site,Sagadahoc,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=40
 Maine,Four Ponds Public Land,Franklin,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=51
-Maine,Four Seasons Adventure Trail,,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=95
+Maine,Four Seasons Adventure Trail,Aroostook,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=95
 Maine,Gero Island Public Land,Piscataquis,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=52
 Maine,Grafton Notch State Park,Oxford,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=1
 Maine,Great Heath Public Land,York,https://www.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=54
@@ -1348,7 +1348,7 @@ Maryland,Dans Mountain State Park,Allegany,https://dnr.maryland.gov/publiclands/
 Maryland,Deep Creek Lake NRMA,,https://dnr.maryland.gov/publiclands/Pages/western/deepcreeknrma.aspx
 Maryland,Deep Creek Lake State Park,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/deepcreek.aspx
 Maryland,Elk Neck State Park,Cecil,https://dnr.maryland.gov/publiclands/Pages/central/elkneck.aspx
-Maryland,Fair Hill Natural Resources Management Area,,https://dnr.maryland.gov/publiclands/Pages/central/fairhill.aspx
+Maryland,Fair Hill Natural Resources Management Area,Cecil,https://dnr.maryland.gov/publiclands/Pages/central/fairhill.aspx
 Maryland,Fort Frederick State Park,Washington,https://dnr.maryland.gov/publiclands/Pages/western/fortfrederick.aspx
 Maryland,Gambrill State Park,Frederick,https://dnr.maryland.gov/publiclands/Pages/western/gambrill.aspx
 Maryland,Gathland State Park,Washington,https://dnr.maryland.gov/publiclands/Pages/western/gathland.aspx
@@ -1393,7 +1393,7 @@ Maryland,Tuckahoe State Park,Caroline,https://dnr.maryland.gov/publiclands/Pages
 Maryland,Washington Monument State Park,"Washington, Frederick",https://dnr.maryland.gov/publiclands/Pages/western/washington.aspx
 Maryland,Western Maryland Rail Trail,Washington,https://dnr.maryland.gov/publiclands/Pages/western/wmrt.aspx
 Maryland,Wetipquin Creek State Park,Wicomico,https://dnr.maryland.gov/publiclands/Pages/eastern/wetipquin.aspx
-Maryland,Woodmont NRMA,,https://dnr.maryland.gov/publiclands/Pages/western/woodmont.aspx
+Maryland,Woodmont NRMA,Washington,https://dnr.maryland.gov/publiclands/Pages/western/woodmont.aspx
 Maryland,Wye Island NRMA,Queen Anne's,https://dnr.maryland.gov/publiclands/Pages/eastern/wyeisland.aspx
 Maryland,Wye Oak State Park,Talbot,https://dnr.maryland.gov/publiclands/Pages/eastern/wyeoak.aspx
 Maryland,Youghiogheny Wild River Natural Environmental Area,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/youghiogheny.aspx
@@ -2013,7 +2013,7 @@ New Jersey,Corson's Inlet State Park,Cape May,https://dep.nj.gov/parksandforests
 New Jersey,D & R Canal State Park,Hunterdon,https://dep.nj.gov/parksandforests/state-park/dr-canal-state-park/
 New Jersey,Double Trouble State Park,Ocean,https://dep.nj.gov/parksandforests/state-park/double-trouble-state-park/
 New Jersey,Farny State Park,Morris,https://dep.nj.gov/parksandforests/state-park/farny-state-park/
-New Jersey,Forked River State Marina,,https://dep.nj.gov/parksandforests/state-park/forked-river-state-marina/
+New Jersey,Forked River State Marina,Ocean,https://dep.nj.gov/parksandforests/state-park/forked-river-state-marina/
 New Jersey,Fort Mott State Park,Salem,https://dep.nj.gov/parksandforests/state-park/fort-mott-state-park/
 New Jersey,Fortescue State Marina,,https://dep.nj.gov/parksandforests/state-park/fortescue-state-marina/
 New Jersey,Hacklebarney State Park,Morris,https://dep.nj.gov/parksandforests/state-park/hacklebarney-state-park/
@@ -2266,7 +2266,7 @@ New York,Taconic State Park - Rudd Pond Area,Dutchess,https://parks.ny.gov/visit
 New York,Tallman Mountain State Park,Rockland,https://parks.ny.gov/visit/state-parks/tallman-mountain-state-park
 New York,Taughannock Falls State Park,Tompkins,https://parks.ny.gov/visit/state-parks/taughannock-falls-state-park
 New York,Thacher State Park,Albany,https://parks.ny.gov/visit/state-parks/thacher-state-park
-New York,Thompson's Lake Campground - Thacher State Park,,https://parks.ny.gov/visit/state-parks/thompsons-lake-campground-thacher-state-park
+New York,Thompson's Lake Campground - Thacher State Park,Albany,https://parks.ny.gov/visit/state-parks/thompsons-lake-campground-thacher-state-park
 New York,Trail View State Park,"Nassau, Suffolk",https://parks.ny.gov/visit/state-parks/trail-view-state-park
 New York,Two Rivers State Park Recreation Area,Tioga,https://parks.ny.gov/visit/state-parks/two-rivers-state-park-recreation-area
 New York,Valley Stream State Park,Nassau,https://parks.ny.gov/visit/state-parks/valley-stream-state-park
@@ -2428,7 +2428,7 @@ Oklahoma,Grand Lake: Bernice State Park,Delaware,https://www.travelok.com/listin
 Oklahoma,Grand Lake: Cherokee State Park,Delaware,https://www.travelok.com/listings/view.profile/id.1302
 Oklahoma,Grand Lake: Disney State Park,Delaware,https://www.travelok.com/listings/view.profile/id.25420
 Oklahoma,Grand Lake: Honey Creek State Park,Delaware,https://www.travelok.com/listings/view.profile/id.3617
-Oklahoma,Grand Lake: Little Blue State Park,,https://www.travelok.com/listings/view.profile/id.2251
+Oklahoma,Grand Lake: Little Blue State Park,Delaware,https://www.travelok.com/listings/view.profile/id.2251
 Oklahoma,Grand Lake: Spavinaw State Park,,https://www.travelok.com/listings/view.profile/id.7148
 Oklahoma,Grand Lake: Twin Bridges State Park,,https://www.travelok.com/listings/view.profile/id.8250
 Oklahoma,Great Plains State Park,Kiowa,https://www.travelok.com/state-parks/great-plains-state-park
@@ -3187,7 +3187,7 @@ Washington,Anderson Lake State Park,Jefferson,https://parks.wa.gov/find-parks/st
 Washington,Battle Ground Lake State Park,Clark,https://parks.wa.gov/find-parks/state-parks/battle-ground-lake-state-park
 Washington,Bay View State Park,Skagit,https://parks.wa.gov/find-parks/state-parks/bay-view-state-park
 Washington,Beacon Rock State Park,Skamania,https://parks.wa.gov/find-parks/state-parks/beacon-rock-state-park
-Washington,Beebe Bridge State Park,,https://parks.wa.gov/find-parks/state-parks/beebe-bridge-state-park
+Washington,Beebe Bridge State Park,Chelan,https://parks.wa.gov/find-parks/state-parks/beebe-bridge-state-park
 Washington,Belfair State Park,Mason,https://parks.wa.gov/find-parks/state-parks/belfair-state-park
 Washington,Birch Bay State Park,Whatcom,https://parks.wa.gov/find-parks/state-parks/birch-bay-state-park
 Washington,Blake Island Marine State Park,Kitsap,https://parks.wa.gov/find-parks/state-parks/blake-island-marine-state-park
@@ -3442,7 +3442,7 @@ Wisconsin,Mill Bluff State Park,Monroe,https://dnr.wisconsin.gov/topic/parks/mil
 Wisconsin,Mirror Lake State Park,Sauk,https://dnr.wisconsin.gov/topic/parks/mirrorlake
 Wisconsin,Mound View State Trail,Lafayette,https://dnr.wisconsin.gov/topic/parks/moundview
 Wisconsin,Mountain-Bay State Trail,Marathon,https://dnr.wisconsin.gov/topic/parks/mountainbay
-Wisconsin,Mukwonago River Unit Kettle Moraine State Forest,,https://dnr.wisconsin.gov/topic/parks/mukwonago
+Wisconsin,Mukwonago River Unit Kettle Moraine State Forest,Waukesha,https://dnr.wisconsin.gov/topic/parks/mukwonago
 Wisconsin,Natural Bridge State Park,Sauk,https://dnr.wisconsin.gov/topic/parks/naturalbridge
 Wisconsin,Nelson Dewey State Park,Grant,https://dnr.wisconsin.gov/topic/parks/nelsondewey
 Wisconsin,New Glarus Woods State Park,Green,https://dnr.wisconsin.gov/topic/parks/ngwoods
@@ -3506,7 +3506,7 @@ Wyoming,Hot Springs State Park,Hot Springs,https://wyoparks.wyo.gov/index.php/pl
 Wyoming,Independence Rock State Historic Site,Natrona,https://wyoparks.wyo.gov/index.php/places-to-go/independence-rock
 Wyoming,Keyhole State Park,Crook,https://wyoparks.wyo.gov/index.php/places-to-go/keyhole
 Wyoming,Legend Rock State Petroglyph Site,Hot Springs,https://wyoparks.wyo.gov/index.php/places-to-go/legend-rock
-Wyoming,Medicine Lodge Archaeological Site,,https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge
+Wyoming,Medicine Lodge Archaeological Site,Big Horn,https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge
 Wyoming,Names Hill State Historic Site,Lincoln,https://wyoparks.wyo.gov/index.php/places-to-go/names-hill
 Wyoming,Oregon Trail Ruts,,https://wyoparks.wyo.gov/index.php/places-to-go/oregon-trail-ruts
 Wyoming,Piedmont Charcoal Kilns State Historic Site,Uinta,https://wyoparks.wyo.gov/index.php/places-to-go/piedmont-charcoal-kilns
