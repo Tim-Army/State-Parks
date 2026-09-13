@@ -120,6 +120,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">State <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Park <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">County <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" class="num">Entrances <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
         </tr>
       </thead>
@@ -303,9 +304,9 @@ function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;',
 
 function filtered(){
   const term=q.value.trim().toLowerCase(), sel=st.value;
-  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[3].toLowerCase().includes(term)));
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[4].toLowerCase().includes(term)));
   rows=rows.slice().sort((a,b)=>{
-    const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
+    const c=(sortKey===3?((+a[3]||0)-(+b[3]||0)):a[sortKey].localeCompare(b[sortKey]))*sortDir;
     return c || a[1].localeCompare(b[1]);
   });
   return rows;
@@ -316,7 +317,8 @@ function render(){
   const slice=rows.slice(0,shown);
   body.innerHTML=slice.map(p=>
     `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td><td class="county">${p[2]?esc(p[2]):'<span class="na">&ndash;</span>'}</td>`+
-    `<td class="site"><a href="${esc(p[3])}" target="_blank" rel="noopener noreferrer">${esc(host(p[3]))}</a></td></tr>`).join('');
+    `<td class="num">${p[3]?esc(p[3]):'<span class="na">&ndash;</span>'}</td>`+
+    `<td class="site"><a href="${esc(p[4])}" target="_blank" rel="noopener noreferrer">${esc(host(p[4]))}</a></td></tr>`).join('');
   empty.hidden = rows.length>0;
   countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
     (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');
