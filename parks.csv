@@ -104,11 +104,11 @@ Alaska,Refuge Cove State Recreation Site,Ketchikan Gateway,https://dnr.alaska.go
 Alaska,Rocky Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/rockylksrs.htm
 Alaska,Salcha River State Recreation Area,Fairbanks North Star,https://dnr.alaska.gov/parks/aspunits/northern/salcharver.htm
 Alaska,Sealion Cove State Marine Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/sealioncvsmp.htm
-Alaska,Security Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/securitybay.htm
+Alaska,Security Bay State Marine Park,Prince of Wales-Hyder,https://dnr.alaska.gov/parks/aspunits/southeast/securitybay.htm
 Alaska,Settler's Cove State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/southeast/settlerscvsrs.htm
 Alaska,Shuyak Island State Park,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/shuyakissp.htm
 Alaska,Squirrel Creek State Recreation Site,Unorganized,https://dnr.alaska.gov/parks/aspunits/matsu/squircksrs.htm
-Alaska,St. James Bay State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/stjamesbay.htm
+Alaska,St. James Bay State Marine Park,Hoonah-Angoon,https://dnr.alaska.gov/parks/aspunits/southeast/stjamesbay.htm
 Alaska,Starski State Recreation Site,,https://dnr.alaska.gov/parks/aspunits/kenai/stariskisrs.htm
 Alaska,Sullivan Island State Marine Park,Haines,https://dnr.alaska.gov/parks/aspunits/southeast/sullivanisland.htm
 Alaska,Summit Lake State Recreation Site,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/summitlksrs.htm
@@ -1379,7 +1379,7 @@ Maryland,Rosaryville State Park,Prince George's,https://dnr.maryland.gov/publicl
 Maryland,Sandy Point State Park,Anne Arundel,https://dnr.maryland.gov/publiclands/Pages/southern/sandypoint.aspx
 Maryland,Sang Run State Park,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/sangrun.aspx
 Maryland,Sassafras NRMA,"Kent, Cecil",https://dnr.maryland.gov/publiclands/Pages/eastern/sassafras.aspx
-Maryland,Savage Highlands,,https://dnr.maryland.gov/publiclands/Pages/western/savagehighlands.aspx
+Maryland,Savage Highlands,Garrett,https://dnr.maryland.gov/publiclands/Pages/western/savagehighlands.aspx
 Maryland,Seneca Creek State Park,Montgomery,https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx
 Maryland,Smallwood State Park,Charles,https://dnr.maryland.gov/publiclands/Pages/southern/smallwood.aspx
 Maryland,Soldiers Delight Natural Environment Area,Baltimore,https://dnr.maryland.gov/publiclands/Pages/central/soldiersdelight.aspx
@@ -1918,7 +1918,7 @@ Nevada,Spooner Lake - Lake Tahoe Nevada State Park,Douglas,https://parks.nv.gov/
 Nevada,Spring Mountain Ranch State Park,Clark,https://parks.nv.gov/parks/spring-mountain-ranch
 Nevada,Spring Valley State Park,Lincoln,https://parks.nv.gov/parks/spring-valley
 Nevada,Valley of Fire State Park,Clark,https://parks.nv.gov/parks/valley-of-fire
-Nevada,Van Sickle - Lake Tahoe Nevada State Park,,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park-3
+Nevada,Van Sickle - Lake Tahoe Nevada State Park,Douglas,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park-3
 Nevada,Walker River State Recreation Area,Lyon,https://parks.nv.gov/parks/walker-river
 Nevada,Ward Charcoal Ovens State Historic Park,White Pine,https://parks.nv.gov/parks/ward-charcoal-ovens
 Nevada,Washoe Lake State Park,Washoe,https://parks.nv.gov/parks/washoe-lake
@@ -2019,7 +2019,7 @@ New Jersey,Fortescue State Marina,,https://dep.nj.gov/parksandforests/state-park
 New Jersey,Hacklebarney State Park,Morris,https://dep.nj.gov/parksandforests/state-park/hacklebarney-state-park/
 New Jersey,High Point State Park,Sussex,https://dep.nj.gov/parksandforests/state-park/high-point-state-park/
 New Jersey,Hopatcong State Park,Morris,https://dep.nj.gov/parksandforests/state-park/hopatcong-state-park/
-New Jersey,Island Beach State Marina,,https://dep.nj.gov/parksandforests/state-park/island-beach-state-marina/
+New Jersey,Island Beach State Marina,Ocean,https://dep.nj.gov/parksandforests/state-park/island-beach-state-marina/
 New Jersey,Island Beach State Park,Ocean,https://dep.nj.gov/parksandforests/state-park/island-beach-state-park/
 New Jersey,Jenny Jump State Forest,Warren,https://dep.nj.gov/parksandforests/state-park/jenny-jump-state-forest/
 New Jersey,Kittatinny Valley State Park,"Sussex, Andover",https://dep.nj.gov/parksandforests/state-park/kittatinny-valley-state-park/
@@ -2088,9 +2088,9 @@ New Mexico,Sumner Lake State Park,De Baca,https://www.emnrd.nm.gov/spd/find-a-pa
 New Mexico,Ute Lake State Park,Quay,https://www.emnrd.nm.gov/spd/find-a-park/ute-lake-state-park/
 New Mexico,Villanueva State Park,San Miguel,https://www.emnrd.nm.gov/spd/find-a-park/villanueva-state-park/
 New York,Allan H. Treman State Marine Park,Tompkins,https://parks.ny.gov/visit/state-parks/allan-h-treman-state-marine-park
-New York,Allegany State Park - Quaker Area,,https://parks.ny.gov/visit/state-parks/allegany-state-park-quaker-area
+New York,Allegany State Park - Quaker Area,Cattaraugus,https://parks.ny.gov/visit/state-parks/allegany-state-park-quaker-area
 New York,Allegany State Park - Red House Area,Cattaraugus,https://parks.ny.gov/visit/state-parks/allegany-state-park-red-house-area
-New York,Anthony Wayne Recreation Area - Bear Mountain State Park,,https://parks.ny.gov/visit/state-parks/anthony-wayne-recreation-area-bear-mountain-state-park
+New York,Anthony Wayne Recreation Area - Bear Mountain State Park,Rockland,https://parks.ny.gov/visit/state-parks/anthony-wayne-recreation-area-bear-mountain-state-park
 New York,Artpark State Park (Earl W. Brydges),Niagara,https://parks.ny.gov/visit/state-parks/artpark-state-park-earl-w-brydges
 New York,Barcelona Lighthouse,Chautauqua,https://parks.ny.gov/visit/state-parks/barcelona-lighthouse
 New York,Battle Island State Park,Oswego,https://parks.ny.gov/visit/state-parks/battle-island-state-park
@@ -2760,7 +2760,7 @@ Pennsylvania,White Clay Creek Preserve,Chester,https://www.pa.gov/agencies/dcnr/
 Pennsylvania,Worlds End State Park,Sullivan,https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/worlds-end-state-park
 Pennsylvania,Yellow Creek State Park,Indiana,https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/yellow-creek-state-park
 Rhode Island,Beavertail State Park,Newport,https://riparks.ri.gov/parks/beavertail-state-park
-Rhode Island,Blackstone Bikeway and Visitors Center,,https://riparks.ri.gov/parks/blackstone-bikeway-and-visitors-center
+Rhode Island,Blackstone Bikeway and Visitors Center,Providence,https://riparks.ri.gov/parks/blackstone-bikeway-and-visitors-center
 Rhode Island,Brenton Point State Park,Newport,https://riparks.ri.gov/parks/brenton-point-state-park
 Rhode Island,Burlingame State Park,Washington,https://riparks.ri.gov/parks/burlingame-state-park
 Rhode Island,Colt State Park,Bristol,https://riparks.ri.gov/parks/colt-state-park
@@ -3146,7 +3146,7 @@ Virginia,Caledon State Park,King George,https://www.dcr.virginia.gov/state-parks
 Virginia,Chippokes State Park,Surry,https://www.dcr.virginia.gov/state-parks/chippokes
 Virginia,Claytor Lake State Park,Pulaski,https://www.dcr.virginia.gov/state-parks/claytor-lake
 Virginia,Clinch River State Park,Wise,https://www.dcr.virginia.gov/state-parks/clinch-river
-Virginia,Culpeper Battlefields State Park,,https://www.dcr.virginia.gov/state-parks/culpeper-battlefields
+Virginia,Culpeper Battlefields State Park,"Culpeper, Orange",https://www.dcr.virginia.gov/state-parks/culpeper-battlefields
 Virginia,Douthat State Park,"Bath, Alleghany",https://www.dcr.virginia.gov/state-parks/douthat
 Virginia,Fairy Stone State Park,Patrick,https://www.dcr.virginia.gov/state-parks/fairy-stone
 Virginia,False Cape State Park,Virginia Beach city,https://www.dcr.virginia.gov/state-parks/false-cape
@@ -3515,7 +3515,7 @@ Wyoming,Quebec 01 Missile Alert Facility,,https://wyoparks.wyo.gov/index.php/pla
 Wyoming,Register Cliff State Historic Site,Platte,https://wyoparks.wyo.gov/index.php/places-to-go/register-cliffs
 Wyoming,Seminoe State Park,Carbon,https://wyoparks.wyo.gov/index.php/places-to-go/seminoe
 Wyoming,Sinks Canyon State Park,Fremont,https://wyoparks.wyo.gov/index.php/places-to-go/sinks-canyon
-Wyoming,South Pass City State Historic Site,,https://wyoparks.wyo.gov/index.php/places-to-go/south-pass-city
+Wyoming,South Pass City State Historic Site,Fremont,https://wyoparks.wyo.gov/index.php/places-to-go/south-pass-city
 Wyoming,Trail End State Historic Site,Sheridan,https://wyoparks.wyo.gov/index.php/places-to-go/trail-end
 Wyoming,Wyoming Pioneer Memorial Museum,Converse,https://wyoparks.wyo.gov/index.php/places-to-go/wyoming-pioneer-museum
 Wyoming,Wyoming Territorial Prison,Albany,https://wyoparks.wyo.gov/index.php/places-to-go/wyoming-territorial-prison
