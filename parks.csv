@@ -71,7 +71,7 @@ Alaska,Hole in the Wall State Marine Park,Prince of Wales-Hyder,https://dnr.alas
 Alaska,Independence Mine State Historical Park,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/matsu/indepmineshp.htm
 Alaska,Joe Mace Island State Marine Park,Unorganized,https://dnr.alaska.gov/parks/aspunits/southeast/joemace.htm
 Alaska,Johnson Lake State Recreation Area,Matanuska-Susitna,https://dnr.alaska.gov/parks/aspunits/kenai/johnsonlksra.htm
-Alaska,Juneau Channel Island State Marine Park,,https://dnr.alaska.gov/parks/aspunits/southeast/juneauchannelsmp.htm
+Alaska,Juneau Channel Island State Marine Park,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/juneauchannelsmp.htm
 Alaska,Juneau State Trails System,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/juneautrailsys.htm
 Alaska,Kachemak Bay State Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbaysp.htm
 Alaska,Kachemak Bay State Wilderness Park,Kenai Peninsula,https://dnr.alaska.gov/parks/aspunits/kenai/kachemakbayswp.htm
@@ -94,7 +94,7 @@ Alaska,Ninilchik State Recreation Area,Kenai Peninsula,https://dnr.alaska.gov/pa
 Alaska,Old Sitka State Historical Park,Sitka,https://dnr.alaska.gov/parks/aspunits/southeast/oldsitkaahp.htm
 Alaska,Oliver Inlet State Marine Park,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/oliverinsmp.htm
 Alaska,Pasagshak State Recreation Site,Kodiak Island,https://dnr.alaska.gov/parks/aspunits/kodiak/pasagsrs.htm
-Alaska,Pavlov Harbor State Marine Park,,https://dnr.alaska.gov/parks/aspunits/marinepark/pavharborsmp.htm
+Alaska,Pavlov Harbor State Marine Park,Hoonah-Angoon,https://dnr.alaska.gov/parks/aspunits/marinepark/pavharborsmp.htm
 Alaska,Petroglyph Beach State Historic Site,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/wrangpetroshs.htm
 Alaska,Point Bridget State Park,Juneau,https://dnr.alaska.gov/parks/aspunits/southeast/ptbridgetsp.htm
 Alaska,Porcupine Creek State Recreation site,Unorganized,https://dnr.alaska.gov/parks/aspunits/matsu/porcksrs.htm
@@ -950,7 +950,7 @@ Illinois,Illini,LaSalle,https://dnr.illinois.gov/parks/park.illini.html
 Illinois,Illinois and Michigan Canal,Grundy,https://dnr.illinois.gov/parks/park.imcanal.html
 Illinois,Illinois Caverns,Monroe,https://dnr.illinois.gov/parks/park.illinoiscaverns.html
 Illinois,Iroquois County,Iroquois,https://dnr.illinois.gov/parks/park.iroquoiscounty.html
-Illinois,James Pate Phillip Tri-County,,https://dnr.illinois.gov/parks/park.jamespatephilip.html
+Illinois,"James ""Pate"" Philip State Park","DuPage, Cook, Kane",https://dnr.illinois.gov/parks/park.jamespatephilip.html
 Illinois,Jim Edgar Panther Creek,Cass,https://dnr.illinois.gov/parks/park.jimedgarpanthercreek.html
 Illinois,Johnson-Sauk Trail,Henry,https://dnr.illinois.gov/parks/park.johnsonsauktrail.html
 Illinois,Jubilee College,Peoria,https://dnr.illinois.gov/parks/park.jubileecollege.html
@@ -1868,7 +1868,7 @@ Nebraska,North Loup State Recreation Area,Howard,https://outdoornebraska.gov/loc
 Nebraska,Olive Creek State Recreation Area,Lancaster,https://outdoornebraska.gov/location/olive-creek/
 Nebraska,Pawnee State Recreation Area,Lancaster,https://outdoornebraska.gov/location/pawnee/
 Nebraska,Pelican Point State Recreation Area,Burt,https://outdoornebraska.gov/location/pelican-point/
-Nebraska,Phillips Canyon State Recreation Area,,https://outdoornebraska.gov/location/middle-phillips-canyon/
+Nebraska,Phillips Canyon State Recreation Area,Keith,https://outdoornebraska.gov/location/middle-phillips-canyon/
 Nebraska,Platte River State Park,Cass,https://outdoornebraska.gov/location/platte-river/
 Nebraska,Ponca State Park,Dixon,https://outdoornebraska.gov/location/ponca/
 Nebraska,Red Willow Reservoir State Recreation Area,Frontier,https://outdoornebraska.gov/location/red-willow-reservoir/
@@ -1912,7 +1912,7 @@ Nevada,Mormon Station State Historic Park,Douglas,https://parks.nv.gov/parks/mor
 Nevada,Nevada's Newest State Park,Lyon,https://parks.nv.gov/parks/neweststatepark
 Nevada,Old Las Vegas State Historic Park,Clark,https://parks.nv.gov/parks/old-las-vegas-mormon-fort
 Nevada,Rye Patch State Recreation Area,Pershing,https://parks.nv.gov/parks/rye-patch
-Nevada,Sand Harbor - Lake Tahoe Nevada State Park,,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park
+Nevada,Sand Harbor - Lake Tahoe Nevada State Park,Washoe,https://parks.nv.gov/parks/lake-tahoe-nevada-state-park
 Nevada,South Fork State Recreation Area,Elko,https://parks.nv.gov/parks/south-fork
 Nevada,Spooner Lake - Lake Tahoe Nevada State Park,Douglas,https://parks.nv.gov/parks/spooner-lake
 Nevada,Spring Mountain Ranch State Park,Clark,https://parks.nv.gov/parks/spring-mountain-ranch
@@ -1959,7 +1959,7 @@ New Hampshire,Hannah Duston Memorial Historic Site,Merrimack,https://www.nhstate
 New Hampshire,Jenness State Beach,Rockingham,https://www.nhstateparks.org/find-parks-trails/jenness-state-beach
 New Hampshire,Jericho Mountain State Park,Coos,https://www.nhstateparks.org/find-parks-trails/jericho-mountain-state-park
 New Hampshire,Kingston State Park,Rockingham,https://www.nhstateparks.org/find-parks-trails/kingston-state-park
-New Hampshire,Lafayette Place Campground at Franconia Notch Stat,,https://www.nhstateparks.org/find-parks-trails/lafayette-place-campground-at-franconia-notch-stat
+New Hampshire,Lafayette Place Campground at Franconia Notch State Park,Grafton,https://www.nhstateparks.org/find-parks-trails/lafayette-place-campground-at-franconia-notch-stat
 New Hampshire,Lake Francis State Park,"Coos, Coös",https://www.nhstateparks.org/find-parks-trails/lake-francis-state-park
 New Hampshire,Lake Tarleton State Park,Grafton,https://www.nhstateparks.org/find-parks-trails/lake-tarleton-state-park
 New Hampshire,Livermore Falls Recreation Area,Grafton,https://www.nhstateparks.org/find-parks-trails/livermore-falls-recreation-area
@@ -2208,7 +2208,7 @@ New York,Midway State Park,Chautauqua,https://parks.ny.gov/visit/state-parks/mid
 New York,Mills Norrie State Park (Margaret Lewis Norrie),Dutchess,https://parks.ny.gov/visit/state-parks/mills-norrie-state-park-margaret-lewis-norrie
 New York,Mine Kill State Park,Schoharie,https://parks.ny.gov/visit/state-parks/mine-kill-state-park
 New York,Minnewaska State Park Preserve,Ulster,https://parks.ny.gov/visit/state-parks/minnewaska-state-park-preserve
-New York,Minnewaska State Park Preserve: Sam's Point Area,,https://parks.ny.gov/visit/state-parks/minnewaska-state-park-preserve-sams-point-area
+New York,Minnewaska State Park Preserve: Sam's Point Area,Ulster,https://parks.ny.gov/visit/state-parks/minnewaska-state-park-preserve-sams-point-area
 New York,Montauk Downs State Park,Suffolk,https://parks.ny.gov/visit/state-parks/montauk-downs-state-park
 New York,Montauk Point State Park,Suffolk,https://parks.ny.gov/visit/state-parks/montauk-point-state-park
 New York,Moreau Lake State Park,Saratoga,https://parks.ny.gov/visit/state-parks/moreau-lake-state-park
@@ -3435,7 +3435,7 @@ Wisconsin,Lizard Mound State Park,Washington,https://dnr.wisconsin.gov/topic/par
 Wisconsin,Loew Lake Unit Kettle Moraine State Forest,Washington,https://dnr.wisconsin.gov/topic/parks/loewlake
 Wisconsin,Lost Dauphin State Park,Brown,https://dnr.wisconsin.gov/topic/parks/lostdauphin
 Wisconsin,Mascoutin Valley State Trail,Fond du Lac,https://dnr.wisconsin.gov/topic/parks/mascoutin
-Wisconsin,Menominee River State Recreation Area,,https://dnr.wisconsin.gov/topic/parks/menominee
+Wisconsin,Menominee River State Recreation Area,Marinette,https://dnr.wisconsin.gov/topic/parks/menominee
 Wisconsin,Merrick State Park,Buffalo,https://dnr.wisconsin.gov/topic/parks/merrick
 Wisconsin,Military Ridge State Trail,Dane,https://dnr.wisconsin.gov/topic/parks/militaryridge
 Wisconsin,Mill Bluff State Park,Monroe,https://dnr.wisconsin.gov/topic/parks/millbluff
@@ -3508,10 +3508,10 @@ Wyoming,Keyhole State Park,Crook,https://wyoparks.wyo.gov/index.php/places-to-go
 Wyoming,Legend Rock State Petroglyph Site,Hot Springs,https://wyoparks.wyo.gov/index.php/places-to-go/legend-rock
 Wyoming,Medicine Lodge Archaeological Site,Big Horn,https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge
 Wyoming,Names Hill State Historic Site,Lincoln,https://wyoparks.wyo.gov/index.php/places-to-go/names-hill
-Wyoming,Oregon Trail Ruts,,https://wyoparks.wyo.gov/index.php/places-to-go/oregon-trail-ruts
+Wyoming,Oregon Trail Ruts,Platte,https://wyoparks.wyo.gov/index.php/places-to-go/oregon-trail-ruts
 Wyoming,Piedmont Charcoal Kilns State Historic Site,Uinta,https://wyoparks.wyo.gov/index.php/places-to-go/piedmont-charcoal-kilns
 Wyoming,Point of Rocks Stage Station Historic Site,Sweetwater,https://wyoparks.wyo.gov/index.php/places-to-go/point-of-rocks
-Wyoming,Quebec 01 Missile Alert Facility,,https://wyoparks.wyo.gov/index.php/places-to-go/quebec-01
+Wyoming,Quebec 01 Missile Alert Facility,Laramie,https://wyoparks.wyo.gov/index.php/places-to-go/quebec-01
 Wyoming,Register Cliff State Historic Site,Platte,https://wyoparks.wyo.gov/index.php/places-to-go/register-cliffs
 Wyoming,Seminoe State Park,Carbon,https://wyoparks.wyo.gov/index.php/places-to-go/seminoe
 Wyoming,Sinks Canyon State Park,Fremont,https://wyoparks.wyo.gov/index.php/places-to-go/sinks-canyon
