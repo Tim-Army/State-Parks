@@ -124,6 +124,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">County <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Welcome Center <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col" title="Yes = the park's own page describes a visitor, welcome, nature or interpretive center. No = its page doesn't mention one. Blank = not determined.">Visitor Center? <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" title="From the state's camping rules. Yes = a designated lot or overflow area for extra/tow vehicles. No = the tow vehicle must fit on the campsite. Some parks = only some campgrounds.">Separate Tow Parking <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
         </tr>
       </thead>
@@ -188,6 +189,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col" class="num">Full hookup <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Check-in</th>
           <th scope="col">Check-out</th>
+          <th scope="col">Separate tow parking</th>
           <th scope="col">Book</th>
         </tr></thead>
         <tbody id="fitbody"></tbody>
@@ -212,7 +214,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
         <thead><tr>
           <th scope="col">State</th><th scope="col">Measured site length</th><th scope="col">Published limit</th><th scope="col">Tow vehicle counted?</th>
           <th scope="col">Vehicles per site</th><th scope="col">Where extra vehicles park</th>
-          <th scope="col">Check-in</th><th scope="col">Check-out</th>
+          <th scope="col">Check-in</th><th scope="col">Check-out</th><th scope="col">Separate tow parking</th>
           <th scope="col">Source</th>
         </tr></thead>
         <tbody>
@@ -302,12 +304,13 @@ const body=document.getElementById('body'), empty=document.getElementById('empty
   const o=document.createElement('option'); o.value=s; o.textContent=s; st.appendChild(o);
 });
 
+function towCell(v){ return !v||v==='Not stated' ? '<span class="na">Not stated</span>' : esc(v); }
 function host(u){ try { return new URL(u).host.replace(/^www\./,''); } catch(e){ return u; } }
 function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
 function filtered(){
   const term=q.value.trim().toLowerCase(), sel=st.value;
-  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[5].toLowerCase().includes(term)));
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[6].toLowerCase().includes(term)));
   rows=rows.slice().sort((a,b)=>{
     const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
     return c || a[1].localeCompare(b[1]);
@@ -322,7 +325,8 @@ function render(){
     `<tr><td class="state">${esc(p[0])}</td><td class="name">${esc(p[1])}</td><td class="county">${p[2]?esc(p[2]):'<span class="na">&ndash;</span>'}</td>`+
     `<td class="wc">${p[3]?esc(p[3]):'<span class="na">&ndash;</span>'}</td>`+
     `<td class="vc">${p[4]?esc(p[4]):'<span class="na">&ndash;</span>'}</td>`+
-    `<td class="site"><a href="${esc(p[5])}" target="_blank" rel="noopener noreferrer">${esc(host(p[5]))}</a></td></tr>`).join('');
+    `<td class="vc">${towCell(p[5])}</td>`+
+    `<td class="site"><a href="${esc(p[6])}" target="_blank" rel="noopener noreferrer">${esc(host(p[6]))}</a></td></tr>`).join('');
   empty.hidden = rows.length>0;
   countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
     (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');
@@ -401,6 +405,7 @@ function renderFit(){
       `<td class="num"><strong>${fit}</strong><span class="meter" title="${Math.round(100*fit/tot)}% of RV sites"><i style="width:${w}%"></i></span></td>`+
       `<td class="num">${tot}</td><td class="num">${longest} ft</td><td class="num">${pt||'&ndash;'}</td><td class="num">${full||'&ndash;'}</td>`+
       `<td class="tm">${ci?esc(ci):'<span class="na">&ndash;</span>'}</td><td class="tm">${co?esc(co):'<span class="na">&ndash;</span>'}</td>`+
+      `<td class="vc">${ag ? '<span class="na">Ask the campground</span>' : towCell(FIT.tow[si])}</td>`+
       `<td class="site">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${ag?'recreation.gov':esc(host(url))}</a>`:''}</td></tr>`;
   }).join('');
   $('fitempty').hidden = out.length > 0;
