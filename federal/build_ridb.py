@@ -81,3 +81,25 @@ with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'federal-time
         ci, co = times[fid]
         w.writerow([fid, ci.most_common(1)[0][0] if ci else '', co.most_common(1)[0][0] if co else ''])
 print('times for', sum(1 for v in times.values() if v[0]), 'campgrounds')
+
+# Nightly cost / stay limit: Recreation.gov publishes these as free text per facility (StayLimit,
+# FacilityUseFeeDescription), so pull out the dollar figures and the night count where they parse.
+def money(s):
+    v = sorted({round(float(x)) for x in re.findall(r'\$\s*(\d{1,4}(?:\.\d{2})?)', s or '') if float(x) <= 500})
+    if not v: return ''
+    return f'${v[0]}' if len(v) == 1 else f'${v[0]}-${v[-1]}'
+
+def nights(s):
+    s = re.sub(r'<[^>]+>', ' ', s or '')
+    m = re.search(r'(\d{1,3})\s*[- ]?\s*(?:day|night)', s, re.I)
+    return m.group(1) if m and 1 <= int(m.group(1)) <= 365 else ''
+
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'federal-fees-stay.csv'), 'w', newline='') as fh:
+    w = csv.writer(fh); w.writerow(['RIDB Facility ID', 'Nightly Cost', 'Max Consecutive Nights'])
+    n_fee = n_stay = 0
+    for fid in sorted({r[3] for r in rows}, key=int):
+        f = fac.get(fid, {})
+        fee, st = money(f.get('FacilityUseFeeDescription')), nights(f.get('StayLimit'))
+        n_fee += bool(fee); n_stay += bool(st)
+        if fee or st: w.writerow([fid, fee, st])
+print('federal fees for', n_fee, 'campgrounds, stay limits for', n_stay)

@@ -59,7 +59,7 @@ alongside their parks.
 - **[`virginia-rv-site-sizes.csv`](virginia-rv-site-sizes.csv)** — Virginia's own published per-park breakdown.
 
 Coverage: <!-- counts:start -->
-**132,717 state-park campsites across 1,551 parks in 42 states**, plus **77,801 federal campsites in 1,993 campgrounds**
+**132,717 state-park campsites across 1,551 parks in 42 states**, plus **77,863 federal campsites in 1,994 campgrounds**
 <!-- counts:end -->.
 
 ### State parks, measured
@@ -121,7 +121,7 @@ day-use, marina and parking units are excluded even when the system gives them a
 | State | Campgrounds | RV sites | Average | Longest | <25 ft | 25–34 | 35–44 | 45–59 | 60+ | Electric | Full hookup | Pull-through |
 |---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Alabama | 17 | 1,160 | 60 ft | 150 ft | 6 | 42 | 369 | 247 | 496 | 99% | 14% | 9% |
-| Alaska | 16 | 474 | 45 ft | 145 ft | 28 | 97 | 171 | 107 | 71 | 4% | 0% | 12% |
+| Alaska | 16 | 474 | 45 ft | 145 ft | 28 | 97 | 171 | 108 | 70 | 4% | 0% | 12% |
 | Arizona | 49 | 2,509 | 38 ft | 136 ft | 289 | 906 | 737 | 393 | 184 | 3% | 1% | 35% |
 | Arkansas | 96 | 4,877 | 47 ft | 124 ft | 177 | 895 | 1,227 | 1,524 | 1,054 | 92% | 2% | 5% |
 | California | 273 | 10,205 | 33 ft | 150 ft | 2,317 | 3,124 | 3,365 | 1,142 | 257 | 3% | 1% | 8% |
@@ -133,22 +133,22 @@ day-use, marina and parking units are excluded even when the system gives them a
 | Illinois | 16 | 1,548 | 64 ft | 150 ft | 2 | 75 | 181 | 337 | 953 | 100% | 23% | 4% |
 | Indiana | 1 | 2 | 50 ft | 50 ft | 0 | 0 | 0 | 2 | 0 | 0% | 0% | 0% |
 | Iowa | 20 | 1,714 | 57 ft | 130 ft | 5 | 38 | 112 | 866 | 693 | 99% | 2% | 3% |
-| Kansas | 38 | 2,127 | 54 ft | 148 ft | 26 | 85 | 305 | 832 | 879 | 79% | 7% | 14% |
-| Kentucky | 31 | 2,206 | 52 ft | 125 ft | 95 | 396 | 369 | 529 | 817 | 74% | 2% | 8% |
+| Kansas | 38 | 2,130 | 54 ft | 148 ft | 26 | 85 | 305 | 835 | 879 | 79% | 7% | 14% |
+| Kentucky | 31 | 2,206 | 52 ft | 125 ft | 94 | 396 | 370 | 529 | 817 | 74% | 2% | 8% |
 | Louisiana | 3 | 88 | 66 ft | 114 ft | 0 | 21 | 0 | 8 | 59 | 93% | 0% | 1% |
 | Maine | 7 | 358 | 36 ft | 102 ft | 48 | 55 | 190 | 50 | 15 | 68% | 2% | 10% |
 | Maryland | 3 | 232 | 37 ft | 66 ft | 56 | 67 | 42 | 36 | 31 | 0% | 0% | 11% |
 | Michigan | 58 | 1,146 | 40 ft | 99 ft | 152 | 252 | 297 | 272 | 173 | 9% | 0% | 9% |
-| Minnesota | 34 | 992 | 51 ft | 138 ft | 35 | 135 | 149 | 389 | 284 | 52% | 2% | 3% |
+| Minnesota | 34 | 994 | 51 ft | 138 ft | 35 | 135 | 149 | 389 | 286 | 51% | 2% | 3% |
 | Mississippi | 26 | 1,406 | 55 ft | 141 ft | 14 | 122 | 294 | 446 | 530 | 93% | 42% | 7% |
-| Missouri | 56 | 3,378 | 48 ft | 120 ft | 138 | 565 | 806 | 1,000 | 869 | 74% | 9% | 6% |
+| Missouri | 56 | 3,378 | 48 ft | 120 ft | 137 | 567 | 806 | 1,000 | 868 | 74% | 9% | 6% |
 | Montana | 58 | 1,912 | 34 ft | 120 ft | 538 | 566 | 408 | 278 | 122 | 4% | 0% | 44% |
 | Nebraska | 3 | 231 | 57 ft | 120 ft | 0 | 14 | 32 | 60 | 125 | 74% | 14% | 10% |
-| Nevada | 16 | 503 | 36 ft | 65 ft | 62 | 150 | 193 | 94 | 4 | 20% | 17% | 8% |
+| Nevada | 16 | 505 | 36 ft | 65 ft | 65 | 148 | 192 | 95 | 5 | 20% | 17% | 8% |
 | New Hampshire | 11 | 273 | 29 ft | 50 ft | 68 | 137 | 41 | 27 | 0 | 19% | 0% | 1% |
 | New Mexico | 16 | 465 | 36 ft | 80 ft | 94 | 82 | 164 | 109 | 16 | 25% | 0% | 13% |
 | New York | 1 | 6 | 50 ft | 50 ft | 0 | 0 | 0 | 6 | 0 | 0% | 0% | 0% |
-| North Carolina | 33 | 1,951 | 39 ft | 148 ft | 335 | 474 | 586 | 384 | 172 | 19% | 1% | 14% |
+| North Carolina | 33 | 1,951 | 39 ft | 148 ft | 336 | 474 | 586 | 383 | 172 | 19% | 1% | 14% |
 | North Dakota | 9 | 390 | 50 ft | 93 ft | 11 | 48 | 58 | 164 | 109 | 68% | 0% | 17% |
 | Ohio | 4 | 365 | 48 ft | 90 ft | 2 | 24 | 69 | 234 | 36 | 46% | 1% | 3% |
 | Oklahoma | 70 | 3,720 | 51 ft | 146 ft | 124 | 388 | 830 | 1,033 | 1,345 | 89% | 2% | 7% |
@@ -157,11 +157,11 @@ day-use, marina and parking units are excluded even when the system gives them a
 | South Carolina | 5 | 134 | 35 ft | 60 ft | 8 | 50 | 64 | 11 | 1 | 84% | 0% | 40% |
 | South Dakota | 7 | 332 | 51 ft | 125 ft | 34 | 34 | 48 | 101 | 115 | 62% | 0% | 14% |
 | Tennessee | 26 | 1,722 | 45 ft | 146 ft | 179 | 417 | 357 | 370 | 399 | 72% | 6% | 9% |
-| Texas | 76 | 3,535 | 56 ft | 150 ft | 140 | 164 | 422 | 1,499 | 1,310 | 91% | 8% | 8% |
+| Texas | 76 | 3,534 | 56 ft | 150 ft | 140 | 164 | 422 | 1,498 | 1,310 | 91% | 8% | 8% |
 | Utah | 186 | 4,794 | 38 ft | 130 ft | 596 | 1,420 | 1,354 | 873 | 551 | 4% | 0% | 13% |
 | Vermont | 5 | 164 | 31 ft | 40 ft | 61 | 15 | 88 | 0 | 0 | 14% | 0% | 1% |
 | Virginia | 23 | 1,534 | 34 ft | 132 ft | 236 | 552 | 524 | 205 | 17 | 31% | 0% | 17% |
-| Washington | 104 | 3,426 | 35 ft | 150 ft | 759 | 1,133 | 909 | 452 | 173 | 6% | 1% | 15% |
+| Washington | 105 | 3,482 | 35 ft | 150 ft | 759 | 1,162 | 936 | 452 | 173 | 8% | 1% | 15% |
 | West Virginia | 16 | 1,144 | 45 ft | 118 ft | 41 | 249 | 211 | 486 | 157 | 69% | 14% | 2% |
 | Wisconsin | 37 | 1,029 | 41 ft | 99 ft | 29 | 206 | 457 | 246 | 91 | 25% | 0% | 2% |
 | Wyoming | 50 | 1,358 | 39 ft | 145 ft | 179 | 392 | 352 | 301 | 134 | 15% | 7% | 13% |

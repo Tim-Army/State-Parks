@@ -68,6 +68,10 @@ virginia = rows('virginia-rv-site-sizes.csv')
 state_combos = rows('rv/site-combos.csv')
 fed_combos = rows('federal/federal-combos.csv')
 TOW = {r['State']: r['Separate Tow Parking'] for r in rows('rv/tow-parking.csv')}
+# nightly cost / longest single stay: per state system from the published fee schedules and camping rules,
+# per campground for federal (whatever Recreation.gov publishes as free text)
+FEES = {r['State']: r for r in rows('rv/fees-stay.csv')}
+fed_fees = {r['RIDB Facility ID']: (r['Nightly Cost'], r['Max Consecutive Nights']) for r in rows('federal/federal-fees-stay.csv')}
 # check-in / check-out: per campground for federal (Recreation.gov), per state system for state parks (official policy pages)
 fed_times = {r['RIDB Facility ID']: (r['Check-in'], r['Check-out']) for r in rows('federal/federal-times.csv')}
 state_times = {r['State']: r for r in rows('rv/checkin-times.csv')} if os.path.exists(P('rv/checkin-times.csv')) else {}
@@ -145,8 +149,13 @@ for r in policies:
     r['Measured Avg Site (ft)'] = s['avg'] if s else ''
     r['Measured Longest (ft)'] = s['hi'] if s else ''
     t = state_times.get(r['State'])
-    for k in ('Campsite Check-in', 'Campsite Check-out', 'Check-in/out Source', 'Separate Tow Parking'): r.setdefault(k, '')
+    for k in ('Campsite Check-in', 'Campsite Check-out', 'Check-in/out Source', 'Separate Tow Parking',
+              'Nightly Cost', 'Max Consecutive Nights', 'Fees/Stay Note', 'Fees/Stay Source'): r.setdefault(k, '')
     r['Separate Tow Parking'] = TOW.get(r['State'], 'Not stated')
+    f = FEES.get(r['State'], {})
+    r['Nightly Cost'] = f.get('Nightly Cost', '')
+    r['Max Consecutive Nights'] = f"{f['Max Consecutive Nights']} nights" if f.get('Max Consecutive Nights') else ''
+    r['Fees/Stay Note'], r['Fees/Stay Source'] = f.get('Note', ''), f.get('Source', '')
     if t:
         r['Campsite Check-in'], r['Campsite Check-out'] = t['Check-in'], t['Check-out']
         r['Check-in/out Source'] = t['Source']
@@ -166,9 +175,12 @@ for p in list(sp.values()) + list(fp.values()):
     for ln, hk, amps, en, n in sorted(p['c']):
         flat += [ln, HK[hk], amps, EN[en], n]
     ci, co = fed_times.get(p['fid'], ('', '')) if p.get('fid') else (st_time(p['state'], 'Check-in'), st_time(p['state'], 'Check-out'))
-    fit.append([STATES.index(p['state']), p['name'], AGS.index(p['ag']), p.get('fid', ''), flat, ci, co])
+    cost, nights = fed_fees.get(p['fid'], ('', '')) if p.get('fid') else ('', '')
+    fit.append([STATES.index(p['state']), p['name'], AGS.index(p['ag']), p.get('fid', ''), flat, ci, co, cost, nights])
 FIT = dict(states=STATES, ags=[AGENCY.get(a, 'State park') for a in AGS], book={STATES.index(k): v for k, v in BOOK.items()},
-           tow={STATES.index(k): v for k, v in TOW.items()}, p=fit)
+           tow={STATES.index(k): v for k, v in TOW.items()},
+           fee={STATES.index(k): [v['Nightly Cost'], (v['Max Consecutive Nights'] + ' nights') if v['Max Consecutive Nights'] else '']
+                for k, v in FEES.items()}, p=fit)
 
 # ---------------------------------------------------------------- HTML fragments
 def a(url, text=None):
@@ -192,6 +204,7 @@ for r in policies:
                     f'<td>{towc}</td><td>{cell(r["Vehicles Allowed per Site"])}</td><td>{cell(r["Where Tow / Extra Vehicles Park"])}</td>'
                     f'<td class="tm">{cell(r.get("Campsite Check-in"))}</td><td class="tm">{cell(r.get("Campsite Check-out"))}</td>'
                     f'<td>{cell(r.get("Separate Tow Parking"))}</td>'
+                    f'<td>{cell(r.get("Nightly Cost"))}</td><td>{cell(r.get("Max Consecutive Nights"))}</td>'
                     f'<td class="src">{a(r["Source"]) if r["Source"].startswith("http") else esc(r["Source"])}</td></tr>')
 
 def sum_rows(summ):
@@ -214,7 +227,8 @@ va_rows = '\n'.join(
     f'<td>{esc(r["RV Sites Counted"])}</td><td>{esc(r["Sites by Size (as published)"])}</td></tr>' for r in virginia)
 va_sites = sum(int(r['RV Sites Counted']) for r in virginia)
 
-PARKS = [[r['State'], r['Park Name'], r.get('County', ''), r.get('Welcome Center', ''), r.get('Visitor Center?', ''), r.get('Separate Tow Parking', ''), r['Official Website']] for r in parks]
+PARKS = [[r['State'], r['Park Name'], r.get('County', ''), r.get('Welcome Center', ''), r.get('Visitor Center?', ''), r.get('Separate Tow Parking', ''),
+          r.get('Nightly Cost', ''), r.get('Max Consecutive Nights', ''), r['Official Website']] for r in parks]
 SYS = {r['State']: [r['Park System Name'], r['Official Website']] for r in systems}
 
 biggest = max(state_sum.items(), key=lambda kv: kv[1]['n'])

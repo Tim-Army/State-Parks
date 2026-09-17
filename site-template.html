@@ -125,6 +125,8 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">Welcome Center <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col" title="Yes = the park's own page describes a visitor, welcome, nature or interpretive center. No = its page doesn't mention one. Blank = not determined.">Visitor Center? <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col" title="From the state's camping rules. Yes = a designated lot or overflow area for extra/tow vehicles. No = the tow vehicle must fit on the campsite. Some parks = only some campgrounds.">Separate Tow Parking <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" title="Range across site types (tent through full hookup) from the state's published fee schedule; entrance, reservation and utility fees are extra.">Nightly Cost <span class="arrow">&#9650;&#9660;</span></th>
+          <th scope="col" title="Longest single stay the state's camping rules allow in one park. Seasonal and per-park exceptions are listed on the RV rules tab.">Max Consecutive Nights <span class="arrow">&#9650;&#9660;</span></th>
           <th scope="col">Official Website <span class="arrow">&#9650;&#9660;</span></th>
         </tr>
       </thead>
@@ -190,6 +192,8 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">Check-in</th>
           <th scope="col">Check-out</th>
           <th scope="col">Separate tow parking</th>
+          <th scope="col">Nightly cost</th>
+          <th scope="col">Max nights</th>
           <th scope="col">Book</th>
         </tr></thead>
         <tbody id="fitbody"></tbody>
@@ -200,6 +204,8 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
     <p class="sysline" style="margin-top:1rem">&ldquo;Pull-through&rdquo; and &ldquo;Full hookup&rdquo; count only the sites that fit. Check-in and check-out are
     per campground for federal sites (Recreation.gov) and the state&rsquo;s standard campsite times for state parks
     (&ldquo;Varies&rdquo; where the state sets them park by park) &mdash; see the RV rules tab for each state&rsquo;s source.
+    Nightly cost is the state&rsquo;s published range across site types (entrance, reservation and utility fees are extra) and max nights is the longest single stay
+    its rules allow in one park; for federal campgrounds both come from whatever Recreation.gov publishes for that campground, which is often nothing.
     Some systems don&rsquo;t publish hookups or driveway type per site (Florida, Louisiana and Vermont publish no hookups; most US eDirect states publish no driveway type), so those
     sites drop out when you ask for them &mdash; they may still have them.</p>
   </div>
@@ -215,6 +221,7 @@ footer{margin-top:2rem;color:var(--muted);font-size:.85rem;line-height:1.7}
           <th scope="col">State</th><th scope="col">Measured site length</th><th scope="col">Published limit</th><th scope="col">Tow vehicle counted?</th>
           <th scope="col">Vehicles per site</th><th scope="col">Where extra vehicles park</th>
           <th scope="col">Check-in</th><th scope="col">Check-out</th><th scope="col">Separate tow parking</th>
+          <th scope="col">Nightly cost</th><th scope="col">Max consecutive nights</th>
           <th scope="col">Source</th>
         </tr></thead>
         <tbody>
@@ -310,7 +317,7 @@ function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;',
 
 function filtered(){
   const term=q.value.trim().toLowerCase(), sel=st.value;
-  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[6].toLowerCase().includes(term)));
+  let rows=PARKS.filter(p=>(!sel||p[0]===sel)&&(!term||p[1].toLowerCase().includes(term)||p[0].toLowerCase().includes(term)||p[2].toLowerCase().includes(term)||p[8].toLowerCase().includes(term)));
   rows=rows.slice().sort((a,b)=>{
     const c=a[sortKey].localeCompare(b[sortKey])*sortDir;
     return c || a[1].localeCompare(b[1]);
@@ -326,7 +333,9 @@ function render(){
     `<td class="wc">${p[3]?esc(p[3]):'<span class="na">&ndash;</span>'}</td>`+
     `<td class="vc">${p[4]?esc(p[4]):'<span class="na">&ndash;</span>'}</td>`+
     `<td class="vc">${towCell(p[5])}</td>`+
-    `<td class="site"><a href="${esc(p[6])}" target="_blank" rel="noopener noreferrer">${esc(host(p[6]))}</a></td></tr>`).join('');
+    `<td class="tm">${towCell(p[6])}</td>`+
+    `<td class="tm">${towCell(p[7])}</td>`+
+    `<td class="site"><a href="${esc(p[8])}" target="_blank" rel="noopener noreferrer">${esc(host(p[8]))}</a></td></tr>`).join('');
   empty.hidden = rows.length>0;
   countEl.textContent = rows.length.toLocaleString()+' park'+(rows.length===1?'':'s')+
     (rows.length>slice.length ? ' · showing '+slice.length.toLocaleString() : '');
@@ -368,7 +377,7 @@ function fitRows(){
   const hk = +F.hk.value, amps = +F.amps.value, pull = F.pull.checked, st = F.st.value, term = F.q.value.trim().toLowerCase();
   const out = [];
   for (const p of FIT.p) {
-    const [si, name, ag, fid, c, ci, co] = p;
+    const [si, name, ag, fid, c, ci, co, cost, nights] = p;
     if (st !== '' && si !== +st) continue;
     if (ag === 0 ? !F.incstate.checked : !F.incfed.checked) continue;
     if (term && !name.toLowerCase().includes(term)) continue;
@@ -382,7 +391,7 @@ function fitRows(){
       if (pull && e !== 1) continue;
       fit += n; if (e === 1) pt += n; if (h === 3) full += n;
     }
-    if (fit > 0) out.push([FIT.states[si], name, fit, tot, longest, pt, full, ag, fid, si, ci, co]);
+    if (fit > 0) out.push([FIT.states[si], name, fit, tot, longest, pt, full, ag, fid, si, ci, co, cost, nights]);
   }
   return {need, out};
 }
@@ -397,7 +406,9 @@ function renderFit(){
     `<div><div class="big">${states}</div><div class="lab">states</div></div>`;
   const slice = out.slice(0, fitShown);
   $('fitbody').innerHTML = slice.map(r=>{
-    const [s, name, fit, tot, longest, pt, full, ag, fid, si, ci, co] = r;
+    const [s, name, fit, tot, longest, pt, full, ag, fid, si, ci, co, cost, nights] = r;
+    const fee = FIT.fee[si] || ['', ''];
+    const costTxt = ag ? (cost || '') : fee[0], nightTxt = ag ? (nights ? nights + ' nights' : '') : fee[1];
     const url = ag ? `https://www.recreation.gov/camping/campgrounds/${fid}` : (FIT.book[si] || '');
     const tag = ag ? `<span class="tag">${esc(FIT.ags[ag])}</span>` : '';
     const w = Math.max(4, Math.round(100*fit/tot));
@@ -406,6 +417,8 @@ function renderFit(){
       `<td class="num">${tot}</td><td class="num">${longest} ft</td><td class="num">${pt||'&ndash;'}</td><td class="num">${full||'&ndash;'}</td>`+
       `<td class="tm">${ci?esc(ci):'<span class="na">&ndash;</span>'}</td><td class="tm">${co?esc(co):'<span class="na">&ndash;</span>'}</td>`+
       `<td class="vc">${ag ? '<span class="na">Ask the campground</span>' : towCell(FIT.tow[si])}</td>`+
+      `<td class="tm">${costTxt?esc(costTxt):'<span class="na">&ndash;</span>'}</td>`+
+      `<td class="tm">${nightTxt?esc(nightTxt):'<span class="na">&ndash;</span>'}</td>`+
       `<td class="site">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${ag?'recreation.gov':esc(host(url))}</a>`:''}</td></tr>`;
   }).join('');
   $('fitempty').hidden = out.length > 0;

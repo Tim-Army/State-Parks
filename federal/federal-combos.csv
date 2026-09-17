@@ -186,15 +186,14 @@ AK,FS,Trail River,232337,34,N,0,B,8
 AK,FS,Trail River,232337,35,N,0,B,2
 AK,FS,Trail River,232337,36,N,0,B,3
 AK,FS,Trail River,232337,36,N,0,P,1
-AK,FS,Trail River,232337,38,N,0,B,11
+AK,FS,Trail River,232337,38,N,0,B,12
 AK,FS,Trail River,232337,39,N,0,B,2
 AK,FS,Trail River,232337,40,N,0,B,9
 AK,FS,Trail River,232337,42,N,0,B,2
-AK,FS,Trail River,232337,43,N,0,B,1
 AK,FS,Trail River,232337,44,N,0,B,2
 AK,FS,Trail River,232337,44,N,0,P,1
 AK,FS,Trail River,232337,45,N,0,B,2
-AK,FS,Trail River,232337,48,N,0,B,5
+AK,FS,Trail River,232337,48,N,0,B,6
 AK,FS,Trail River,232337,50,N,0,B,2
 AK,FS,Trail River,232337,53,N,0,B,1
 AK,FS,Trail River,232337,54,N,0,B,1
@@ -203,7 +202,6 @@ AK,FS,Trail River,232337,72,N,0,P,1
 AK,FS,Trail River,232337,74,N,0,B,1
 AK,FS,Trail River,232337,75,N,0,P,2
 AK,FS,Trail River,232337,78,N,0,P,3
-AK,FS,Trail River,232337,78,N,0,B,1
 AK,FS,Trail River,232337,81,N,0,P,1
 AK,FS,Trail River,232337,88,N,0,P,1
 AK,FS,Williwaw Campground,232324,53,N,0,B,1
@@ -7618,9 +7616,8 @@ GA,USACE,Coneross Park,232555,48,WE,50,P,2
 GA,USACE,Coneross Park,232555,48,F,50,B,1
 GA,USACE,Coneross Park,232555,49,WE,50,P,3
 GA,USACE,Coneross Park,232555,49,WE,50,B,1
-GA,USACE,Coneross Park,232555,50,WE,50,B,24
+GA,USACE,Coneross Park,232555,50,WE,50,B,25
 GA,USACE,Coneross Park,232555,50,WE,50,P,7
-GA,USACE,Coneross Park,232555,50,F,50,B,1
 GA,USACE,Coneross Park,232555,51,WE,50,B,1
 GA,USACE,Coneross Park,232555,52,WE,50,B,1
 GA,USACE,Coneross Park,232555,53,WE,50,B,1
@@ -10611,7 +10608,7 @@ KS,USACE,Riverside (Ks),233601,19,N,0,B,1
 KS,USACE,Riverside (Ks),233601,20,N,0,B,4
 KS,USACE,Riverside (Ks),233601,25,N,0,B,1
 KS,USACE,Riverside (Ks),233601,25,WE,30,B,1
-KS,USACE,Riverside (Ks),233601,45,WE,30,B,6
+KS,USACE,Riverside (Ks),233601,45,WE,30,B,7
 KS,USACE,Riverside (Ks),233601,45,N,0,B,2
 KS,USACE,Riverside (Ks),233601,45,WE,50,B,1
 KS,USACE,Riverside (Ks),233601,50,WE,30,B,2
@@ -10865,7 +10862,7 @@ KS,USACE,Venango Park,233659,50,WE,50,B,2
 KS,USACE,Venango Park,233659,50,E,50,L,1
 KS,USACE,Venango Park,233659,51,E,30,B,4
 KS,USACE,Venango Park,233659,52,WE,50,B,5
-KS,USACE,Venango Park,233659,52,E,30,B,9
+KS,USACE,Venango Park,233659,52,E,30,B,11
 KS,USACE,Venango Park,233659,52,N,0,B,5
 KS,USACE,Venango Park,233659,53,WE,50,B,4
 KS,USACE,Venango Park,233659,53,E,30,B,1
@@ -11496,7 +11493,7 @@ KY,USACE,Littcarr Campground,232625,52,WE,50,B,1
 KY,USACE,Littcarr Campground,232625,54,WE,50,B,1
 KY,USACE,Littcarr Campground,232625,54,F,50,B,2
 KY,NPS,Mammoth Cave Campground,232467,16,N,0,P,1
-KY,NPS,Mammoth Cave Campground,232467,18,N,0,P,5
+KY,NPS,Mammoth Cave Campground,232467,18,N,0,P,4
 KY,NPS,Mammoth Cave Campground,232467,26,N,0,B,3
 KY,NPS,Mammoth Cave Campground,232467,26,N,0,P,3
 KY,NPS,Mammoth Cave Campground,232467,28,N,0,B,3
@@ -11504,6 +11501,7 @@ KY,NPS,Mammoth Cave Campground,232467,30,N,0,B,4
 KY,NPS,Mammoth Cave Campground,232467,30,N,0,P,4
 KY,NPS,Mammoth Cave Campground,232467,35,N,0,P,8
 KY,NPS,Mammoth Cave Campground,232467,35,N,0,B,2
+KY,NPS,Mammoth Cave Campground,232467,36,N,0,P,1
 KY,NPS,Mammoth Cave Campground,232467,38,N,0,B,1
 KY,NPS,Mammoth Cave Campground,232467,38,N,0,P,1
 KY,NPS,Mammoth Cave Campground,232467,40,N,0,P,6
@@ -12519,9 +12517,10 @@ MN,USACE,Leech Lake Rec Area,233535,138,E,50,P,1
 MN,FS,Mosomo Point,233848,35,N,0,B,1
 MN,FS,Mosomo Point,233848,45,N,0,B,20
 MN,FS,North Star,10191085,52,N,0,?,1
-MN,FS,North Star,10191085,60,N,0,?,2
+MN,FS,North Star,10191085,60,N,0,?,3
 MN,FS,North Star,10191085,68,N,0,?,1
 MN,FS,North Star,10191085,75,N,0,?,2
+MN,FS,North Star,10191085,78,N,0,?,1
 MN,FS,North Star,10191085,80,N,0,?,1
 MN,FS,North Star,10191085,82,N,0,?,1
 MN,FS,North Star,10191085,100,N,0,?,1
@@ -12829,13 +12828,12 @@ MO,USACE,Big M,232526,60,N,0,B,1
 MO,USACE,Big M,232526,61,WE,50,B,1
 MO,USACE,Big M,232526,64,N,0,B,1
 MO,USACE,Big M,232526,65,F,30,B,1
-MO,NPS,Big Spring,234044,21,N,0,P,1
 MO,NPS,Big Spring,234044,21,N,0,B,1
 MO,NPS,Big Spring,234044,22,N,0,B,1
 MO,NPS,Big Spring,234044,25,N,0,B,7
 MO,NPS,Big Spring,234044,25,E,50,B,1
 MO,NPS,Big Spring,234044,27,N,0,B,1
-MO,NPS,Big Spring,234044,30,N,0,B,3
+MO,NPS,Big Spring,234044,30,N,0,B,5
 MO,NPS,Big Spring,234044,31,N,0,B,1
 MO,NPS,Big Spring,234044,32,N,0,B,2
 MO,NPS,Big Spring,234044,33,E,50,B,1
@@ -12864,7 +12862,7 @@ MO,NPS,Big Spring,234044,50,N,0,B,9
 MO,NPS,Big Spring,234044,51,E,50,B,1
 MO,NPS,Big Spring,234044,51,N,0,B,1
 MO,NPS,Big Spring,234044,52,N,0,B,2
-MO,NPS,Big Spring,234044,76,N,0,P,2
+MO,NPS,Big Spring,234044,76,N,0,P,1
 MO,USACE,Bluff View(Clearwater Lake),232530,33,E,30,B,1
 MO,USACE,Bluff View(Clearwater Lake),232530,45,WE,50,B,1
 MO,USACE,Bluff View(Clearwater Lake),232530,49,WE,50,B,1
@@ -14122,8 +14120,7 @@ MS,USACE,Hernando Point Campground,233507,51,F,50,B,2
 MS,USACE,Hernando Point Campground,233507,52,F,50,B,16
 MS,USACE,Hernando Point Campground,233507,53,F,50,B,4
 MS,USACE,Hernando Point Campground,233507,54,F,50,B,7
-MS,USACE,Hernando Point Campground,233507,55,F,50,P,1
-MS,USACE,Hernando Point Campground,233507,55,F,50,B,15
+MS,USACE,Hernando Point Campground,233507,55,F,50,B,16
 MS,USACE,Hernando Point Campground,233507,56,F,50,B,4
 MS,USACE,Hernando Point Campground,233507,57,F,50,B,4
 MS,USACE,Hernando Point Campground,233507,100,F,50,P,1
@@ -15381,7 +15378,7 @@ NC,NPS,Oregon Inlet Campground,251431,44,WE,50,B,4
 NC,NPS,Oregon Inlet Campground,251431,45,WE,50,B,5
 NC,NPS,Oregon Inlet Campground,251431,46,WE,50,B,2
 NC,NPS,Oregon Inlet Campground,251431,47,WE,50,B,1
-NC,NPS,Otter Creek Campground,251534,18,N,0,B,1
+NC,NPS,Otter Creek Campground,251534,18,N,0,B,2
 NC,NPS,Otter Creek Campground,251534,20,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,21,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,23,N,0,B,2
@@ -15393,7 +15390,6 @@ NC,NPS,Otter Creek Campground,251534,31,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,31,N,0,P,1
 NC,NPS,Otter Creek Campground,251534,32,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,33,N,0,B,1
-NC,NPS,Otter Creek Campground,251534,50,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,53,N,0,B,1
 NC,NPS,Otter Creek Campground,251534,53,N,0,P,1
 NC,NPS,Otter Creek Campground,251534,54,N,0,P,1
@@ -16082,34 +16078,34 @@ NM,BLM,Valley of Fires Recreation Area,10060263,20,N,0,B,2
 NM,BLM,Valley of Fires Recreation Area,10060263,40,WE,50,P,6
 NM,BLM,Valley of Fires Recreation Area,10060263,40,WE,50,B,7
 NM,BLM,Valley of Fires Recreation Area,10060263,40,N,0,P,2
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,32,N,0,B,1
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,36,N,0,B,1
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,38,N,0,B,4
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,42,N,0,?,1
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,42,N,0,B,2
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,44,N,0,?,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,38,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,39,N,0,B,3
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,40,N,0,B,4
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,43,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,44,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,45,N,0,B,3
 NV,FS,(Lake Alpine)  Silver Tip Campground,274410,46,N,0,B,2
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,48,N,0,?,3
-NV,FS,(Lake Alpine)  Silver Tip Campground,274410,48,N,0,B,4
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,24,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,25,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,29,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,47,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,48,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,49,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,51,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,53,N,0,B,1
+NV,FS,(Lake Alpine)  Silver Tip Campground,274410,62,N,0,B,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,20,N,0,B,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,24,N,0,B,3
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,25,N,0,B,2
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,28,N,0,B,1
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,31,N,0,?,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,33,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,34,N,0,?,1
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,34,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,35,N,0,B,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,35,N,0,B,2
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,36,N,0,B,2
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,37,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,38,N,0,B,1
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,42,N,0,?,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,42,N,0,B,2
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,42,N,0,B,1
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,43,N,0,?,1
 NV,FS,(Lake Alpine) Silver Valley Campground,274314,43,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,44,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,46,N,0,?,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,46,N,0,B,1
-NV,FS,(Lake Alpine) Silver Valley Campground,274314,53,N,0,B,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,44,N,0,?,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,45,N,0,B,1
+NV,FS,(Lake Alpine) Silver Valley Campground,274314,46,N,0,B,2
 NV,FS,"Angel Creek (Humboldt-Toiyabe National Forest, NV)",232014,20,N,0,B,1
 NV,FS,"Angel Creek (Humboldt-Toiyabe National Forest, NV)",232014,22,N,0,B,1
 NV,FS,"Angel Creek (Humboldt-Toiyabe National Forest, NV)",232014,25,N,0,B,3
@@ -21247,7 +21243,6 @@ TX,USACE,Mott,232646,18,WE,30,B,11
 TX,USACE,Mott,232646,40,WE,30,B,1
 TX,USACE,Mott,232646,44,WE,30,B,1
 TX,USACE,Mott,232646,55,WE,30,B,1
-TX,USACE,Mott,232646,56,WE,30,B,1
 TX,USACE,Mott,232646,72,WE,30,B,1
 TX,USACE,Mott,232646,75,WE,30,P,1
 TX,USACE,Mott,232646,76,WE,30,B,1
@@ -25006,6 +25001,8 @@ WA,NPS,Spring Canyon,234064,28,N,0,B,6
 WA,NPS,Spring Canyon,234064,30,N,0,B,1
 WA,NPS,Spring Canyon,234064,31,N,0,B,1
 WA,NPS,Spring Canyon,234064,35,N,0,B,1
+WA,FS,Stevens Pass Mountain Resort RV Lot,10406480,30,E,30,B,30
+WA,FS,Stevens Pass Mountain Resort RV Lot,10406480,40,E,30,B,27
 WA,FS,Sulphur Creek Campground,233863,15,N,0,B,1
 WA,FS,Sulphur Creek Campground,233863,18,N,0,B,3
 WA,FS,Sulphur Creek Campground,233863,20,N,0,B,8
@@ -25060,7 +25057,7 @@ WA,FS,The Dalles Campground,232033,26,N,0,B,2
 WA,FS,The Dalles Campground,232033,26,N,0,?,2
 WA,FS,The Dalles Campground,232033,27,N,0,?,1
 WA,FS,The Dalles Campground,232033,28,N,0,B,2
-WA,FS,The Dalles Campground,232033,30,N,0,B,5
+WA,FS,The Dalles Campground,232033,30,N,0,B,4
 WA,FS,The Dalles Campground,232033,32,N,0,?,1
 WA,FS,The Dalles Campground,232033,32,N,0,B,1
 WA,FS,The Dalles Campground,232033,34,N,0,B,1
@@ -25914,24 +25911,25 @@ WY,NPS,Gros Ventre Campground,247661,24,N,0,?,8
 WY,NPS,Gros Ventre Campground,247661,25,N,0,?,8
 WY,NPS,Gros Ventre Campground,247661,26,N,0,?,2
 WY,NPS,Gros Ventre Campground,247661,26,N,0,B,1
-WY,NPS,Gros Ventre Campground,247661,27,N,0,?,4
+WY,NPS,Gros Ventre Campground,247661,27,N,0,?,3
 WY,NPS,Gros Ventre Campground,247661,27,E,50,?,2
+WY,NPS,Gros Ventre Campground,247661,27,N,0,B,1
 WY,NPS,Gros Ventre Campground,247661,28,N,0,B,1
 WY,NPS,Gros Ventre Campground,247661,28,N,0,?,6
 WY,NPS,Gros Ventre Campground,247661,29,N,0,?,6
-WY,NPS,Gros Ventre Campground,247661,30,N,0,?,8
-WY,NPS,Gros Ventre Campground,247661,30,N,0,B,2
+WY,NPS,Gros Ventre Campground,247661,30,N,0,?,7
+WY,NPS,Gros Ventre Campground,247661,30,N,0,B,3
 WY,NPS,Gros Ventre Campground,247661,30,N,0,P,1
 WY,NPS,Gros Ventre Campground,247661,30,E,50,B,1
 WY,NPS,Gros Ventre Campground,247661,30,E,50,?,2
 WY,NPS,Gros Ventre Campground,247661,31,N,0,B,5
 WY,NPS,Gros Ventre Campground,247661,31,N,0,?,12
 WY,NPS,Gros Ventre Campground,247661,31,E,50,?,2
-WY,NPS,Gros Ventre Campground,247661,32,N,0,?,14
-WY,NPS,Gros Ventre Campground,247661,32,N,0,B,5
+WY,NPS,Gros Ventre Campground,247661,32,N,0,?,13
+WY,NPS,Gros Ventre Campground,247661,32,N,0,B,6
 WY,NPS,Gros Ventre Campground,247661,32,E,50,?,1
-WY,NPS,Gros Ventre Campground,247661,33,N,0,?,14
-WY,NPS,Gros Ventre Campground,247661,33,N,0,B,2
+WY,NPS,Gros Ventre Campground,247661,33,N,0,?,13
+WY,NPS,Gros Ventre Campground,247661,33,N,0,B,3
 WY,NPS,Gros Ventre Campground,247661,33,E,50,B,2
 WY,NPS,Gros Ventre Campground,247661,33,E,50,?,1
 WY,NPS,Gros Ventre Campground,247661,34,N,0,B,5
@@ -25956,9 +25954,8 @@ WY,NPS,Gros Ventre Campground,247661,40,E,50,?,1
 WY,NPS,Gros Ventre Campground,247661,41,N,0,B,2
 WY,NPS,Gros Ventre Campground,247661,41,N,0,?,1
 WY,NPS,Gros Ventre Campground,247661,41,E,50,?,1
-WY,NPS,Gros Ventre Campground,247661,42,N,0,B,1
+WY,NPS,Gros Ventre Campground,247661,42,N,0,B,2
 WY,NPS,Gros Ventre Campground,247661,42,E,50,B,1
-WY,NPS,Gros Ventre Campground,247661,42,N,0,?,1
 WY,NPS,Gros Ventre Campground,247661,44,E,50,?,2
 WY,NPS,Gros Ventre Campground,247661,45,E,50,?,2
 WY,NPS,Gros Ventre Campground,247661,47,E,50,?,1
